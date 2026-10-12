@@ -494,5 +494,29 @@
   "era": "清",
   "type": "笔记",
   "reliability_default": "anecdotal"
+ },
+ {
+  "id": "xzl",
+  "title": "国朝献征录",
+  "author": "焦竑",
+  "era": "明",
+  "type": "传记汇编（收明人所撰传、墓志、行状）",
+  "reliability_default": "primary"
+ },
+ {
+  "id": "nbxs",
+  "title": "南部新书",
+  "author": "钱易",
+  "era": "北宋",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "lpjw",
+  "title": "郎潜纪闻",
+  "author": "陈康祺",
+  "era": "清",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
  }
 ]

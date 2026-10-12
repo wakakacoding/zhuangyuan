@@ -112,13 +112,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷1 杜审言传",
+    "quote": "咸亨元年宋守节榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -177,13 +183,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷1 沈佺期传",
+    "quote": "上元二年郑益榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -384,7 +396,23 @@
    "仅见《全唐诗》诗人小传，正史未载“第一”；按规则最高 B"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "待考证",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "遇赦还，道病卒。",
+     "src": "jts",
+     "juan": "卷七十四",
+     "tier": "正史列传"
+    }
+   ],
+   "note": "旧唐书本传仅书道病卒，无年月",
+   "done": true
+  }
  },
  {
   "id": "tang-713-changwuming",
@@ -396,12 +424,18 @@
   "native": "河内温人",
   "wiki_life": "688年－744年",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷1 张子容传",
+    "quote": "开元元年常无名榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -419,12 +453,17 @@
    {
     "src": "tczz",
     "juan": "卷1",
-    "quote": "昂，开元二年王丘下状元及第。"
+    "quote": "昂"
    }
   ],
-  "bio": [],
+  "bio": [
+   {
+    "src": "tczz",
+    "juan": "卷1 李昂"
+   }
+  ],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "仅见《唐才子传》，正史未载“第一”；按规则最高 B"
   ],
@@ -526,12 +565,18 @@
   "native": "京兆万年人",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷1 祖咏传",
+    "quote": "开元十二年杜绾榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -545,13 +590,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷1 储光羲传",
+    "quote": "开元十四年严迪榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -565,12 +616,18 @@
   "native": "赵郡赞皇（今属河北）人",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷2 王昌龄传",
+    "quote": "开元十五年李嶷榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -624,12 +681,18 @@
   "native": "浙江信安人",
   "wiki_life": "700年－765年",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷2 刘长卿传",
+    "quote": "开元二十一年徐征榜及第"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -643,12 +706,18 @@
   "native": "顿丘人",
   "wiki_life": "694年－748年",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷2 阎防传",
+    "quote": "开元二十二年李琚榜及第"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -682,6 +751,23 @@
    "quote": "贾至，字幼邻，洛阳人",
    "tier": "总集小传（清编《全唐诗》）",
    "note": "全唐诗小传，清人所编，非唐代原始史料"
+  },
+  "life": {
+   "birth": "待考证",
+   "death": "大历初（推）",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "大历初，迁京兆尹，以散骑常侍卒。",
+     "src": "tczz",
+     "juan": "卷三",
+     "tier": "笔记",
+     "infer": "推：仅云大历初卒，确切年未详；维基作772，未采为定年"
+    }
+   ],
+   "note": "《唐才子传》又作天宝十年明经擢第，与名录开元二十三年状元说不合，生卒采笔记、身份仍C",
+   "done": true
   }
  },
  {
@@ -771,9 +857,34 @@
   "confidence": "C",
   "full": false,
   "pending": [
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "《唐才子传》卷二丘为条仅作“天宝初刘单榜进士”，年份不确，未升级"
   ],
-  "disputed": []
+  "disputed": [],
+  "life": {
+   "birth": "待考证",
+   "death": "待考证",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "初，引礼部郎中刘单；单卒，引吏部侍郎薛邕",
+     "src": "jts",
+     "juan": "卷一一八（元载/杨炎传）",
+     "tier": "正史列传",
+     "infer": "代宗朝元载当国时卒，确切年未详"
+    },
+    {
+     "field": "death",
+     "quote": "初得礼部侍郎刘单，会卒",
+     "src": "xts",
+     "juan": "卷一四五",
+     "tier": "正史列传"
+    }
+   ],
+   "note": "正史仅书“单卒/会卒”，无年月；状元身份仍为C",
+   "done": true
+  }
  },
  {
   "id": "tang-744-zhaoyue",
@@ -825,13 +936,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷3 包佶传",
+    "quote": "天宝六年杨护榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -845,13 +962,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷3 包何传",
+    "quote": "天宝七年杨誉榜及第"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -865,13 +988,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷4 钱起传",
+    "quote": "天宝十年李巨卿榜及第"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -885,13 +1014,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷3 鲍防传",
+    "quote": "天宝十二年杨儇榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -953,13 +1088,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷3 皇甫冉传",
+    "quote": "天宝十五年卢庚榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -979,7 +1120,8 @@
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "唐才子传卷三古之奇条作“礼部侍郎洪源下及第”，洪源为知贡举而非状元，与卷四“洪源榜”矛盾"
   ],
   "disputed": []
  },
@@ -993,13 +1135,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷3 苏涣传",
+    "quote": "广德二年杨栖梧榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -1030,7 +1178,30 @@
    "人工复核：《旧唐书》卷一百七十九《萧遘传》的传主于咸通五年（864）登进士第，与名录所记永泰元年（765）状元萧遘年代不合，可能是同名异人或名录有误。",
    "已定：史籍所见萧遘为咸通五年（864）进士（《旧唐书》179、《唐诗纪事》59 与韦保衡同年），永泰元年（765）状元萧遘无任何出处，降为 R（2026-10-13 核定）"
   ],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "887",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "太子少师致仕萧遘赐死于永乐县。",
+     "src": "jts",
+     "juan": "卷十九下 僖宗纪 光启三年三月",
+     "tier": "正史本纪"
+    },
+    {
+     "field": "death",
+     "quote": "僖宗再迁京，宰相孔纬与遘不协，以其受伪命，奏贬官。寻赐死于永乐。",
+     "src": "jts",
+     "juan": "卷一七九",
+     "tier": "正史列传"
+    }
+   ],
+   "note": "旧唐书本纪光启三年三月与列传「寻赐死于永乐」互证",
+   "done": true
+  }
  },
  {
   "id": "tang-769-qiying",
@@ -1090,13 +1261,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷4 章八元传",
+    "quote": "大历六年王溆榜第三人进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -1110,13 +1287,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷4 畅当传",
+    "quote": "大历七年张式榜及第"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -1172,21 +1355,35 @@
   "id": "tang-777-dingze",
   "name": "丁泽",
   "dynasty": "唐",
-  "year": 777,
-  "era": "大历十二年丁巳科",
+  "year": 775,
+  "era": "大历十年",
   "bang": null,
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷4 王建传",
+    "quote": "大历十年丁泽榜第二人及第"
+   },
+   {
+    "src": "qts",
+    "juan": "卷281 丁泽小传",
+    "quote": "丁泽，大历十年试东都第一"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：唐才子传“某榜”与全唐诗小传“试东都第一”（东都榜），均非正史"
   ],
-  "disputed": []
+  "disputed": [
+   "年份改订：维基名录作777年（year_orig）；《唐才子传》卷4王建条“大历十年丁泽榜”、《全唐诗》卷281小传“大历十年试东都第一”两种史源均指775年，据改。id 保留旧值以免链接失效"
+  ],
+  "year_orig": 777
  },
  {
   "id": "tang-778-yangning",
@@ -1232,13 +1429,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷4 窦常传",
+    "quote": "大历十四年王储榜及第"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -1279,24 +1482,59 @@
     "quote": "进士擢第，登博学宏词制科，又应贤良方正、直言极谏科，三举皆升甲第。",
     "grade": "A",
     "note": "“三举皆升甲第”指进士、宏词、制科三科，并非“三元”"
+   },
+   {
+    "src": "nbxs",
+    "juan": "丙卷",
+    "quote": "崔元翰晚年取应，咸为首捷：京兆解头，礼部状头，宏词敕头，制科三等敕头。"
    }
   ],
   "bio": [
    {
-    "src": "tzy",
-    "juan": "9"
+    "src": "jts",
+    "juan": "137"
+   },
+   {
+    "src": "xts",
+    "juan": "203"
    }
   ],
-  "confidence": "C",
-  "full": false,
+  "confidence": "B",
+  "full": true,
   "pending": [
    "状元身份（笔记只言及第）",
-   "维基列表称“三元及第”。旧唐书137只说进士、宏词、制科“三举皆升甲第”，与解元、会元、状元意义上的三元不同，待考证"
+   "维基列表称“三元及第”。旧唐书137只说进士、宏词、制科“三举皆升甲第”，与解元、会元、状元意义上的三元不同，待考证",
+   "未约纪年：《南部新书》（笔记）明言状元/状头，但未记年份，年份仍据名录"
   ],
   "disputed": [
-   "人工复核：《唐摭言》卷九只说“是岁二崔俱捷”，没有说崔元翰是状元；他也没有正史本传。"
+   "人工复核：《唐摭言》卷九只说“是岁二崔俱捷”，没有说崔元翰是状元；他也没有正史本传。",
+   "同卡：崔元翰两唐书有传，进士擢第事明确，与《南部新书》所记同人"
   ],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "约732（推）",
+   "death": "待考证",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "birth",
+     "quote": "崔元翰举进士，年五十矣，邵以其文擢异等",
+     "src": "xts",
+     "juan": "卷二百三 文艺下（于邵传）",
+     "tier": "正史列传",
+     "infer": "推：按本站登第年 781、虚岁五十推得；维基作 729，不合，待考证"
+    },
+    {
+     "field": "birth",
+     "quote": "崔元翰名鹏以字行举进士年五十矣",
+     "src": "tsjs",
+     "juan": "卷三十五",
+     "tier": "诗话"
+    }
+   ],
+   "note": "",
+   "done": true
+  }
  },
  {
   "id": "tang-782-liangsu",
@@ -1315,7 +1553,23 @@
   "pending": [
    "状元身份（仅见于维基列表，未见正史佐证）"
   ],
-  "disputed": []
+  "disputed": [],
+  "life": {
+   "birth": "待考证",
+   "death": "待考证",
+   "age": "41",
+   "cites": [
+    {
+     "field": "age",
+     "quote": "卒，年四十一，赠礼部郎中。",
+     "src": "xts",
+     "juan": "卷二〇二（苏源明附梁肃）",
+     "tier": "正史列传"
+    }
+   ],
+   "note": "新唐书附传有享年无卒年；名录状元身份仍C（本传作建中初中文辞清丽科）",
+   "done": true
+  }
  },
  {
   "id": "tang-783-xuezhan",
@@ -1327,13 +1581,19 @@
   "native": "",
   "wiki_life": "？—798年",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷4 武元衡传",
+    "quote": "建中四年薛展榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -1347,13 +1607,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷5 麹信陵传",
+    "quote": "贞元元年郑全济榜及第"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -1411,13 +1677,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷5 马逢传",
+    "quote": "贞元五年卢顼榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -1457,13 +1729,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷5 王涯传",
+    "quote": "贞元八年贾棱榜及第"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -1477,13 +1755,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷5 柳宗元传",
+    "quote": "贞元九年苑论榜第进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -1571,13 +1855,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷5 张仲素传",
+    "quote": "贞元十四年李随榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -1617,13 +1907,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷5 戴叔伦传",
+    "quote": "贞元十六年陈权榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -1707,22 +2003,45 @@
   "native": "",
   "wiki_life": "？－838年",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷4 窦巩传",
+    "quote": "元和二年王源中榜进士"
+   }
+  ],
   "bio": [
    {
     "src": "tzy",
     "juan": "15"
    }
   ],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
-   "状元身份（无正史本传，笔记亦未言）"
+   "状元身份（无正史本传，笔记亦未言）",
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": [
    "人工复核：《唐摭言》卷十五只记王源中在文宗时任翰林承旨学士及蹴鞠之事，没有说他是状元；他也没有正史本传。"
   ],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "838",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "乙丑，天平军节度使王源中卒。",
+     "src": "jts",
+     "juan": "卷十七下 文宗纪下 开成三年",
+     "tier": "正史本纪"
+    }
+   ],
+   "note": "本纪仅书官名姓名；与状元王源中为同一人系据官历推定（同名风险低，仍请留意）",
+   "done": true
+  }
  },
  {
   "id": "tang-808-zhengsu",
@@ -1763,13 +2082,19 @@
   "native": "京兆万年人（今陕西西安）",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷6 鲍溶传",
+    "quote": "元和四年韦瓘榜第进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": [],
   "native_wiki": "",
@@ -1902,7 +2227,7 @@
    {
     "src": "tczz",
     "juan": "卷6",
-    "quote": "初应宏辞第一，又为京兆解头。元和九年礼部侍郎韦贯之下状元及第，时号为『张三头』。",
+    "quote": "初应宏辞第一",
     "grade": "B",
     "note": "小传，B；唐代“三头”为解头、状头、宏词敕头，与宋明乡会殿三元含义不同"
    }
@@ -1978,13 +2303,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷6 李廓传",
+    "quote": "元和十三年独孤樟榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -2084,13 +2415,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷6 袁不约传",
+    "quote": "长庆三年郑冠榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -2189,13 +2526,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷6 杜牧传",
+    "quote": "大和二年韦筹榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -2248,13 +2591,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷7 李远传",
+    "quote": "大和五年杜陟榜进士及第"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -2268,13 +2617,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷7 许浑传",
+    "quote": "大和六年李珪榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -2308,13 +2663,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷7 雍陶传",
+    "quote": "大和八年陈宽榜进士及第"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -2328,13 +2689,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷7 贾驰传",
+    "quote": "大和九年郑确榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -2466,13 +2833,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷7 薛逢传",
+    "quote": "会昌元年"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -2547,13 +2920,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷7 赵嘏传",
+    "quote": "会昌四年郑言榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -2567,16 +2946,28 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷7 孟迟传",
+    "quote": "会昌五年易重榜进士"
+   },
+   {
+    "src": "tsjs",
+    "juan": "卷五十二",
+    "quote": "会昌五年陈商下进士张𣸣第一重次之后诏白敏中重考覆落𣸣等八人而重居牓首"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": [
-   "会昌五年张濆为原榜状元：《唐摭言》卷11“陈商下状元及第，翰林覆落濆等八人”；《唐诗纪事》卷56“会昌五年陈商下第一人，翰林覆考黜之”；《全唐诗》卷550 赵嘏有《赠张濆榜头被驳落》。张濆被驳落后，本科第一归属未见史文，易重之说无出处可核，仍为 C"
+   "会昌五年张濆为原榜状元：《唐摭言》卷11“陈商下状元及第，翰林覆落濆等八人”；《唐诗纪事》卷56“会昌五年陈商下第一人，翰林覆考黜之”；《全唐诗》卷550 赵嘏有《赠张濆榜头被驳落》。张濆被驳落后，本科第一归属未见史文，易重之说无出处可核，仍为 C",
+   "《唐诗纪事》卷52：初榜张𣸣第一，易重次之，覆试黜落张𣸣等八人后易重“居牓首”；系覆试递补，仅诗话一源，暂列B"
   ]
  },
  {
@@ -2589,13 +2980,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷7 薛能传",
+    "quote": "会昌六年狄慎思榜登第"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -2669,13 +3066,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷7 曹邺传",
+    "quote": "大中四年张温琪榜中第"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -2689,13 +3092,19 @@
   "native": "",
   "wiki_life": "开元礼科",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷7 郑嵎传",
+    "quote": "大中五年李郜榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -2709,15 +3118,23 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "官拜湖州牧",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "nbxs",
+    "juan": "己卷",
+    "quote": "时湖州牧李超、赵蒙相次俱状元。二郡境土相接，时为语曰：「湖接两头，苏联三尾。」"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "未约纪年：《南部新书》（笔记）明言状元/状头，但未记年份，年份仍据名录"
   ],
-  "disputed": []
+  "disputed": [
+   "同卡：名录本条注“官拜湖州牧”，与《南部新书》“湖州牧李超”合；本站名录中唯一的状元李超"
+  ]
  },
  {
   "id": "tang-853-yuxiang",
@@ -2763,7 +3180,7 @@
    {
     "src": "tczz",
     "juan": "卷7",
-    "quote": "（李频）大中八年，颜标榜擢进士。"
+    "quote": "（李频）大中八年"
    }
   ],
   "bio": [
@@ -2792,14 +3209,22 @@
   "native": "奉天（今陕西乾县）人",
   "wiki_life": "",
   "wiki_note": "官拜岭南节度使",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "nbxs",
+    "juan": "己卷",
+    "quote": "时湖州牧李超、赵蒙相次俱状元。二郡境土相接，时为语曰：「湖接两头，苏联三尾。」"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "未约纪年：《南部新书》（笔记）明言状元/状头，但未记年份，年份仍据名录"
   ],
-  "disputed": []
+  "disputed": [
+   "同卡：《南部新书》以李超、赵蒙“相次”任湖州牧且俱为状元，本站名录唯一状元赵蒙（855）年在李超（852）之后，相合；名录另记其官岭南节度使，与湖州任不矛盾"
+  ]
  },
  {
   "id": "tang-856-cuixing",
@@ -2811,13 +3236,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷8 李郢传",
+    "quote": "大中十年崔铏榜进士及第"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -2895,13 +3326,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷8 于𣸣传",
+    "quote": "咸通二年裴延鲁榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -3038,13 +3475,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷8 司空图传",
+    "quote": "咸通十年归仁绍榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -3058,13 +3501,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷9 许棠传",
+    "quote": "咸通十二年李筠榜进士及第"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -3078,15 +3527,37 @@
   "native": "",
   "wiki_life": "？－887年",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷8 周繇传",
+    "quote": "咸通十三年郑昌图榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
-  "disputed": []
+  "disputed": [],
+  "life": {
+   "birth": "待考证",
+   "death": "887",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "河中械送伪宰相裴彻、郑昌图，命斩之于岐山县。",
+     "src": "jts",
+     "juan": "卷十九下 僖宗纪 光启三年三月",
+     "tier": "正史本纪"
+    }
+   ],
+   "note": "旧唐书本纪光启三年三月",
+   "done": true
+  }
  },
  {
   "id": "tang-873-kongxun",
@@ -3474,7 +3945,24 @@
    "籍贯",
    "状元身份（正史检索命中，未人工通读）"
   ],
-  "disputed": []
+  "disputed": [],
+  "life": {
+   "birth": "待考证",
+   "death": "892（推）",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "归黯亲迎拜席日，状元及第，牓下版巡脱白，期月无疾而卒。",
+     "src": "tzy",
+     "juan": "卷八",
+     "tier": "笔记",
+     "infer": "推：及第后“期月”而卒，据本站状元年 892 推为当年或次年"
+    }
+   ],
+   "note": "",
+   "done": true
+  }
  },
  {
   "id": "tang-893-cuijiao",
@@ -3486,13 +3974,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷10 张鼎传",
+    "quote": "景福二年崔胶榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -3506,15 +4000,37 @@
   "native": "",
   "wiki_life": "?－903年",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷10 韦庄传",
+    "quote": "干宁元年苏检榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
-  "disputed": []
+  "disputed": [],
+  "life": {
+   "birth": "待考证",
+   "death": "903",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "朱全忠杀苏检、吏部侍郎卢光启。",
+     "src": "xts",
+     "juan": "卷十 昭宗纪 天复三年二月",
+     "tier": "正史本纪"
+    }
+   ],
+   "note": "新唐书本纪天复三年二月",
+   "done": true
+  }
  },
  {
   "id": "tang-895-zhaoguanwen",
@@ -3605,13 +4121,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷10 王毂传",
+    "quote": "干宁五年羊绍素榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -3658,13 +4180,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "tczz",
+    "juan": "卷10 卢延让传",
+    "quote": "光化三年裴格榜进士"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
   ],
   "disputed": []
  },
@@ -3722,7 +4250,7 @@
    {
     "src": "tczz",
     "juan": "卷10",
-    "quote": "说，工诗，得盛名。天祐三年礼部侍郎薛廷珪下状元及第。"
+    "quote": "说"
    }
   ],
   "bio": [
@@ -4428,12 +4956,19 @@
   "native": "",
   "wiki_life": "",
   "wiki_note": "南唐末代状元",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "xzztcb",
+    "juan": "卷十六 开宝八年",
+    "quote": "是月，江南知贡举、户部员外郎伍乔放进士张确等三十人。"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
-   "状元身份（待考证）"
+   "状元身份（待考证）",
+   "状元身份：长编记南唐“放进士张确等”，未明言第一"
   ],
   "disputed": [
    "人工复核：《宋史》卷四百四十六《张确传》的传主是元祐年间进士、靖康时战死的守臣，不是名录中开宝八年（975）的南唐状元张确。"
@@ -4865,13 +5400,38 @@
   "confidence": "R",
   "full": false,
   "pending": [
-   "疑与 985 年梁颢条重复"
+   "疑与 985 年梁颢条重复",
+   "待考：卡上所引《文献通考》卷32 实记开宝七年停贡举、雍熙二年（985）状元梁颢，所支持的是 985 梁灏条；974 年此条是否名录重出，待考证"
   ],
   "disputed": [
    "人工复核：《宋史》卷二百九十六《梁颢传》的传主是郓州须城人，雍熙二年（985）赐甲科，即名录中的“梁灏”，并非此条开宝七年（974）的南唐润州梁颢；南唐梁颢未见正史传，“八十二岁中状元”之说亦无正史依据。",
    "《文献通考》卷32 载开宝七年停贡举，梁颢状元在雍熙二年（985，本站另有 bsong-985-lianghao 条）；此条疑为名录重出或年份误，降为 R"
   ],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "1004（推）",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "前知府梁颢已卒",
+     "src": "xzztcb",
+     "juan": "卷五十七 景德元年闰九月",
+     "tier": "编年史",
+     "infer": "推：长编记事在景德元年闰九月，书“已卒”，故卒不晚于1004；宋史287亦云景德初寻颢卒"
+    },
+    {
+     "field": "death",
+     "quote": "景德初，翰林学士梁颢召对……寻颢卒",
+     "src": "ss",
+     "juan": "卷二八七",
+     "tier": "正史列传"
+    }
+   ],
+   "note": "与985梁灏条是否同人仍存疑（见审计）；本条按名录974梁颢卡片补生卒界限",
+   "done": true
+  }
  },
  {
   "id": "bsong-975-wangsizong",
@@ -5082,6 +5642,22 @@
    "quote": "程宿，衢州人，此据登科记",
    "tier": "编年史（《续资治通鉴长编》）",
    "note": "李焘注，据《登科记》"
+  },
+  "life": {
+   "birth": "待考证",
+   "death": "早卒（年未详）",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "程宿早卒，有弟无所依，宗谔为表请于朝而官之。",
+     "src": "ss",
+     "juan": "卷二六五（杨亿传附见）",
+     "tier": "正史列传"
+    }
+   ],
+   "note": "仅见“早卒”，无确切年份；维基作1000，未采",
+   "done": true
   }
  },
  {
@@ -7124,7 +7700,23 @@
   "full": false,
   "pending": [],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "1226",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "辛亥，卫泾薨。",
+     "src": "ss",
+     "juan": "卷四十一 理宗纪一 宝庆二年八月",
+     "tier": "正史本纪"
+    }
+   ],
+   "note": "",
+   "done": true
+  }
  },
  {
   "id": "nsong-1187-wangrong",
@@ -8157,7 +8749,23 @@
    "本科仅放一人，非“第一”明文"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "1022",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "五月乙亥，参知政事石用中薨。",
+     "src": "lsh",
+     "juan": "卷十六 圣宗纪七 太平二年",
+     "tier": "正史本纪"
+    }
+   ],
+   "note": "本纪仅书官名，同人推定",
+   "done": true
+  }
  },
  {
   "id": "liao-993-wangxizai",
@@ -8209,7 +8817,23 @@
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "1031",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "冬十月戊寅，宰臣吕德懋薨。",
+     "src": "lsh",
+     "juan": "卷十八 兴宗纪一 景福元年",
+     "tier": "正史本纪"
+    }
+   ],
+   "note": "",
+   "done": true
+  }
  },
  {
   "id": "liao-995-wangyongji",
@@ -8801,7 +9425,8 @@
   "full": false,
   "pending": [
    "状元身份（仅见于维基列表，未见正史佐证）",
-   "《辽史》卷16太平九年上下文放进士首名为「张仲举」，与名录「张仁纪」不合，未改名、未升级"
+   "《辽史》卷16太平九年上下文放进士首名为「张仲举」，与名录「张仁纪」不合，未改名、未升级",
+   "《辽史》本纪太平九年未见放进士记载（卷17 太平八年“放进士张宥等五十七人”），待考证"
   ],
   "disputed": []
  },
@@ -8980,7 +9605,8 @@
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "《辽史》本纪重熙十九年未见放进士记载（卷20“御金銮殿试进士”在重熙二十四年），待考证"
   ],
   "disputed": []
  },
@@ -9139,7 +9765,8 @@
   "confidence": "C",
   "full": false,
   "pending": [
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "《辽史》卷23 咸雍十年“六月戊辰，亲出题试进士”，证是年有御试，但未载首名，状元身份仍待考证"
   ],
   "disputed": []
  },
@@ -9991,9 +10618,14 @@
     "quote": "是岁，宗献府试、省试、廷试皆第一，号“孟四元”。"
    }
   ],
-  "bio": [],
+  "bio": [
+   {
+    "src": "zzj",
+    "juan": "卷九 孟内翰宗献"
+   }
+  ],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true
@@ -10377,12 +11009,23 @@
   "native": "真定（今河北正定县）",
   "wiki_life": "?-1220年",
   "wiki_note": "",
-  "evidence": [],
-  "bio": [],
-  "confidence": "C",
-  "full": false,
+  "evidence": [
+   {
+    "src": "zzj",
+    "juan": "卷九",
+    "quote": "承安二年经义第一人"
+   }
+  ],
+  "bio": [
+   {
+    "src": "zzj",
+    "juan": "卷九 李治中著"
+   }
+  ],
+  "confidence": "B",
+  "full": true,
   "pending": [
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "仅见《中州集》小传，正史未载；按规则最高 B"
   ],
   "disputed": []
  },
@@ -10422,18 +11065,47 @@
   "year": 1200,
   "era": "承安五年",
   "bang": null,
-  "native": "",
+  "native": "济南长清（中州集）",
   "wiki_life": "",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "zzj",
+    "juan": "卷九",
+    "quote": "长言字子秀，济南长清人……平生多奇梦，果魁天下，士论厌服。在翰苑十年，出为河南府治中，被召以道梗不得前，卒于亳州。"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
-  "full": false,
+  "confidence": "B",
+  "full": true,
   "pending": [
    "籍贯",
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "生卒确切年份（《中州集》未载）"
   ],
-  "disputed": []
+  "disputed": [],
+  "life": {
+   "birth": "待考证",
+   "death": "待考证",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "出为河南府治中，被召以道梗不得前，卒于亳州。",
+     "src": "zzj",
+     "juan": "卷九 阎治中长言",
+     "tier": "总集小传"
+    }
+   ],
+   "note": "《中州集》仅记卒于亳州，未书年月；本名咏，避卫绍王讳改长言",
+   "done": true
+  },
+  "native_wiki": "",
+  "native_src": {
+   "quote": "长言字子秀，济南长清人，客居兖州之嵫阳。",
+   "src": "zzj",
+   "juan": "卷九",
+   "tier": "总集小传（笔记级）"
+  }
  },
  {
   "id": "lijunmin",
@@ -10709,7 +11381,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "仅见《归潜志》笔记（明言“词赋魁”），按笔记来源定为 B"
   ],
@@ -10727,6 +11399,22 @@
    "quote": "刘遇鼎臣，真定人，兴定五年词赋魁也",
    "tier": "笔记（金末刘祁《归潜志》）",
    "note": ""
+  },
+  "life": {
+   "birth": "待考证",
+   "death": "待考证",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "后出为鄜州帅府经历官，遇害。",
+     "src": "gqz",
+     "juan": "卷五",
+     "tier": "笔记"
+    }
+   ],
+   "note": "《归潜志》记遇害，未书确切年月；兴定五年词赋魁",
+   "done": true
   }
  },
  {
@@ -11853,8 +12541,14 @@
   "evidence": [
    {
     "src": "ys",
-    "juan": "201",
-    "quote": "岂惜一死以辱家国乎！」遂自缢而死。  时张栋妻王氏语家人曰：「吾为状元妻，义不可辱。」赴井死。其姑哭之恸，亦赴井死。  安志道妻刘氏，顺州人。志"
+    "juan": "47 顺帝纪十 至正二十六年三月",
+    "quote": "乙未，廷试进士七十二人，赐赫德溥化、张栋进士及第，余出身有差。"
+   },
+   {
+    "src": "ys",
+    "juan": "201 列女传二",
+    "quote": "时张栋妻王氏语家人曰：「吾为状元妻，义不可辱。」赴井死。",
+    "role": "旁证"
    }
   ],
   "bio": [],
@@ -11862,9 +12556,11 @@
   "full": false,
   "pending": [
    "籍贯",
-   "状元身份（正史检索命中，未人工通读）"
+   "本纪/选举志仅记两榜首名并列，未明言第一（列女传“状元妻”为旁证，同一人系推定）"
   ],
-  "disputed": []
+  "disputed": [
+   "旁证：列女传“张栋妻”自称“状元妻”，与左榜张栋同一人系推定，按陈祖仁、彭启丰口径不升A"
+  ]
  },
  {
   "id": "ming-1371-wubozong",
@@ -12140,9 +12836,14 @@
     "quote": "　　三月乙巳，赐曾棨等进士及第、出身有差。"
    }
   ],
-  "bio": [],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之十八 曾襄敏公棨传（袁袠）"
+   }
+  ],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
@@ -12168,14 +12869,36 @@
     "quote": "乙巳，赐林环等进士及第、出身有差。"
    }
   ],
-  "bio": [],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之二十 侍讲林公环传"
+   }
+  ],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "1376（推）",
+   "death": "1415",
+   "age": "40",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "永乐四年廷对第一授翰林修撰……十三年扈从巡幸卒于北京年四十",
+     "src": "xzl",
+     "juan": "卷二十 侍讲林公环传",
+     "tier": "碑传（献征录所收）",
+     "infer": "生年推：1415 卒、年四十（虚岁）"
+    }
+   ],
+   "note": "",
+   "done": true
+  }
  },
  {
   "id": "ming-1411-xiaoshizhong",
@@ -12330,16 +13053,37 @@
     "quote": "　　三月辛巳，赐曾鹤龄等进士及第、出身有差。"
    }
   ],
-  "bio": [],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之二十 翰林院侍讲学士奉训大夫泰和曾公鹤龄□状（刘球）"
+   }
+  ],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
   "disputed": [
    "维基列表备注：原取刘矩，但因明成祖朱棣梦见鹤翼而取曾鹤龄为第一"
   ],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "待考证",
+   "age": "59",
+   "cites": [
+    {
+     "field": "age",
+     "quote": "退而得疾未半昼没馆阁中大?之恸历春秋五十九",
+     "src": "xzl",
+     "juan": "卷二十 翰林院侍讲学士奉训大夫泰和曾公鹤龄□状（刘球）",
+     "tier": "碑传（献征录所收）"
+    }
+   ],
+   "note": "传文叙至正统戊午（1438）后，卒年未明书（维基作 1441）",
+   "done": true
+  }
  },
  {
   "id": "ming-1424-xingkuan",
@@ -12475,9 +13219,14 @@
     "quote": "　　三月己巳，赐周旋等进士及第、出身有差。"
    }
   ],
-  "bio": [],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之十九 左春坊左庶子兼翰林侍讲周君旋墓表（萧镃）"
+   }
+  ],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
@@ -12495,6 +13244,30 @@
    "quote": "正统丙辰状元周旋，温州永嘉人",
    "tier": "笔记",
    "note": "笔记，非正史"
+  },
+  "life": {
+   "birth": "1397（推）",
+   "death": "1454",
+   "age": "58",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "景泰甲戌正月二日夙兴方盥栉造朝忽得疾寻卒",
+     "src": "xzl",
+     "juan": "卷十九 左春坊左庶子兼翰林侍讲周君旋墓表（萧镃）",
+     "tier": "碑传（献征录所收）"
+    },
+    {
+     "field": "age",
+     "quote": "卒时年五十有八",
+     "src": "xzl",
+     "juan": "卷十九 同上",
+     "tier": "碑传（献征录所收）",
+     "infer": "生年推（虚岁）；维基作 1395，不合"
+    }
+   ],
+   "note": "",
+   "done": true
   }
  },
  {
@@ -12664,16 +13437,37 @@
     "quote": "　　三月壬子，赐孙贤等进士及第、出身有差。"
    }
   ],
-  "bio": [],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之二十 翰林院学士孙公贤传略（朱睦㮮）"
+   }
+  ],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
   "disputed": [
    "维基列表备注：原取士丘濬，因其貌不扬而改取孙贤"
   ],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "待考证",
+   "age": "54",
+   "cites": [
+    {
+     "field": "age",
+     "quote": "归六年卒年五十四赠礼部左侍郎兼翰林学士谥襄敏",
+     "src": "xzl",
+     "juan": "卷二十 翰林院学士孙公贤传略（朱睦㮮）",
+     "tier": "碑传（献征录所收）"
+    }
+   ],
+   "note": "致仕之年传文未明书，卒年未补（维基作 1477）",
+   "done": true
+  }
  },
  {
   "id": "ming-1457-lichun",
@@ -12746,14 +13540,36 @@
     "quote": "庚午，赐彭教等进士及第、出身有差。"
    }
   ],
-  "bio": [],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之二十 翰林侍讲彭公教墓志铭（彭华）"
+   }
+  ],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "1438（推）",
+   "death": "1480",
+   "age": "43",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "廼仅四十有三而没……遂不起成化庚子七月",
+     "src": "xzl",
+     "juan": "卷二十 翰林侍讲彭公教墓志铭（彭华）",
+     "tier": "碑传（献征录所收）",
+     "infer": "生年推（虚岁）"
+    }
+   ],
+   "note": "",
+   "done": true
+  }
  },
  {
   "id": "luolun",
@@ -12969,12 +13785,33 @@
     "quote": "及拆卷，王华、李旻也，后果相继为状元。"
    }
   ],
-  "bio": [],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之二十七 南京吏部左侍郎李公旻传"
+   }
+  ],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "1509",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "己巳升左侍郎正德四年四月卒赐祭葬如例",
+     "src": "xzl",
+     "juan": "卷二十七 南京吏部左侍郎李公旻传",
+     "tier": "碑传（献征录所收）"
+    }
+   ],
+   "note": "",
+   "done": true
+  }
  },
  {
   "id": "feihong",
@@ -13113,9 +13950,14 @@
     "quote": "十二年……三月丁丑，赐伦文叙等进士及第、出身有差。"
    }
   ],
-  "bio": [],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之十九 右春坊右谕德伦公文叙传（黄佐）"
+   }
+  ],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等”，未明言第一",
    "本纪作“伦文叙”（四库本作“敘”）"
@@ -13123,7 +13965,24 @@
   "disputed": [
    "维基列表备注：原取丰熙，因丰脚跛而改取伦文叙"
   ],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "1467（推）",
+   "death": "1513",
+   "age": "47",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "癸酉春进修王牒……是秋被命主考应天府比还得病卒于京师年四十有七",
+     "src": "xzl",
+     "juan": "卷十九 右春坊右谕德伦公文叙传（黄佐）",
+     "tier": "碑传（献征录所收）",
+     "infer": "生年推（虚岁）"
+    }
+   ],
+   "note": "",
+   "done": true
+  }
  },
  {
   "id": "kanghai",
@@ -13342,14 +14201,36 @@
     "quote": "戊午，赐姚涞等进士及第、出身有差。"
    }
   ],
-  "bio": [],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之二十 学士姚明山先生涞墓志铭（赵时春）"
+   }
+  ],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "待考证",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "丁酉主北畿试……某岁丁尚书忧特赐驰驿归葬，孝勚备至，遂感疾卒",
+     "src": "xzl",
+     "juan": "卷二十 学士姚明山先生涞墓志铭（赵时春）",
+     "tier": "碑传（献征录所收）",
+     "infer": "丁酉为嘉靖十六年（1537）；“某岁”丁忧后卒，确切年未明书（维基作1537，未迳采）"
+    }
+   ],
+   "note": "墓志有卒事无确切干支年",
+   "done": true
+  }
  },
  {
   "id": "ming-1526-gongyongqing",
@@ -13368,14 +14249,35 @@
     "quote": "　　三月辛丑，赐龚用卿等进士及第、出身有差。"
    }
   ],
-  "bio": [],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之七十四 朝列大夫南京国子监祭酒龚公用卿墓志（林庭机）"
+   }
+  ],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "待考证",
+   "age": "64",
+   "cites": [
+    {
+     "field": "age",
+     "quote": "己未倭夷寇吾福避居建安者久之未几以微疾终年六十四",
+     "src": "xzl",
+     "juan": "卷七十四 朝列大夫南京国子监祭酒龚公用卿墓志（林庭机）",
+     "tier": "碑传（献征录所收）"
+    }
+   ],
+   "note": "卒在嘉靖己未（1559）之后“未几”，具体年未明书（维基作 1563）",
+   "done": true
+  }
  },
  {
   "id": "ming-1529-luohongxian",
@@ -13482,9 +14384,14 @@
     "quote": "　　三月壬辰，赐茅瓒等进士及第、出身有差。"
    }
   ],
-  "bio": [],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之二十六 吏部左侍郎茅公瓒墓志铭（诸大绶）"
+   }
+  ],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
@@ -13537,16 +14444,38 @@
     "quote": "丁巳，赐秦鸣雷等进士及第、出身有差。"
    }
   ],
-  "bio": [],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之三十六 资善大夫南京礼部尚书秦公鸣雷行状（张凤翼）"
+   }
+  ],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
   "disputed": [
    "维基列表备注：原取吴情，但其名不为明世宗朱厚熜所喜，且因明世宗梦见雷声，遂改取秦鸣雷"
   ],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "1518",
+   "death": "1593",
+   "age": "76（推）",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "卒于万历癸巳之七月七日距其生戊寅二月二日享年七十有",
+     "src": "xzl",
+     "juan": "卷三十六 资善大夫南京礼部尚书秦公鸣雷行状（张凤翼）",
+     "tier": "碑传（献征录所收）",
+     "infer": "享年数字本地文本残缺，按生卒推为七十六"
+    }
+   ],
+   "note": "",
+   "done": true
+  }
  },
  {
   "id": "ming-1547-lichunfang",
@@ -13621,9 +14550,14 @@
     "quote": "甲午，赐陈谨等进士及第、出身有差。"
    }
   ],
-  "bio": [],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之十九 明故右春坊右中允兼翰林院编修陈君谨墓志铭（徐阶）"
+   }
+  ],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
@@ -13641,6 +14575,22 @@
    "quote": "状元为陈谨，福建闽县人",
    "tier": "笔记",
    "note": "笔记，非正史"
+  },
+  "life": {
+   "birth": "1525",
+   "death": "1566",
+   "age": "41",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "君生嘉靖乙酉闰十二月十二日卒丙寅三月十日年仅四十一",
+     "src": "xzl",
+     "juan": "卷十九 明故右春坊右中允兼翰林院编修陈君谨墓志铭（徐阶）",
+     "tier": "碑传（献征录所收）"
+    }
+   ],
+   "note": "生于嘉靖四年闰十二月，折合公历已入 1526 年初",
+   "done": true
   }
  },
  {
@@ -13660,14 +14610,43 @@
     "quote": "　　三月丁丑，赐诸大绶等进士及第、出身有差。"
    }
   ],
-  "bio": [],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之二十六 吏部右侍郎兼翰林院侍读学士赠礼部尚书山阴诸公大绶行状（张元忭）"
+   }
+  ],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "1523（推）",
+   "death": "1573",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "今上改元万历癸酉之春正月十有三日吏部右侍郎兼侍读学士诸公卒于京邸",
+     "src": "xzl",
+     "juan": "卷二十六 吏部右侍郎兼翰林院侍读学士赠礼部尚书山阴诸公大绶行状（张元忭）",
+     "tier": "碑传（献征录所收）"
+    },
+    {
+     "field": "birth",
+     "quote": "又明年癸卯领乡荐及御史舒公数睨之问年几何曰二十有一",
+     "src": "xzl",
+     "juan": "卷二十六 同上",
+     "tier": "碑传（献征录所收）",
+     "infer": "推：癸卯（1543）年二十一（虚岁）"
+    }
+   ],
+   "note": "",
+   "done": true
+  }
  },
  {
   "id": "ming-1559-dingshimei",
@@ -15195,7 +16174,24 @@
   "full": false,
   "pending": [],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "待考证",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "康熙丁丑状元李蟠，以科场事流徙",
+     "src": "lpjw",
+     "juan": "初笔卷十三",
+     "tier": "笔记",
+     "infer": "流徙非卒年；卒年仍待考证。同条记探花姜宸英卒于请室，可参看时事"
+    }
+   ],
+   "note": "笔记仅记流徙，未书卒年",
+   "done": true
+  }
  },
  {
   "id": "qing-1700-wangyi",
@@ -15260,7 +16256,24 @@
    "本纪仅记“赐某等进士及第出身有差”，未明言第一"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "1645（待核）",
+   "death": "待考证",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "康熙癸未状元王式丹，以江南科场事牵涉，卒于非所",
+     "src": "lpjw",
+     "juan": "初笔卷十三",
+     "tier": "笔记",
+     "infer": "卒年未明书；维基作1718，未采为定年"
+    }
+   ],
+   "note": "生年仅见于通行年表，标待核；笔记明言卒于非所",
+   "done": true
+  }
  },
  {
   "id": "qing-1706-shiyunjin",
@@ -15706,9 +16719,14 @@
     "quote": "甡，字雨叔，浙江钱塘人。……乾隆七年，举礼部试第一，廷试复第一，授修撰。"
    }
   ],
-  "bio": [],
+  "bio": [
+   {
+    "src": "qsg",
+    "juan": "305"
+   }
+  ],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -16247,7 +17265,30 @@
    "本纪仅记“赐某等进士及第出身有差”，未明言第一"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "1821",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "癸巳，兵部尚书茹棻卒，以初彭龄代之。",
+     "src": "qsg",
+     "juan": "卷十七 宣宗纪一 道光元年八月",
+     "tier": "正史本纪"
+    },
+    {
+     "field": "death",
+     "quote": "茹棻八月癸巳卒。",
+     "src": "qsg",
+     "juan": "卷一百八十八 部院大臣年表",
+     "tier": "正史本纪"
+    }
+   ],
+   "note": "",
+   "done": true
+  }
  },
  {
   "id": "qing-1787-shizhiguang",
@@ -16273,7 +17314,23 @@
    "本纪仅记“赐某等进士及第出身有差”，未明言第一"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "1828",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "都察院左都御史史致光卒。",
+     "src": "qsg",
+     "juan": "卷十七 宣宗纪一 道光八年二月",
+     "tier": "正史本纪"
+    }
+   ],
+   "note": "",
+   "done": true
+  }
  },
  {
   "id": "qing-1789-huzhangling",
