@@ -534,5 +534,21 @@
   "year": "1652",
   "type": "总集",
   "url": "https://zh.wikisource.org/wiki/列朝詩集"
+ },
+ {
+  "id": "dlwj",
+  "title": "东里文集",
+  "author": "杨士奇",
+  "year": "明",
+  "type": "别集",
+  "url": "https://zh.wikisource.org/wiki/東里文集_(四庫全書本)"
+ },
+ {
+  "id": "dlxj",
+  "title": "东里续集",
+  "author": "杨士奇",
+  "year": "明",
+  "type": "别集",
+  "url": "https://zh.wikisource.org/wiki/東里續集_(四庫全書本)"
  }
 ]
