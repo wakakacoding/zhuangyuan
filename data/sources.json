@@ -294,5 +294,205 @@
   "era": "南宋",
   "type": "别集（墓志）",
   "reliability_default": "official"
+ },
+ {
+  "id": "cyyj",
+  "title": "朝野遗记",
+  "author": "佚名",
+  "era": "南宋",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "jxc",
+  "title": "稼轩词",
+  "author": "辛弃疾",
+  "era": "南宋",
+  "type": "文集",
+  "reliability_default": "primary"
+ },
+ {
+  "id": "xzzt",
+  "title": "续资治通鉴（冯集梧序）",
+  "author": "毕沅撰、冯集梧序",
+  "era": "清",
+  "type": "史书序跋",
+  "reliability_default": "primary"
+ },
+ {
+  "id": "jsdy",
+  "title": "焦氏澹园集",
+  "author": "焦竑",
+  "era": "明",
+  "type": "文集",
+  "reliability_default": "primary"
+ },
+ {
+  "id": "mbsg",
+  "title": "毛宗岗评本三国演义",
+  "author": "罗贯中著、毛纶毛宗岗评",
+  "era": "清",
+  "type": "小说",
+  "reliability_default": "legend"
+ },
+ {
+  "id": "tyl",
+  "title": "唐语林",
+  "author": "王谠",
+  "era": "北宋",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "bmsy",
+  "title": "北梦琐言",
+  "author": "孙光宪",
+  "era": "五代宋初",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "msyt",
+  "title": "渑水燕谈录",
+  "author": "王辟之",
+  "era": "北宋",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "ssjw",
+  "title": "涑水记闻",
+  "author": "司马光",
+  "era": "北宋",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "hlyl",
+  "title": "鹤林玉露",
+  "author": "罗大经",
+  "era": "南宋",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "yhqh",
+  "title": "玉壶清话",
+  "author": "释文莹",
+  "era": "北宋",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "wlyhb",
+  "title": "万历野获编",
+  "author": "沈德符",
+  "era": "明",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "xtzl",
+  "title": "啸亭杂录",
+  "author": "昭梿",
+  "era": "清",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "xtxl",
+  "title": "啸亭续录",
+  "author": "昭梿",
+  "era": "清",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "slyy",
+  "title": "石林燕语",
+  "author": "叶梦得",
+  "era": "南宋",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "qbzz",
+  "title": "清波杂志",
+  "author": "周煇",
+  "era": "南宋",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "lxabj",
+  "title": "老学庵笔记",
+  "author": "陆游",
+  "era": "南宋",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "rzsb",
+  "title": "容斋随笔",
+  "author": "洪迈",
+  "era": "南宋",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "mxbt",
+  "title": "梦溪笔谈",
+  "author": "沈括",
+  "era": "北宋",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "gxzs",
+  "title": "癸辛杂识",
+  "author": "周密",
+  "era": "宋末元初",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "qdyy",
+  "title": "齐东野语",
+  "author": "周密",
+  "era": "宋末元初",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "ncgl",
+  "title": "南村辍耕录",
+  "author": "陶宗仪",
+  "era": "元末明初",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "syzj",
+  "title": "菽园杂记",
+  "author": "陆容",
+  "era": "明",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "cbot",
+  "title": "池北偶谈",
+  "author": "王士禛",
+  "era": "清",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "lqjw",
+  "title": "郎潜纪闻",
+  "author": "陈康祺",
+  "era": "清",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
  }
 ]
