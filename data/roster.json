@@ -659,7 +659,7 @@
   "year": 735,
   "era": "开元二十三年乙亥科",
   "bang": null,
-  "native": "洛阳人",
+  "native": "洛阳人（今河南洛阳）",
   "wiki_life": "728年？－772年",
   "wiki_note": "",
   "evidence": [],
@@ -669,7 +669,20 @@
   "pending": [
    "状元身份（仅见于维基列表，未见正史佐证）"
   ],
-  "disputed": []
+  "disputed": [],
+  "native_wiki": "洛阳人",
+  "native_modern": "今河南洛阳",
+  "coord": [
+   34.62,
+   112.45
+  ],
+  "native_src": {
+   "src": "qts",
+   "juan": "卷235",
+   "quote": "贾至，字幼邻，洛阳人",
+   "tier": "总集小传（清编《全唐诗》）",
+   "note": "全唐诗小传，清人所编，非唐代原始史料"
+  }
  },
  {
   "id": "tang-736-wangjiyou",
@@ -686,7 +699,8 @@
   "confidence": "C",
   "full": false,
   "pending": [
-   "状元身份（仅见于维基列表，未见正史佐证）"
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "籍贯待考证：《全唐诗》卷259小传作“河南人”，名录作“洪州南昌人”，且全唐诗另注有同名者，未落坐标（2026-10-13）"
   ],
   "disputed": []
  },
@@ -697,7 +711,7 @@
   "year": 739,
   "era": "开元二十七年己卯科",
   "bang": null,
-  "native": "河南商丘人",
+  "native": "宋州人（今河南商丘）",
   "wiki_life": "？－739年",
   "wiki_note": "",
   "evidence": [],
@@ -707,7 +721,20 @@
   "pending": [
    "状元身份（仅见于维基列表，未见正史佐证）"
   ],
-  "disputed": []
+  "disputed": [],
+  "native_wiki": "河南商丘人",
+  "native_modern": "今河南商丘",
+  "coord": [
+   34.41,
+   115.66
+  ],
+  "native_src": {
+   "src": "qts",
+   "juan": "卷155",
+   "quote": "崔曙，宋州人",
+   "tier": "总集小传（清编《全唐诗》）",
+   "note": ""
+  }
  },
  {
   "id": "tang-742-wangyue",
@@ -1733,7 +1760,7 @@
   "year": 809,
   "era": "元和四年己丑科",
   "bang": null,
-  "native": "",
+  "native": "京兆万年人（今陕西西安）",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [],
@@ -1744,7 +1771,20 @@
    "籍贯",
    "状元身份（仅见于维基列表，未见正史佐证）"
   ],
-  "disputed": []
+  "disputed": [],
+  "native_wiki": "",
+  "native_modern": "今陕西西安",
+  "coord": [
+   34.26,
+   108.94
+  ],
+  "native_src": {
+   "src": "qts",
+   "juan": "卷507",
+   "quote": "韦瓘，字茂弘，京兆万年人",
+   "tier": "总集小传（清编《全唐诗》）",
+   "note": ""
+  }
  },
  {
   "id": "tang-810-liguxing",
@@ -3483,7 +3523,7 @@
   "year": 895,
   "era": "干宁二年乙卯科",
   "bang": null,
-  "native": "",
+  "native": "临桂人（今广西桂林）",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [
@@ -3500,7 +3540,20 @@
    "仅见《全唐文》作者小传，正史未载“第一”；按规则最高 B"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "",
+  "native_modern": "今广西桂林",
+  "coord": [
+   25.27,
+   110.29
+  ],
+  "native_src": {
+   "src": "qtw",
+   "juan": "卷828",
+   "quote": "观文，临桂人",
+   "tier": "总集小传（清编《全唐文》）",
+   "note": ""
+  }
  },
  {
   "id": "tang-896-cuie",
@@ -4077,7 +4130,7 @@
   "year": 925,
   "era": "南汉白龙元年",
   "bang": null,
-  "native": "广西龚州人",
+  "native": "浔州平南人（今广西平南）",
   "wiki_life": "",
   "wiki_note": "南汉状元",
   "evidence": [
@@ -4094,7 +4147,20 @@
    "仅见《全唐文》作者小传，正史未载“第一”；按规则最高 B"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "广西龚州人",
+  "native_modern": "今广西平南",
+  "coord": [
+   23.54,
+   110.39
+  ],
+  "native_src": {
+   "src": "qtw",
+   "juan": "卷892",
+   "quote": "嵩，浔州平南人",
+   "tier": "总集小传（清编《全唐文》）",
+   "note": ""
+  }
  },
  {
   "id": "wudai-952-wangkezhen",
@@ -4922,7 +4988,7 @@
   "year": 983,
   "era": "太平兴国八年",
   "bang": null,
-  "native": "桂林永福县人",
+  "native": "长沙（今湖南长沙）",
   "wiki_life": "963年~1008年",
   "wiki_note": "",
   "evidence": [
@@ -4939,7 +5005,20 @@
    "状元身份（仅见于维基列表，未见正史佐证）"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "桂林永福县人",
+  "native_modern": "今湖南长沙",
+  "coord": [
+   28.2,
+   112.97
+  ],
+  "native_src": {
+   "src": "xzztcb",
+   "juan": "卷24",
+   "quote": "擢进士长沙王世则",
+   "tier": "编年史（《续资治通鉴长编》）",
+   "note": "长编以地名冠姓名；与名录“桂林永福”不同，待考"
+  }
  },
  {
   "id": "bsong-985-lianghao",
@@ -4968,7 +5047,7 @@
   "year": 988,
   "era": "端拱元年",
   "bang": null,
-  "native": "浙江衢州开化人",
+  "native": "衢州人（今浙江衢州）",
   "wiki_life": "971年~1000年",
   "wiki_note": "",
   "evidence": [
@@ -4990,7 +5069,20 @@
    "礼部放榜首名、省元；是年不临轩，未行殿试"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "浙江衢州开化人",
+  "native_modern": "今浙江衢州",
+  "coord": [
+   28.97,
+   118.87
+  ],
+  "native_src": {
+   "src": "xzztcb",
+   "juan": "卷29",
+   "quote": "程宿，衢州人，此据登科记",
+   "tier": "编年史（《续资治通鉴长编》）",
+   "note": "李焘注，据《登科记》"
+  }
  },
  {
   "id": "bsong-989-chenyaosou",
@@ -5948,7 +6040,7 @@
   "year": 1073,
   "era": "熙宁六年",
   "bang": null,
-  "native": "江苏宜兴人",
+  "native": "毗陵人（今江苏常州）",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [
@@ -5965,7 +6057,20 @@
    "状元身份（仅见于维基列表，未见正史佐证）"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "江苏宜兴人",
+  "native_modern": "今江苏常州",
+  "coord": [
+   31.78,
+   119.95
+  ],
+  "native_src": {
+   "src": "qdyy",
+   "juan": "卷十六",
+   "quote": "熙宁癸丑，省元卲刚、状元余中，皆毗陵人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
  },
  {
   "id": "bsong-1076-xuduo",
@@ -7028,7 +7133,7 @@
   "year": 1187,
   "era": "淳熙十四年",
   "bang": null,
-  "native": "",
+  "native": "长沙人（今湖南长沙）",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [
@@ -7043,7 +7148,20 @@
   "full": false,
   "pending": [],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "",
+  "native_modern": "今湖南长沙",
+  "coord": [
+   28.2,
+   112.97
+  ],
+  "native_src": {
+   "src": "qdyy",
+   "juan": "卷十六",
+   "quote": "淳熙丁未，省元汤璹、状元王容，皆长沙人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
  },
  {
   "id": "nsong-1190-yufu",
@@ -7052,7 +7170,7 @@
   "year": 1190,
   "era": "绍熙元年",
   "bang": null,
-  "native": "福建宁德人",
+  "native": "三山人（福州）（今福建福州一带）",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [
@@ -7069,7 +7187,20 @@
    "状元身份（仅见于维基列表，未见正史佐证）"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "福建宁德人",
+  "native_modern": "今福建福州一带",
+  "coord": [
+   26.07,
+   119.3
+  ],
+  "native_src": {
+   "src": "qdyy",
+   "juan": "卷十六",
+   "quote": "绍熙庚戌，省元钱易直、状元余复，皆三山人",
+   "tier": "笔记",
+   "note": "笔记；三山为福州别称，名录作宁德（宋属福州）"
+  }
  },
  {
   "id": "chenliang",
@@ -7398,7 +7529,7 @@
   "year": 1226,
   "era": "宝庆二年",
   "bang": null,
-  "native": "台州临海人",
+  "native": "天台人（今浙江天台）",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [
@@ -7418,7 +7549,20 @@
   "full": false,
   "pending": [],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "台州临海人",
+  "native_modern": "今浙江天台",
+  "coord": [
+   29.14,
+   121.01
+  ],
+  "native_src": {
+   "src": "qdyy",
+   "juan": "卷十六",
+   "quote": "宝庆丙戌，省元赵时覩、状元王㑹龙，皆天台人",
+   "tier": "笔记",
+   "note": "笔记；名录作台州临海，同属台州，待考"
+  }
  },
  {
   "id": "nsong-1229-huangpu",
@@ -7579,7 +7723,7 @@
   "year": 1244,
   "era": "淳祐四年",
   "bang": null,
-  "native": "衢州人",
+  "native": "三衢人（今浙江衢州）",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [
@@ -7600,7 +7744,20 @@
   "full": false,
   "pending": [],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "衢州人",
+  "native_modern": "今浙江衢州",
+  "coord": [
+   28.97,
+   118.87
+  ],
+  "native_src": {
+   "src": "qdyy",
+   "juan": "卷十六",
+   "quote": "至淳祐甲辰，省元徐霖、状元留梦炎，皆三衢人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
  },
  {
   "id": "nsong-1247-zhangyuanwei",
@@ -10527,7 +10684,8 @@
   "full": false,
   "pending": [
    "归潜志作「贞祐六年」；是年实为兴定二年（1218），刘祁或沿用贞祐纪年",
-   "籍贯「燕山」较笼统，不落图"
+   "籍贯「燕山」较笼统，不落图",
+   "籍贯：《归潜志》卷5作“燕山人”（金代燕山所指范围宽，未能落到县），未落坐标（2026-10-13）"
   ],
   "disputed": [],
   "reviewed": true
@@ -10539,7 +10697,7 @@
   "year": 1221,
   "era": "兴定五年辛巳科词赋状元",
   "bang": "词赋科",
-  "native": "真定（今河北正定县）",
+  "native": "真定人（今河北正定）",
   "wiki_life": "?-1222年",
   "wiki_note": "",
   "evidence": [
@@ -10556,7 +10714,20 @@
    "仅见《归潜志》笔记（明言“词赋魁”），按笔记来源定为 B"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "真定（今河北正定县）",
+  "native_modern": "今河北正定",
+  "coord": [
+   38.15,
+   114.57
+  ],
+  "native_src": {
+   "src": "gqz",
+   "juan": "卷五",
+   "quote": "刘遇鼎臣，真定人，兴定五年词赋魁也",
+   "tier": "笔记（金末刘祁《归潜志》）",
+   "note": ""
+  }
  },
  {
   "id": "jin-1221-woleiyede",
@@ -12042,7 +12213,7 @@
   "year": 1412,
   "era": "永乐十年",
   "bang": null,
-  "native": "福建福州府长乐县人",
+  "native": "福建长乐人（今福建长乐）",
   "wiki_life": "1366年－1423年",
   "wiki_note": "弟李骐于6年后亦中状元",
   "evidence": [
@@ -12059,7 +12230,20 @@
    "本纪仅记“赐某等进士及第”，无专传"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "福建福州府长乐县人",
+  "native_modern": "今福建长乐",
+  "coord": [
+   25.96,
+   119.52
+  ],
+  "native_src": {
+   "src": "wlyhb",
+   "juan": "卷15",
+   "quote": "马铎者，举永乐壬辰状元；李骐者，举永乐戊戌状元，俱福建之长乐人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
  },
  {
   "id": "ming-1415-chenxun",
@@ -12097,7 +12281,7 @@
   "year": 1418,
   "era": "永乐十六年",
   "bang": null,
-  "native": "福建福州府长乐县人",
+  "native": "福建长乐人（今福建长乐）",
   "wiki_life": "1378年－1425年",
   "wiki_note": "本名「李马」，帝不喜，赐「骐」为名",
   "evidence": [
@@ -12114,7 +12298,20 @@
    "本纪仅记“赐某等进士及第”，无专传"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "福建福州府长乐县人",
+  "native_modern": "今福建长乐",
+  "coord": [
+   25.96,
+   119.52
+  ],
+  "native_src": {
+   "src": "wlyhb",
+   "juan": "卷15",
+   "quote": "马铎者，举永乐壬辰状元；李骐者，举永乐戊戌状元，俱福建之长乐人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
  },
  {
   "id": "ming-1421-cengheling",
@@ -12268,7 +12465,7 @@
   "year": 1436,
   "era": "正统元年",
   "bang": null,
-  "native": "浙江温州府永嘉县人",
+  "native": "温州永嘉人（今浙江温州）",
   "wiki_life": "1395年－1454年",
   "wiki_note": "",
   "evidence": [
@@ -12285,7 +12482,20 @@
    "本纪仅记“赐某等进士及第”，无专传"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "浙江温州府永嘉县人",
+  "native_modern": "今浙江温州",
+  "coord": [
+   28.01,
+   120.65
+  ],
+  "native_src": {
+   "src": "syzj",
+   "juan": "卷1",
+   "quote": "正统丙辰状元周旋，温州永嘉人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
  },
  {
   "id": "ming-1439-shipan",
@@ -12580,7 +12790,7 @@
   "year": 1469,
   "era": "成化五年",
   "bang": null,
-  "native": "江西建昌府南城县人",
+  "native": "南城人（今江西南城）",
   "wiki_life": "1442年－1517年",
   "wiki_note": "",
   "evidence": [
@@ -12598,7 +12808,20 @@
    "本纪作“张昇”"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "江西建昌府南城县人",
+  "native_modern": "今江西南城",
+  "coord": [
+   27.56,
+   116.64
+  ],
+  "native_src": {
+   "src": "ms",
+   "juan": "184",
+   "quote": "张升，字启昭，南城人。成化五年进士第一",
+   "tier": "正史",
+   "note": "正史本传"
+  }
  },
  {
   "id": "ming-1472-wukuan",
@@ -13291,7 +13514,8 @@
   "confidence": "B",
   "full": false,
   "pending": [
-   "本纪仅记“赐某等进士及第”，无专传"
+   "本纪仅记“赐某等进士及第”，无专传",
+   "籍贯待考证：《万历野获编》卷16作“直隶太和卫人”，名录作“大河卫”，二者不合，未落坐标（2026-10-13）"
   ],
   "disputed": [],
   "reviewed": true
@@ -13387,7 +13611,7 @@
   "year": 1553,
   "era": "嘉靖三十二年",
   "bang": null,
-  "native": "福建福州府闽县人",
+  "native": "福建闽县人（今福建福州）",
   "wiki_life": "1525年－1566年",
   "wiki_note": "",
   "evidence": [
@@ -13404,7 +13628,20 @@
    "本纪仅记“赐某等进士及第”，无专传"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "福建福州府闽县人",
+  "native_modern": "今福建福州",
+  "coord": [
+   26.07,
+   119.3
+  ],
+  "native_src": {
+   "src": "wlyhb",
+   "juan": "卷16",
+   "quote": "状元为陈谨，福建闽县人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
  },
  {
   "id": "ming-1556-zhudashou",
@@ -13504,7 +13741,7 @@
   "year": 1565,
   "era": "嘉靖四十四年",
   "bang": null,
-  "native": "浙江湖州府乌程县人",
+  "native": "浙江乌程人（今浙江湖州）",
   "wiki_life": "1527年－1594年",
   "wiki_note": "",
   "evidence": [
@@ -13521,7 +13758,20 @@
    "本纪仅记“赐某等”，未明言第一"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "浙江湖州府乌程县人",
+  "native_modern": "今浙江湖州",
+  "coord": [
+   30.87,
+   120.09
+  ],
+  "native_src": {
+   "src": "wlyhb",
+   "juan": "卷16",
+   "quote": "四十四年乙丑科，状元范应期浙江乌程人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
  },
  {
   "id": "ming-1568-luowanhua",
@@ -14413,7 +14663,7 @@
   "year": 1655,
   "era": "顺治十二年",
   "bang": null,
-  "native": "浙江省宁波府鄞县人",
+  "native": "鄞人（今浙江宁波）",
   "wiki_life": "1621年－1682年",
   "wiki_note": "礼部左侍郎",
   "evidence": [
@@ -14430,7 +14680,20 @@
    "本纪仅记“赐某等进士及第出身有差”，未明言第一"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "浙江省宁波府鄞县人",
+  "native_modern": "今浙江宁波",
+  "coord": [
+   29.87,
+   121.55
+  ],
+  "native_src": {
+   "src": "cbot",
+   "juan": "卷一",
+   "quote": "乙未史大成，鄞人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
  },
  {
   "id": "qing-1658-sunchengen",
@@ -14439,7 +14702,7 @@
   "year": 1658,
   "era": "顺治十五年",
   "bang": null,
-  "native": "江南省苏州府常熟县人",
+  "native": "常熟人（今江苏常熟）",
   "wiki_life": "1619年－1659年",
   "wiki_note": "内翰林国史院修撰",
   "evidence": [
@@ -14456,7 +14719,20 @@
    "本纪仅记“赐某等进士及第出身有差”，未明言第一"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "江南省苏州府常熟县人",
+  "native_modern": "今江苏常熟",
+  "coord": [
+   31.65,
+   120.75
+  ],
+  "native_src": {
+   "src": "lqjw",
+   "juan": "初笔卷十二",
+   "quote": "顺治戊戌状元孙承恩，常熟人也",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
  },
  {
   "id": "qing-1659-xuyuanwen",
@@ -14519,7 +14795,7 @@
   "year": 1664,
   "era": "康熙三年",
   "bang": null,
-  "native": "浙江省湖州府归安县人",
+  "native": "归安人（今浙江湖州）",
   "wiki_life": "1629年－",
   "wiki_note": "礼部左侍郎",
   "evidence": [
@@ -14536,7 +14812,20 @@
    "本纪仅记“赐某等进士及第出身有差”，未明言第一"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "浙江省湖州府归安县人",
+  "native_modern": "今浙江湖州",
+  "coord": [
+   30.87,
+   120.09
+  ],
+  "native_src": {
+   "src": "cbot",
+   "juan": "卷一",
+   "quote": "甲辰严我斯，归安人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
  },
  {
   "id": "qing-1667-moutong",
@@ -14545,7 +14834,7 @@
   "year": 1667,
   "era": "康熙六年",
   "bang": null,
-  "native": "江南省苏州府吴县人",
+  "native": "吴县人（今江苏苏州）",
   "wiki_life": "1627年－1697年",
   "wiki_note": "翰林院侍讲",
   "evidence": [
@@ -14562,7 +14851,20 @@
    "本纪仅记“赐某等进士及第出身有差”，未明言第一"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "江南省苏州府吴县人",
+  "native_modern": "今江苏苏州",
+  "coord": [
+   31.3,
+   120.62
+  ],
+  "native_src": {
+   "src": "cbot",
+   "juan": "卷一",
+   "quote": "丁未缪彤，吴县人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
  },
  {
   "id": "qing-1670-caiqizun",
@@ -14571,7 +14873,7 @@
   "year": 1670,
   "era": "康熙九年",
   "bang": null,
-  "native": "浙江省湖州府德清县人",
+  "native": "德清人（今浙江德清）",
   "wiki_life": "1619年－1683年",
   "wiki_note": "右春坊右赞善",
   "evidence": [
@@ -14591,7 +14893,20 @@
   "full": false,
   "pending": [],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "浙江省湖州府德清县人",
+  "native_modern": "今浙江德清",
+  "coord": [
+   30.54,
+   119.98
+  ],
+  "native_src": {
+   "src": "cbot",
+   "juan": "卷一",
+   "quote": "康熙庚戌状元蔡启僔，壬戌状元蔡升元，俱德清人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
  },
  {
   "id": "qing-1673-hantan",
@@ -14665,7 +14980,7 @@
   "year": 1679,
   "era": "康熙十八年",
   "bang": null,
-  "native": "江苏省苏州府常熟县人",
+  "native": "常熟人（今江苏常熟）",
   "wiki_life": "1642年－1689年",
   "wiki_note": "詹事府少詹事",
   "evidence": [
@@ -14682,7 +14997,20 @@
    "本纪仅记“赐某等进士及第出身有差”，未明言第一"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府常熟县人",
+  "native_modern": "今江苏常熟",
+  "coord": [
+   31.65,
+   120.75
+  ],
+  "native_src": {
+   "src": "lqjw",
+   "juan": "二笔卷十一",
+   "quote": "常熟一县，已得六人，盖顺治戊戌孙承恩，康熙己未归允肃，庚辰汪绎，戊戌汪应铨，咸丰丙辰翁同龢，同治癸亥翁曾源也",
+   "tier": "笔记",
+   "note": "笔记；常熟六状元名单"
+  }
  },
  {
   "id": "qing-1682-caishengyuan",
@@ -14691,7 +15019,7 @@
   "year": 1682,
   "era": "康熙二十一年",
   "bang": null,
-  "native": "浙江省湖州府德清县人",
+  "native": "德清人（今浙江德清）",
   "wiki_life": "1652年－1722年",
   "wiki_note": "礼部尚书",
   "evidence": [
@@ -14708,7 +15036,20 @@
    "本纪仅记“赐某等进士及第出身有差”，未明言第一"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "浙江省湖州府德清县人",
+  "native_modern": "今浙江德清",
+  "coord": [
+   30.54,
+   119.98
+  ],
+  "native_src": {
+   "src": "cbot",
+   "juan": "卷一",
+   "quote": "康熙庚戌状元蔡启僔，壬戌状元蔡升元，俱德清人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
  },
  {
   "id": "qing-1685-lukentang",
@@ -14717,7 +15058,7 @@
   "year": 1685,
   "era": "康熙二十四年",
   "bang": null,
-  "native": "江苏省苏州府长洲县人",
+  "native": "长洲人（今江苏苏州）",
   "wiki_life": "1650年－1696年",
   "wiki_note": "翰林院侍读学士",
   "evidence": [
@@ -14734,7 +15075,20 @@
    "本纪仅记“赐某等进士及第出身有差”，未明言第一"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府长洲县人",
+  "native_modern": "今江苏苏州",
+  "coord": [
+   31.3,
+   120.62
+  ],
+  "native_src": {
+   "src": "cbot",
+   "juan": "卷一",
+   "quote": "乙丑陆肯堂，丁丑汪士𬭎，俱长洲人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
  },
  {
   "id": "qing-1688-shentingwen",
@@ -14850,7 +15204,7 @@
   "year": 1700,
   "era": "康熙三十九年",
   "bang": null,
-  "native": "江苏省苏州府常熟县人",
+  "native": "常熟人（今江苏常熟）",
   "wiki_life": "1671年－1706年",
   "wiki_note": "翰林院修撰",
   "evidence": [
@@ -14867,7 +15221,20 @@
    "本纪仅记“赐某等进士及第出身有差”，未明言第一"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府常熟县人",
+  "native_modern": "今江苏常熟",
+  "coord": [
+   31.65,
+   120.75
+  ],
+  "native_src": {
+   "src": "lqjw",
+   "juan": "二笔卷十一",
+   "quote": "常熟一县，已得六人，盖顺治戊戌孙承恩，康熙己未归允肃，庚辰汪绎，戊戌汪应铨，咸丰丙辰翁同龢，同治癸亥翁曾源也",
+   "tier": "笔记",
+   "note": "笔记；常熟六状元名单"
+  }
  },
  {
   "id": "qing-1703-wangshidan",
@@ -15034,7 +15401,7 @@
   "year": 1718,
   "era": "康熙五十七年",
   "bang": null,
-  "native": "江苏省苏州府常熟县人",
+  "native": "常熟人（今江苏常熟）",
   "wiki_life": "1685年－1745年",
   "wiki_note": "左春坊赞善",
   "evidence": [
@@ -15051,7 +15418,20 @@
    "本纪仅记“赐某等进士及第出身有差”，未明言第一"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府常熟县人",
+  "native_modern": "今江苏常熟",
+  "coord": [
+   31.65,
+   120.75
+  ],
+  "native_src": {
+   "src": "lqjw",
+   "juan": "二笔卷十一",
+   "quote": "常熟一县，已得六人，盖顺治戊戌孙承恩，康熙己未归允肃，庚辰汪绎，戊戌汪应铨，咸丰丙辰翁同龢，同治癸亥翁曾源也",
+   "tier": "笔记",
+   "note": "笔记；常熟六状元名单"
+  }
  },
  {
   "id": "qing-1721-dengzhongyue",
@@ -15570,7 +15950,7 @@
   "year": 1763,
   "era": "乾隆二十八年",
   "bang": null,
-  "native": "江苏省太仓直隶州嘉定县人",
+  "native": "嘉定（今上海嘉定）",
   "wiki_life": "1720年－1779年",
   "wiki_note": "翰林院修撰",
   "evidence": [
@@ -15587,7 +15967,20 @@
    "本纪仅记“赐某等进士及第出身有差”，未明言第一"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "江苏省太仓直隶州嘉定县人",
+  "native_modern": "今上海嘉定",
+  "coord": [
+   31.38,
+   121.25
+  ],
+  "native_src": {
+   "src": "lqjw",
+   "juan": "初笔卷六",
+   "quote": "同考嘉定秦大成，癸未状元；元和陈初哲，己丑状元；休宁黄轩，辛卯状元；歙县金榜",
+   "tier": "笔记",
+   "note": "笔记；以县名冠姓名"
+  }
  },
  {
   "id": "qing-1766-zhangshuxun",
@@ -15622,7 +16015,7 @@
   "year": 1769,
   "era": "乾隆三十四年",
   "bang": null,
-  "native": "江苏省苏州府元和县人",
+  "native": "元和（今江苏苏州）",
   "wiki_life": "1736年－1787年",
   "wiki_note": "湖北荆宜施道道员、兼管荆关税务监督",
   "evidence": [
@@ -15639,7 +16032,20 @@
    "本纪仅记“赐某等进士及第出身有差”，未明言第一"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府元和县人",
+  "native_modern": "今江苏苏州",
+  "coord": [
+   31.3,
+   120.62
+  ],
+  "native_src": {
+   "src": "lqjw",
+   "juan": "初笔卷六",
+   "quote": "同考嘉定秦大成，癸未状元；元和陈初哲，己丑状元；休宁黄轩，辛卯状元；歙县金榜",
+   "tier": "笔记",
+   "note": "笔记；以县名冠姓名"
+  }
  },
  {
   "id": "qing-1771-huangxuan",
@@ -15648,7 +16054,7 @@
   "year": 1771,
   "era": "乾隆三十六年",
   "bang": null,
-  "native": "安徽省徽州府休宁县人",
+  "native": "休宁（今安徽休宁）",
   "wiki_life": "－",
   "wiki_note": "四川川东道道员、加按察使衔",
   "evidence": [
@@ -15665,7 +16071,20 @@
    "本纪仅记“赐某等进士及第出身有差”，未明言第一"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "安徽省徽州府休宁县人",
+  "native_modern": "今安徽休宁",
+  "coord": [
+   29.79,
+   118.19
+  ],
+  "native_src": {
+   "src": "lqjw",
+   "juan": "初笔卷六",
+   "quote": "同考嘉定秦大成，癸未状元；元和陈初哲，己丑状元；休宁黄轩，辛卯状元；歙县金榜",
+   "tier": "笔记",
+   "note": "笔记；以县名冠姓名"
+  }
  },
  {
   "id": "qing-1772-jinbang",
@@ -16280,7 +16699,7 @@
   "year": 1820,
   "era": "嘉庆二十五年",
   "bang": null,
-  "native": "广西省桂林府临桂县人",
+  "native": "广西临桂人（今广西桂林）",
   "wiki_life": "1791年－1849年",
   "wiki_note": "江宁布政使",
   "evidence": [
@@ -16300,7 +16719,20 @@
   "full": false,
   "pending": [],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "广西省桂林府临桂县人",
+  "native_modern": "今广西桂林",
+  "coord": [
+   25.27,
+   110.29
+  ],
+  "native_src": {
+   "src": "xtxl",
+   "juan": "卷四",
+   "quote": "嘉庆庚辰中三元陈继昌，广西临桂人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
  },
  {
   "id": "qing-1822-dailanfen",
@@ -16877,7 +17309,7 @@
   "year": 1863,
   "era": "同治二年",
   "bang": null,
-  "native": "江苏省苏州府常熟县人",
+  "native": "常熟人（今江苏常熟）",
   "wiki_life": "1834年－1887年",
   "wiki_note": "翰林院修撰",
   "evidence": [
@@ -16894,7 +17326,20 @@
    "本纪仅记“赐某等进士及第出身有差”，未明言第一"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府常熟县人",
+  "native_modern": "今江苏常熟",
+  "coord": [
+   31.65,
+   120.75
+  ],
+  "native_src": {
+   "src": "lqjw",
+   "juan": "二笔卷十一",
+   "quote": "常熟一县，已得六人，盖顺治戊戌孙承恩，康熙己未归允肃，庚辰汪绎，戊戌汪应铨，咸丰丙辰翁同龢，同治癸亥翁曾源也",
+   "tier": "笔记",
+   "note": "笔记；常熟六状元名单"
+  }
  },
  {
   "id": "qing-1865-chongqi",
