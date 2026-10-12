@@ -7,6 +7,8 @@
 <url><loc>https://wakakacoding.github.io/zhuangyuan/graph/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/stats/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/compare/</loc></url>
+<url><loc>https://wakakacoding.github.io/zhuangyuan/quiz/</loc></url>
+<url><loc>https://wakakacoding.github.io/zhuangyuan/changelog/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/search/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/sources/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/errata/</loc></url>
@@ -18,6 +20,7 @@
 <url><loc>https://wakakacoding.github.io/zhuangyuan/topics/ending/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/topics/tongke/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/topics/shitu/</loc></url>
+<url><loc>https://wakakacoding.github.io/zhuangyuan/topics/zhushu/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/person/sunfujia/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/person/lvmengzheng/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/person/zhangxiaoxiang/</loc></url>
@@ -200,6 +203,8 @@
 <url><loc>https://wakakacoding.github.io/zhuangyuan/person/tang-906-peishuo/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/person/wudai-943-wuqiao/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/person/bsong-967-liumengsou/</loc></url>
+<url><loc>https://wakakacoding.github.io/zhuangyuan/person/bsong-1034-zhangtangqing/</loc></url>
+<url><loc>https://wakakacoding.github.io/zhuangyuan/person/nsong-1232-xuyuanjie/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/r/tang-651-yankangcheng/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/r/tang-670-songshoujie/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/r/tang-671-gongsichu/</loc></url>
@@ -379,7 +384,6 @@
 <url><loc>https://wakakacoding.github.io/zhuangyuan/r/bsong-1008-yaoye/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/r/bsong-1012-xushi/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/r/bsong-1019-wangzheng/</loc></url>
-<url><loc>https://wakakacoding.github.io/zhuangyuan/r/bsong-1034-zhangtangqing/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/r/bsong-1059-liu𪸩/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/r/bsong-1061-wangjunmin/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/r/bsong-1067-xuanshi/</loc></url>
@@ -416,7 +420,6 @@
 <url><loc>https://wakakacoding.github.io/zhuangyuan/r/nsong-1220-liuwei/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/r/nsong-1226-wanghuilong/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/r/nsong-1229-huangpu/</loc></url>
-<url><loc>https://wakakacoding.github.io/zhuangyuan/r/nsong-1232-xuyuanjie/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/r/nsong-1235-wushugao/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/r/nsong-1238-zhoutan/</loc></url>
 <url><loc>https://wakakacoding.github.io/zhuangyuan/r/nsong-1241-xuyanfu/</loc></url>
