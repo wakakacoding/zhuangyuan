@@ -35,6 +35,35 @@
   "disputed": []
  },
  {
+  "id": "tang-801-bansu",
+  "name": "班肃",
+  "dynasty": "唐",
+  "year": 801,
+  "era": "贞元十七年辛巳科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lhdjz",
+    "juan": "卷二十二 送班孝廉擢第归东川觐省序",
+    "quote": "属者举乡里，登春官，获居其甲焉（贞元十七年礼部侍郎髙郢知贡举擢班肃为第一）",
+    "note": "正文为柳宗元序「获居其甲」，括注为宋人注文，明记贞元十七年礼部侍郎高郢知贡举擢班肃为第一，与名录年份相合。史源：文集宋人注（同时代记载之注），按定级建议可定A",
+    "qs": "ok",
+    "tier": "文集宋注",
+    "grade": "A"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [
+   "籍贯"
+  ],
+  "disputed": []
+ },
+ {
   "id": "liguyan",
   "name": "李固言",
   "dynasty": "唐",
@@ -3156,7 +3185,7 @@
   "year": 1175,
   "era": "淳熙二年",
   "bang": null,
-  "native": "浙江遂安人",
+  "native": "浙江遂安人（今浙江淳安）",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [
@@ -3177,8 +3206,24 @@
   "confidence": "A",
   "full": false,
   "pending": [],
-  "disputed": [],
-  "reviewed": true
+  "disputed": [
+   "籍贯两说：《万姓统谱》作遂安，《福建通志》作崇安；本站取遂安上图"
+  ],
+  "reviewed": true,
+  "native_modern": "今浙江淳安",
+  "coord": [
+   29.61,
+   119.04
+  ],
+  "native_src": {
+   "src": "wxtp",
+   "juan": "卷六十七",
+   "quote": "詹骙字晋卿遂安人淳熙二年状元",
+   "tier": "非正史（类书）",
+   "prec": "县",
+   "note": "遂安县明以后并入淳安。异说：《福建通志》卷34作「崇安县詹骙第一人」，与遂安不在同一府，取《万姓统谱》遂安说上图并注明。",
+   "qs": "ok"
+  }
  },
  {
   "id": "nsong-1178-yaoying",
@@ -3475,7 +3520,7 @@
   "year": 1199,
   "era": "庆元五年",
   "bang": null,
-  "native": "福建晋江人",
+  "native": "泉州晋江（今福建泉州）",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [
@@ -3496,7 +3541,21 @@
   "confidence": "A",
   "full": true,
   "pending": [],
-  "disputed": []
+  "disputed": [],
+  "native_modern": "今福建泉州",
+  "coord": [
+   24.91,
+   118.59
+  ],
+  "native_src": {
+   "src": "ss",
+   "juan": "419",
+   "quote": "曾从龙，字君锡，左仆射公亮四世从孙。……初名一龙，庆元五年，擢进士第一，始赐今名。",
+   "tier": "正史",
+   "prec": "县",
+   "note": "本传未直书籍贯；《宋史》卷312曾公亮传作「泉州晋江人」，本站取晋江上图。《福建通志》卷62泉州府学条亦记从龙事。异说：《江西通志》卷49解试有「曾从龙泰和人」（政和/宣和时），与庆元五年状元非同科，不取。",
+   "qs": "ok"
+  }
  },
  {
   "id": "nsong-1202-fuxingjian",
@@ -3550,7 +3609,7 @@
   "year": 1205,
   "era": "开禧元年",
   "bang": null,
-  "native": "",
+  "native": "浙江西安人（今浙江衢州）",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [
@@ -3571,11 +3630,26 @@
   "confidence": "A",
   "full": false,
   "pending": [
-   "籍贯",
    "状元身份（正史检索命中，未人工通读）"
   ],
-  "disputed": [],
-  "reviewed": true
+  "disputed": [
+   "籍贯两说：《浙江通志》作西安（衢州），《广西通志》作富川；本站取西安上图"
+  ],
+  "reviewed": true,
+  "native_modern": "今浙江衢州",
+  "coord": [
+   28.97,
+   118.87
+  ],
+  "native_src": {
+   "src": "zjtz",
+   "juan": "卷一百二十六",
+   "quote": "毛自知西安人状元",
+   "tier": "非正史（方志）",
+   "prec": "县",
+   "note": "宋衢州西安县，即今浙江衢州。异说：清修《广西通志》作「毛自知富川人状元」，与西安不在同一府，取浙江通志上图并注明。",
+   "qs": "ok"
+  }
  },
  {
   "id": "nsong-1208-zhengxingzhi",
@@ -3819,7 +3893,7 @@
   "year": 1229,
   "era": "绍定二年",
   "bang": null,
-  "native": "福建侯官人",
+  "native": "福建侯官人（今福建福州）",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [
@@ -3834,8 +3908,24 @@
   "confidence": "A",
   "full": false,
   "pending": [],
-  "disputed": [],
-  "reviewed": true
+  "disputed": [
+   "籍贯两说：《福建通志》作侯官，《浙江通志》作归安；本站取侯官上图"
+  ],
+  "reviewed": true,
+  "native_modern": "今福建福州",
+  "coord": [
+   26.08,
+   119.3
+  ],
+  "native_src": {
+   "src": "fjtz",
+   "juan": "卷三十五",
+   "quote": "侯官县黄朴第一人",
+   "tier": "非正史（方志）",
+   "prec": "县",
+   "note": "异说：《浙江通志》卷127作「黄朴归安人状元」，与侯官不在同一府；取福建通志（明记第一人）上图并注明。",
+   "qs": "ok"
+  }
  },
  {
   "id": "nsong-1232-xuyuanjie",
@@ -5043,6 +5133,58 @@
   "full": true,
   "pending": [],
   "disputed": []
+ },
+ {
+  "id": "jin-1209-wanggang",
+  "name": "王纲",
+  "dynasty": "金",
+  "year": 1209,
+  "era": "大安元年己巳科",
+  "bang": null,
+  "native": "赵城（今山西洪洞赵城镇）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "xyjz",
+    "juan": "卷四 平阳贡院鹤",
+    "quote": "御题《获承休德不遑康宁》，状元王纲，平阳",
+    "note": "元好问《续夷坚志》记大安初平阳试事，作者与事同时，原文明言「状元王纲」。史源：同时代笔记，按定级建议可定A",
+    "qs": "ok",
+    "tier": "同时代笔记",
+    "grade": "A"
+   },
+   {
+    "src": "sxtz",
+    "juan": "卷六十五 选举",
+    "quote": "大安中进士王纲赵城人状元翰林修撰",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [
+   "《山西通志》卷一百三十六作“王纲字振之洪洞人金章宗时廷试词赋赐状元及第”（章宗朝，早于大安）",
+   "《山西通志》卷五十七录金《重修应圣公神祠碑》“状元及第邑人王纲书大定二十八年九月二十日记”，若碑年不误，则其及第早于1188，与大安中不合，或为同名二人，待考证",
+   "籍贯：续夷坚志作平阳，通志卷六十五作赵城、卷一百三十六作洪洞（均属平阳府）"
+  ],
+  "native_src": {
+   "src": "sxtz",
+   "juan": "卷六十五",
+   "quote": "王纲赵城人状元",
+   "tier": "非正史（方志（雍正，四库本））",
+   "note": "《山西通志》卷136人物作“王纲字振之洪洞人”；金赵城县今为洪洞县赵城镇",
+   "prec": "县",
+   "qs": "ok"
+  },
+  "native_wiki": "赵城",
+  "native_modern": "今山西洪洞赵城镇",
+  "coord": [
+   36.38,
+   111.69
+  ]
  },
  {
   "id": "jin-1215-lixianneng",

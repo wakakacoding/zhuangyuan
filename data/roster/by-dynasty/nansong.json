@@ -575,7 +575,7 @@
   "year": 1175,
   "era": "淳熙二年",
   "bang": null,
-  "native": "浙江遂安人",
+  "native": "浙江遂安人（今浙江淳安）",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [
@@ -596,8 +596,24 @@
   "confidence": "A",
   "full": false,
   "pending": [],
-  "disputed": [],
-  "reviewed": true
+  "disputed": [
+   "籍贯两说：《万姓统谱》作遂安，《福建通志》作崇安；本站取遂安上图"
+  ],
+  "reviewed": true,
+  "native_modern": "今浙江淳安",
+  "coord": [
+   29.61,
+   119.04
+  ],
+  "native_src": {
+   "src": "wxtp",
+   "juan": "卷六十七",
+   "quote": "詹骙字晋卿遂安人淳熙二年状元",
+   "tier": "非正史（类书）",
+   "prec": "县",
+   "note": "遂安县明以后并入淳安。异说：《福建通志》卷34作「崇安县詹骙第一人」，与遂安不在同一府，取《万姓统谱》遂安说上图并注明。",
+   "qs": "ok"
+  }
  },
  {
   "id": "nsong-1178-yaoying",
@@ -894,7 +910,7 @@
   "year": 1199,
   "era": "庆元五年",
   "bang": null,
-  "native": "福建晋江人",
+  "native": "泉州晋江（今福建泉州）",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [
@@ -915,7 +931,21 @@
   "confidence": "A",
   "full": true,
   "pending": [],
-  "disputed": []
+  "disputed": [],
+  "native_modern": "今福建泉州",
+  "coord": [
+   24.91,
+   118.59
+  ],
+  "native_src": {
+   "src": "ss",
+   "juan": "419",
+   "quote": "曾从龙，字君锡，左仆射公亮四世从孙。……初名一龙，庆元五年，擢进士第一，始赐今名。",
+   "tier": "正史",
+   "prec": "县",
+   "note": "本传未直书籍贯；《宋史》卷312曾公亮传作「泉州晋江人」，本站取晋江上图。《福建通志》卷62泉州府学条亦记从龙事。异说：《江西通志》卷49解试有「曾从龙泰和人」（政和/宣和时），与庆元五年状元非同科，不取。",
+   "qs": "ok"
+  }
  },
  {
   "id": "nsong-1202-fuxingjian",
@@ -969,7 +999,7 @@
   "year": 1205,
   "era": "开禧元年",
   "bang": null,
-  "native": "",
+  "native": "浙江西安人（今浙江衢州）",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [
@@ -990,11 +1020,26 @@
   "confidence": "A",
   "full": false,
   "pending": [
-   "籍贯",
    "状元身份（正史检索命中，未人工通读）"
   ],
-  "disputed": [],
-  "reviewed": true
+  "disputed": [
+   "籍贯两说：《浙江通志》作西安（衢州），《广西通志》作富川；本站取西安上图"
+  ],
+  "reviewed": true,
+  "native_modern": "今浙江衢州",
+  "coord": [
+   28.97,
+   118.87
+  ],
+  "native_src": {
+   "src": "zjtz",
+   "juan": "卷一百二十六",
+   "quote": "毛自知西安人状元",
+   "tier": "非正史（方志）",
+   "prec": "县",
+   "note": "宋衢州西安县，即今浙江衢州。异说：清修《广西通志》作「毛自知富川人状元」，与西安不在同一府，取浙江通志上图并注明。",
+   "qs": "ok"
+  }
  },
  {
   "id": "nsong-1208-zhengxingzhi",
@@ -1238,7 +1283,7 @@
   "year": 1229,
   "era": "绍定二年",
   "bang": null,
-  "native": "福建侯官人",
+  "native": "福建侯官人（今福建福州）",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [
@@ -1253,8 +1298,24 @@
   "confidence": "A",
   "full": false,
   "pending": [],
-  "disputed": [],
-  "reviewed": true
+  "disputed": [
+   "籍贯两说：《福建通志》作侯官，《浙江通志》作归安；本站取侯官上图"
+  ],
+  "reviewed": true,
+  "native_modern": "今福建福州",
+  "coord": [
+   26.08,
+   119.3
+  ],
+  "native_src": {
+   "src": "fjtz",
+   "juan": "卷三十五",
+   "quote": "侯官县黄朴第一人",
+   "tier": "非正史（方志）",
+   "prec": "县",
+   "note": "异说：《浙江通志》卷127作「黄朴归安人状元」，与侯官不在同一府；取福建通志（明记第一人）上图并注明。",
+   "qs": "ok"
+  }
  },
  {
   "id": "nsong-1232-xuyuanjie",

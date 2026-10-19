@@ -1,5 +1,6 @@
 ﻿id,name,dynasty,year,era,bang,native,confidence,full,life_birth,life_death,pending,disputed,url
 sunfujia,孙伏伽,唐,622,武德五年,,贝州武城人,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/sunfujia/
+tang-801-bansu,班肃,唐,801,贞元十七年辛巳科,,,A,0,,,籍贯,,https://wakakacoding.github.io/zhuangyuan/r/tang-801-bansu/
 liguyan,李固言,唐,812,元和七年壬辰科,,,A,1,,,籍贯,,https://wakakacoding.github.io/zhuangyuan/person/liguyan/
 sunwo,孙偓,唐,878,干符五年戊戌科,,武邑（今河北武邑）,A,1,,,籍贯,,https://wakakacoding.github.io/zhuangyuan/person/sunwo/
 cuizhaowei,崔昭纬,唐,882,中和二年壬寅科,,,A,1,,,籍贯,,https://wakakacoding.github.io/zhuangyuan/person/cuizhaowei/
@@ -88,7 +89,7 @@ nsong-1163-mudaiwen,木待问,南宋,1163,隆兴元年状元,,永嘉（今浙江
 nsong-1166-xiaoguoliang,萧国梁,南宋,1166,乾道二年,,永福（今福建永泰）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/nsong-1166-xiaoguoliang/
 nsong-1169-zhengqiao,郑侨,南宋,1169,乾道五年,,莆田（今福建莆田）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/nsong-1169-zhengqiao/
 nsong-1172-huangding,黄定,南宋,1172,乾道八年,,永福（今福建永泰）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/nsong-1172-huangding/
-nsong-1175-zhankui,詹骙,南宋,1175,淳熙二年,,浙江遂安人,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/nsong-1175-zhankui/
+nsong-1175-zhankui,詹骙,南宋,1175,淳熙二年,,浙江遂安人（今浙江淳安）,A,0,,,,籍贯两说：《万姓统谱》作遂安，《福建通志》作崇安；本站取遂安上图,https://wakakacoding.github.io/zhuangyuan/r/nsong-1175-zhankui/
 nsong-1178-yaoying,姚颖,南宋,1178,淳熙五年,,鄞（今浙江宁波）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/nsong-1178-yaoying/
 nsong-1181-huangyou,黄由,南宋,1181,淳熙八年,,长洲（今江苏苏州）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/nsong-1181-huangyou/
 nsong-1184-weijing,卫泾,南宋,1184,淳熙十一年,,昆山（今江苏昆山）,A,0,待考证,1226,,,https://wakakacoding.github.io/zhuangyuan/r/nsong-1184-weijing/
@@ -96,9 +97,9 @@ nsong-1187-wangrong,王容,南宋,1187,淳熙十四年,,长沙人（今湖南长
 nsong-1190-yufu,余复,南宋,1190,绍熙元年,,三山人（福州）（今福建福州一带）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/nsong-1190-yufu/
 chenliang,陈亮,南宋,1193,绍熙四年,,浙江永康人,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/chenliang/
 nsong-1196-zouyinglong,邹应龙,南宋,1196,庆元二年,,福建泰宁人,A,1,,,,《文献通考·选举考》卷32 明载其为该科榜首/状元，据此由 R 改 A；本传未言第一之处仍保留,https://wakakacoding.github.io/zhuangyuan/person/nsong-1196-zouyinglong/
-nsong-1199-cengconglong,曾从龙,南宋,1199,庆元五年,,福建晋江人,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/nsong-1199-cengconglong/
+nsong-1199-cengconglong,曾从龙,南宋,1199,庆元五年,,泉州晋江（今福建泉州）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/nsong-1199-cengconglong/
 nsong-1202-fuxingjian,傅行简,南宋,1202,嘉泰二年,,鄞（今浙江宁波）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/nsong-1202-fuxingjian/
-nsong-1205-maozizhi,毛自知,南宋,1205,开禧元年,,,A,0,,,籍贯；状元身份（正史检索命中，未人工通读）,,https://wakakacoding.github.io/zhuangyuan/r/nsong-1205-maozizhi/
+nsong-1205-maozizhi,毛自知,南宋,1205,开禧元年,,浙江西安人（今浙江衢州）,A,0,,,状元身份（正史检索命中，未人工通读）,籍贯两说：《浙江通志》作西安（衢州），《广西通志》作富川；本站取西安上图,https://wakakacoding.github.io/zhuangyuan/r/nsong-1205-maozizhi/
 nsong-1208-zhengxingzhi,郑性之,南宋,1208,嘉定元年,,福建侯官县人,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/nsong-1208-zhengxingzhi/
 nsong-1211-zhaojianfu,赵建夫,南宋,1211,嘉定四年,,永嘉（今浙江温州）,A,0,,,籍贯,,https://wakakacoding.github.io/zhuangyuan/r/nsong-1211-zhaojianfu/
 nsong-1214-yuanfu,袁甫,南宋,1214,嘉定七年,,浙江宁波人,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/nsong-1214-yuanfu/
@@ -106,7 +107,7 @@ nsong-1217-wuqian,吴潜,南宋,1217,嘉定十年,,宣州宁国人,A,1,,,,,https
 nsong-1220-liuwei,刘渭,南宋,1220,嘉定十三年,,,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/nsong-1220-liuwei/
 nsong-1223-jiangzhongzhen,蒋重珍,南宋,1223,嘉定十六年,,,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/nsong-1223-jiangzhongzhen/
 nsong-1226-wanghuilong,王会龙,南宋,1226,宝庆二年,,天台人（今浙江天台）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/nsong-1226-wanghuilong/
-nsong-1229-huangpu,黄朴,南宋,1229,绍定二年,,福建侯官人,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/nsong-1229-huangpu/
+nsong-1229-huangpu,黄朴,南宋,1229,绍定二年,,福建侯官人（今福建福州）,A,0,,,,籍贯两说：《福建通志》作侯官，《浙江通志》作归安；本站取侯官上图,https://wakakacoding.github.io/zhuangyuan/r/nsong-1229-huangpu/
 nsong-1232-xuyuanjie,徐元杰,南宋,1232,绍定五年,,江西上饶人,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/nsong-1232-xuyuanjie/
 nsong-1235-wushugao,吴叔告,南宋,1235,端平二年,,莆田（今福建莆田）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/nsong-1235-wushugao/
 nsong-1238-zhoutan,周坦,南宋,1238,嘉熙二年,,平阳（今浙江平阳）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/nsong-1238-zhoutan/
@@ -141,6 +142,7 @@ jin-1194-yangyunyi,杨云翼,金,1194,明昌五年甲寅科经义状元,经义�
 jin-1197-nalanhulula,纳兰胡鲁剌,金,1197,承安二年,,大名路怕鲁欢猛安人,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/jin-1197-nalanhulula/
 lijunmin,李俊民,金,1200,承安五年经义状元,经义科,山西晋城人,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/lijunmin/
 jin-1206-liyan,李演,金,1206,泰和六年,,任城（今山东济宁市）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/jin-1206-liyan/
+jin-1209-wanggang,王纲,金,1209,大安元年己巳科,,赵城（今山西洪洞赵城镇）,A,0,,,,《山西通志》卷一百三十六作“王纲字振之洪洞人金章宗时廷试词赋赐状元及第”（章宗朝，早于大安）；《山西通志》卷五十七录金《重修应圣公神祠碑》“状元及第邑人王纲书大定二十八年九月二十日记”，若碑年不误，则其及第早于1188，与大安中不合，或为同名二人，待考证；籍贯：续夷坚志作平阳，通志卷六十五作赵城、卷一百三十六作洪洞（均属平阳府）,https://wakakacoding.github.io/zhuangyuan/r/jin-1209-wanggang/
 jin-1215-lixianneng,李献能,金,1215,贞祐三年,,河中（今山西永济县）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/jin-1215-lixianneng/
 wange,王鹗,金,1224,正大元年甲申科词赋状元,词赋科,曹州东明（今山东东明县）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/wange/
 yuan-1238-yanghuan,杨奂,元,1238,元太宗十年,,陕西干州人,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/yuan-1238-yanghuan/
