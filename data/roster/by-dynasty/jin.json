@@ -1,0 +1,1874 @@
+[
+ {
+  "id": "jin-1124-liuhui",
+  "name": "刘㧑",
+  "dynasty": "金",
+  "year": 1124,
+  "era": "天会二年",
+  "bang": null,
+  "native": "山西浑源",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "gqz",
+    "juan": "卷8",
+    "quote": "余高祖南山翁（按：中州集名撝），金国初，辟进士举，词赋状元也。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "名录作「刘㧑」，中州集/归潜志作「刘撝」",
+   "中榜年份正史未载，名录作天会二年"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1127-xubi",
+  "name": "许必",
+  "dynasty": "金",
+  "year": 1127,
+  "era": "天会五年",
+  "bang": null,
+  "native": "真定（今河北正定县）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "127",
+    "quote": "悉放第，凡七十二人，遂号七十二贤榜。状元许必仕为郎官，一日出左掖门，堕马，首中阃石死，余皆无显者。刘多承亮之谊，荐知槁城县。漫应之，即弃去。年七",
+    "qs": "ok"
+   },
+   {
+    "src": "jsh",
+    "juan": "127",
+    "quote": "余悉放第，凡七十二人，遂号七十二贤榜。状元许必仕为郎官。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1128-zhaodong",
+  "name": "赵洞",
+  "dynasty": "金",
+  "year": 1128,
+  "era": "天会六年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）：《三朝北盟会编》卷二百四十四记天会十年“是年赵洞为词赋第一人”（1132），与名录天会六年（1128）不合，未升级"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "jin-1132-huli",
+  "name": "胡砺",
+  "dynasty": "金",
+  "year": 1132,
+  "era": "天会十年",
+  "bang": null,
+  "native": "磁州(今河北武安市)",
+  "wiki_life": "1107年-1161年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "125",
+    "quote": "十年，举进士第一，授右拾遗，权翰林修撰。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "jsh",
+    "juan": "125"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "jin-1139-shiju",
+  "name": "石琚",
+  "dynasty": "金",
+  "year": 1139,
+  "era": "天眷二年己未科",
+  "bang": null,
+  "native": "定州（今河北定县）",
+  "wiki_life": "1111年-1182年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "88",
+    "quote": "天眷二年，中进士第一。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "jsh",
+    "juan": "88"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "jin-1139-liuyu",
+  "name": "刘彧",
+  "dynasty": "金",
+  "year": 1139,
+  "era": "天眷二年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "jin-1140-zhaoanrong",
+  "name": "赵安荣",
+  "dynasty": "金",
+  "year": 1140,
+  "era": "天眷三年庚申科",
+  "bang": null,
+  "native": "陵川（今山西陵川）",
+  "wiki_life": "",
+  "wiki_note": "正隆五年状元赵安时之弟",
+  "evidence": [
+   {
+    "src": "sxtz",
+    "juan": "卷六十五 选举",
+    "quote": "天眷中进士…赵安荣陵川人安时弟状元",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
+  ],
+  "disputed": [],
+  "native_src": {
+   "src": "sxtz",
+   "juan": "卷六十五",
+   "quote": "赵安荣陵川人",
+   "tier": "非正史（方志（雍正，四库本））",
+   "note": "又见《山西通志》卷065：“赵安荣陵川人安时弟状元”",
+   "prec": "县"
+  },
+  "native_wiki": "陵川（今山西陵川县）",
+  "native_modern": "今山西陵川",
+  "coord": [
+   35.67,
+   113.31
+  ]
+ },
+ {
+  "id": "jin-1142-songduanqing",
+  "name": "宋端卿",
+  "dynasty": "金",
+  "year": 1142,
+  "era": "皇统二年壬戌科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "zzj",
+    "juan": "卷02",
+    "quote": "（朱自牧）皇统中南选宋端卿榜登科。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "仅见《中州集》小传“某榜”称谓；为南选榜首"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1142-liuzhongyuan",
+  "name": "刘仲渊",
+  "dynasty": "金",
+  "year": 1142,
+  "era": "皇统二年壬戌科",
+  "bang": null,
+  "native": "大兴府宛平县（今北京市西南）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "smbmhb",
+    "juan": "卷二百四十五",
+    "quote": "刘仲渊，字介石，燕山人，亶朝状元及第",
+    "qs": "ok"
+   },
+   {
+    "src": "smbmhb",
+    "juan": "卷二百四十五",
+    "quote": "杨伯雄，咸平府人，状元刘仲渊榜及第",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "《金史》多见「刘仲渊」任廉察/同修国史/贺宋正旦使，未见状元或第一记载",
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
+   "年份：《三朝北盟会编》仅作“亶朝”（熙宗朝），名录皇统二年在其范围内"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "jin-1149-wangkan",
+  "name": "王堪",
+  "dynasty": "金",
+  "year": 1149,
+  "era": "皇统九年己巳科",
+  "bang": null,
+  "native": "棣州",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "smbmhb",
+    "juan": "卷二百四十五",
+    "quote": "孔固，字徳逺，孔子四十七代孙，状元王堪榜及第",
+    "qs": "ok"
+   },
+   {
+    "src": "smbmhb",
+    "juan": "卷二百四十五",
+    "quote": "王堪，棣州人，亶朝经义及第",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
+   "年份：《三朝北盟会编》仅作“亶朝”（熙宗朝），名录皇统九年在其范围内"
+  ],
+  "disputed": [],
+  "native_src": {
+   "src": "smbmhb",
+   "juan": "卷二百四十五",
+   "quote": "王堪，棣州人",
+   "tier": "非正史（杂史（编年体））"
+  }
+ },
+ {
+  "id": "jin-1149-wangyanqian",
+  "name": "王彦潜",
+  "dynasty": "金",
+  "year": 1149,
+  "era": "皇统九年己巳科",
+  "bang": null,
+  "native": "河间（今河北河间县）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "90",
+    "quote": "，起复吏部员外郎，摄左司员外郎。  　　王彦潜、常大荣、李庆之皆在吏部选中，吏部拟彦潜、大荣皆进士第一，次当在庆之上，彦潜洺州防御判官，大荣临海军",
+    "qs": "ok"
+   },
+   {
+    "src": "jsh",
+    "juan": "90",
+    "quote": "王彦潜、常大荣、李庆之皆在吏部选中，吏部拟彦潜、大荣皆进士第一。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1151-changdarong",
+  "name": "常大荣",
+  "dynasty": "金",
+  "year": 1151,
+  "era": "天德三年辛未科词赋状元",
+  "bang": "词赋科",
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "90",
+    "quote": "部员外郎，摄左司员外郎。  　　王彦潜、常大荣、李庆之皆在吏部选中，吏部拟彦潜、大荣皆进士第一，次当在庆之上，彦潜洺州防御判官，大荣临海军节度判官",
+    "qs": "ok"
+   },
+   {
+    "src": "jsh",
+    "juan": "90",
+    "quote": "王彦潜、常大荣、李庆之皆在吏部选中，吏部拟彦潜、大荣皆进士第一。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1151-yangjianzhong",
+  "name": "杨建中",
+  "dynasty": "金",
+  "year": 1151,
+  "era": "天德三年词义状元",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "75",
+    "quote": "子宜中，天德三年，赐杨建中榜及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
+   "仅见“某榜”称谓（列传旁见）"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1152-wangconglong",
+  "name": "王从龙",
+  "dynasty": "金",
+  "year": 1152,
+  "era": "天德四年经义状元",
+  "bang": "经义科",
+  "native": "山东密州（今山东诸城县）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）：《三朝北盟会编》卷二百四十五称“亶时经义状元”（熙宗朝1135—1149），与名录天德四年（1152，海陵朝）不合，未升级"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "jin-1154-lvzhonghan",
+  "name": "吕忠翰",
+  "dynasty": "金",
+  "year": 1154,
+  "era": "贞元二年甲戌科",
+  "bang": null,
+  "native": "燕（北京市）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "125",
+    "quote": "金带袭衣，及赐白金以奉母。改左拾遗。进士吕忠翰廷试已在第一，未唱名，海陵以忠翰程文示伯仁，问其优劣，伯仁对曰：「当在优等。」海陵曰：「此今试状元也",
+    "qs": "ok"
+   },
+   {
+    "src": "jsh",
+    "juan": "125",
+    "quote": "进士吕忠翰廷试已在第一，未唱名，……海陵曰：“此今试状元也。”",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1155-wumingfu",
+  "name": "武明甫",
+  "dynasty": "金",
+  "year": 1155,
+  "era": "|贞元三年乙亥科",
+  "bang": null,
+  "native": "陵川（今山西陵川）",
+  "wiki_life": "",
+  "wiki_note": "完颜亮朝",
+  "evidence": [
+   {
+    "src": "sxtz",
+    "juan": "卷六十五 选举",
+    "quote": "贞元中进士…武明甫陵川人状元",
+    "qs": "ok"
+   },
+   {
+    "src": "sxtz",
+    "juan": "卷二十三",
+    "quote": "金武明甫贞元中状元及第",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
+  ],
+  "disputed": [],
+  "native_src": {
+   "src": "sxtz",
+   "juan": "卷065",
+   "quote": "武明甫陵川人状元",
+   "tier": "方志（清修《山西通志》选举表）",
+   "note": "",
+   "prec": "县"
+  },
+  "native_wiki": "陵川（今山西陵川县）",
+  "native_modern": "今山西陵川",
+  "coord": [
+   35.67,
+   113.31
+  ]
+ },
+ {
+  "id": "jin-1157-zhengzidan",
+  "name": "郑子聃",
+  "dynasty": "金",
+  "year": 1157,
+  "era": "正隆二年",
+  "bang": null,
+  "native": "大定（今内蒙大名城）",
+  "wiki_life": "1126年-1180年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "125",
+    "quote": "韩昉、张钧后，则有翟永固，近日则张景仁、郑子聃，今则伯仁而已，其次未见能文者。吕忠翰草《降海陵庶人诏》，点窜再四，终不能尽朕意，状元虽以词赋甲天下",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "jsh",
+    "juan": "125"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "jin-1160-zhaoanshi",
+  "name": "赵安时",
+  "dynasty": "金",
+  "year": 1160,
+  "era": "正隆五年",
+  "bang": null,
+  "native": "陵川（今山西陵川）",
+  "wiki_life": "",
+  "wiki_note": "天眷三年状元赵安荣之兄",
+  "evidence": [
+   {
+    "src": "sxtz",
+    "juan": "卷六十五 选举",
+    "quote": "正隆中进士赵安时陵川人状元永定军节度使",
+    "qs": "ok"
+   },
+   {
+    "src": "sxtz",
+    "juan": "卷一百七十三 陵墓",
+    "quote": "安时正隆状元",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
+  ],
+  "disputed": [],
+  "native_src": {
+   "src": "sxtz",
+   "juan": "卷065",
+   "quote": "赵安时陵川人状元",
+   "tier": "方志（清修《山西通志》选举表）",
+   "note": "",
+   "prec": "县"
+  },
+  "native_wiki": "陵川",
+  "native_modern": "今山西陵川",
+  "coord": [
+   35.67,
+   113.31
+  ]
+ },
+ {
+  "id": "jin-1161-renzhongjie",
+  "name": "任忠杰",
+  "dynasty": "金",
+  "year": 1161,
+  "era": "大定元年辛巳科状元",
+  "bang": null,
+  "native": "天城（山西天镇县）",
+  "wiki_life": "",
+  "wiki_note": "完颜亮朝最后一位状元",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "75",
+    "quote": "特赐贻庆任忠杰榜第三甲进士。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
+   "仅见“某榜”称谓（列传旁见）"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1163-mengzongxian",
+  "name": "孟宗献",
+  "dynasty": "金",
+  "year": 1163,
+  "era": "大定三年",
+  "bang": null,
+  "native": "开封（今河南开封）",
+  "wiki_life": "",
+  "wiki_note": "三元及第",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "125",
+    "quote": "，俟唱名乃出，海陵嘉其慎密。转翰林修撰。孟宗献发解第一，伯仁读其程文，称之「此人当成大名」。是岁，宗献府试、省试、廷试皆第一，号「孟四元」，时论以",
+    "qs": "ok"
+   },
+   {
+    "src": "jsh",
+    "juan": "125",
+    "quote": "是岁，宗献府试、省试、廷试皆第一，号“孟四元”。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "zzj",
+    "juan": "卷九 孟内翰宗献"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "开封",
+  "native_modern": "今河南开封",
+  "coord": [
+   34.8,
+   114.31
+  ],
+  "native_src": {
+   "src": "zzj",
+   "juan": "卷09",
+   "quote": "宗献字友之开封人大定三年乡府省御四试皆第一",
+   "tier": "总集小传（金元好问《中州集》）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "jin-1170-shizhaoyu",
+  "name": "史诏鱼",
+  "dynasty": "金",
+  "year": 1170,
+  "era": "大定十年",
+  "bang": null,
+  "native": "定州（河北定县）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "zzj",
+    "juan": "卷08",
+    "quote": "献可字仲和……大定十年史绍鱼牓进士。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "名录作「史诏鱼」，中州集作「史绍鱼」"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1173-zhaochengyuan",
+  "name": "赵承元",
+  "dynasty": "金",
+  "year": 1173,
+  "era": "大定十三年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "51",
+    "quote": "文士有偶中魁选，不问操履，而辄授翰苑之职。如赵承元，朕闻其无士行，果败露。自今榜首，先访察其乡行。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1173-tudanyi",
+  "name": "徒单镒",
+  "dynasty": "金",
+  "year": 1173,
+  "era": "大定十三年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "?-1214年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "99",
+    "quote": "考试镒等二十七人及第。镒授两官，余授一官。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "jsh",
+    "juan": "99"
+   }
+  ],
+  "confidence": "B",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "jin-1176-zhangbi",
+  "name": "张璧",
+  "dynasty": "金",
+  "year": 1176,
+  "era": "大定十六年",
+  "bang": null,
+  "native": "河北易州人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "jin-1179-zhangxingjian",
+  "name": "张行简",
+  "dynasty": "金",
+  "year": 1179,
+  "era": "大定十九年",
+  "bang": null,
+  "native": "莒州日照县（父张暐本传）",
+  "wiki_life": "1146年-1215年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "106",
+    "quote": "行简字敬甫。颖悟力学，淹贯经史。大定十九年进士第一，除应奉翰林文字。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1182-zhangfu",
+  "name": "张甫",
+  "dynasty": "金",
+  "year": 1182,
+  "era": "大定二十二年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "xyjz",
+    "juan": "卷四 张甫梦应",
+    "quote": "张状元甫，唱第前，梦人以物易其首",
+    "note": "元好问记，未记年份",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
+   "未约纪年：所据文献明言状元/第一，但未记年份，年份仍据名录"
+  ],
+  "disputed": [
+   "人工复核：《金史》卷一百一十八《张甫传》的传主是金末归顺的地方武装首领（赐姓完颜），不是大定二十二年（1182）的状元张甫。",
+   "《金史》卷118「张甫」为贞祐义军所封高阳公，与名录大定二十二年状元非同一人，未关联。"
+  ],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1185-xuwei",
+  "name": "徐韪",
+  "dynasty": "金",
+  "year": 1185,
+  "era": "大定二十五年",
+  "bang": null,
+  "native": "沧州人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "zzj",
+    "juan": "卷08",
+    "quote": "沧州徐韙、太原王泽、大兴吕造经其指授，卒成大名……龙津桥上黄金牓，三见门生是状元。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "状元身份据中州集「三见门生是状元」及三人并列推定，正史未见「第一」"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1188-lixiu",
+  "name": "李修",
+  "dynasty": "金",
+  "year": 1188,
+  "era": "大定二十八年戉申科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "jin-x-zhengshichang",
+  "name": "郑时昌",
+  "dynasty": "金",
+  "year": null,
+  "era": "",
+  "bang": null,
+  "native": "洪洞（今山西洪洞）",
+  "wiki_life": "",
+  "wiki_note": "大定间某科殿试第一",
+  "evidence": [
+   {
+    "src": "sxtz",
+    "juan": "卷一百三十六 人物",
+    "quote": "郑时昌字仲康洪洞人孝友性成…大定间对策第一",
+    "note": "原文作“对策第一”，卷六十五列于大定中进士，注文有“状元”字样（前有缺字）",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "中榜年份",
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
+   "状元身份：原文“对策第一”，未直书状元"
+  ],
+  "disputed": [],
+  "native_wiki": "洪洞（今山西洪洞县）",
+  "native_modern": "今山西洪洞",
+  "coord": [
+   36.32,
+   111.67
+  ],
+  "native_src": {
+   "src": "sxtz",
+   "juan": "卷136",
+   "quote": "郑时昌字仲康洪洞人孝友性成八歳通易读书过目成诵寒暑不辍大定间对策第一",
+   "tier": "方志（清修《山西通志》人物）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "jin-1191-wangze",
+  "name": "王泽",
+  "dynasty": "金",
+  "year": 1191,
+  "era": "明昌二年辛亥科词赋状元",
+  "bang": "词赋科",
+  "native": "阳曲（今山西阳曲县）",
+  "wiki_life": "?-1220年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "105",
+    "quote": "特赐王泽榜及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
+   "仅见“某榜”称谓（列传旁见）；另见卷9“并附王泽榜”"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1191-chenzai",
+  "name": "陈载",
+  "dynasty": "金",
+  "year": 1191,
+  "era": "明昌二年辛亥科经义状元",
+  "bang": "经义科",
+  "native": "高平（今山西高平）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "sxtz",
+    "juan": "卷六十五 选举",
+    "quote": "明昌二年进士…陈载髙平人状元",
+    "qs": "ok"
+   },
+   {
+    "src": "sxtz",
+    "juan": "卷一百三十八 人物",
+    "quote": "陈载高平人力学…明昌间举经义第一人",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
+  ],
+  "disputed": [],
+  "native_src": {
+   "src": "sxtz",
+   "juan": "卷一百三十八",
+   "quote": "陈载高平人",
+   "tier": "非正史（方志（雍正，四库本））",
+   "note": "又见《山西通志》卷138：“陈载高平人力学安平日诵数千言明昌间举经义第一人”",
+   "prec": "县"
+  },
+  "native_wiki": "高平",
+  "native_modern": "今山西高平",
+  "coord": [
+   35.8,
+   112.92
+  ]
+ },
+ {
+  "id": "jin-1193-sunyongkang",
+  "name": "孙用康",
+  "dynasty": "金",
+  "year": 1193,
+  "era": "明昌四年癸丑科",
+  "bang": null,
+  "native": "燕（今北京市）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "129",
+    "quote": "明昌四年，拜参知政事，赐孙用康榜下进士第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
+   "仅见“某榜”称谓（列传旁见）"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1194-zhangji",
+  "name": "张楫",
+  "dynasty": "金",
+  "year": 1194,
+  "era": "明昌五年甲寅科词赋状元",
+  "bang": "词赋科",
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "zzj",
+    "juan": "卷08",
+    "quote": "叔祖邦彦……张楫牓登科。",
+    "qs": "ok"
+   },
+   {
+    "src": "zzj",
+    "juan": "卷09",
+    "quote": "父成谊……张楫牓登科。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "仅见《中州集》小传“某榜”称谓"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1194-yangyunyi",
+  "name": "杨云翼",
+  "dynasty": "金",
+  "year": 1194,
+  "era": "明昌五年甲寅科经义状元",
+  "bang": "经义科",
+  "native": "山西昔阳",
+  "wiki_life": "1170年-1228年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "110",
+    "quote": "登明昌五年进士第一，词赋亦中乙科。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "jsh",
+    "juan": "110"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "jin-1197-lvzao",
+  "name": "吕造",
+  "dynasty": "金",
+  "year": 1197,
+  "era": "承安二年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "zzj",
+    "juan": "卷07",
+    "quote": "节字正臣，泾州人，吕造牓进士。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "仅见《中州集》小传“某榜”称谓"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1197-lizhu",
+  "name": "李著",
+  "dynasty": "金",
+  "year": 1197,
+  "era": "承安二年",
+  "bang": null,
+  "native": "真定（今河北正定县）",
+  "wiki_life": "?-1220年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "zzj",
+    "juan": "卷九",
+    "quote": "承安二年经义第一人",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "zzj",
+    "juan": "卷九 李治中著"
+   }
+  ],
+  "confidence": "B",
+  "full": true,
+  "pending": [
+   "仅见《中州集》小传，正史未载；按规则最高 B"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "jin-1197-nalanhulula",
+  "name": "纳兰胡鲁剌",
+  "dynasty": "金",
+  "year": 1197,
+  "era": "承安二年",
+  "bang": null,
+  "native": "大名路怕鲁欢猛安人",
+  "wiki_life": "?-1218年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "103",
+    "quote": "纳兰胡鲁剌，大名路怕鲁欢猛安人。……承安二年，进士第一，除应奉翰林文字。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "jsh",
+    "juan": "103"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "jin-1200-yanzhangyan",
+  "name": "阎长言",
+  "dynasty": "金",
+  "year": 1200,
+  "era": "承安五年",
+  "bang": null,
+  "native": "济南长清（中州集）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "zzj",
+    "juan": "卷九",
+    "quote": "长言字子秀，济南长清人……平生多奇梦，果魁天下，士论厌服。在翰苑十年，出为河南府治中，被召以道梗不得前，卒于亳州。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": true,
+  "pending": [
+   "籍贯",
+   "生卒确切年份（《中州集》未载）"
+  ],
+  "disputed": [],
+  "life": {
+   "birth": "待考证",
+   "death": "待考证",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "出为河南府治中，被召以道梗不得前，卒于亳州。",
+     "src": "zzj",
+     "juan": "卷九 阎治中长言",
+     "tier": "总集小传"
+    }
+   ],
+   "note": "《中州集》仅记卒于亳州，未书年月；本名咏，避卫绍王讳改长言",
+   "done": true
+  },
+  "native_wiki": "",
+  "native_src": {
+   "quote": "长言字子秀，济南长清人，客居兖州之嵫阳。",
+   "src": "zzj",
+   "juan": "卷九",
+   "tier": "总集小传（笔记级）"
+  }
+ },
+ {
+  "id": "lijunmin",
+  "name": "李俊民",
+  "dynasty": "金",
+  "year": 1200,
+  "era": "承安五年经义状元",
+  "bang": "经义科",
+  "native": "山西晋城人",
+  "wiki_life": "1176年-1260年",
+  "wiki_note": "精通二程理学",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "158",
+    "quote": "封魏国公，谥文正。子履，集贤大学士。  李俊民字用章，泽州人，得河南程氏传受之学。金承安中举进士第一，应奉翰林文字。未几，弃官不仕，以所学教授乡里",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ys",
+    "juan": "158"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "jin-1203-xutianming",
+  "name": "许天明",
+  "dynasty": "金",
+  "year": 1203,
+  "era": "泰和三年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "jin-1206-liyan",
+  "name": "李演",
+  "dynasty": "金",
+  "year": 1206,
+  "era": "泰和六年",
+  "bang": null,
+  "native": "任城（今山东济宁市）",
+  "wiki_life": "?-1214年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "121",
+    "quote": "李演，字巨川，任城人。……泰和六年进士第一，除应奉翰林文字。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "jsh",
+    "juan": "121"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "jin-1209-wanggang",
+  "name": "王纲",
+  "dynasty": "金",
+  "year": 1209,
+  "era": "大安元年己巳科",
+  "bang": null,
+  "native": "赵城（今山西洪洞赵城镇）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "xyjz",
+    "juan": "卷四 平阳贡院鹤",
+    "quote": "御题《获承休德不遑康宁》，状元王纲，平阳",
+    "note": "元好问记大安初平阳试事",
+    "qs": "ok"
+   },
+   {
+    "src": "sxtz",
+    "juan": "卷六十五 选举",
+    "quote": "大安中进士王纲赵城人状元翰林修撰",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
+  ],
+  "disputed": [
+   "《山西通志》卷一百三十六作“王纲字振之洪洞人金章宗时廷试词赋赐状元及第”（章宗朝，早于大安）",
+   "《山西通志》卷五十七录金《重修应圣公神祠碑》“状元及第邑人王纲书大定二十八年九月二十日记”，若碑年不误，则其及第早于1188，与大安中不合，或为同名二人，待考证",
+   "籍贯：续夷坚志作平阳，通志卷六十五作赵城、卷一百三十六作洪洞（均属平阳府）"
+  ],
+  "native_src": {
+   "src": "sxtz",
+   "juan": "卷六十五",
+   "quote": "王纲赵城人状元",
+   "tier": "非正史（方志（雍正，四库本））",
+   "note": "《山西通志》卷136人物作“王纲字振之洪洞人”；金赵城县今为洪洞县赵城镇",
+   "prec": "县"
+  },
+  "native_wiki": "赵城",
+  "native_modern": "今山西洪洞赵城镇",
+  "coord": [
+   36.38,
+   111.69
+  ]
+ },
+ {
+  "id": "jin-1213-huangshang",
+  "name": "黄裳",
+  "dynasty": "金",
+  "year": 1213,
+  "era": "至宁元年癸酉科词赋状元",
+  "bang": "词赋科",
+  "native": "山西",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "zzj",
+    "juan": "卷08",
+    "quote": "犹子天彛字仲常，黄裳牓登科。",
+    "qs": "ok"
+   },
+   {
+    "src": "gqz",
+    "juan": "卷5",
+    "quote": "马天来……黄裳牓经义进士。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "「黄裳榜」系笔记以榜首名榜；金史未见本人「第一」明文"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1213-wanyansulan",
+  "name": "完颜速兰",
+  "dynasty": "金",
+  "year": 1213,
+  "era": "至宁元年策论状元",
+  "bang": "策论科",
+  "native": "女真族（本传未载猛安路分）",
+  "wiki_life": "?-1231年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "gqz",
+    "juan": "卷6",
+    "quote": "完颜参政速兰，字伯阳……至宁元年女直进士魁也。",
+    "qs": "ok"
+   },
+   {
+    "src": "jsh",
+    "juan": "109",
+    "quote": "完颜素兰，一名翼，字伯扬，至宁元年策论进士也。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1213-zhangben",
+  "name": "张本",
+  "dynasty": "金",
+  "year": 1213,
+  "era": "贞祐元年癸酉科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "状元身份（待考证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": [
+   "人工复核：《元史》卷一百九十七《孝友传》中的张本是东昌茌平的孝子，不是金贞祐元年（1213）的状元张本。"
+  ],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1215-lixianneng",
+  "name": "李献能",
+  "dynasty": "金",
+  "year": 1215,
+  "era": "贞祐三年",
+  "bang": null,
+  "native": "河中（今山西永济县）",
+  "wiki_life": "1190年-1232年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "110",
+    "quote": "落，于是文风大衰。贞祐初，秉文为省试，得李献能赋，虽格律稍疏而词藻颇丽，擢为第一。举人遂大喧噪，诉于台省，以为赵公大坏文格，且作诗谤之，久之方息。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "jsh",
+    "juan": "126"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "jin-1216-chengjiashan",
+  "name": "程嘉善",
+  "dynasty": "金",
+  "year": 1216,
+  "era": "贞祐四年丙子科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "jin-1218-zhangzhongan",
+  "name": "张仲安",
+  "dynasty": "金",
+  "year": 1218,
+  "era": "兴定二年戉寅科",
+  "bang": null,
+  "native": "燕山（今天津蓟县附近）",
+  "wiki_life": "?-1220年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "gqz",
+    "juan": "卷5",
+    "quote": "张翰林仲安，字晋臣，燕山人，贞祐六年词赋魁也。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "归潜志作「贞祐六年」；是年实为兴定二年（1218），刘祁或沿用贞祐纪年",
+   "籍贯「燕山」较笼统，不落图",
+   "籍贯：《归潜志》卷5作“燕山人”（金代燕山所指范围宽，未能落到县），未落坐标（2026-10-13）"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1221-liuyu",
+  "name": "刘遇",
+  "dynasty": "金",
+  "year": 1221,
+  "era": "兴定五年辛巳科词赋状元",
+  "bang": "词赋科",
+  "native": "真定人（今河北正定）",
+  "wiki_life": "?-1222年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "gqz",
+    "juan": "卷5",
+    "quote": "刘遇鼎臣，真定人，兴定五年词赋魁也。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": true,
+  "pending": [
+   "仅见《归潜志》笔记（明言“词赋魁”），按笔记来源定为 B"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "真定（今河北正定县）",
+  "native_modern": "今河北正定",
+  "coord": [
+   38.15,
+   114.57
+  ],
+  "native_src": {
+   "src": "gqz",
+   "juan": "卷五",
+   "quote": "刘遇鼎臣，真定人，兴定五年词赋魁也",
+   "tier": "笔记（金末刘祁《归潜志》）",
+   "note": ""
+  },
+  "life": {
+   "birth": "待考证",
+   "death": "待考证",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "后出为鄜州帅府经历官，遇害。",
+     "src": "gqz",
+     "juan": "卷五",
+     "tier": "笔记"
+    }
+   ],
+   "note": "《归潜志》记遇害，未书确切年月；兴定五年词赋魁",
+   "done": true
+  }
+ },
+ {
+  "id": "jin-1221-woleiyede",
+  "name": "斡勒业德",
+  "dynasty": "金",
+  "year": 1221,
+  "era": "兴定五年辛巳科策论状元",
+  "bang": "策论科",
+  "native": "女真人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "51",
+    "quote": "五年，上赐进士斡勒业德等二十八人及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1223-fuzhulichahan",
+  "name": "富珠哩察罕",
+  "dynasty": "金",
+  "year": 1223,
+  "era": "元光二年策论状元",
+  "bang": "策论科",
+  "native": "女真人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "wange",
+  "name": "王鹗",
+  "dynasty": "金",
+  "year": 1224,
+  "era": "正大元年甲申科词赋状元",
+  "bang": "词赋科",
+  "native": "曹州东明（今山东东明县）",
+  "wiki_life": "1190年-1273年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "160",
+    "quote": "金正大元年，中进士第一甲第一人出身，授应奉翰林文字。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "jin-1224-beishulunchanghe",
+  "name": "孛术论长河",
+  "dynasty": "金",
+  "year": 1224,
+  "era": "正大元年甲申科策论进士第一",
+  "bang": "策论科",
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "17",
+    "quote": "甲辰，赐策论进士孛术论长河以下十余人及第，经义进士张介以下五人及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "本纪「赐某以下」首名，未直言「第一」"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1227-luya",
+  "name": "卢亚",
+  "dynasty": "金",
+  "year": 1227,
+  "era": "正大四年丁亥科词赋状元",
+  "bang": "词赋科",
+  "native": "偃师（今河南偃师县）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "17",
+    "quote": "赐词赋经义卢亚以下进士第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "jin-1230-litang",
+  "name": "李塘",
+  "dynasty": "金",
+  "year": 1230,
+  "era": "正大七年庚寅科词赋状元",
+  "bang": "词赋科",
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "jin-x-liuhai",
+  "name": "刘海",
+  "dynasty": "金",
+  "year": null,
+  "era": "",
+  "bang": null,
+  "native": "兴州（今山西兴县）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "sxtz",
+    "juan": "卷六十五 选举",
+    "quote": "刘海兴县人状元河南府尹",
+    "note": "列于“金进士（年号失考）”",
+    "qs": "ok"
+   },
+   {
+    "src": "sxtz",
+    "juan": "卷一百六 人物",
+    "quote": "刘海兴州人举进士第一人",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "中榜年份",
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
+  ],
+  "disputed": [],
+  "native_wiki": "山西兴县人",
+  "native_modern": "今山西兴县",
+  "coord": [
+   38.38,
+   111.07
+  ],
+  "native_src": {
+   "src": "sxtz",
+   "juan": "卷106",
+   "quote": "刘海兴州人举进士第一人",
+   "tier": "方志（清修《山西通志》）",
+   "note": "金兴州治在今兴县；府州级精度",
+   "prec": "府州"
+  }
+ },
+ {
+  "id": "jin-x-lian",
+  "name": "李安",
+  "dynasty": "金",
+  "year": null,
+  "era": "",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "中榜年份",
+   "籍贯",
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "jin-x-zhangjizu",
+  "name": "张继祖",
+  "dynasty": "金",
+  "year": null,
+  "era": "",
+  "bang": null,
+  "native": "临晋（今山西临猗临晋镇）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "sxtz",
+    "juan": "卷六十五 选举",
+    "quote": "张继祖临晋人状元宿州保静军节度副使",
+    "note": "列于“金进士（年号失考）”",
+    "qs": "ok"
+   },
+   {
+    "src": "sxtz",
+    "juan": "卷一百七十三 陵墓",
+    "quote": "金状元节度张继祖墓",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "中榜年份",
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
+  ],
+  "disputed": [],
+  "native_wiki": "山西临晋人",
+  "native_modern": "今山西临猗临晋镇",
+  "coord": [
+   35.1,
+   110.55
+  ],
+  "native_src": {
+   "src": "sxtz",
+   "juan": "卷065",
+   "quote": "张继祖临晋人状元",
+   "tier": "方志（清修《山西通志》选举表）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "jin-x-liuwenlong",
+  "name": "刘文龙",
+  "dynasty": "金",
+  "year": null,
+  "era": "",
+  "bang": null,
+  "native": "内乡（今河南内乡）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "hntz",
+    "juan": "卷四十五 选举",
+    "quote": "刘文龙内乡人状元",
+    "note": "列于金代进士之末，未记年号",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "中榜年份",
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
+  ],
+  "disputed": [],
+  "native_src": {
+   "src": "hntz",
+   "juan": "卷45",
+   "quote": "刘文龙内乡人状元",
+   "tier": "方志（清修《河南通志》）",
+   "note": "",
+   "prec": "县"
+  },
+  "native_wiki": "内乡",
+  "native_modern": "今河南内乡",
+  "coord": [
+   33.21,
+   111.86
+  ]
+ },
+ {
+  "id": "jin-x-yuankan",
+  "name": "元堪",
+  "dynasty": "金",
+  "year": null,
+  "era": "",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "中榜年份",
+   "籍贯",
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ }
+]

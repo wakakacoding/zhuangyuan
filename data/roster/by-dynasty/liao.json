@@ -1,0 +1,1568 @@
+[
+ {
+  "id": "liao-988-gaoju",
+  "name": "高举",
+  "dynasty": "辽",
+  "year": 988,
+  "era": "统和六年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "12",
+    "quote": "是岁，诏开贡举，放高举一人及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
+   "本科仅放一人，非“第一”明文"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-989-gaozheng",
+  "name": "高正",
+  "dynasty": "辽",
+  "year": 989,
+  "era": "统和七年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "?-1016年",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "lsh",
+    "juan": "88"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "《辽史》本传只作“统和初，举进士第”，没有言及第一。"
+  ]
+ },
+ {
+  "id": "liao-990-zhengyuncong",
+  "name": "郑云从",
+  "dynasty": "辽",
+  "year": 990,
+  "era": "统和八年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "13",
+    "quote": "是岁，放郑云从等二人及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-991-shiyongzhong",
+  "name": "石用中",
+  "dynasty": "辽",
+  "year": 991,
+  "era": "统和九年辛卯科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "13",
+    "quote": "是岁，放进士石用中一人及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
+   "本科仅放一人，非“第一”明文"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "1022",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "五月乙亥，参知政事石用中薨。",
+     "src": "lsh",
+     "juan": "卷十六 圣宗纪七 太平二年",
+     "tier": "正史本纪"
+    }
+   ],
+   "note": "本纪仅书官名，同人推定",
+   "done": true
+  }
+ },
+ {
+  "id": "liao-993-wangxizai",
+  "name": "王熙载",
+  "dynasty": "辽",
+  "year": 993,
+  "era": "统和十一年癸巳科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "13",
+    "quote": "是岁，放进士王熙载等二人及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-994-lvdemao",
+  "name": "吕德懋",
+  "dynasty": "辽",
+  "year": 994,
+  "era": "统和十二年甲午科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "?-1031年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "13",
+    "quote": "是年，放进士吕德懋等二人及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "1031",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "冬十月戊寅，宰臣吕德懋薨。",
+     "src": "lsh",
+     "juan": "卷十八 兴宗纪一 景福元年",
+     "tier": "正史本纪"
+    }
+   ],
+   "note": "",
+   "done": true
+  }
+ },
+ {
+  "id": "liao-995-wangyongji",
+  "name": "王用极",
+  "dynasty": "辽",
+  "year": 995,
+  "era": "统和十三年乙未科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "13",
+    "quote": "是年，放进士王用极等二人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-996-zhangjian",
+  "name": "张俭",
+  "dynasty": "辽",
+  "year": 996,
+  "era": "统和十四年丙申科",
+  "bang": null,
+  "native": "南京宛平人（今北京市）",
+  "wiki_life": "963年－1053年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "80",
+    "quote": "张俭，宛平人，性端悫，不事外饰。……统和十四年，举进士第一，调云州幕官。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "lsh",
+    "juan": "80"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "liao-997-chending",
+  "name": "陈鼎",
+  "dynasty": "辽",
+  "year": 997,
+  "era": "统和十五年丁酉科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "13",
+    "quote": "是年，放进士陈鼎等二人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-998-yangyouxuan",
+  "name": "杨又玄",
+  "dynasty": "辽",
+  "year": 998,
+  "era": "统和十六年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "14",
+    "quote": "是年，放进士杨又玄等二人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-999-chuxi",
+  "name": "初锡",
+  "dynasty": "辽",
+  "year": 999,
+  "era": "统和十七年己亥科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "14",
+    "quote": "是年，放进士初锡等四人及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1000-nanchengbao",
+  "name": "南承保",
+  "dynasty": "辽",
+  "year": 1000,
+  "era": "统和十八年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "14",
+    "quote": "是年，放进士南承保等三人及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1002-xingxiang",
+  "name": "邢祥",
+  "dynasty": "辽",
+  "year": 1002,
+  "era": "统和二十年壬寅年科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "14",
+    "quote": "放进士邢祥等六人及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1004-likefeng",
+  "name": "李可封",
+  "dynasty": "辽",
+  "year": 1004,
+  "era": "统和二十二年甲辰科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "14",
+    "quote": "是年，放进士李可封等三人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1006-yangji",
+  "name": "杨佶",
+  "dynasty": "辽",
+  "year": 1006,
+  "era": "统和二十四年丙午科",
+  "bang": null,
+  "native": "南京（今北京市）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "89",
+    "quote": "进《述怀诗》，上嘉叹。方将大用，卒。  杨佶，字正叔，南京人。幼颖悟异常，读书自能成句，识者奇之。弱冠，声名籍甚。统和二十四年，举进士第一，历校",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "lsh",
+    "juan": "89"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "liao-1008-shikezhong",
+  "name": "史克忠",
+  "dynasty": "辽",
+  "year": 1008,
+  "era": "统和二十六年戉申科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "14",
+    "quote": "是年，放进士史克忠等一十三人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1009-liueryi",
+  "name": "刘二宜",
+  "dynasty": "辽",
+  "year": 1009,
+  "era": "统和二十七年己酉科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "14",
+    "quote": "是岁，御前引试刘二宜等三人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "本纪「引试某等」首名；籍贯未详"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1011-gaochengyan",
+  "name": "高承颜",
+  "dynasty": "辽",
+  "year": 1011,
+  "era": "统和二十九年辛亥科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "15",
+    "quote": "是年，御试，放高承颜等二人及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1012-shijian",
+  "name": "史简",
+  "dynasty": "辽",
+  "year": 1012,
+  "era": "开泰元年壬子科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "15",
+    "quote": "诏裴玄感、邢祥知礼部贡举，放进士史简等十九人及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1013-xianyumaozhao",
+  "name": "鲜于茂昭",
+  "dynasty": "辽",
+  "year": 1013,
+  "era": "开泰二年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "15",
+    "quote": "放进士鲜于茂昭等六人及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1014-zhangyongxing",
+  "name": "张用行",
+  "dynasty": "辽",
+  "year": 1014,
+  "era": "开泰三年甲寅科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "15",
+    "quote": "放进士张用行等三十一人及第出身。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1016-sunjie",
+  "name": "孙杰",
+  "dynasty": "辽",
+  "year": 1016,
+  "era": "开泰五年丙辰科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "15",
+    "quote": "是岁，放进士孙杰等四十八人及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "本纪「放进士某等」首名；籍贯未详"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1018-zhangkegong",
+  "name": "张克恭",
+  "dynasty": "辽",
+  "year": 1018,
+  "era": "开泰七年戉午科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "16",
+    "quote": "放进士张克恭等三十七人及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1020-zhangzhongju",
+  "name": "张仲举",
+  "dynasty": "辽",
+  "year": 1020,
+  "era": "开泰九年庚申科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "16",
+    "quote": "放进士张仲举等四十五人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1022-zhangjian",
+  "name": "张渐",
+  "dynasty": "辽",
+  "year": 1022,
+  "era": "太平二年壬戌科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "16",
+    "quote": "是年，放进士张渐等四十七人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1024-lijiong",
+  "name": "李炯",
+  "dynasty": "辽",
+  "year": 1024,
+  "era": "太平四年甲子科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "《辽史》卷16是年（太平四年上下文）放进士首名为「李𧫎」，与名录「李炯」字形不合，未改名、未升级",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "liao-1025-zhangyu",
+  "name": "张昱",
+  "dynasty": "辽",
+  "year": 1025,
+  "era": "太平五年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "17",
+    "quote": "求进士，得七十二人，命赋诗，第其工拙，以张昱等一十四人为太子校书郎。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志/列传仅记“某等/某榜”，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1028-zhangyou",
+  "name": "张宥",
+  "dynasty": "辽",
+  "year": 1028,
+  "era": "太平八年戉辰科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "17",
+    "quote": "是岁，放进士张宥等五十七人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1029-zhangrenji",
+  "name": "张仁纪",
+  "dynasty": "辽",
+  "year": 1029,
+  "era": "太平九年",
+  "bang": null,
+  "native": "沈州（今辽宁沈阳市）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "《辽史》卷16太平九年上下文放进士首名为「张仲举」，与名录「张仁纪」不合，未改名、未升级",
+   "《辽史》本纪太平九年未见放进士记载（卷17 太平八年“放进士张宥等五十七人”），待考证",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "liao-1031-liuzhen",
+  "name": "刘贞",
+  "dynasty": "辽",
+  "year": 1031,
+  "era": "景福元年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "18",
+    "quote": "是年，御宣政殿放进士刘贞等五十七人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1032-liushizhen",
+  "name": "刘师贞",
+  "dynasty": "辽",
+  "year": 1032,
+  "era": "重熙元年壬申科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "18",
+    "quote": "是年，放进士刘师贞等五十七人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1036-fengli",
+  "name": "冯立",
+  "dynasty": "辽",
+  "year": 1036,
+  "era": "重熙五年丙子科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "18",
+    "quote": "赐冯立、赵徽四十九人进士第。以冯立为右补阙，赵徽以下皆为太子中舍。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
+   "冯立独授右补阙，辽御试自此始"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1038-xingpengnian",
+  "name": "邢彭年",
+  "dynasty": "辽",
+  "year": 1038,
+  "era": "重熙七年戉寅科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "18",
+    "quote": "六月乙亥，御清凉殿试进士，赐邢彭年以下五十五人第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1042-wangshi",
+  "name": "王寔",
+  "dynasty": "辽",
+  "year": 1042,
+  "era": "重熙十一年壬午科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "19",
+    "quote": "壬午，御含凉殿，放进士王寔等六十四人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1046-wangtang",
+  "name": "王棠",
+  "dynasty": "辽",
+  "year": 1046,
+  "era": "重熙十五年丙戌科",
+  "bang": null,
+  "native": "涿州新城（今河北新城县）",
+  "wiki_life": "?-1094年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "105",
+    "quote": "王棠，涿州新城人。……重熙十五年擢进士。乡贡、礼部、廷试对皆第一。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "lsh",
+    "juan": "105"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "liao-1050-bianguandao",
+  "name": "边贯道",
+  "dynasty": "辽",
+  "year": 1050,
+  "era": "重熙十九年庚寅科",
+  "bang": null,
+  "native": "丰州（今内蒙古呼和浩特）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "sxtz",
+    "juan": "卷六十五 选举",
+    "quote": "辽进士边贯道大同人状元丰州迁云中",
+    "qs": "ok"
+   },
+   {
+    "src": "sxtz",
+    "juan": "卷一百三十七 人物",
+    "quote": "边贯道丰州人辽时举进士第一",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "《辽史》本纪重熙十九年未见放进士记载（卷20“御金銮殿试进士”在重熙二十四年），待考证",
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
+   "未约纪年：所据文献明言状元/第一，但未记年份，年份仍据名录"
+  ],
+  "disputed": [],
+  "native_src": {
+   "src": "sxtz",
+   "juan": "卷六十五",
+   "quote": "边贯道大同人状元丰州迁云中",
+   "tier": "非正史（方志（雍正，四库本））",
+   "note": "又见《山西通志》卷137：“边贯道丰州人辽时举进士第一”（后徙居云中（今大同），坐标取丰州故地（今呼和浩特东郊）府州级；府州级精度）",
+   "prec": "府州"
+  },
+  "native_wiki": "丰州（后迁云中）",
+  "native_modern": "今内蒙古呼和浩特",
+  "coord": [
+   40.82,
+   111.66
+  ]
+ },
+ {
+  "id": "liao-1055-zhangxiaojie",
+  "name": "张孝杰",
+  "dynasty": "辽",
+  "year": 1055,
+  "era": "重熙二十四年乙未科",
+  "bang": null,
+  "native": "建州永霸县",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "110",
+    "quote": "觉，缢杀之。干统二年，发冢，戮其尸。  张孝杰，建州永霸县人。家贫，好学。重熙二十四年，擢进士第一。清宁间，累迁枢密直学士。咸雍初，坐误奏事，出为",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "lsh",
+    "juan": "110"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "liao-1059-liangyuan",
+  "name": "梁援",
+  "dynasty": "辽",
+  "year": 1059,
+  "era": "清宁五年己亥科",
+  "bang": null,
+  "native": "河北昌黎",
+  "wiki_life": "1034年~1101年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "21",
+    "quote": "是年，上御百福殿，放进士梁援等百一十五人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1062-wangding",
+  "name": "王鼎",
+  "dynasty": "辽",
+  "year": 1062,
+  "era": "清宁八年",
+  "bang": null,
+  "native": "涿州",
+  "wiki_life": "?-1106年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "22",
+    "quote": "是月，御清凉殿放进士王鼎等九十三人。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "lsh",
+    "juan": "104"
+   }
+  ],
+  "confidence": "B",
+  "full": true,
+  "pending": [
+   "本纪仅记“放进士王鼎等”，未明言第一（由 R 升 B）"
+  ],
+  "disputed": [
+   "年份已定：本纪系于名录所记之年（1062），从本纪；《辽史》本传作“清宁五年擢进士第”，视为传文纪年之误（2026-10-13 核定）"
+  ],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1066-zhangzhen",
+  "name": "张臻",
+  "dynasty": "辽",
+  "year": 1066,
+  "era": "咸雍二年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "22",
+    "quote": "是年，御永安殿，放进士张臻等百一人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1070-zhaotingmu",
+  "name": "赵廷睦",
+  "dynasty": "辽",
+  "year": 1070,
+  "era": "咸雍六年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "22",
+    "quote": "是月，御永安殿放进士赵廷睦等百三十八人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1074-liuxiao",
+  "name": "刘霄",
+  "dynasty": "辽",
+  "year": 1074,
+  "era": "咸雍十年甲寅科",
+  "bang": null,
+  "native": "大兴宛平（今北京市）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "《辽史》卷23 咸雍十年“六月戊辰，亲出题试进士”，证是年有御试，但未载首名，状元身份仍待考证",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "liao-1079-liuguan",
+  "name": "刘瓘",
+  "dynasty": "辽",
+  "year": 1079,
+  "era": "大康五年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "24",
+    "quote": "是月，放进士刘瓘等百一十三人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1083-lijunyu",
+  "name": "李君裕",
+  "dynasty": "辽",
+  "year": 1083,
+  "era": "大康九年癸亥科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "24",
+    "quote": "是年，御前放进士李君裕等五十一人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1086-zhanggu",
+  "name": "张毂",
+  "dynasty": "辽",
+  "year": 1086,
+  "era": "大安二年丙寅科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "24",
+    "quote": "是月，放进士张毂等二十六人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1090-wenchong",
+  "name": "文充",
+  "dynasty": "辽",
+  "year": 1090,
+  "era": "大安六年庚午科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "25",
+    "quote": "是年，放进士文充等七十二人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1092-guanzunwen",
+  "name": "冠尊文",
+  "dynasty": "辽",
+  "year": 1092,
+  "era": "大安八年壬申科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "25",
+    "quote": "是年，放进士冠尊文等五十三人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1095-chenhengfu",
+  "name": "陈衡甫",
+  "dynasty": "辽",
+  "year": 1095,
+  "era": "寿昌元年乙亥科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "26",
+    "quote": "是年，放进士陈衡甫等百三十人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1100-kangbingjian",
+  "name": "康秉俭",
+  "dynasty": "辽",
+  "year": 1100,
+  "era": "寿昌六年庚辰科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "26",
+    "quote": "放进士康秉俭等八十七人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1103-magonghui",
+  "name": "马恭回",
+  "dynasty": "辽",
+  "year": 1103,
+  "era": "干统三年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "27",
+    "quote": "是年，放进士马恭回等百三人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1107-lishi",
+  "name": "李石",
+  "dynasty": "辽",
+  "year": 1107,
+  "era": "干统七年丁亥科",
+  "bang": null,
+  "native": "辽阳",
+  "wiki_life": "?-1176年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "27",
+    "quote": "是年，放进士李石等百人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1109-liuzhen",
+  "name": "刘祯",
+  "dynasty": "辽",
+  "year": 1109,
+  "era": "干统九年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "27",
+    "quote": "是年，放进士刘桢等九十人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "本纪作「刘桢」，名录作「刘祯」；籍贯未详"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1112-hanfang",
+  "name": "韩昉",
+  "dynasty": "辽",
+  "year": 1112,
+  "era": "天庆壬辰科",
+  "bang": null,
+  "native": "燕京（今北京市）",
+  "wiki_life": "1082年-1149年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jsh",
+    "juan": "125",
+    "quote": "韩昉，字公美，燕京人。……天庆二年，中进士第一。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "jsh",
+    "juan": "125"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "liao-1118-wanghui",
+  "name": "王翚",
+  "dynasty": "辽",
+  "year": 1118,
+  "era": "天庆八年戉戌科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "《辽史》卷28天庆八年作「放进士王等百三人」，「王」下疑脱字；与名录年份相合，但原文不足以升级",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "liao-1122-libaoxin",
+  "name": "李宝信",
+  "dynasty": "辽",
+  "year": 1122,
+  "era": "建福元年壬寅科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "30",
+    "quote": "放进士李宝信等一十九人，遥降天祚为湘阴王。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liao-1122-liqiu",
+  "name": "李球",
+  "dynasty": "辽",
+  "year": 1122,
+  "era": "德兴元年壬寅科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "lsh",
+    "juan": "30",
+    "quote": "遗命遥立秦王定以存社稷，德妃为皇太后，称制，改建福为德兴元年，放进士李球等百八人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志仅记“某等/某以下”首名，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ }
+]

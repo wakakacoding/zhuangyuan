@@ -1,0 +1,671 @@
+[
+ {
+  "id": "tang-649-loushide",
+  "name": "娄师德",
+  "dynasty": "唐",
+  "year": 649,
+  "era": "贞观二十三年",
+  "bang": null,
+  "native": "郑州原武（今原阳县）人",
+  "wiki_life": "630年－699年",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "jts",
+    "juan": "93"
+   },
+   {
+    "src": "xts",
+    "juan": "108"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
+  ]
+ },
+ {
+  "id": "tang-653-yuanbanqian",
+  "name": "员半千",
+  "dynasty": "唐",
+  "year": 653,
+  "era": "永徽四年癸丑科",
+  "bang": null,
+  "native": "齐州全节人",
+  "wiki_life": "621年～714年",
+  "wiki_note": "唐代将领",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "xts",
+    "juan": "112"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
+  ]
+ },
+ {
+  "id": "tang-687-guoyuanzhen",
+  "name": "郭元振",
+  "dynasty": "唐",
+  "year": 687,
+  "era": "垂拱三年丁亥科",
+  "bang": null,
+  "native": "魏州贵乡人",
+  "wiki_life": "656年－713年",
+  "wiki_note": "唐代将领、宰相",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "jts",
+    "juan": "97"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
+  ]
+ },
+ {
+  "id": "tang-695-hezhizhang",
+  "name": "贺知章",
+  "dynasty": "唐",
+  "year": 695,
+  "era": "证圣元年乙未科",
+  "bang": null,
+  "native": "越州永兴人",
+  "wiki_life": "659年~744年",
+  "wiki_note": "授予国子四门博士，迁太常博士",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "xts",
+    "juan": "196"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
+  ]
+ },
+ {
+  "id": "tang-702-zhangjiuling",
+  "name": "张九龄",
+  "dynasty": "唐",
+  "year": 702,
+  "era": "长安二年壬寅科",
+  "bang": null,
+  "native": "广东韶关人",
+  "wiki_life": "678年－740年",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "xts",
+    "juan": "126"
+   },
+   {
+    "src": "jts",
+    "juan": "99"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
+  ]
+ },
+ {
+  "id": "tang-721-wangwei",
+  "name": "王维",
+  "dynasty": "唐",
+  "year": 721,
+  "era": "开元九年辛酉科",
+  "bang": null,
+  "native": "原籍山西祁县，迁河东蒲州",
+  "wiki_life": "701年－761年",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "xts",
+    "juan": "202"
+   },
+   {
+    "src": "jts",
+    "juan": "190下"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
+  ]
+ },
+ {
+  "id": "tang-755-changgun",
+  "name": "常衮",
+  "dynasty": "唐",
+  "year": 755,
+  "era": "天宝十四载乙未科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "729年－783年",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "xts",
+    "juan": "150"
+   },
+   {
+    "src": "jts",
+    "juan": "119"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
+  ]
+ },
+ {
+  "id": "tang-765-xiaogou",
+  "name": "萧遘",
+  "dynasty": "唐",
+  "year": 765,
+  "era": "永泰元年乙巳科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "？－887年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "tsjs",
+    "juan": "卷59",
+    "quote": "萧（遘）与韦保衡同年登第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "R",
+  "full": false,
+  "pending": [
+   "永泰元年状元实为何人待考证",
+   "档案卡所附卒年887属于咸通进士萧遘，与本条765状元身份待考证"
+  ],
+  "disputed": [
+   "人工复核：《旧唐书》卷一百七十九《萧遘传》的传主于咸通五年（864）登进士第，与名录所记永泰元年（765）状元萧遘年代不合，可能是同名异人或名录有误。",
+   "已定：史籍所见萧遘为咸通五年（864）进士（《旧唐书》179、《唐诗纪事》59 与韦保衡同年），永泰元年（765）状元萧遘无任何出处，降为 R（2026-10-13 核定）"
+  ],
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "887",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "太子少师致仕萧遘赐死于永乐县。",
+     "src": "jts",
+     "juan": "卷十九下 僖宗纪 光启三年三月",
+     "tier": "正史本纪"
+    },
+    {
+     "field": "death",
+     "quote": "僖宗再迁京，宰相孔纬与遘不协，以其受伪命，奏贬官。寻赐死于永乐。",
+     "src": "jts",
+     "juan": "卷一七九",
+     "tier": "正史列传"
+    }
+   ],
+   "note": "此卒年属《旧唐书》所载咸通五年进士萧遘（光启三年赐死），与名录「永泰元年状元萧遘」可能非同一人；条目已降为 R。专题「金榜之后」已剔除本条。",
+   "done": true
+  }
+ },
+ {
+  "id": "tang-769-qiying",
+  "name": "齐映",
+  "dynasty": "唐",
+  "year": 769,
+  "era": "大历四年己酉科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "747年－795年",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "jts",
+    "juan": "136"
+   },
+   {
+    "src": "xts",
+    "juan": "150"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
+  ]
+ },
+ {
+  "id": "tang-774-yangping",
+  "name": "杨凭",
+  "dynasty": "唐",
+  "year": 774,
+  "era": "大历九年甲寅科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "jts",
+    "juan": "146"
+   },
+   {
+    "src": "xts",
+    "juan": "160"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
+  ]
+ },
+ {
+  "id": "tang-786-zhangzhengfu",
+  "name": "张正甫",
+  "dynasty": "唐",
+  "year": 786,
+  "era": "贞元二年丙寅科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "751年－834年",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "jts",
+    "juan": "162"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
+  ]
+ },
+ {
+  "id": "tang-796-licheng",
+  "name": "李程",
+  "dynasty": "唐",
+  "year": 796,
+  "era": "贞元十二年丙子科",
+  "bang": null,
+  "native": "京兆（今陕西西安）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "tzy",
+    "juan": "8",
+    "quote": "也。」于陵曰：「茍如此，侍郎已遗贤矣。乃李程所作。」亟命取程所纳，面对不差一字。主文因而致谢，于陵于是请擢为状元，前牓不复收矣，或曰「出牓重收」",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "xts",
+    "juan": "131"
+   },
+   {
+    "src": "jts",
+    "juan": "167"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
+  ],
+  "native_wiki": "",
+  "native_modern": "今陕西西安",
+  "coord": [
+   34.26,
+   108.94
+  ],
+  "native_src": {
+   "src": "mytz",
+   "juan": "卷33",
+   "quote": "李程京兆人擢进士第一",
+   "tier": "方志（明《大明一统志》）",
+   "note": "宗室，京兆府级；府州级精度",
+   "prec": "府州"
+  }
+ },
+ {
+  "id": "tang-802-xuhui",
+  "name": "徐晦",
+  "dynasty": "唐",
+  "year": 802,
+  "era": "贞元十八年壬午科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "760年－838年",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "jts",
+    "juan": "165"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
+  ]
+ },
+ {
+  "id": "tang-808-zhengsu",
+  "name": "郑肃",
+  "dynasty": "唐",
+  "year": 808,
+  "era": "元和三年戊子科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "778年－865年",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "jts",
+    "juan": "176"
+   },
+   {
+    "src": "xts",
+    "juan": "182"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。",
+   "与柳公权同为元和三年状元之说并存：名录作郑肃，本站原收柳公权，两说均待考证。"
+  ]
+ },
+ {
+  "id": "tang-814-zhangyouxin",
+  "name": "张又新",
+  "dynasty": "唐",
+  "year": 814,
+  "era": "元和九年甲午科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "时号“张三头”（解头、宏词第一、状元，见唐摭言卷二、唐才子传卷六）",
+  "evidence": [
+   {
+    "src": "tzy",
+    "juan": "2",
+    "quote": "张又新时号「张三头」。",
+    "grade": "B",
+    "note": "三头：据唐才子传指宏词第一、京兆解头、状元；唐摭言为笔记，B",
+    "qs": "ok"
+   },
+   {
+    "src": "tczz",
+    "juan": "卷6",
+    "quote": "初应宏辞第一",
+    "grade": "B",
+    "note": "小传，B；唐代“三头”为解头、状头、宏词敕头，与宋明乡会殿三元含义不同",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "xts",
+    "juan": "175"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
+  ],
+  "notes_audit": [
+   "“三元”说法的史源是唐摭言卷二、唐才子传卷六的“张三头”（解头、宏词、状头），属唐代说法，见 evidence"
+  ]
+ },
+ {
+  "id": "tang-815-wangzhi",
+  "name": "王质",
+  "dynasty": "唐",
+  "year": 815,
+  "era": "元和十年乙巳科",
+  "bang": null,
+  "native": "绛州龙门（今山西省河津县)人",
+  "wiki_life": "？-836年",
+  "wiki_note": "历官侍御史、山南西道节度副使",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "jts",
+    "juan": "163"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。",
+   "《旧唐书》本传作太原祁人，名录作绛州龙门人。"
+  ]
+ },
+ {
+  "id": "tang-859-kongwei",
+  "name": "孔纬",
+  "dynasty": "唐",
+  "year": 859,
+  "era": "大中十三年己卯科",
+  "bang": null,
+  "native": "",
+  "wiki_life": "?－895年",
+  "wiki_note": "孔子四十代孙，孔缄之兄，孔𫄸堂兄弟",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "jts",
+    "juan": "179"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
+  ]
+ },
+ {
+  "id": "wudai-950-wangpu",
+  "name": "王朴",
+  "dynasty": "五代",
+  "year": 950,
+  "era": "后汉干祐三年",
+  "bang": null,
+  "native": "东平人",
+  "wiki_life": "906年－959年",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "xwds",
+    "juan": "31"
+   },
+   {
+    "src": "jwds",
+    "juan": "128"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "《新五代史》本传只作“少举进士”，没有言及第一。"
+  ]
+ },
+ {
+  "id": "wudai-952-huzai",
+  "name": "扈载",
+  "dynasty": "五代",
+  "year": 952,
+  "era": "后周广顺二年",
+  "bang": null,
+  "native": "幽州安次人",
+  "wiki_life": "922年－957年",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "xwds",
+    "juan": "31"
+   },
+   {
+    "src": "jwds",
+    "juan": "131"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "《新五代史》本传只作“举进士高第”，没有言及第一。"
+  ]
+ },
+ {
+  "id": "wudai-959-shuya",
+  "name": "舒雅",
+  "dynasty": "五代",
+  "year": 959,
+  "era": "后周显德六年",
+  "bang": null,
+  "native": "旌德（今安徽旌德）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "441"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "《宋史》本传未载其科第，状元之说只见于名录。"
+  ],
+  "native_wiki": "歙州人",
+  "native_modern": "今安徽旌德",
+  "coord": [
+   30.32,
+   118.49
+  ],
+  "native_src": {
+   "src": "mytz",
+   "juan": "卷15",
+   "quote": "舒雅旌徳人好学善属文南唐时举进士第一",
+   "tier": "方志（明《大明一统志》）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "liao-989-gaozheng",
+  "name": "高正",
+  "dynasty": "辽",
+  "year": 989,
+  "era": "统和七年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "?-1016年",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "lsh",
+    "juan": "88"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "《辽史》本传只作“统和初，举进士第”，没有言及第一。"
+  ]
+ },
+ {
+  "id": "liugongquan",
+  "name": "柳公权",
+  "dynasty": "唐",
+  "year": null,
+  "era": "",
+  "bang": null,
+  "native": "京兆华原",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jts",
+    "juan": "165",
+    "quote": "公权，字诚恳。……元和初，进士擢第，释褐秘书省校书郎。",
+    "audit": "维基文库本作“字诚恳”，通行本作“诚悬”，异文",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "jts",
+    "juan": "165"
+   },
+   {
+    "src": "xts",
+    "juan": "163"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [
+   "本传仅言“进士擢第”，未言第一；状元说出处待考证"
+  ],
+  "disputed": [
+   "中文维基《中国状元列表》未收此人；该列表元和三年（808）状元作郑肃，与本站所据不同"
+  ]
+ }
+]

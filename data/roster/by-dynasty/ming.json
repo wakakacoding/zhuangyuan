@@ -1,0 +1,3767 @@
+[
+ {
+  "id": "ming-1371-wubozong",
+  "name": "吴伯宗",
+  "dynasty": "明",
+  "year": 1371,
+  "era": "洪武四年",
+  "bang": null,
+  "native": "江西抚州府金溪县人",
+  "wiki_life": "－1384年",
+  "wiki_note": "原取郭翀，但因其貌丑而改为吴伯宗",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "137",
+    "quote": "吴伯宗，名祐，以字行，金谿人。洪武四年，廷试第一。时开科之始，帝亲制策问。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "137"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "维基列表备注：原取郭翀，但因其貌丑而改为吴伯宗"
+  ]
+ },
+ {
+  "id": "ming-1385-dingxian",
+  "name": "丁显",
+  "dynasty": "明",
+  "year": 1385,
+  "era": "洪武十八年",
+  "bang": null,
+  "native": "建阳（今福建南平建阳）",
+  "wiki_life": "1367年－",
+  "wiki_note": "原取花纶，但因明太祖朱元璋梦见殿中有巨钉而取丁显为第一",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "3",
+    "quote": "　　三月壬戌，赐丁显等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [
+   "维基列表备注：原取花纶，但因明太祖朱元璋梦见殿中有巨钉而取丁显为第一"
+  ],
+  "reviewed": true,
+  "native_wiki": "福建建宁府建阳县人",
+  "native_modern": "今福建南平建阳",
+  "coord": [
+   27.34,
+   118.12
+  ],
+  "native_src": {
+   "src": "mytz",
+   "juan": "卷76",
+   "quote": "丁显建阳人博通经史洪武乙丑进士第一",
+   "tier": "方志（明《大明一统志》）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1388-renhengtai",
+  "name": "任亨泰",
+  "dynasty": "明",
+  "year": 1388,
+  "era": "洪武二十一年",
+  "bang": null,
+  "native": "湖广襄阳府襄阳县人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "137",
+    "quote": "襄阳任亨泰亦举洪武二十一年进士第一，以礼部尚书使安南，交人以为荣。",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "69",
+    "quote": "戊辰任亨泰廷对第一，太祖召讷褒赏，撰题名记，立石监门。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "137"
+   },
+   {
+    "src": "ms",
+    "juan": "69"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1391-huangguan",
+  "name": "黄观",
+  "dynasty": "明",
+  "year": 1391,
+  "era": "洪武二十四年",
+  "bang": null,
+  "native": "南直隶池州府贵池县人",
+  "wiki_life": "1363年－1402年",
+  "wiki_note": "维基列表称“三元及第”（明史只记会试、廷试皆第一，乡试待考证）。靖难之役时为建文帝殉死，明成祖即位后摘除其功名",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "143",
+    "quote": "黄观，字伯澜，一字尚宾，贵池人。……二十四年，会试、廷试皆第一。",
+    "audit": "旧引文误抄卷首目录及王艮传，2026-10-13 据本卷黄观传重录",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "143",
+    "quote": "二十四年，会试、廷试皆第一。",
+    "grade": "A",
+    "note": "本传无乡试第一记载",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "143"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [
+   "维基列表称“三元及第”。明史143只记“会试、廷试皆第一”，乡试第一未见史源，“三元”待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "ming-1394-zhangxin",
+  "name": "张信",
+  "dynasty": "明",
+  "year": 1394,
+  "era": "洪武二十七年",
+  "bang": null,
+  "native": "定海（今浙江宁波镇海）",
+  "wiki_life": "－1397年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "70",
+    "quote": "廷试，擢陈䢿为第一。帝怒所取之偏，命侍读张信等十二人覆阅，䢿亦与焉。帝犹怒不已，悉诛信蹈及信、䢿等，戍三吾于边，亲自阅卷，取任伯安等六十一人。六",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "146",
+    "quote": "是时侯者，陈珪、郑亨、孟善、火真、顾成、王忠、王聪、徐忠、张信、李远、郭亮、房宽十三人，武为第一。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "3",
+    "quote": "　　三月庚子，赐张信等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [
+   "人工复核：《明史》卷一百四十六《张信传》的传主是临淮人、燕王麾下武臣，与洪武二十七年状元张信（定海人）同名不同人。卷七十《选举志》载侍读张信在洪武三十年覆阅试卷后被诛，但没有说他是状元。"
+  ],
+  "reviewed": true,
+  "native_wiki": "浙江宁波府定海县人",
+  "native_modern": "今浙江宁波镇海",
+  "coord": [
+   29.97,
+   121.59
+  ],
+  "native_src": {
+   "src": "hlnj",
+   "juan": "卷17",
+   "quote": "张信浙江定海人洪武甲戌进士第一",
+   "tier": "笔记（明黄佐《翰林记》）",
+   "note": "明定海县即今宁波镇海区",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1397-chenan",
+  "name": "陈䢿",
+  "dynasty": "明",
+  "year": 1397,
+  "era": "洪武三十年",
+  "bang": null,
+  "native": "闽县（今福建福州）",
+  "wiki_life": "",
+  "wiki_note": "当年春季会试，上榜的全是南方考生，状元为福建的陈䢿，北方考生全部落第，后来明太祖罪责考官为胡蓝党，重新发榜，上榜的全是北方人，山东的韩克忠成为状元。两次发榜被称为“南北榜”或“春夏榜”。",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "70",
+    "quote": "取宋琮等五十二人，皆南士。三月，廷试，擢陈䢿为第一。帝怒所取之偏，命侍读张信等十二人覆阅，䢿亦与焉。帝犹怒不已，悉诛信蹈及信、䢿等，戍三吾于边，",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "洪武丁丑南北榜争议（不武断升A）",
+   "无专传，事迹仅见选举志"
+  ],
+  "disputed": [
+   "洪武三十年丁丑科南北榜案：三月廷试擢陈䢿第一；太祖怒所取皆南士，命覆阅，仍怒，诛张信、白信蹈及䢿等，戍刘三吾。六月复廷试以韩克忠为第一，皆北士。《明史·选举志》两榜并载。陈䢿曾被擢第一，旋死于案中；是否视为该科唯一状元，史家表述不一，本站两存，不武断升A。"
+  ],
+  "reviewed": true,
+  "native_wiki": "福建福州府闽县人",
+  "native_modern": "今福建福州",
+  "coord": [
+   26.08,
+   119.3
+  ],
+  "native_src": {
+   "src": "fjtz",
+   "juan": "卷36",
+   "quote": "是岁闽县人陈䢿举第一",
+   "tier": "方志（清修《福建通志》选举表）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1397-hankezhong",
+  "name": "韩克忠",
+  "dynasty": "明",
+  "year": 1397,
+  "era": "洪武三十年",
+  "bang": null,
+  "native": "山东东昌府武城县人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "70",
+    "quote": "六月复廷试，以韩克忠为第一。皆北士也。然讫永乐间，未尝分地而取。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "洪武丁丑南北榜争议（不武断升A）",
+   "无专传，事迹仅见选举志"
+  ],
+  "disputed": [
+   "洪武丁丑科六月复试状元。与春榜陈䢿同科而分南北，史称南北榜/春夏榜。韩克忠为北榜第一，记载明确；但该科制度异常，与陈䢿名分如何并称，仍有争议，故保持B，不武断升A。"
+  ],
+  "reviewed": true
+ },
+ {
+  "id": "huguang",
+  "name": "胡广",
+  "dynasty": "明",
+  "year": 1400,
+  "era": "建文二年",
+  "bang": null,
+  "native": "江西吉安府吉水县人",
+  "wiki_life": "1369年－1418年",
+  "wiki_note": "原内定王艮，但因王艮其貌不扬而改擢胡广为第一",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "143",
+    "quote": "王艮，字敬止，吉水人。建文二年进士。对策第一。貌寝，易以胡靖，即胡广也。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "147"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1404-cengqi",
+  "name": "曾棨",
+  "dynasty": "明",
+  "year": 1404,
+  "era": "永乐二年",
+  "bang": null,
+  "native": "江西吉安府永丰县人",
+  "wiki_life": "1372年－1432年",
+  "wiki_note": "原取刘子钦，但因刘骄矜自恃，引起主考官解缙不快，解缙遂将考题泄漏给曾棨",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "6",
+    "quote": "　　三月乙巳，赐曾棨等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzl",
+    "juan": "卷之十八 曾襄敏公棨传",
+    "quote": "曾襄敏公棨字子啓永豐人永樂二年進士第一人授翰林院修撰",
+    "tier": "碑传",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之十八 曾襄敏公棨传（袁袠）"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "维基列表备注：原取刘子钦，但因刘骄矜自恃，引起主考官解缙不快，解缙遂将考题泄漏给曾棨"
+  ],
+  "reviewed": true,
+  "coord": [
+   27.32,
+   115.44
+  ],
+  "native_modern": "今江西永丰",
+  "native_src": {
+   "src": "xzl",
+   "juan": "卷之十八 曾襄敏公棨传（袁袠）",
+   "quote": "曾襄敏公棨字子启永丰人",
+   "tier": "碑传（献征录所收）",
+   "note": "传文明书“永丰人”；明江西有吉安府永丰与广信府永丰，名录作吉安府永丰，坐标取吉安府永丰县治"
+  }
+ },
+ {
+  "id": "ming-1406-linhuan",
+  "name": "林环",
+  "dynasty": "明",
+  "year": 1406,
+  "era": "永乐四年",
+  "bang": null,
+  "native": "福建兴化府莆田县人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "6",
+    "quote": "乙巳，赐林环等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzl",
+    "juan": "卷之二十 侍讲林公环传",
+    "quote": "永樂四年廷對第一授翰林修撰",
+    "tier": "碑传",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之二十 侍讲林公环传"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "life": {
+   "birth": "1376（推）",
+   "death": "1415",
+   "age": "40",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "永乐四年廷对第一授翰林修撰……十三年扈从巡幸卒于北京年四十",
+     "src": "xzl",
+     "juan": "卷二十 侍讲林公环传",
+     "tier": "碑传（献征录所收）",
+     "infer": "生年推：1415 卒、年四十（虚岁）"
+    }
+   ],
+   "note": "",
+   "done": true
+  },
+  "coord": [
+   25.45,
+   119.01
+  ],
+  "native_modern": "今福建莆田",
+  "native_src": {
+   "src": "dlwj",
+   "juan": "卷九",
+   "quote": "林莆田人與余同官十餘年",
+   "tier": "别集（同官杨士奇题跋）",
+   "note": "献征录卷二十本传作“后塘人，唐九牧苇之后”；杨士奇明言“林莆田人”，坐标取莆田县治"
+  }
+ },
+ {
+  "id": "ming-1411-xiaoshizhong",
+  "name": "萧时中",
+  "dynasty": "明",
+  "year": 1411,
+  "era": "永乐九年",
+  "bang": null,
+  "native": "庐陵（今江西吉安）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "6",
+    "quote": "　　三月甲子，赐萧时中等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "70",
+    "quote": "九年辛卯，始擢萧时中第一。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江西吉安府庐陵县人",
+  "native_modern": "今江西吉安",
+  "coord": [
+   27.11,
+   114.99
+  ],
+  "native_src": {
+   "src": "mytz",
+   "juan": "卷56",
+   "quote": "萧时中庐陵人兄不敏事母尽孝与时中自相师友时中登永乐辛夘进士第一",
+   "tier": "方志（明《大明一统志》）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1412-maduo",
+  "name": "马铎",
+  "dynasty": "明",
+  "year": 1412,
+  "era": "永乐十年",
+  "bang": null,
+  "native": "福建长乐人（今福建长乐）",
+  "wiki_life": "1366年－1423年",
+  "wiki_note": "弟李骐于6年后亦中状元",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "6",
+    "quote": "戊子，赐马铎等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "dlwj",
+    "juan": "卷20 故翰林修撰马君墓志铭",
+    "quote": "永樂十年進士第一人長樂馬鐸授翰林脩撰",
+    "tier": "碑传",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "dlwj",
+    "juan": "卷二十 故翰林脩撰马君墓志铭（杨士奇）"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "福建福州府长乐县人",
+  "native_modern": "今福建长乐",
+  "coord": [
+   25.96,
+   119.52
+  ],
+  "native_src": {
+   "src": "wlyhb",
+   "juan": "卷15",
+   "quote": "马铎者，举永乐壬辰状元；李骐者，举永乐戊戌状元，俱福建之长乐人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
+ },
+ {
+  "id": "ming-1415-chenxun",
+  "name": "陈循",
+  "dynasty": "明",
+  "year": 1415,
+  "era": "永乐十三年",
+  "bang": null,
+  "native": "江西吉安府泰和县人",
+  "wiki_life": "1385年－1462年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "168",
+    "quote": "陈循，字德遵，泰和人。永乐十三年进士第一。授翰林修撰。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "168"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1418-liqi",
+  "name": "李骐",
+  "dynasty": "明",
+  "year": 1418,
+  "era": "永乐十六年",
+  "bang": null,
+  "native": "福建长乐人（今福建长乐）",
+  "wiki_life": "1378年－1425年",
+  "wiki_note": "本名「李马」，帝不喜，赐「骐」为名",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "7",
+    "quote": "　　三月甲寅，赐李骐等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "ywmj",
+    "juan": "卷九 进士题名记（永乐十六年）",
+    "quote": "題名者凡二百五十人第一甲第一名即李騏也騏初名馬上特改今名云",
+    "tier": "题名记",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "福建福州府长乐县人",
+  "native_modern": "今福建长乐",
+  "coord": [
+   25.96,
+   119.52
+  ],
+  "native_src": {
+   "src": "wlyhb",
+   "juan": "卷15",
+   "quote": "马铎者，举永乐壬辰状元；李骐者，举永乐戊戌状元，俱福建之长乐人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
+ },
+ {
+  "id": "ming-1421-cengheling",
+  "name": "曾鹤龄",
+  "dynasty": "明",
+  "year": 1421,
+  "era": "永乐十九年",
+  "bang": null,
+  "native": "江西吉安府泰和县人",
+  "wiki_life": "1383年－1441年",
+  "wiki_note": "原取刘矩，但因明成祖朱棣梦见鹤翼而取曾鹤龄为第一",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "7",
+    "quote": "　　三月辛巳，赐曾鹤龄等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzl",
+    "juan": "卷之二十 曾公鹤龄行状（刘球）",
+    "quote": "廷對居第一擢翰林修撰",
+    "tier": "碑传",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   },
+   {
+    "src": "skzm",
+    "juan": "卷一百七十五",
+    "quote": "鶴齡字延年，一字延之，泰和人，永樂辛丑進士第一",
+    "tier": "官修目录",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之二十 翰林院侍讲学士奉训大夫泰和曾公鹤龄□状（刘球）"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "维基列表备注：原取刘矩，但因明成祖朱棣梦见鹤翼而取曾鹤龄为第一"
+  ],
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "待考证",
+   "age": "59",
+   "cites": [
+    {
+     "field": "age",
+     "quote": "退而得疾未半昼没馆阁中大?之恸历春秋五十九",
+     "src": "xzl",
+     "juan": "卷二十 翰林院侍讲学士奉训大夫泰和曾公鹤龄□状（刘球）",
+     "tier": "碑传（献征录所收）"
+    }
+   ],
+   "note": "传文叙至正统戊午（1438）后，卒年未明书（维基作 1441）",
+   "done": true
+  },
+  "coord": [
+   26.79,
+   114.91
+  ],
+  "native_modern": "今江西泰和",
+  "native_src": {
+   "src": "xzl",
+   "juan": "卷之二十 翰林院侍讲学士奉训大夫泰和曾公鹤龄□状（刘球）",
+   "quote": "其先避五季乱自金陵徙江西因家泰和",
+   "tier": "碑传（献征录所收）",
+   "note": "行状题作“泰和曾公”"
+  }
+ },
+ {
+  "id": "ming-1424-xingkuan",
+  "name": "邢宽",
+  "dynasty": "明",
+  "year": 1424,
+  "era": "永乐二十二年",
+  "bang": null,
+  "native": "直隶无为州（今安徽无为）",
+  "wiki_life": "－1454年",
+  "wiki_note": "原以孙曰恭为第一，但因其名不为帝喜，遂改取邢宽。邢宽有足疾。",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "7",
+    "quote": "己卯，赐邢宽等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "1454",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "景泰五年六月卒遣官谕祭",
+     "src": "xzl",
+     "juan": "卷之二十三 南京翰林院侍讲学士刑公宽传",
+     "tier": "传记汇编（献征录所收传，未署撰者）"
+    }
+   ],
+   "note": "传题误作“刑”",
+   "done": true
+  },
+  "native_wiki": "南直隶庐州府无为州人",
+  "native_modern": "今安徽无为",
+  "coord": [
+   31.26,
+   117.78
+  ],
+  "native_src": {
+   "src": "gjtsjc",
+   "juan": "选举典第096卷",
+   "quote": "邢宽字用大，直隶无为州人",
+   "tier": "类书（清《古今图书集成》选举典引《明状元事略》）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1427-mayu",
+  "name": "马愉",
+  "dynasty": "明",
+  "year": 1427,
+  "era": "宣德二年",
+  "bang": null,
+  "native": "山东青州府临朐县人",
+  "wiki_life": "1395年－1447年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "148",
+    "quote": "马愉，字性和，临朐人。……宣德二年进士第一。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "148"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1430-linzhen",
+  "name": "林震",
+  "dynasty": "明",
+  "year": 1430,
+  "era": "宣德五年",
+  "bang": null,
+  "native": "长泰（今福建漳州长泰）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "70",
+    "quote": "乃赋《策士歌》以示读卷官，顾所擢第一人林震，亦无所表见也。八年癸丑，廷试第一人曹鼐，由江西泰和典史会试中式。正统七年壬戌，刑部吏南昱、公陵驿丞郑温亦皆中式。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "70",
+    "quote": "顾所擢第一人林震，亦无所表见也。",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "9",
+    "quote": "丁巳，赐林震等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "福建漳州府长泰县人",
+  "native_modern": "今福建漳州长泰",
+  "coord": [
+   24.73,
+   117.82
+  ],
+  "native_src": {
+   "src": "mytz",
+   "juan": "卷78",
+   "quote": "林震长泰人笃志问学宣徳中进士第一人",
+   "tier": "方志（明《大明一统志》）",
+   "note": "《翰林记》《古今图书集成》作长乐人，待考",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1433-caonai",
+  "name": "曹鼐",
+  "dynasty": "明",
+  "year": 1433,
+  "era": "宣德八年",
+  "bang": null,
+  "native": "北直隶真定府宁晋县人",
+  "wiki_life": "1402－1449年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "70",
+    "quote": "八年癸丑，廷试第一人曹鼐，由江西泰和典史会试中式。正统七年壬戌，刑部吏南昱、公陵驿丞郑温亦皆中式。十年乙丑，会试、廷试第一皆商辂。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "167"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1436-zhouxuan",
+  "name": "周旋",
+  "dynasty": "明",
+  "year": 1436,
+  "era": "正统元年",
+  "bang": null,
+  "native": "温州永嘉人（今浙江温州）",
+  "wiki_life": "1395年－1454年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "10",
+    "quote": "　　三月己巳，赐周旋等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzl",
+    "juan": "卷之十九 周君旋墓表（萧镃）",
+    "quote": "周君諱旋字中規溫之永嘉人也正統丙辰擢進士第一",
+    "tier": "碑传",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   },
+   {
+    "src": "skzm",
+    "juan": "卷一百七十五",
+    "quote": "旋字中規，別號畏庵，永嘉人，正統丙辰進士第一",
+    "tier": "官修目录",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之十九 左春坊左庶子兼翰林侍讲周君旋墓表（萧镃）"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "浙江温州府永嘉县人",
+  "native_modern": "今浙江温州",
+  "coord": [
+   28.01,
+   120.65
+  ],
+  "native_src": {
+   "src": "syzj",
+   "juan": "卷1",
+   "quote": "正统丙辰状元周旋，温州永嘉人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  },
+  "life": {
+   "birth": "1397（推）",
+   "death": "1454",
+   "age": "58",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "景泰甲戌正月二日夙兴方盥栉造朝忽得疾寻卒",
+     "src": "xzl",
+     "juan": "卷十九 左春坊左庶子兼翰林侍讲周君旋墓表（萧镃）",
+     "tier": "碑传（献征录所收）"
+    },
+    {
+     "field": "age",
+     "quote": "卒时年五十有八",
+     "src": "xzl",
+     "juan": "卷十九 同上",
+     "tier": "碑传（献征录所收）",
+     "infer": "生年推（虚岁）；维基作 1395，不合"
+    }
+   ],
+   "note": "",
+   "done": true
+  }
+ },
+ {
+  "id": "ming-1439-shipan",
+  "name": "施槃",
+  "dynasty": "明",
+  "year": 1439,
+  "era": "正统四年",
+  "bang": null,
+  "native": "南直隶苏州府吴县人",
+  "wiki_life": "1417年－1440年",
+  "wiki_note": "原取张和，因张有眼疾而改取施槃",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "10",
+    "quote": "壬子，赐施槃等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "dlxj",
+    "juan": "卷四十六",
+    "quote": "正統四年三月上臨軒䇿士其第一人賜進士及第授翰林脩撰蘇之吳縣施槃也",
+    "tier": "碑传（哀辞）",
+    "qs": "ok"
+   },
+   {
+    "src": "wdwcxj",
+    "juan": "卷56 施君宗铭改葬铭（钱溥）",
+    "quote": "正統己未春蘇之吳縣施槃宗銘擢進士第一人入翰林為修撰",
+    "tier": "碑传",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "dlxj",
+    "juan": "卷四十六 施脩撰哀辞（杨士奇）"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "维基列表备注：原取张和，因张有眼疾而改取施槃",
+   "生卒：杨士奇哀辞记正统四年五月卒、年二十四（推生1416），维基作1417－1440，以哀辞为准"
+  ],
+  "reviewed": true
+ },
+ {
+  "id": "ming-1442-liuyan",
+  "name": "刘俨",
+  "dynasty": "明",
+  "year": 1442,
+  "era": "正统七年",
+  "bang": null,
+  "native": "江西吉安府吉水县人",
+  "wiki_life": "1394年－1457年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "152",
+    "quote": "同邑刘俨，字宣化。正统七年进士第一。历官太常少卿。景泰中，典顺天乡试，黜大学士陈循、王文子，几得危祸。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "152"
+   },
+   {
+    "src": "ms",
+    "juan": "169"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "shanglu",
+  "name": "商辂",
+  "dynasty": "明",
+  "year": 1445,
+  "era": "正统十年",
+  "bang": null,
+  "native": "浙江严州府淳安县人",
+  "wiki_life": "1414年－1486年",
+  "wiki_note": "三元及第",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "70",
+    "quote": "郑温亦皆中式。十年乙丑，会试、廷试第一皆商辂。辂，淳安人，宣宗末年乙卯，浙榜第一人。三试皆第一，士子艳称为三元，明代惟辂一人而已。廷试读卷尽用甲",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "176",
+    "quote": "正统十三年进士第一，授修撰。明年，郕王监国，令同商辂入阁预机务。闻继母忧，力辞，不允，乃拜命。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "pengshi",
+  "name": "彭时",
+  "dynasty": "明",
+  "year": 1448,
+  "era": "正统十三年",
+  "bang": null,
+  "native": "江西吉安府安福县人",
+  "wiki_life": "1416年－1475年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "253",
+    "quote": "辞部衔，乃改少詹事。正统末年，兵事孔棘，彭时以殿试第一人，逾年即入阁，然仍故官修撰，未有超拜大学士者。陈演见帝遇之厚，曲相比附。八月，补行会试引",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "176",
+    "quote": "彭时，字纯道，安福人。……正统十三年进士第一，授修撰。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "176"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1451-keqian",
+  "name": "柯潜",
+  "dynasty": "明",
+  "year": 1451,
+  "era": "景泰二年",
+  "bang": null,
+  "native": "福建兴化府莆田县人",
+  "wiki_life": "1423年－1473年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "152",
+    "quote": "柯潜，字孟时，莆田人。景泰二年举进士第一。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "152"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1454-sunxian",
+  "name": "孙贤",
+  "dynasty": "明",
+  "year": 1454,
+  "era": "景泰五年",
+  "bang": null,
+  "native": "河南开封府杞县人",
+  "wiki_life": "1423年－1477年",
+  "wiki_note": "原取士丘濬，因其貌不扬而改取孙贤",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "11",
+    "quote": "　　三月壬子，赐孙贤等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzl",
+    "juan": "卷之二十 翰林院学士孙公贤传略（朱睦㮮）",
+    "quote": "孫賢字舜卿杞縣人也景泰五年舉進士第一授翰林修撰",
+    "tier": "碑传",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之二十 翰林院学士孙公贤传略（朱睦㮮）"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "维基列表备注：原取士丘濬，因其貌不扬而改取孙贤"
+  ],
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "待考证",
+   "age": "54",
+   "cites": [
+    {
+     "field": "age",
+     "quote": "归六年卒年五十四赠礼部左侍郎兼翰林学士谥襄敏",
+     "src": "xzl",
+     "juan": "卷二十 翰林院学士孙公贤传略（朱睦㮮）",
+     "tier": "碑传（献征录所收）"
+    }
+   ],
+   "note": "致仕之年传文未明书，卒年未补（维基作 1477）",
+   "done": true
+  },
+  "coord": [
+   34.55,
+   114.78
+  ],
+  "native_modern": "今河南杞县",
+  "native_src": {
+   "src": "xzl",
+   "juan": "卷之二十 翰林院学士孙公贤传略（朱睦㮮）",
+   "quote": "孙贤字舜卿杞县人也",
+   "tier": "碑传（献征录所收）",
+   "note": ""
+  }
+ },
+ {
+  "id": "ming-1457-lichun",
+  "name": "黎淳",
+  "dynasty": "明",
+  "year": 1457,
+  "era": "天顺元年",
+  "bang": null,
+  "native": "湖广岳州府华容县人",
+  "wiki_life": "1423年－1492年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "164",
+    "quote": "黎淳，华容人。天顺元年进士第一。官至南京礼部尚书，颇有名誉。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "164"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1460-wangyikui",
+  "name": "王一夔",
+  "dynasty": "明",
+  "year": 1460,
+  "era": "天顺四年",
+  "bang": null,
+  "native": "江西南昌府新建县人",
+  "wiki_life": "1425年－1487年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "12",
+    "quote": "　　三月庚辰，赐王一夔等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "ming-1464-pengjiao",
+  "name": "彭教",
+  "dynasty": "明",
+  "year": 1464,
+  "era": "天顺八年",
+  "bang": null,
+  "native": "江西吉安府吉水县人",
+  "wiki_life": "1438年－1480年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "13",
+    "quote": "庚午，赐彭教等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "skzm",
+    "juan": "卷一百七十五",
+    "quote": "教字敷五，號東瀧，吉水人",
+    "note": "籍贯县份旁证",
+    "qs": "ok"
+   },
+   {
+    "src": "xzl",
+    "juan": "卷之二十 彭公教墓志铭（彭华）",
+    "quote": "天順己卯舉江西鄉試第一越四年會試中第二又明年廷試擢第一授翰林院修撰",
+    "tier": "碑传",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   },
+   {
+    "src": "skzm",
+    "juan": "卷一百七十五",
+    "quote": "吉水人，天順甲申進士第一",
+    "tier": "官修目录",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之二十 翰林侍讲彭公教墓志铭（彭华）"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "life": {
+   "birth": "1438（推）",
+   "death": "1480",
+   "age": "43",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "廼仅四十有三而没……遂不起成化庚子七月",
+     "src": "xzl",
+     "juan": "卷二十 翰林侍讲彭公教墓志铭（彭华）",
+     "tier": "碑传（献征录所收）",
+     "infer": "生年推（虚岁）"
+    }
+   ],
+   "note": "",
+   "done": true
+  },
+  "coord": [
+   27.21,
+   115.13
+  ],
+  "native_modern": "今江西吉水",
+  "native_src": {
+   "src": "xzl",
+   "juan": "卷之二十 翰林侍讲彭公教墓志铭（彭华）",
+   "quote": "敷五讳教吉泷江人",
+   "tier": "碑传（献征录所收）",
+   "note": "墓志作“吉泷江人”（吉＝吉安府，撰者彭华称“吾吉”）；县份据《四库全书总目提要》卷一百七十五“教字敷五，号东泷，吉水人”，坐标取吉水县治"
+  }
+ },
+ {
+  "id": "luolun",
+  "name": "罗伦",
+  "dynasty": "明",
+  "year": 1466,
+  "era": "成化二年",
+  "bang": null,
+  "native": "江西吉安府永丰县人",
+  "wiki_life": "1431年－1478年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "179",
+    "quote": "成化二年，廷试，对策万余言，直斥时弊，名震都下。擢进士第一，授翰林修撰。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "179"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1469-zhangsheng",
+  "name": "张升",
+  "dynasty": "明",
+  "year": 1469,
+  "era": "成化五年",
+  "bang": null,
+  "native": "南城人（今江西南城）",
+  "wiki_life": "1442年－1517年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "13",
+    "quote": "三月辛丑，赐张升等进士及第、出身有差。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "184 张昇传",
+    "quote": "張昇，字啟昭，南城人。成化五年進士第一。",
+    "tier": "正史",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [
+   "本纪作“张昇”"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江西建昌府南城县人",
+  "native_modern": "今江西南城",
+  "coord": [
+   27.56,
+   116.64
+  ],
+  "native_src": {
+   "src": "ms",
+   "juan": "184",
+   "quote": "张升，字启昭，南城人。成化五年进士第一",
+   "tier": "正史",
+   "note": "正史本传"
+  },
+  "life": {
+   "birth": "待考证",
+   "death": "1517",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "正德十二年冬卒讣闻辍朝一日",
+     "src": "xzl",
+     "juan": "卷之三十三 礼部尚书张升",
+     "tier": "传记汇编（献征录所收传，未署撰者）"
+    }
+   ],
+   "note": "《明史》卷一百八十四本传只书“卒于家”",
+   "done": true
+  }
+ },
+ {
+  "id": "ming-1472-wukuan",
+  "name": "吴宽",
+  "dynasty": "明",
+  "year": 1472,
+  "era": "成化八年",
+  "bang": null,
+  "native": "南直隶苏州府长洲县人",
+  "wiki_life": "1435年－1504年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "184",
+    "quote": "成化八年，会试、廷试皆第一，授修撰。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "184"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1475-xieqian",
+  "name": "谢迁",
+  "dynasty": "明",
+  "year": 1475,
+  "era": "成化十一年",
+  "bang": null,
+  "native": "浙江绍兴府余姚县人",
+  "wiki_life": "1449年－1531年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "181",
+    "quote": "成化十年乡试第一。明年举进士，复第一。授修撰。",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "181",
+    "quote": "成化十年乡试第一。明年举进士，复第一。",
+    "grade": "A",
+    "note": "本传未单记会试名次",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "181"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [
+   "明史181记乡试第一、“举进士，复第一”，会试名次未单独记载；“三元”说法待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "ming-1478-cengyan",
+  "name": "曾彦",
+  "dynasty": "明",
+  "year": 1478,
+  "era": "成化十四年",
+  "bang": null,
+  "native": "泰和（今江西泰和）",
+  "wiki_life": "1425年－",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "14",
+    "quote": "己卯，赐曾彦等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江西吉安府泰和县人",
+  "native_modern": "今江西泰和",
+  "coord": [
+   26.79,
+   114.91
+  ],
+  "native_src": {
+   "src": "jxtz",
+   "juan": "卷078",
+   "quote": "曾彦字士美泰和人成化戊戌进士第一",
+   "tier": "方志（清修《江西通志》人物）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1481-wanghua",
+  "name": "王华",
+  "dynasty": "明",
+  "year": 1481,
+  "era": "成化十七年",
+  "bang": null,
+  "native": "浙江绍兴府余姚县人",
+  "wiki_life": "1446年－1522年",
+  "wiki_note": "传闻吏部尚书刘珝泄题给黄珣，王华适巧窥见，暗记应试，而黄珣却得第二。",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "195",
+    "quote": "父华，字德辉，成化十七年进士第一。授修撰。弘治中，累官学士、少詹事。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "195"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1484-limin",
+  "name": "李旻",
+  "dynasty": "明",
+  "year": 1484,
+  "era": "成化二十年",
+  "bang": null,
+  "native": "浙江杭州府钱塘县人",
+  "wiki_life": "1445年－1509年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "159",
+    "quote": "天下，吾为朝廷得人贺耳。」及拆卷，王华、李旻也，后果相继为状元。人服其鉴。天启初，谥贞肃。  赞曰：明初以十五布政司分治天下，诸边要害则遣侯伯勋",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "14",
+    "quote": "三月庚寅，赐李旻等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "159",
+    "quote": "及拆卷，王华、李旻也，后果相继为状元。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之二十七 南京吏部左侍郎李公旻传"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "1509",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "己巳升左侍郎正德四年四月卒赐祭葬如例",
+     "src": "xzl",
+     "juan": "卷二十七 南京吏部左侍郎李公旻传",
+     "tier": "碑传（献征录所收）"
+    }
+   ],
+   "note": "",
+   "done": true
+  },
+  "coord": [
+   30.27,
+   120.16
+  ],
+  "native_modern": "今浙江杭州",
+  "native_src": {
+   "src": "xzl",
+   "juan": "卷之二十七 南京吏部左侍郎李公旻传",
+   "quote": "南京吏部左侍郎李旻字子旸浙江钱塘人",
+   "tier": "传记汇编（献征录所收传）",
+   "note": "钱塘为杭州府附郭县"
+  }
+ },
+ {
+  "id": "feihong",
+  "name": "费宏",
+  "dynasty": "明",
+  "year": 1487,
+  "era": "成化二十三年",
+  "bang": null,
+  "native": "江西广信府铅山县人",
+  "wiki_life": "1468年－1535年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "208",
+    "quote": "为剀切，帝付之所司。其所斥辅弼第一人，谓费宏也。  珊律己清严，居官有威惠。外艰归，士民祠之名宦。后副使胡东臯谒祠，独顾珊叹曰：「此吾师也。」服",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "193",
+    "quote": "费宏，字子充，铅山人。……甫冠，举成化二十三年进士第一，授修撰。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "193"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1490-qianfu",
+  "name": "钱福",
+  "dynasty": "明",
+  "year": 1490,
+  "era": "弘治三年",
+  "bang": null,
+  "native": "华亭（今上海松江）",
+  "wiki_life": "1461年－1504年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "15",
+    "quote": "庚午，赐钱福等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "南直隶松江府华亭县人",
+  "native_modern": "今上海松江",
+  "coord": [
+   31.03,
+   121.23
+  ],
+  "native_src": {
+   "src": "jntz",
+   "juan": "卷166",
+   "quote": "钱福字与谦华亭人…试礼部廷对皆第一",
+   "tier": "方志（清修《江南通志》人物）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1493-maocheng",
+  "name": "毛澄",
+  "dynasty": "明",
+  "year": 1493,
+  "era": "弘治六年",
+  "bang": null,
+  "native": "南直隶苏州府昆山县人",
+  "wiki_life": "1460年－1523年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "191",
+    "quote": "毛澄，字宪清，昆山人。举弘治六年进士第一。授修撰。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "191"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1496-zhuxizhou",
+  "name": "朱希周",
+  "dynasty": "明",
+  "year": 1496,
+  "era": "弘治九年",
+  "bang": null,
+  "native": "南直隶苏州府昆山县人",
+  "wiki_life": "1473年－1557年",
+  "wiki_note": "疑因泄题作弊且名字得上所喜而抡元",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "191",
+    "quote": "朱希周，字懋忠，昆山人，徙吴县。……希周举弘治九年进士。孝宗喜其姓名，擢为第一。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "191"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "维基列表备注：疑因泄题作弊且名字得上所喜而抡元"
+  ]
+ },
+ {
+  "id": "ming-1499-lunwenxu",
+  "name": "伦文叙",
+  "dynasty": "明",
+  "year": 1499,
+  "era": "弘治十二年",
+  "bang": null,
+  "native": "广东广州府南海县人",
+  "wiki_life": "1467年－1513年",
+  "wiki_note": "原取丰熙，因丰脚跛而改取伦文叙",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "15",
+    "quote": "三月丁丑，赐伦文叙等进士及第、出身有差。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之十九 右春坊右谕德伦公文叙传（黄佐）"
+   }
+  ],
+  "confidence": "B",
+  "full": true,
+  "pending": [
+   "本纪仅记“赐某等”，未明言第一",
+   "本纪作“伦文叙”（四库本作“敘”）"
+  ],
+  "disputed": [
+   "维基列表备注：原取丰熙，因丰脚跛而改取伦文叙"
+  ],
+  "reviewed": true,
+  "life": {
+   "birth": "1467（推）",
+   "death": "1513",
+   "age": "47",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "癸酉春进修王牒……是秋被命主考应天府比还得病卒于京师年四十有七",
+     "src": "xzl",
+     "juan": "卷十九 右春坊右谕德伦公文叙传（黄佐）",
+     "tier": "碑传（献征录所收）",
+     "infer": "生年推（虚岁）"
+    }
+   ],
+   "note": "",
+   "done": true
+  },
+  "coord": [
+   23.03,
+   113.15
+  ],
+  "native_modern": "今广东佛山南海",
+  "native_src": {
+   "src": "xzl",
+   "juan": "卷之十九 右春坊右谕德伦公文叙传（黄佐）",
+   "quote": "伦文叙字伯畴南海人",
+   "tier": "碑传（献征录所收）",
+   "note": "坐标取今佛山南海区，示意明南海县境"
+  }
+ },
+ {
+  "id": "kanghai",
+  "name": "康海",
+  "dynasty": "明",
+  "year": 1502,
+  "era": "弘治十五年",
+  "bang": null,
+  "native": "陕西西安府武功县人",
+  "wiki_life": "1475年－1540年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "286",
+    "quote": "康海，字德涵，武功人。弘治十五年殿试第一，授修撰。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "286"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "gudingchen",
+  "name": "顾鼎臣",
+  "dynasty": "明",
+  "year": 1505,
+  "era": "弘治十八年",
+  "bang": null,
+  "native": "南直隶苏州府昆山县人",
+  "wiki_life": "1473年－1540年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "193",
+    "quote": "顾鼎臣，字九和，昆山人。……弘治十八年进士第一。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "193"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1508-lvnan",
+  "name": "吕柟",
+  "dynasty": "明",
+  "year": 1508,
+  "era": "正德三年",
+  "bang": null,
+  "native": "陕西西安府高陵县人",
+  "wiki_life": "1479年－1542年",
+  "wiki_note": "原取杨慎为第一，但杨因试卷为火所焚而落第，不过3年后再试仍抡元",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "282",
+    "quote": "吕柟，字仲木，高陵人，别号泾野，学者称泾野先生。正德三年登进士第一，授修撰。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "282"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "维基列表备注：原取杨慎为第一，但杨因试卷为火所焚而落第，不过3年后再试仍抡元"
+  ]
+ },
+ {
+  "id": "yangshen",
+  "name": "杨慎",
+  "dynasty": "明",
+  "year": 1511,
+  "era": "正德六年",
+  "bang": null,
+  "native": "祖籍江西吉安府庐陵县，徙居四川成都府新都县",
+  "wiki_life": "1488年－1559年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "179",
+    "quote": "修王思羞与同列，拜疏乞罢。未几，复偕同官杨慎等伏左顺门哭争。帝怒，下狱廷杖，夺俸如初。旋遭母丧归，卒于家，年四十四。世称「忠孝状元」。  芬丰神",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "192",
+    "quote": "杨慎，字用修，新都人，少师廷和子也。……年二十四，举正德六年殿试第一，授翰林修撰。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "192"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1514-tanggao",
+  "name": "唐皋",
+  "dynasty": "明",
+  "year": 1514,
+  "era": "正德九年",
+  "bang": null,
+  "native": "徽州歙县（今安徽歙县）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "16",
+    "quote": "赐唐皐等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等”，未明言第一",
+   "本纪作“唐皐”"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "南直隶徽州府歙县人",
+  "native_modern": "今安徽歙县",
+  "coord": [
+   29.87,
+   118.43
+  ],
+  "native_src": {
+   "src": "gjtsjc",
+   "juan": "选举典第097卷",
+   "quote": "唐皋字守之，徽州歙县人",
+   "tier": "类书（清《古今图书集成》选举典引《明状元事略》）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "shufen",
+  "name": "舒芬",
+  "dynasty": "明",
+  "year": 1517,
+  "era": "正德十二年",
+  "bang": null,
+  "native": "江西南昌府进贤县人",
+  "wiki_life": "1484年－1527年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "179",
+    "quote": "舒芬，字国裳，进贤人。年十二，献《驯雁赋》于知府祝瀚，遂知名。正德十二年举进士第一，授修撰。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "179"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1521-yangweicong",
+  "name": "杨维聪",
+  "dynasty": "明",
+  "year": 1521,
+  "era": "正德十六年",
+  "bang": null,
+  "native": "固安（今河北固安）",
+  "wiki_life": "1500年－",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "70",
+    "quote": "次年，世宗即位，五月御西角门策之，擢杨维聪第一。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "北直隶顺天府固安县人",
+  "native_modern": "今河北固安",
+  "coord": [
+   39.34,
+   116.29
+  ],
+  "native_src": {
+   "src": "jftz",
+   "juan": "卷074",
+   "quote": "杨维聪字达甫固安人正德中廷试第一",
+   "tier": "方志（清修《畿辅通志》人物）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1523-yaolai",
+  "name": "姚涞",
+  "dynasty": "明",
+  "year": 1523,
+  "era": "嘉靖二年",
+  "bang": null,
+  "native": "浙江宁波府慈溪县人",
+  "wiki_life": "－1537年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "17",
+    "quote": "戊午，赐姚涞等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzl",
+    "juan": "卷之二十 姚明山先生涞墓志铭（赵时春）",
+    "quote": "嘉靖癸未禮部第二人及廷對遂冠多士拜翰林院修撰",
+    "tier": "碑传",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之二十 学士姚明山先生涞墓志铭（赵时春）"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "待考证",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "丁酉主北畿试……某岁丁尚书忧特赐驰驿归葬，孝勚备至，遂感疾卒",
+     "src": "xzl",
+     "juan": "卷二十 学士姚明山先生涞墓志铭（赵时春）",
+     "tier": "碑传（献征录所收）",
+     "infer": "丁酉为嘉靖十六年（1537）；“某岁”丁忧后卒，确切年未明书（维基作1537，未迳采）"
+    }
+   ],
+   "note": "墓志有卒事无确切干支年",
+   "done": true
+  },
+  "coord": [
+   29.97,
+   121.45
+  ],
+  "native_modern": "今浙江宁波江北区慈城一带（明慈溪县治）",
+  "native_src": {
+   "src": "xzl",
+   "juan": "卷之二十 学士姚明山先生涞墓志铭（赵时春）",
+   "quote": "姚公涞字维东号明山浙之慈谿人也",
+   "tier": "碑传（献征录所收）",
+   "note": "明慈溪县治在今慈城，与今慈溪市不同地"
+  }
+ },
+ {
+  "id": "ming-1526-gongyongqing",
+  "name": "龚用卿",
+  "dynasty": "明",
+  "year": 1526,
+  "era": "嘉靖五年",
+  "bang": null,
+  "native": "祖籍福建泉州府晋江县",
+  "wiki_life": "1500年－1563年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "17",
+    "quote": "　　三月辛丑，赐龚用卿等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzl",
+    "juan": "卷之七十四 龚公用卿墓志（林庭机）",
+    "quote": "丙戌上春宮對策大廷賜進士及第第一人",
+    "tier": "碑传",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之七十四 朝列大夫南京国子监祭酒龚公用卿墓志（林庭机）"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "待考证",
+   "age": "64",
+   "cites": [
+    {
+     "field": "age",
+     "quote": "己未倭夷寇吾福避居建安者久之未几以微疾终年六十四",
+     "src": "xzl",
+     "juan": "卷七十四 朝列大夫南京国子监祭酒龚公用卿墓志（林庭机）",
+     "tier": "碑传（献征录所收）"
+    }
+   ],
+   "note": "卒在嘉靖己未（1559）之后“未几”，具体年未明书（维基作 1563）",
+   "done": true
+  },
+  "coord": [
+   26.08,
+   119.3
+  ],
+  "native_modern": "今福建福州",
+  "native_src": {
+   "src": "ystbj",
+   "juan": "卷六十三",
+   "quote": "龔用卿福建懐安人由狀元二十一年任",
+   "tier": "史部杂史（王世贞《弇山堂别集》职官表）",
+   "note": "墓志只云“先由光州固始入闽”，未书县；县份据弇山堂别集；明怀安县为福州府附郭（万历八年并入侯官）"
+  }
+ },
+ {
+  "id": "ming-1529-luohongxian",
+  "name": "罗洪先",
+  "dynasty": "明",
+  "year": 1529,
+  "era": "嘉靖八年",
+  "bang": null,
+  "native": "江西吉安府吉水县人",
+  "wiki_life": "1504年－1564年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "283",
+    "quote": "嘉靖八年举进士第一，授修撰。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "283"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1532-lindaqin",
+  "name": "林大钦",
+  "dynasty": "明",
+  "year": 1532,
+  "era": "嘉靖十一年",
+  "bang": null,
+  "native": "海阳（今广东潮州）",
+  "wiki_life": "1512年－1545年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "17",
+    "quote": "　　三月戊辰，赐林大钦等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "广东潮州府海阳县人",
+  "native_modern": "今广东潮州",
+  "coord": [
+   23.66,
+   116.62
+  ],
+  "native_src": {
+   "src": "gdtz",
+   "juan": "卷33",
+   "quote": "林大钦海阳人状元",
+   "tier": "方志（清修《广东通志》选举表）",
+   "note": "明海阳县为潮州府附郭",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1535-hanyinglong",
+  "name": "韩应龙",
+  "dynasty": "明",
+  "year": 1535,
+  "era": "嘉靖十四年",
+  "bang": null,
+  "native": "余姚（今浙江余姚）",
+  "wiki_life": "1498年－1536年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "70",
+    "quote": "之。十四年乙未，帝亲制策问，手自批阅，擢韩应龙第一。降谕论一甲三人及二甲第一名次前后之由。礼部因以圣谕列登科录之首，而十二人对策，俱以次刊刻。二十",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "70",
+    "quote": "十四年乙未，帝亲制策问，手自批阅，擢韩应龙第一。",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "17",
+    "quote": "丙申，赐韩应龙等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "浙江绍兴府余姚县人",
+  "native_modern": "今浙江余姚",
+  "coord": [
+   30.04,
+   121.15
+  ],
+  "native_src": {
+   "src": "zjtz",
+   "juan": "卷132",
+   "quote": "韩应龙余姚人状元",
+   "tier": "方志（清修《浙江通志》选举表）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1538-maozan",
+  "name": "茅瓒",
+  "dynasty": "明",
+  "year": 1538,
+  "era": "嘉靖十七年",
+  "bang": null,
+  "native": "浙江杭州府钱塘县人",
+  "wiki_life": "1499年－",
+  "wiki_note": "原取陆师道后改袁炜，但因明世宗朱厚熜突然改变心意，临时改取茅瓒",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "17",
+    "quote": "　　三月壬辰，赐茅瓒等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzl",
+    "juan": "卷之二十六 茅公瓒墓志铭（诸大绶）",
+    "quote": "上果親擢公第一甲第一人授翰林院修撰",
+    "tier": "碑传",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之二十六 吏部左侍郎茅公瓒墓志铭（诸大绶）"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "维基列表备注：原取陆师道后改袁炜，但因明世宗朱厚熜突然改变心意，临时改取茅瓒"
+  ],
+  "reviewed": true,
+  "coord": [
+   30.27,
+   120.16
+  ],
+  "native_modern": "今浙江杭州",
+  "native_src": {
+   "src": "xzl",
+   "juan": "卷之二十六 吏部左侍郎茅公瓒墓志铭（诸大绶）",
+   "quote": "其先汴人宋靖康末徙居钱塘",
+   "tier": "碑传（献征录所收）",
+   "note": "《弇山堂别集》卷四十六作“浙江仁和人”，钱塘、仁和同为杭州府附郭，坐标同"
+  }
+ },
+ {
+  "id": "ming-1541-shenkun",
+  "name": "沈坤",
+  "dynasty": "明",
+  "year": 1541,
+  "era": "嘉靖二十年",
+  "bang": null,
+  "native": "大河卫（今江苏淮安淮安区）",
+  "wiki_life": "1507年－1560年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "17",
+    "quote": "　　三月乙巳，赐沈坤等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传",
+   "籍贯待考证：《万历野获编》卷16作“直隶太和卫人”，名录作“大河卫”，二者不合，未落坐标（2026-10-13）"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "南直隶淮安府大河卫人，祖籍南直隶苏州府昆山县",
+  "native_modern": "今江苏淮安淮安区",
+  "coord": [
+   33.51,
+   119.14
+  ],
+  "native_src": {
+   "src": "jntz",
+   "juan": "卷143",
+   "quote": "沈坤大河衞人嘉靖辛丑廷试第一",
+   "tier": "方志（清修《江南通志》人物）",
+   "note": "大河卫在淮安府城；原籍昆山（《弇山堂别集》）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1544-qinminglei",
+  "name": "秦鸣雷",
+  "dynasty": "明",
+  "year": 1544,
+  "era": "嘉靖二十三年",
+  "bang": null,
+  "native": "浙江台州府临海县人",
+  "wiki_life": "1518年－1593年",
+  "wiki_note": "原取吴情，但其名不为明世宗朱厚熜所喜，且因明世宗梦见雷声，遂改取秦鸣雷",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "18",
+    "quote": "丁巳，赐秦鸣雷等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之三十六 资善大夫南京礼部尚书秦公鸣雷行状（张凤翼）"
+   }
+  ],
+  "confidence": "B",
+  "full": true,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [
+   "维基列表备注：原取吴情，但其名不为明世宗朱厚熜所喜，且因明世宗梦见雷声，遂改取秦鸣雷"
+  ],
+  "reviewed": true,
+  "life": {
+   "birth": "1518",
+   "death": "1593",
+   "age": "76（推）",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "卒于万历癸巳之七月七日距其生戊寅二月二日享年七十有",
+     "src": "xzl",
+     "juan": "卷三十六 资善大夫南京礼部尚书秦公鸣雷行状（张凤翼）",
+     "tier": "碑传（献征录所收）",
+     "infer": "享年数字本地文本残缺，按生卒推为七十六"
+    }
+   ],
+   "note": "",
+   "done": true
+  },
+  "coord": [
+   28.85,
+   121.14
+  ],
+  "native_modern": "今浙江临海",
+  "native_src": {
+   "src": "xzl",
+   "juan": "卷之三十六 资善大夫南京礼部尚书秦公鸣雷行状（张凤翼）",
+   "quote": "唐大顺间徙台之黄岩东冈再徙临海遂占籍",
+   "tier": "碑传（献征录所收）",
+   "note": ""
+  }
+ },
+ {
+  "id": "ming-1547-lichunfang",
+  "name": "李春芳",
+  "dynasty": "明",
+  "year": 1547,
+  "era": "嘉靖二十六年",
+  "bang": null,
+  "native": "南直隶扬州府兴化县人",
+  "wiki_life": "1510年－1584年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "193",
+    "quote": "李春芳，字子实，扬州兴化人。……嘉靖二十六年举进士第一，除修撰。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "193"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1550-tangruji",
+  "name": "唐汝楫",
+  "dynasty": "明",
+  "year": 1550,
+  "era": "嘉靖二十九年",
+  "bang": null,
+  "native": "兰溪（今浙江兰溪）",
+  "wiki_life": "1513年－",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "18",
+    "quote": "二十九年春三月壬午，赐唐汝楫等进士及第、出身有差。",
+    "audit": "去掉维基标题标记",
+    "qs": "ok"
+   },
+   {
+    "src": "skzm",
+    "juan": "卷一百七十八",
+    "quote": "汝楫字思濟，蘭谿人，吏部尚書龍之子。龍號漁石，故汝楫自號小漁。嘉靖庚戌進士第一",
+    "tier": "官修目录",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "浙江金华府兰溪县人",
+  "native_modern": "今浙江兰溪",
+  "coord": [
+   29.21,
+   119.46
+  ],
+  "native_src": {
+   "src": "zjtz",
+   "juan": "卷132",
+   "quote": "唐汝楫兰谿人状元",
+   "tier": "方志（清修《浙江通志》选举表）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1553-chenjin",
+  "name": "陈谨",
+  "dynasty": "明",
+  "year": 1553,
+  "era": "嘉靖三十二年",
+  "bang": null,
+  "native": "福建闽县人（今福建福州）",
+  "wiki_life": "1525年－1566年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "18",
+    "quote": "甲午，赐陈谨等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之十九 明故右春坊右中允兼翰林院编修陈君谨墓志铭（徐阶）"
+   }
+  ],
+  "confidence": "B",
+  "full": true,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "福建福州府闽县人",
+  "native_modern": "今福建福州",
+  "coord": [
+   26.07,
+   119.3
+  ],
+  "native_src": {
+   "src": "wlyhb",
+   "juan": "卷16",
+   "quote": "状元为陈谨，福建闽县人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  },
+  "life": {
+   "birth": "1525",
+   "death": "1566",
+   "age": "41",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "君生嘉靖乙酉闰十二月十二日卒丙寅三月十日年仅四十一",
+     "src": "xzl",
+     "juan": "卷十九 明故右春坊右中允兼翰林院编修陈君谨墓志铭（徐阶）",
+     "tier": "碑传（献征录所收）"
+    }
+   ],
+   "note": "生于嘉靖四年闰十二月，折合公历已入 1526 年初",
+   "done": true
+  }
+ },
+ {
+  "id": "ming-1556-zhudashou",
+  "name": "诸大绶",
+  "dynasty": "明",
+  "year": 1556,
+  "era": "嘉靖三十五年",
+  "bang": null,
+  "native": "浙江绍兴府山阴县人",
+  "wiki_life": "1523年－1573年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "18",
+    "quote": "　　三月丁丑，赐诸大绶等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzl",
+    "juan": "卷之二十六 诸公大绶行状（张元忭）",
+    "quote": "明年丙辰舉會試第二廷試第一人",
+    "tier": "碑传",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之二十六 吏部右侍郎兼翰林院侍读学士赠礼部尚书山阴诸公大绶行状（张元忭）"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "life": {
+   "birth": "1523（推）",
+   "death": "1573",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "今上改元万历癸酉之春正月十有三日吏部右侍郎兼侍读学士诸公卒于京邸",
+     "src": "xzl",
+     "juan": "卷二十六 吏部右侍郎兼翰林院侍读学士赠礼部尚书山阴诸公大绶行状（张元忭）",
+     "tier": "碑传（献征录所收）"
+    },
+    {
+     "field": "birth",
+     "quote": "又明年癸卯领乡荐及御史舒公数睨之问年几何曰二十有一",
+     "src": "xzl",
+     "juan": "卷二十六 同上",
+     "tier": "碑传（献征录所收）",
+     "infer": "推：癸卯（1543）年二十一（虚岁）"
+    }
+   ],
+   "note": "",
+   "done": true
+  },
+  "coord": [
+   30,
+   120.58
+  ],
+  "native_modern": "今浙江绍兴",
+  "native_src": {
+   "src": "xzl",
+   "juan": "卷之二十六 吏部右侍郎兼翰林院侍读学士赠礼部尚书山阴诸公大绶行状（张元忭）",
+   "quote": "按诸氏实越大夫诸稽郢后世家山阴",
+   "tier": "碑传（献征录所收）",
+   "note": "行状题作“山阴诸公”"
+  }
+ },
+ {
+  "id": "ming-1559-dingshimei",
+  "name": "丁士美",
+  "dynasty": "明",
+  "year": 1559,
+  "era": "嘉靖三十八年",
+  "bang": null,
+  "native": "清河（今江苏淮安淮阴）",
+  "wiki_life": "1521年－1577年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "18",
+    "quote": "庚寅，赐丁士美等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "南直隶淮安府清河县人",
+  "native_modern": "今江苏淮安淮阴",
+  "coord": [
+   33.63,
+   119.03
+  ],
+  "native_src": {
+   "src": "jntz",
+   "juan": "卷143",
+   "quote": "丁士美字邦彦清河人嘉靖己未廷试第一",
+   "tier": "方志（清修《江南通志》人物）",
+   "note": "明清河县治在今淮阴区码头镇一带，坐标取淮阴区",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "shenshixing",
+  "name": "申时行",
+  "dynasty": "明",
+  "year": 1562,
+  "era": "嘉靖四十一年",
+  "bang": null,
+  "native": "南直隶苏州府长洲县人",
+  "wiki_life": "1535年－1614年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "218",
+    "quote": "申时行，字汝默，长洲人。……嘉靖四十一年进士第一。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "70",
+    "quote": "以一甲第一人及第。而次辅吕调阳、张四维、申时行之子，亦皆先后成进士。御史魏允贞疏陈时弊，言辅臣子不宜中式。帝为谪允贞。十六年，右庶子黄洪宪主顺天试",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "230",
+    "quote": "黄洪宪典顺天试，大学士王锡爵子衡为举首，申时行婿李鸿亦预选。礼部主事于孔兼疑举人屠大壮及鸿有私。尚书朱赓、礼科都给事中苗朝阳欲寝其事。礼部郎中高桂",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "218"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1565-fanyingqi",
+  "name": "范应期",
+  "dynasty": "明",
+  "year": 1565,
+  "era": "嘉靖四十四年",
+  "bang": null,
+  "native": "浙江乌程人（今浙江湖州）",
+  "wiki_life": "1527年－1594年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "18",
+    "quote": "四十四年春三月丁巳，赐范应期等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等”，未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "浙江湖州府乌程县人",
+  "native_modern": "今浙江湖州",
+  "coord": [
+   30.87,
+   120.09
+  ],
+  "native_src": {
+   "src": "wlyhb",
+   "juan": "卷16",
+   "quote": "四十四年乙丑科，状元范应期浙江乌程人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
+ },
+ {
+  "id": "ming-1568-luowanhua",
+  "name": "罗万化",
+  "dynasty": "明",
+  "year": 1568,
+  "era": "隆庆二年",
+  "bang": null,
+  "native": "会稽（今浙江绍兴）",
+  "wiki_life": "1536年－1594年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "19",
+    "quote": "戊辰，赐罗万化等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "浙江绍兴府会稽县人",
+  "native_modern": "今浙江绍兴",
+  "coord": [
+   30,
+   120.58
+  ],
+  "native_src": {
+   "src": "zjtz",
+   "juan": "卷133",
+   "quote": "罗万化会稽人状元",
+   "tier": "方志（清修《浙江通志》选举表）",
+   "note": "《弇山堂别集》作山阴，二县同为绍兴府附郭",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1571-zhangyuanbian",
+  "name": "张元忭",
+  "dynasty": "明",
+  "year": 1571,
+  "era": "隆庆五年",
+  "bang": null,
+  "native": "祖籍四川成都府汉州绵竹县，徙居浙江绍兴府山阴县",
+  "wiki_life": "1538年－1588年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "283",
+    "quote": "元忭以廷试第一，授修撰。",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "19",
+    "quote": "三月己卯，赐张元忭等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "283"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1574-sunjigao",
+  "name": "孙继皋",
+  "dynasty": "明",
+  "year": 1574,
+  "era": "万历二年",
+  "bang": null,
+  "native": "直隶无锡（今江苏无锡）",
+  "wiki_life": "1550年－1610年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "20",
+    "quote": "赐孙继皐等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "skzm",
+    "juan": "卷一百七十二",
+    "quote": "繼皋字以德，無錫人。萬曆甲戌進士第一。",
+    "tier": "官修目录",
+    "grade": "A",
+    "audit": "2026-10-19 线C B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [
+   "本纪作“孙继皐”"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "南直隶常州府无锡县人",
+  "native_modern": "今江苏无锡",
+  "coord": [
+   31.49,
+   120.31
+  ],
+  "native_src": {
+   "src": "gjtsjc",
+   "juan": "庶徵典第151卷",
+   "quote": "孙继皋，字以德，直隶无锡人",
+   "tier": "类书（清《古今图书集成》庶徵典引《明状元事略》）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1577-shenmaoxue",
+  "name": "沈懋学",
+  "dynasty": "明",
+  "year": 1577,
+  "era": "万历五年",
+  "bang": null,
+  "native": "南直隶宁国府宣城县人",
+  "wiki_life": "1539年－1582年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "20",
+    "quote": "　　三月乙巳，赐沈懋学等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "ms",
+    "juan": "216",
+    "quote": "懋学少有才名。举万历五年进士第一，授修撰。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "卷二百一十六"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "ming-1580-zhangmaoxiu",
+  "name": "张懋修",
+  "dynasty": "明",
+  "year": 1580,
+  "era": "万历八年",
+  "bang": null,
+  "native": "江陵（今湖北荆州）",
+  "wiki_life": "1555年－1634年",
+  "wiki_note": "原为第三，因为权臣张居正之子而擢为第一",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "20",
+    "quote": "丁卯，赐张懋修等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "湖广荆州府江陵县人",
+  "native_modern": "今湖北荆州",
+  "coord": [
+   30.36,
+   112.18
+  ],
+  "native_src": {
+   "src": "ystbj",
+   "juan": "卷002",
+   "quote": "第一甲第一人江陵张懋修",
+   "tier": "杂史（明王世贞《弇山堂别集》）",
+   "note": "明江陵县为荆州府附郭",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1583-zhuguozuo",
+  "name": "朱国祚",
+  "dynasty": "明",
+  "year": 1583,
+  "era": "万历十一年",
+  "bang": null,
+  "native": "浙江嘉兴府秀水县人",
+  "wiki_life": "1559年－1624年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "240",
+    "quote": "朱国祚，字兆隆，秀水人。……万历十一年进士第一。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "240"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1586-tangwenxian",
+  "name": "唐文献",
+  "dynasty": "明",
+  "year": 1586,
+  "era": "万历十四年",
+  "bang": null,
+  "native": "南直隶松江府华亭县人",
+  "wiki_life": "1549年－1605年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "216",
+    "quote": "唐文献，字元征，华亭人。万历十四年进士第一。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "216"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "jiaohong",
+  "name": "焦竑",
+  "dynasty": "明",
+  "year": 1589,
+  "era": "万历十七年",
+  "bang": null,
+  "native": "南直隶应天府江宁县人",
+  "wiki_life": "1541年－1620年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "288",
+    "quote": "万历十七年，始以殿试第一人官翰林修撰。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "288"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1592-wengzhengchun",
+  "name": "翁正春",
+  "dynasty": "明",
+  "year": 1592,
+  "era": "万历二十年",
+  "bang": null,
+  "native": "福建福州府侯官县人",
+  "wiki_life": "1553年－1626年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "216",
+    "quote": "道卒。赠礼部尚书。天启初，追谥文简。  翁正春，字兆震，侯官人。万历中，为龙溪教谕。二十年，擢进士第一，授修撰，累迁少詹事。三十八年九月，拜礼部左",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "216"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1595-zhuzhifan",
+  "name": "朱之蕃",
+  "dynasty": "明",
+  "year": 1595,
+  "era": "万历二十三年",
+  "bang": null,
+  "native": "南直隶应天府江宁县人，世居山东东昌府茌平县，后附南直锦衣卫籍",
+  "wiki_life": "1561年－1626年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "20",
+    "quote": "　　三月乙未，赐朱之蕃等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "lcsj",
+    "juan": "丁集第七",
+    "quote": "之蕃，字元价。金陵人。万历乙未状元，官终吏部右侍郎。元价为史官出使朝鲜，却其赠贿。",
+    "tier": "总集小传",
+    "qs": "ok_book"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_modern": "今江苏南京（祖籍山东茌平）",
+  "coord": [
+   32.06,
+   118.8
+  ],
+  "native_src": {
+   "src": "lcsj",
+   "juan": "丁集第七",
+   "quote": "之蕃，字元价。金陵人。万历乙未状元，官终吏部右侍郎。元价为史官出使朝鲜，却其赠贿。",
+   "tier": "总集小传",
+   "note": "《列朝诗集》作“金陵人”，与应天府江宁县相合，留作佐证；坐标取今南京市治",
+   "role": "佐证"
+  }
+ },
+ {
+  "id": "ming-1598-zhaobingzhong",
+  "name": "赵秉忠",
+  "dynasty": "明",
+  "year": 1598,
+  "era": "万历二十六年",
+  "bang": null,
+  "native": "益都（今山东青州）",
+  "wiki_life": "1574年－1626年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "21",
+    "quote": "　　三月癸卯，赐赵秉忠等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "山东青州府益都县人",
+  "native_modern": "今山东青州",
+  "coord": [
+   36.69,
+   118.48
+  ],
+  "native_src": {
+   "src": "sdtz",
+   "juan": "卷28之3",
+   "quote": "赵秉忠字季卿益都人万歴戊戌廷对第一",
+   "tier": "方志（清修《山东通志》人物）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1601-zhangyicheng",
+  "name": "张以诚",
+  "dynasty": "明",
+  "year": 1601,
+  "era": "万历二十九年",
+  "bang": null,
+  "native": "松江（今上海松江）",
+  "wiki_life": "1568年－1615年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "21",
+    "quote": "　　三月乙卯，赐张以诚等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "南直隶松江府青浦县人",
+  "native_modern": "今上海松江",
+  "coord": [
+   31.03,
+   121.23
+  ],
+  "native_src": {
+   "src": "jntz",
+   "juan": "卷123",
+   "quote": "张以诚松江人状元",
+   "tier": "方志（清修《江南通志》选举表）",
+   "note": "仅言松江（府），名录作青浦县；府州级精度",
+   "prec": "府州"
+  }
+ },
+ {
+  "id": "ming-1604-yangshouqin",
+  "name": "杨守勤",
+  "dynasty": "明",
+  "year": 1604,
+  "era": "万历三十二年",
+  "bang": null,
+  "native": "慈溪（今浙江宁波江北区慈城）",
+  "wiki_life": "1566年－",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "21",
+    "quote": "乙丑，赐杨守勤等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "浙江宁波府慈溪县人",
+  "native_modern": "今浙江宁波江北区慈城",
+  "coord": [
+   29.98,
+   121.45
+  ],
+  "native_src": {
+   "src": "zjtz",
+   "juan": "卷133",
+   "quote": "杨守勤慈谿人状元",
+   "tier": "方志（清修《浙江通志》选举表）",
+   "note": "明慈溪县治在今慈城镇",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1607-huangshijun",
+  "name": "黄士俊",
+  "dynasty": "明",
+  "year": 1607,
+  "era": "万历三十五年",
+  "bang": null,
+  "native": "广东广州府顺德县人",
+  "wiki_life": "1577年－1661年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "253",
+    "quote": "黄士俊，顺德人。万历三十五年殿试第一。授修撰，历官礼部尚书。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "253"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1610-hanjing",
+  "name": "韩敬",
+  "dynasty": "明",
+  "year": 1610,
+  "era": "万历三十八年",
+  "bang": null,
+  "native": "浙江湖州府归安县人",
+  "wiki_life": "1580年－",
+  "wiki_note": "为主考官汤宾尹的门人且行贿通关而抡元",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "236",
+    "quote": "韩敬者，归安人也……及廷对，宾尹为敬夤缘得第一人。……正春乃会九卿……议坐敬不谨，落职闲住。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "236"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "科场案：汤宾尹夤缘得第一，后坐不谨落职；状元名分见诸《明史》，但过程有关节争议"
+  ]
+ },
+ {
+  "id": "ming-1613-zhouyanru",
+  "name": "周延儒",
+  "dynasty": "明",
+  "year": 1613,
+  "era": "万历四十一年",
+  "bang": null,
+  "native": "南直隶常州府宜兴县人",
+  "wiki_life": "1593年－1644年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "308",
+    "quote": "周延儒，字玉绳，宜兴人。万历四十一年会试、殿试皆第一，授修撰。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "308"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1616-qianshisheng",
+  "name": "钱士升",
+  "dynasty": "明",
+  "year": 1616,
+  "era": "万历四十四年",
+  "bang": null,
+  "native": "浙江嘉兴府嘉善县人",
+  "wiki_life": "1575年－1652年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "251",
+    "quote": "钱士升，字抑之，嘉善人。万历四十四年殿试第一，授修撰。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "251"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1619-zhuangjichang",
+  "name": "庄际昌",
+  "dynasty": "明",
+  "year": 1619,
+  "era": "万历四十七年",
+  "bang": null,
+  "native": "永春（今福建泉州）",
+  "wiki_life": "1584年－1629年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "21",
+    "quote": "辛丑，赐庄际昌等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "福建泉州府永春县人",
+  "native_modern": "今福建泉州",
+  "coord": [
+   24.91,
+   118.59
+  ],
+  "native_src": {
+   "src": "fjtz",
+   "juan": "卷38",
+   "quote": "永春县庄际昌己未进士第一",
+   "tier": "方志（清修《福建通志》选举表）",
+   "note": "同书卷45作晋江人；二县同属泉州府，取府级；府州级精度",
+   "prec": "府州"
+  }
+ },
+ {
+  "id": "wenzhenmeng",
+  "name": "文震孟",
+  "dynasty": "明",
+  "year": 1622,
+  "era": "天启二年",
+  "bang": null,
+  "native": "南直隶苏州府长洲县人",
+  "wiki_life": "1574年－1636年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "258",
+    "quote": "深当擢京卿，升希体仁意，出之南京。大学士文震孟愠语侵升，升亦愠。适山东布政使劳永嘉贿营登莱巡抚，主给事中宋之普家，升等列之举首，为给事中张第元所发",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "251"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1625-yuhuang",
+  "name": "余煌",
+  "dynasty": "明",
+  "year": 1625,
+  "era": "天启五年",
+  "bang": null,
+  "native": "浙江绍兴府会稽县人",
+  "wiki_life": "－1651年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "276",
+    "quote": "余煌，字武贞，会稽人。天启五年进士第一。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "276"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1628-liuruozai",
+  "name": "刘若宰",
+  "dynasty": "明",
+  "year": 1628,
+  "era": "崇祯元年",
+  "bang": null,
+  "native": "怀宁（今安徽安庆）",
+  "wiki_life": "",
+  "wiki_note": "貌丑、驼背",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "23",
+    "quote": "　　夏四月癸巳，赐刘若宰等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "南直隶安庆府怀宁县人，一作潜山县人",
+  "native_modern": "今安徽安庆",
+  "coord": [
+   30.53,
+   117.05
+  ],
+  "native_src": {
+   "src": "jntz",
+   "juan": "卷164",
+   "quote": "刘若宰字颖平怀寕人崇祯戊辰廷试第一",
+   "tier": "方志（清修《江南通志》人物）",
+   "note": "一作潜山人（同属安庆府）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1631-chenyutai",
+  "name": "陈于泰",
+  "dynasty": "明",
+  "year": 1631,
+  "era": "崇祯四年",
+  "bang": null,
+  "native": "宜兴（今江苏宜兴）",
+  "wiki_life": "",
+  "wiki_note": "原取吴伟业，但陈于泰因为是主考官周延儒之姻亲且行贿通关而抡元",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "308",
+    "quote": "延儒姻娅陈于泰廷对第一，及所用大同巡抚张廷拱、登莱巡抚孙元化皆有私，时论籍籍。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [
+   "维基列表备注：原取吴伟业，但陈于泰因为是主考官周延儒之姻亲且行贿通关而抡元"
+  ],
+  "reviewed": true,
+  "native_wiki": "南直隶常州府宜兴县人",
+  "native_modern": "今江苏宜兴",
+  "coord": [
+   31.36,
+   119.82
+  ],
+  "native_src": {
+   "src": "jntz",
+   "juan": "卷123",
+   "quote": "陈于泰宜兴人状元",
+   "tier": "方志（清修《江南通志》）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1634-liulishun",
+  "name": "刘理顺",
+  "dynasty": "明",
+  "year": 1634,
+  "era": "崇祯七年",
+  "bang": null,
+  "native": "河南开封府杞县人",
+  "wiki_life": "1582年－1644年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "266",
+    "quote": "刘理顺，字复礼，杞县人。……及廷对，帝亲擢第一，还宫喜曰：「朕今日得一耆硕矣。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "266"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1637-liutongsheng",
+  "name": "刘同升",
+  "dynasty": "明",
+  "year": 1637,
+  "era": "崇祯十年",
+  "bang": null,
+  "native": "吉水（今江西吉水）",
+  "wiki_life": "1587年－1646年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "23",
+    "quote": "丁巳，赐刘同升等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江西吉安府吉水县人",
+  "native_modern": "今江西吉水",
+  "coord": [
+   27.21,
+   115.13
+  ],
+  "native_src": {
+   "src": "jxtz",
+   "juan": "卷055",
+   "quote": "刘同升吉水人状元",
+   "tier": "方志（清修《江西通志》）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "ming-1640-weizaode",
+  "name": "魏藻德",
+  "dynasty": "明",
+  "year": 1640,
+  "era": "崇祯十三年",
+  "bang": null,
+  "native": "北直隶顺天府通州人",
+  "wiki_life": "1605年－1644年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "253",
+    "quote": "崇祯十三年举进士。既殿试，帝思得异才……帝善之，擢置第一，授修撰。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ms",
+    "juan": "253"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "ming-1643-yangtingjian",
+  "name": "杨廷鉴",
+  "dynasty": "明",
+  "year": 1643,
+  "era": "崇祯十六年",
+  "bang": null,
+  "native": "武进（今江苏常州）",
+  "wiki_life": "1603年－1665年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "24",
+    "quote": "辛亥，赐杨廷鉴等进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪仅记“赐某等进士及第”，无专传"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "南直隶常州府武进县人",
+  "native_modern": "今江苏常州",
+  "coord": [
+   31.78,
+   119.95
+  ],
+  "native_src": {
+   "src": "jntz",
+   "juan": "卷158",
+   "quote": "杨廷鉴字冰如武进人崇祯癸未廷试第一",
+   "tier": "方志（清修《江南通志》）",
+   "note": "",
+   "prec": "县"
+  }
+ }
+]

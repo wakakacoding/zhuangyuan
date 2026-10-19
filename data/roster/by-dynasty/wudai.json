@@ -1,0 +1,914 @@
+[
+ {
+  "id": "wudai-908-cuimiao",
+  "name": "崔邈",
+  "dynasty": "五代",
+  "year": 908,
+  "era": "后梁开平二年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "yztth",
+    "juan": "卷二 历代状元",
+    "quote": "梁开平二年状元崔邈",
+    "note": "明人所编历代状元表，年号承上文",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "wudai-909-zhengyong",
+  "name": "郑雍",
+  "dynasty": "五代",
+  "year": 909,
+  "era": "后梁开平三年",
+  "bang": null,
+  "native": "襄邑(今河南省睢县)人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "状元身份（待考证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": [
+   "人工复核：《宋史》卷三百四十二《郑雍传》的传主是北宋熙宁、元祐时人，进士甲科，不是名录中后梁开平三年（909）的状元郑雍。"
+  ],
+  "reviewed": true
+ },
+ {
+  "id": "wudai-918-chenti",
+  "name": "陈逖",
+  "dynasty": "五代",
+  "year": 918,
+  "era": "后梁贞明四年",
+  "bang": null,
+  "native": "福建泉州人",
+  "wiki_life": "890年~952年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "yztth",
+    "juan": "卷二 历代状元",
+    "quote": "贞明中状元陈逖",
+    "note": "明人所编历代状元表，年号承上文",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
+   "年份：玉芝堂谈荟仅作“贞明中”，名录贞明四年在其范围内"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "wudai-924-cuiguangbiao",
+  "name": "崔光表",
+  "dynasty": "五代",
+  "year": 924,
+  "era": "后唐同光二年",
+  "bang": null,
+  "native": "河北清河人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "wudai-925-wangche",
+  "name": "王彻",
+  "dynasty": "五代",
+  "year": 925,
+  "era": "后唐同光三年",
+  "bang": null,
+  "native": "琅邪临沂人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wdhy",
+    "juan": "卷二十二",
+    "quote": "况王彻体物可嘉，属词甚妙；桑维翰差无纰缪，稍有词华。其王彻升为第一，桑维翰第二，符蒙正第三，成僚第四。",
+    "qs": "ok"
+   },
+   {
+    "src": "cfyg",
+    "juan": "卷0650",
+    "quote": "其王彻升为第一桑维翰第二符蒙正第三成僚第四。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [
+   "同光三年覆试后升为第一（原榜名次有调整）"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "wudai-926-wangguipu",
+  "name": "王归璞",
+  "dynasty": "五代",
+  "year": 926,
+  "era": "后唐同光四年",
+  "bang": null,
+  "native": "四川简阳人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "yztth",
+    "juan": "卷二 历代状元",
+    "quote": "状元王归璞（简州人）",
+    "note": "明人所编历代状元表，年号承上文",
+    "qs": "ok"
+   },
+   {
+    "src": "fysl",
+    "juan": "卷五十二 简州",
+    "quote": "王归璞伪蜀时状元",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
+   "年份：玉芝堂谈荟列于“后唐同光中”，未记确年"
+  ],
+  "disputed": [
+   "《方舆胜览》称“伪蜀时状元”（前蜀），与名录“后唐同光四年”所属政权不尽合"
+  ]
+ },
+ {
+  "id": "wudai-927-huangrenying",
+  "name": "黄仁颖",
+  "dynasty": "五代",
+  "year": 927,
+  "era": "后唐天成二年",
+  "bang": null,
+  "native": "三山莆阳人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）：玉芝堂谈荟卷二列“状元黄仁颕”于后唐同光中（923—926），与名录天成二年（927）不合，未升级"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "wudai-928-guojun",
+  "name": "郭晙",
+  "dynasty": "五代",
+  "year": 928,
+  "era": "后唐天成三年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "yztth",
+    "juan": "卷二 历代状元",
+    "quote": "天成三年状元郭晙",
+    "note": "明人所编历代状元表，年号承上文",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "wudai-932-luhua",
+  "name": "卢华",
+  "dynasty": "五代",
+  "year": 932,
+  "era": "后唐长兴三年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "wudai-943-wuqiao",
+  "name": "伍乔",
+  "dynasty": "五代",
+  "year": 943,
+  "era": "南唐保大元年",
+  "bang": null,
+  "native": "庐江人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "qts",
+    "juan": "卷744",
+    "quote": "伍乔，庐江人，南唐时举进士第一，仕至考功员外郎。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "qts",
+    "juan": "卷七百四十四"
+   },
+   {
+    "src": "tczz",
+    "juan": "卷7"
+   }
+  ],
+  "confidence": "B",
+  "full": true,
+  "pending": [
+   "正史未明言第一；状元说见诗文小传/笔记/诗话，按规则最高 B"
+  ],
+  "disputed": [
+   "《唐才子传》卷7 说他“与杜牧之同时擢第”，与南唐登第时代不合，存疑"
+  ],
+  "reviewed": true
+ },
+ {
+  "id": "wudai-945-kouxiang",
+  "name": "寇湘",
+  "dynasty": "五代",
+  "year": 945,
+  "era": "后晋开运二年",
+  "bang": null,
+  "native": "华州下邽人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "yztth",
+    "juan": "卷二 历代状元",
+    "quote": "后晋状元冦湘",
+    "note": "明人所编历代状元表，年号承上文",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
+   "年份：玉芝堂谈荟仅作“后晋”，名录开运二年在其范围内"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "wudai-948-wangpu",
+  "name": "王溥",
+  "dynasty": "五代",
+  "year": 948,
+  "era": "后汉干祐元年",
+  "bang": null,
+  "native": "并州祁县人",
+  "wiki_life": "922年－982年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "qts",
+    "juan": "卷736",
+    "quote": "（王仁裕《贺王溥入相》注引《石林诗话》）仁裕知贡举，取王溥为状元，溥时年二十六。",
+    "qs": "ok"
+   },
+   {
+    "src": "ss",
+    "juan": "249",
+    "quote": "溥，汉乾祐中，举进士甲科，为秘书郎。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "卷二百四十九"
+   },
+   {
+    "src": "qts",
+    "juan": "卷736"
+   }
+  ],
+  "confidence": "B",
+  "full": true,
+  "pending": [
+   "正史未明言第一；状元说见诗文小传/笔记/诗话，按规则最高 B"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "wudai-950-wangpu",
+  "name": "王朴",
+  "dynasty": "五代",
+  "year": 950,
+  "era": "后汉干祐三年",
+  "bang": null,
+  "native": "东平人",
+  "wiki_life": "906年－959年",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "xwds",
+    "juan": "31"
+   },
+   {
+    "src": "jwds",
+    "juan": "128"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "《新五代史》本传只作“少举进士”，没有言及第一。"
+  ]
+ },
+ {
+  "id": "wudai-952-huzai",
+  "name": "扈载",
+  "dynasty": "五代",
+  "year": 952,
+  "era": "后周广顺二年",
+  "bang": null,
+  "native": "幽州安次人",
+  "wiki_life": "922年－957年",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "xwds",
+    "juan": "31"
+   },
+   {
+    "src": "jwds",
+    "juan": "131"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "《新五代史》本传只作“举进士高第”，没有言及第一。"
+  ]
+ },
+ {
+  "id": "wudai-920-jianwenhui",
+  "name": "简文会",
+  "dynasty": "五代",
+  "year": 920,
+  "era": "南汉干亨四年",
+  "bang": null,
+  "native": "南海（今广东广州）",
+  "wiki_life": "900年~958年",
+  "wiki_note": "南汉第一位状元",
+  "evidence": [
+   {
+    "src": "gdtz",
+    "juan": "卷六 编年",
+    "quote": "六年庚辰春正月刘岩始立学校设选举…以南海人简文会为状元",
+    "qs": "ok"
+   },
+   {
+    "src": "gdtz",
+    "juan": "卷四十四 人物",
+    "quote": "简文㑹南海人幼颖异工诗性耿直南汉主䶮开进士科擢第一人及第",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
+  ],
+  "disputed": [
+   "年份：《广东通志》卷六系于贞明六年庚辰（920，与名录合），卷三十一选举表则列于“贞明四年戊寅”（918）",
+   "籍贯：《广东通志》作南海人，名录作湖北咸宁人"
+  ],
+  "native_wiki": "湖北咸宁人",
+  "native_src": {
+   "src": "gdtz",
+   "juan": "卷四十四",
+   "quote": "简文㑹南海人",
+   "tier": "非正史（方志（雍正，四库本））",
+   "note": "又见《十国春秋》卷064：“简文会南海人干亨元年改南海为咸宁常康二县遂为咸宁人文会㓜颖异工诗性耿直髙祖初开进士科擢第一人”（又云“遂为咸宁人”；名录“湖北咸宁”有误）",
+   "prec": "县"
+  },
+  "native_modern": "今广东广州",
+  "coord": [
+   23.13,
+   113.26
+  ]
+ },
+ {
+  "id": "wudai-925-liangsong",
+  "name": "梁嵩",
+  "dynasty": "五代",
+  "year": 925,
+  "era": "南汉白龙元年",
+  "bang": null,
+  "native": "浔州平南人（今广西平南）",
+  "wiki_life": "",
+  "wiki_note": "南汉状元",
+  "evidence": [
+   {
+    "src": "qtw",
+    "juan": "卷0892",
+    "quote": "嵩，浔州平南人。南汉白龙元年举进士第一，官翰林学士。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "仅见《全唐文》作者小传，正史未载“第一”；按规则最高 B"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "广西龚州人",
+  "native_modern": "今广西平南",
+  "coord": [
+   23.54,
+   110.39
+  ],
+  "native_src": {
+   "src": "qtw",
+   "juan": "卷892",
+   "quote": "嵩，浔州平南人",
+   "tier": "总集小传（清编《全唐文》）",
+   "note": ""
+  }
+ },
+ {
+  "id": "wudai-952-wangkezhen",
+  "name": "王克贞",
+  "dynasty": "五代",
+  "year": 952,
+  "era": "南唐保大十年",
+  "bang": null,
+  "native": "江西吉安人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）：《江西通志》卷四十九列王克贞于“南唐童子科”，非进士状元，未升级"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "wudai-959-shuya",
+  "name": "舒雅",
+  "dynasty": "五代",
+  "year": 959,
+  "era": "后周显德六年",
+  "bang": null,
+  "native": "旌德（今安徽旌德）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "441"
+   }
+  ],
+  "confidence": "R",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "《宋史》本传未载其科第，状元之说只见于名录。"
+  ],
+  "native_wiki": "歙州人",
+  "native_modern": "今安徽旌德",
+  "coord": [
+   30.32,
+   118.49
+  ],
+  "native_src": {
+   "src": "mytz",
+   "juan": "卷15",
+   "quote": "舒雅旌徳人好学善属文南唐时举进士第一",
+   "tier": "方志（明《大明一统志》）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "wudai-962-leshi",
+  "name": "乐史",
+  "dynasty": "五代",
+  "year": 962,
+  "era": "南唐建隆三年",
+  "bang": null,
+  "native": "宜黄（今江西宜黄）",
+  "wiki_life": "930年~1007年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "mytz",
+    "juan": "卷五十四 抚州府 人物",
+    "quote": "乐史宜黄人母梦异人授五色珠而生史力学有文南唐进士第一人",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
+   "未约纪年：所据文献明言状元/第一，但未记年份，年份仍据名录"
+  ],
+  "disputed": [],
+  "native_src": {
+   "src": "mytz",
+   "juan": "卷五十四",
+   "quote": "乐史宜黄人",
+   "tier": "非正史（地理总志（四库本））",
+   "note": "又见《明一统志》卷54：“乐史宜黄人母梦异人授五色珠而生史力学有文南唐进士第一”",
+   "prec": "县"
+  },
+  "native_wiki": "江西宜黄人",
+  "native_modern": "今江西宜黄",
+  "coord": [
+   27.39,
+   116.21
+  ]
+ },
+ {
+  "id": "wudai-963-qiuxu",
+  "name": "邱旭",
+  "dynasty": "五代",
+  "year": 963,
+  "era": "南唐建隆四年",
+  "bang": null,
+  "native": "宣城（今安徽宣城）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "fysl",
+    "juan": "卷二十六",
+    "quote": "邱旭字孟阳宣城人南唐状元及第",
+    "qs": "ok"
+   },
+   {
+    "src": "jntz",
+    "juan": "卷一百六十七 人物",
+    "quote": "邱旭字孟阳宣城人南唐后主试赋擢第一",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
+   "未约纪年：所据文献明言状元/第一，但未记年份，年份仍据名录"
+  ],
+  "disputed": [],
+  "native_src": {
+   "src": "fysl",
+   "juan": "卷二十六",
+   "quote": "邱旭字孟阳宣城人",
+   "tier": "非正史（地理总志（四库本））",
+   "note": "又见《十国春秋》卷031：“邱旭字孟阳宣城人旭本农家子弱冠始读书习为辞章俄随计金陵凡九举而曳白者六七旭自励弥笃不为耻由是学益进后主时试徳厚载物赋擢第一人”",
+   "prec": "县"
+  },
+  "native_wiki": "安徽宣城人",
+  "native_modern": "今安徽宣城",
+  "coord": [
+   30.95,
+   118.76
+  ]
+ },
+ {
+  "id": "wudai-964-wangchonggu",
+  "name": "王崇古",
+  "dynasty": "五代",
+  "year": 964,
+  "era": "南唐干德二年",
+  "bang": null,
+  "native": "江西庐陵人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "wudai-965-feihuangshang",
+  "name": "费黄裳",
+  "dynasty": "五代",
+  "year": 965,
+  "era": "南唐干德三年",
+  "bang": null,
+  "native": "四川广都人",
+  "wiki_life": "",
+  "wiki_note": "后蜀末代状元",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "wudai-966-luying",
+  "name": "卢郢",
+  "dynasty": "五代",
+  "year": 966,
+  "era": "南唐干德四年",
+  "bang": null,
+  "native": "金陵（今江苏南京）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jntz",
+    "juan": "卷一百六十五 人物",
+    "quote": "李后主时试赋擢第一",
+    "qs": "ok"
+   },
+   {
+    "src": "jdjkz",
+    "juan": "卷四十九",
+    "quote": "卢郢金陵人好学有俊才以状元登第",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
+   "未约纪年：所据文献明言状元/第一，但未记年份，年份仍据名录"
+  ],
+  "disputed": [],
+  "native_src": {
+   "src": "jdjkz",
+   "juan": "卷四十九",
+   "quote": "卢郢金陵人",
+   "tier": "非正史（方志（四库本））",
+   "note": "又见《明一统志》卷06：“卢郢金陵人好学有才艺膂力过人善吹铁笛江南后主时试赋擢第一”（府州级精度）",
+   "prec": "府州"
+  },
+  "native_wiki": "金陵人",
+  "native_modern": "今江苏南京",
+  "coord": [
+   32.06,
+   118.79
+  ]
+ },
+ {
+  "id": "wudai-967-yaoduan",
+  "name": "姚端",
+  "dynasty": "五代",
+  "year": 967,
+  "era": "南唐干德五年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jnyz",
+    "juan": "卷上",
+    "quote": "姚端年十八状元及第",
+    "qs": "ok_book"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
+   "未约纪年：所据文献明言状元/第一，但未记年份，年份仍据名录"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "wudai-968-langcan",
+  "name": "郎粲",
+  "dynasty": "五代",
+  "year": 968,
+  "era": "南唐干德六年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "pwzshp",
+    "juan": "卷八十二",
+    "quote": "公门生朱铣紫微郎粲状元",
+    "note": "书画谱录北宋元丰己未（1079）祖无颇《韩熙载夜宴图》题跋",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
+   "未约纪年：所据文献明言状元/第一，但未记年份，年份仍据名录"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "wudai-970-zhangwengu",
+  "name": "章文谷",
+  "dynasty": "五代",
+  "year": 970,
+  "era": "南唐后主庚午年",
+  "bang": null,
+  "native": "浦城人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "wudai-971-dengji",
+  "name": "邓及",
+  "dynasty": "五代",
+  "year": 971,
+  "era": "南唐后主辛未年",
+  "bang": null,
+  "native": "南昌新建人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "mlnts",
+    "juan": "卷二十三 罗颖传",
+    "quote": "颖初就举金陵试销刑鼎赋儒术之本论有司以邓及为第一",
+    "note": "罗颖开宝中举进士，未记确年",
+    "qs": "ok"
+   },
+   {
+    "src": "jxtz",
+    "juan": "卷四十九 选举",
+    "quote": "邓及新建人状元",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
+   "未约纪年：所据文献明言状元/第一，但未记年份，年份仍据名录"
+  ],
+  "disputed": [],
+  "native_src": {
+   "src": "jxtz",
+   "juan": "卷四十九",
+   "quote": "邓及新建人状元",
+   "tier": "非正史（方志（雍正，四库本））"
+  }
+ },
+ {
+  "id": "wudai-972-yangsui",
+  "name": "杨遂",
+  "dynasty": "五代",
+  "year": 972,
+  "era": "南唐后主壬申年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "wudai-973-zhaoqi",
+  "name": "赵绮",
+  "dynasty": "五代",
+  "year": 973,
+  "era": "南唐后主癸酉年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "wudai-975-zhangque",
+  "name": "张确",
+  "dynasty": "五代",
+  "year": 975,
+  "era": "南唐后主乙亥年 北宋开宝八年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "南唐末代状元",
+  "evidence": [
+   {
+    "src": "xzztcb",
+    "juan": "卷十六 开宝八年",
+    "quote": "是月，江南知贡举、户部员外郎伍乔放进士张确等三十人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "状元身份（待考证）",
+   "状元身份：长编记南唐“放进士张确等”，未明言第一"
+  ],
+  "disputed": [
+   "人工复核：《宋史》卷四百四十六《张确传》的传主是元祐年间进士、靖康时战死的守臣，不是名录中开宝八年（975）的南唐状元张确。"
+  ],
+  "reviewed": true
+ }
+]

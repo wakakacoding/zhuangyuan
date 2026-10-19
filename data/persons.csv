@@ -1,14 +1,14 @@
 ﻿id,name,courtesy,dynasty,exam_year,exam_approx,era,native,native_modern,lat,lng,birth,death,ending,zaixiang,events,sources,url
 sunfujia,孙伏伽,,唐,622,0,武德五年,贝州武城,今河北故城一带（待考证）,37.4,116,待考证,658,善终,0,5,旧唐书；新唐书；登科记考,https://wakakacoding.github.io/zhuangyuan/person/sunfujia/
-lvmengzheng,吕蒙正,字圣功,北宋,977,0,太平兴国二年,河南洛阳,今河南洛阳,34.62,112.45,944,1011,善终,1,5,宋史；破窑记（吕蒙正风雪破窑记）,https://wakakacoding.github.io/zhuangyuan/person/lvmengzheng/
-zhangxiaoxiang,张孝祥,字安国，号于湖居士,南宋,1154,0,绍兴二十四年,和州乌江（历阳）,今安徽和县,31.71,118.36,1132,1169,早逝,0,5,宋史；于湖居士文集；朝野遗记,https://wakakacoding.github.io/zhuangyuan/person/zhangxiaoxiang/
+lvmengzheng,吕蒙正,字圣功,北宋,977,0,太平兴国二年,河南洛阳,今河南洛阳,34.62,112.45,944,1011,善终,1,5,宋史；吕蒙正风雪破窑记（破窑记）,https://wakakacoding.github.io/zhuangyuan/person/lvmengzheng/
+zhangxiaoxiang,张孝祥,字安国，号于湖居士,南宋,1154,0,绍兴二十四年,和州乌江（历阳）,今安徽和县,31.71,118.36,1132,1169,早逝,0,5,宋史；于湖居士文集；御选历代诗余（四库全书本）,https://wakakacoding.github.io/zhuangyuan/person/zhangxiaoxiang/
 wangshipeng,王十朋,字龟龄，号梅溪,南宋,1157,0,绍兴二十七年,温州乐清,今浙江乐清,28.12,120.98,1112,1171,善终,0,5,宋史；梅溪集；荆钗记,https://wakakacoding.github.io/zhuangyuan/person/wangshipeng/
 wentianxiang,文天祥,字宋瑞，又字履善，号文山,南宋,1256,0,宝祐四年,吉州吉水（《宋史》作；通常亦称庐陵）,今江西吉安,27.11,114.99,1236,1283,殉国,1,8,宋史；文山先生全集（含《指南录》《指南后录》）,https://wakakacoding.github.io/zhuangyuan/person/wentianxiang/
 shanglu,商辂,字弘载，号素庵,明,1445,0,正统十年,浙江严州府淳安,今浙江淳安,29.61,119.04,1414,1486,善终,1,6,明史,https://wakakacoding.github.io/zhuangyuan/person/shanglu/
-yangshen,杨慎,字用修，号升庵,明,1511,0,正德六年,四川成都府新都,今四川成都新都区,30.82,104.16,1488,1559,贬谪终老,0,5,明史；毛宗岗评本三国演义,https://wakakacoding.github.io/zhuangyuan/person/yangshen/
-biyuan,毕沅,字𬙋蘅，号秋帆,清,1760,0,乾隆二十五年,江苏太仓州镇洋,今江苏太仓,31.46,121.13,1730,1797,身后抄家,0,5,清史稿；续资治通鉴（冯集梧序）；啸亭杂录,https://wakakacoding.github.io/zhuangyuan/person/biyuan/
+yangshen,杨慎,字用修，号升庵,明,1511,0,正德六年,四川成都府新都,今四川成都新都区,30.82,104.16,1488,1559,贬谪终老,0,5,明史；毛宗岗评本三国演义；弇州四部稿（四库全书本）,https://wakakacoding.github.io/zhuangyuan/person/yangshen/
+biyuan,毕沅,字𬙋蘅，号秋帆,清,1760,0,乾隆二十五年,江苏太仓州镇洋,今江苏太仓,31.46,121.13,1730,1797,身后抄家,0,5,清史稿；续资治通鉴（冯集梧序）；啸亭杂录；洪北江诗文集（四部丛刊本）,https://wakakacoding.github.io/zhuangyuan/person/biyuan/
 wengtonghe,翁同龢,字叔平，号松禅,清,1856,0,咸丰六年,江苏常熟,今江苏常熟,31.65,120.75,1830,1904,罢官终老,0,6,清史稿；翁同龢日记,https://wakakacoding.github.io/zhuangyuan/person/wengtonghe/
-zhangjian,张謇,字季直，号啬庵,清,1894,0,光绪二十年,江苏通州海门,今江苏南通海门区,31.87,121.18,1853,1926,善终,0,7,翁同龢日记；张謇全集；南通张季直先生传记,https://wakakacoding.github.io/zhuangyuan/person/zhangjian/
+zhangjian,张謇,字季直，号啬庵,清,1894,0,光绪二十年,江苏通州海门,今江苏南通海门区,31.87,121.18,1853,1926,善终,0,7,翁同龢日记；张謇全集；南通张季直先生传记；德宗景皇帝实录；清代殿试考略,https://wakakacoding.github.io/zhuangyuan/person/zhangjian/
 liugongquan,柳公权,字诚悬,唐,808,0,元和三年,京兆华原,今陕西铜川耀州区,34.91,108.98,778,865,善终,0,5,旧唐书；登科记考,https://wakakacoding.github.io/zhuangyuan/person/liugongquan/
 suyijian,苏易简,字太简,北宋,980,0,太平兴国五年,梓州铜山,今四川中江一带,31,104.9,958,996,早逝,0,5,宋史,https://wakakacoding.github.io/zhuangyuan/person/suyijian/
 wangzeng,王曾,字孝先,北宋,1002,0,咸平五年,青州益都,今山东青州,36.69,118.48,978,1038,善终,1,6,宋史,https://wakakacoding.github.io/zhuangyuan/person/wangzeng/
@@ -31,7 +31,7 @@ wangjie,王杰,字伟人，号惺园,清,1761,0,乾隆二十六年,同州府韩�
 hongjun,洪钧,字文卿,清,1868,0,同治七年,苏州府吴县,今江苏苏州,31.3,120.6,待考证,1893,善终,0,5,清史稿；孽海花,https://wakakacoding.github.io/zhuangyuan/person/hongjun/
 liguyan,李固言,,唐,812,0,元和七年,赵郡,今河北赵县一带（郡望，待考证）,37.75,114.77,待考证,待考证,善终,1,5,旧唐书；唐摭言,https://wakakacoding.github.io/zhuangyuan/person/liguyan/
 luyi,陆扆,字祥文,唐,886,0,光启二年,陕州（本吴郡人）,今河南三门峡,34.77,111.2,847,905,被杀,1,6,旧唐书；新唐书；唐摭言,https://wakakacoding.github.io/zhuangyuan/person/luyi/
-sunwo,孙偓,字龙光,唐,880,1,年份待考证（崔淡知贡举之年）,待考证,待考证,,,待考证,待考证,贬谪终老,1,6,新唐书；唐摭言,https://wakakacoding.github.io/zhuangyuan/person/sunwo/
+sunwo,孙偓,字龙光,唐,880,1,年份待考证（崔淡知贡举之年）,武邑,今河北武邑,37.8,115.88,待考证,待考证,贬谪终老,1,6,新唐书；唐摭言,https://wakakacoding.github.io/zhuangyuan/person/sunwo/
 cuizhaowei,崔昭纬,,唐,882,1,中和年间（具体年份待考证）,清河,今河北清河一带（郡望，待考证）,37.07,115.67,待考证,待考证,被杀,1,4,旧唐书；唐摭言,https://wakakacoding.github.io/zhuangyuan/person/cuizhaowei/
 wange,王鹗,字百一,金,1224,0,正大元年,曹州东明,今山东东明,35.29,115.09,1190,1273,善终,0,5,元史,https://wakakacoding.github.io/zhuangyuan/person/wange/
 lijunmin,李俊民,字用章,金,1198,1,承安年间（具体年份待考证）,泽州,今山西晋城,35.49,112.85,待考证,待考证,善终,0,5,元史,https://wakakacoding.github.io/zhuangyuan/person/lijunmin/
@@ -39,7 +39,7 @@ songben,宋本,字诚夫,元,1321,0,至治元年,大都,今北京,39.9,116.4,128
 taibuhua,泰不华,字兼善（初名达普化）,元,1321,0,至治元年,台州（世居白野山）,今浙江台州,28.66,121.42,1304,1352,殉国,0,5,元史,https://wakakacoding.github.io/zhuangyuan/person/taibuhua/
 liqi,李齐,字公平,元,1333,0,元统元年,广平,今河北邯郸一带,36.5,114.9,待考证,1353,殉国,0,4,元史,https://wakakacoding.github.io/zhuangyuan/person/liqi/
 chenzuren,陈祖仁,字子山,元,1342,0,至正二年,汴,今河南开封,34.8,114.3,1314,1368,殉国,0,6,元史,https://wakakacoding.github.io/zhuangyuan/person/chenzuren/
-puyanbuhua,普颜不花,字希古,元,1345,0,至正五年,待考证（蒙古氏）,待考证,,,待考证,待考证,殉国,0,3,元史,https://wakakacoding.github.io/zhuangyuan/person/puyanbuhua/
+puyanbuhua,普颜不花,字希古,元,1345,0,至正五年,棣州（蒙古氏）,今山东惠民,37.49,117.5,待考证,待考证,殉国,0,3,元史,https://wakakacoding.github.io/zhuangyuan/person/puyanbuhua/
 wanggongchen,王拱辰,字君贶,北宋,1030,1,天圣八年（据享年推算，待考证）,开封咸平,今河南通许,34.48,114.47,1012,1085,善终,0,5,宋史,https://wakakacoding.github.io/zhuangyuan/person/wanggongchen/
 xujiang,许将,字冲元,北宋,1063,1,年份待考证,福州闽县,今福建福州,26.08,119.3,待考证,待考证,善终,0,6,宋史,https://wakakacoding.github.io/zhuangyuan/person/xujiang/
 wangyingchen,汪应辰,字圣锡,南宋,1135,0,绍兴五年,信州玉山,今江西玉山,28.68,118.24,1118,1176,善终,0,5,宋史,https://wakakacoding.github.io/zhuangyuan/person/wangyingchen/
@@ -143,7 +143,7 @@ tang-755-changgun,常衮,,唐,755,0,天宝十四载乙未科,京兆,今陕西西
 tang-769-qiying,齐映,,唐,769,0,大历四年己酉科,瀛州高阳,今河北高阳,38.7,115.78,748,795,善终,1,2,旧唐书,https://wakakacoding.github.io/zhuangyuan/person/tang-769-qiying/
 tang-774-yangping,杨凭,字虚受,唐,774,0,大历九年甲寅科,虢州弘农,今河南灵宝,34.52,110.89,待考证,待考证,贬谪终老,0,2,旧唐书,https://wakakacoding.github.io/zhuangyuan/person/tang-774-yangping/
 tang-786-zhangzhengfu,张正甫,字践方,唐,786,0,贞元二年丙寅科,南阳（郡望）,待考证,,,752,834,善终,0,2,旧唐书,https://wakakacoding.github.io/zhuangyuan/person/tang-786-zhangzhengfu/
-tang-796-licheng,李程,字表臣,唐,796,0,贞元十二年丙子科,宗室（襄邑恭王神符五世孙）,待考证,,,待考证,待考证,善终,1,2,新唐书,https://wakakacoding.github.io/zhuangyuan/person/tang-796-licheng/
+tang-796-licheng,李程,字表臣,唐,796,0,贞元十二年丙子科,宗室（襄邑恭王神符五世孙）,今陕西西安,34.26,108.94,待考证,待考证,善终,1,2,新唐书,https://wakakacoding.github.io/zhuangyuan/person/tang-796-licheng/
 tang-802-xuhui,徐晦,,唐,802,0,贞元十八年壬午科,待考证,待考证,,,待考证,838,善终,0,2,旧唐书,https://wakakacoding.github.io/zhuangyuan/person/tang-802-xuhui/
 tang-808-zhengsu,郑肃,,唐,808,0,元和三年,荥阳（郡望）,待考证,,,待考证,待考证,善终,1,2,旧唐书,https://wakakacoding.github.io/zhuangyuan/person/tang-808-zhengsu/
 tang-814-zhangyouxin,张又新,字孔昭,唐,814,0,元和九年甲午科,深州陆泽（父张荐本传）,今河北深州,38.02,115.56,待考证,待考证,贬谪终老,0,1,新唐书,https://wakakacoding.github.io/zhuangyuan/person/tang-814-zhangyouxin/
@@ -157,7 +157,7 @@ liao-1055-zhangxiaojie,张孝杰,,辽,1055,0,重熙二十四年乙未科,建州�
 liao-1062-wangding,王鼎,字虚中,辽,1062,0,清宁八年,涿州,今河北涿州,39.49,115.97,待考证,待考证,善终,0,2,辽史,https://wakakacoding.github.io/zhuangyuan/person/liao-1062-wangding/
 wudai-950-wangpu,王朴,字文伯,五代,950,0,后汉干祐三年,东平,今山东东平,35.91,116.47,待考证,959,早逝,0,3,新五代史；旧五代史,https://wakakacoding.github.io/zhuangyuan/person/wudai-950-wangpu/
 wudai-952-huzai,扈载,字仲熙,五代,952,0,后周广顺二年,北燕（幽州一带）,今北京一带,39.9,116.4,待考证,待考证,早逝,0,1,新五代史,https://wakakacoding.github.io/zhuangyuan/person/wudai-952-huzai/
-wudai-959-shuya,舒雅,字子正,五代,959,0,后周显德六年,歙州（据名录）,待考证,,,待考证,待考证,善终,0,1,宋史,https://wakakacoding.github.io/zhuangyuan/person/wudai-959-shuya/
+wudai-959-shuya,舒雅,字子正,五代,959,0,后周显德六年,旌德,今安徽旌德,30.32,118.49,待考证,待考证,善终,0,1,宋史,https://wakakacoding.github.io/zhuangyuan/person/wudai-959-shuya/
 ming-1388-renhengtai,任亨泰,,明,1388,0,洪武二十一年,湖广襄阳,今湖北襄阳,32.04,112.14,待考证,待考证,贬谪,0,3,明史,https://wakakacoding.github.io/zhuangyuan/person/ming-1388-renhengtai/
 ming-1442-liuyan,刘俨,字宣化,明,1442,0,正统七年,江西吉水,今江西吉水,27.21,115.13,待考证,待考证,善终,0,3,明史,https://wakakacoding.github.io/zhuangyuan/person/ming-1442-liuyan/
 ming-1481-wanghua,王华,字德辉,明,1481,0,成化十七年,浙江余姚,今浙江余姚,30.04,121.15,待考证,待考证,善终,0,4,明史,https://wakakacoding.github.io/zhuangyuan/person/ming-1481-wanghua/
@@ -204,7 +204,7 @@ ming-1544-qinminglei,秦鸣雷,字子豫，号华峰,明,1544,0,嘉靖二十三�
 ming-1553-chenjin,陈谨,字德言，号环江,明,1553,0,嘉靖三十二年,福州闽县,今福建福州,26.07,119.3,1525,1566,病卒,0,5,国朝献征录,https://wakakacoding.github.io/zhuangyuan/person/ming-1553-chenjin/
 ming-1556-zhudashou,诸大绶,,明,1556,0,嘉靖三十五年,浙江山阴,今浙江绍兴,30,120.58,1523（推）,1573,病卒,0,5,国朝献征录,https://wakakacoding.github.io/zhuangyuan/person/ming-1556-zhudashou/
 tang-714-liang,李昂,,唐,714,0,开元二年,待考证,待考证,,,待考证,待考证,待考证,0,3,唐才子传,https://wakakacoding.github.io/zhuangyuan/person/tang-714-liang/
-jin-1163-mengzongxian,孟宗献,字友之,金,1163,0,大定三年,开封,今河南开封,,,待考证,待考证,丁母忧哀毁卒,0,4,中州集,https://wakakacoding.github.io/zhuangyuan/person/jin-1163-mengzongxian/
+jin-1163-mengzongxian,孟宗献,字友之,金,1163,0,大定三年,开封,今河南开封,34.8,114.31,待考证,待考证,丁母忧哀毁卒,0,4,中州集,https://wakakacoding.github.io/zhuangyuan/person/jin-1163-mengzongxian/
 jin-1197-lizhu,李著,字彦明,金,1197,0,承安二年,真定,今河北正定,,,待考证,待考证,城陷死节,0,4,中州集,https://wakakacoding.github.io/zhuangyuan/person/jin-1197-lizhu/
 ming-1412-maduo,马铎,字彦声，号梅岩,明,1412,0,永乐十年,长乐,今福建福州长乐区,25.96,119.52,1366（推）,1423,卒于官,0,5,东里文集,https://wakakacoding.github.io/zhuangyuan/person/ming-1412-maduo/
 ming-1439-shipan,施槃,字宗铭,明,1439,0,正统四年,苏州吴县,今江苏苏州,31.3,120.62,1416（推）,1439,早逝,0,2,东里续集,https://wakakacoding.github.io/zhuangyuan/person/ming-1439-shipan/

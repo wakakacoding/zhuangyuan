@@ -1,0 +1,2464 @@
+[
+ {
+  "id": "bsong-960-yangli",
+  "name": "杨砺",
+  "dynasty": "北宋",
+  "year": 960,
+  "era": "建隆元年",
+  "bang": null,
+  "native": "京兆鄠人",
+  "wiki_life": "930年－999年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "太祖建隆元年，进士十九人，榜首杨砺。二年，进",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "287"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "《宋史》本传只作“建隆中举进士甲科”，没有言及第一。",
+   "《文献通考·选举考》卷32 明载其为该科榜首/状元，据此由 R 改 A；本传未言第一之处仍保留"
+  ],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-961-zhangquhua",
+  "name": "张去华",
+  "dynasty": "北宋",
+  "year": 961,
+  "era": "建隆二年",
+  "bang": null,
+  "native": "开封襄邑人",
+  "wiki_life": "938年－1006年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "二年，进士十一人，榜首张去华。三年，进",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "306"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "《宋史》本传只作“举进士甲科”，没有言及第一。",
+   "《文献通考·选举考》卷32 明载其为该科榜首/状元，据此由 R 改 A；本传未言第一之处仍保留"
+  ],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-962-mashi",
+  "name": "马适",
+  "dynasty": "北宋",
+  "year": 962,
+  "era": "建隆三年",
+  "bang": null,
+  "native": "湖口（今江西湖口）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "三年，进士十五人，榜首马适。四年，进",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "973（推）",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "辛巳，杀右拾遗马适。",
+     "src": "ss",
+     "juan": "卷三 太祖纪三 开宝六年五月",
+     "tier": "正史本纪",
+     "infer": "推：本纪只书官名姓名；《长编》卷14同年记“右拾遗、通判秦州马适”坐妻父李守信盗官钱案弃市。与状元马适为同一人，系据同名且曾任拾遗推定（同名风险低，仍请留意）"
+    },
+    {
+     "field": "death",
+     "quote": "右拾遗、通判秦州马适妻，守信女也……适坐弃市，仍籍其家",
+     "src": "xzztcb",
+     "juan": "卷014 开宝六年",
+     "tier": "编年史"
+    }
+   ],
+   "note": "状元身份与此人是否同一，史料未直接说明",
+   "done": true
+  },
+  "native_wiki": "九江湖口人",
+  "native_modern": "今江西湖口",
+  "coord": [
+   29.65,
+   116.28
+  ],
+  "native_src": {
+   "src": "jxtz",
+   "juan": "卷092",
+   "quote": "马适湖口人祖良俊葬幞头山䜟言沙洲圆出状元已而生适慧悟勤敏嗜学建隆二年以文学髙等擢进士第一人",
+   "tier": "方志（清修《江西通志》人物）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "bsong-963-sudexiang",
+  "name": "苏德祥",
+  "dynasty": "北宋",
+  "year": 963,
+  "era": "建隆四年",
+  "bang": null,
+  "native": "益都（今山东青州）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "四年，进士八人，榜首苏德祥。干德二年",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "山东潍坊青州人",
+  "native_modern": "今山东青州",
+  "coord": [
+   36.69,
+   118.48
+  ],
+  "native_src": {
+   "src": "sdtz",
+   "juan": "卷15之1",
+   "quote": "苏德祥益都人状元",
+   "tier": "方志（清修《山东通志》选举表）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "bsong-964-lijingyang",
+  "name": "李景阳",
+  "dynasty": "北宋",
+  "year": 964,
+  "era": "干德二年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "干德二年，进士八人，榜首李景阳制科一人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [
+   "籍贯"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-965-liucha",
+  "name": "刘察",
+  "dynasty": "北宋",
+  "year": 965,
+  "era": "干德三年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "三年，进士七人，榜首刘察。四年，进",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [
+   "籍贯"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-966-lisu",
+  "name": "李肃",
+  "dynasty": "北宋",
+  "year": 966,
+  "era": "干德四年",
+  "bang": null,
+  "native": "开封府人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "四年，进士六人，榜首李肃制科二人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-967-liumengsou",
+  "name": "刘蒙叟",
+  "dynasty": "北宋",
+  "year": 967,
+  "era": "干德五年",
+  "bang": null,
+  "native": "宁陵人",
+  "wiki_life": "约933年~？",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "五年，进士十人，榜首刘蒙叟。六年，进",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   [
+    {
+     "src": "ss",
+     "juan": "263"
+    }
+   ]
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-968-chaichengwu",
+  "name": "柴成务",
+  "dynasty": "北宋",
+  "year": 968,
+  "era": "干德六年",
+  "bang": null,
+  "native": "曹州济阴人",
+  "wiki_life": "934年~1004年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "六年，进士十一人，榜首柴成务。开宝二年",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "306"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "《宋史》本传只作“中进士甲科”，没有言及第一。",
+   "《文献通考·选举考》卷32 明载其为该科榜首/状元，据此由 R 改 A；本传未言第一之处仍保留"
+  ],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-969-andeyu",
+  "name": "安德裕",
+  "dynasty": "北宋",
+  "year": 969,
+  "era": "开宝二年",
+  "bang": null,
+  "native": "河南人",
+  "wiki_life": "940年－1002年",
+  "wiki_note": "子安守亮后亦中状元。",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "开宝二年，进士七人，榜首安德裕。三年，进",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "440"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "《宋史》本传只作“擢进士甲科”，没有言及第一。",
+   "《文献通考·选举考》卷32 明载其为该科榜首/状元，据此由 R 改 A；本传未言第一之处仍保留"
+  ],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-970-zhanggong",
+  "name": "张拱",
+  "dynasty": "北宋",
+  "year": 970,
+  "era": "开宝三年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "三年，进士八人，榜首张拱；赐十五举",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [
+   "籍贯"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-971-liuyin",
+  "name": "刘寅",
+  "dynasty": "北宋",
+  "year": 971,
+  "era": "开宝四年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "四年，进士十人，榜首刘寅。五年，进",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [
+   "籍贯"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-972-anshouliang",
+  "name": "安守亮",
+  "dynasty": "北宋",
+  "year": 972,
+  "era": "开宝五年",
+  "bang": null,
+  "native": "河南人",
+  "wiki_life": "",
+  "wiki_note": "父安德裕亦曾中状元。",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "3",
+    "quote": "闰月壬辰，礼部试进士安守亮等诸科共三十八人，召对讲武殿，始放榜。",
+    "qs": "ok"
+   },
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "五年，进士十一人，榜首安守亮。六年，进",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [
+   "所载为礼部试，非殿试"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-973-songzhun",
+  "name": "宋准",
+  "dynasty": "北宋",
+  "year": 973,
+  "era": "开宝六年",
+  "bang": null,
+  "native": "开封雍丘人",
+  "wiki_life": "937年~989年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "440",
+    "quote": "准开宝中举进士……太祖怒，召准覆试于便殿，见准形神伟茂，程试敏速，甚嘉之，以为宜首冠俊造，由是复擢准甲科",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "440"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-975-wangsizong",
+  "name": "王嗣宗",
+  "dynasty": "北宋",
+  "year": 975,
+  "era": "开宝八年",
+  "bang": null,
+  "native": "山西汾阳人",
+  "wiki_life": "944年~1025年",
+  "wiki_note": "与陈识同时交卷，后以摔角分胜负。",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "八年，进士三十一人，省元王式，状元王嗣宗；诸科二十",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "287"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "《宋史》本传只作“登进士甲科”；名录备注中“与陈识以摔角分胜负”一说，本传未载。",
+   "《文献通考·选举考》卷32 明载其为该科榜首/状元，据此由 R 改 A；本传未言第一之处仍保留"
+  ],
+  "reviewed": true
+ },
+ {
+  "id": "lvmengzheng",
+  "name": "吕蒙正",
+  "dynasty": "北宋",
+  "year": 977,
+  "era": "太平兴国二年",
+  "bang": null,
+  "native": "河南洛阳人",
+  "wiki_life": "946年~1011年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "265",
+    "quote": "吕蒙正，字圣功，河南人。……蒙正，太平兴国二年，擢进士第一，授将作监丞，通判升州。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-978-hudan",
+  "name": "胡旦",
+  "dynasty": "北宋",
+  "year": 978,
+  "era": "大平兴国三年",
+  "bang": null,
+  "native": "滨州渤海人",
+  "wiki_life": "955年~1034年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "432",
+    "quote": "胡旦，字周父，滨州渤海人。……举进士第一，为将作监丞、通判升州。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "432"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "suyijian",
+  "name": "苏易简",
+  "dynasty": "北宋",
+  "year": 980,
+  "era": "太平兴国五年",
+  "bang": null,
+  "native": "梓州铜山人",
+  "wiki_life": "958年－996年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "266",
+    "quote": "易简所试三千余言立就，奏上，览之称赏，擢冠甲科。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-983-wangshize",
+  "name": "王世则",
+  "dynasty": "北宋",
+  "year": 983,
+  "era": "太平兴国八年",
+  "bang": null,
+  "native": "长沙（今湖南长沙）",
+  "wiki_life": "963年~1008年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "八年，进士二百三十九人省元王禹偁，状元王世则；诸科二百",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "桂林永福县人",
+  "native_modern": "今湖南长沙",
+  "coord": [
+   28.2,
+   112.97
+  ],
+  "native_src": {
+   "src": "xzztcb",
+   "juan": "卷24",
+   "quote": "擢进士长沙王世则",
+   "tier": "编年史（《续资治通鉴长编》）",
+   "note": "长编以地名冠姓名；与名录“桂林永福”不同，待考"
+  }
+ },
+ {
+  "id": "bsong-985-lianghao",
+  "name": "梁灏",
+  "dynasty": "北宋",
+  "year": 985,
+  "era": "雍熙二年",
+  "bang": null,
+  "native": "郓州须城人",
+  "wiki_life": "963年－1004年",
+  "wiki_note": "子梁固后亦中状元。",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "二年，进士二百五十八人，省元陈充，状元梁颢；诸科六百九十九人。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzztcb",
+    "juan": "卷026",
+    "quote": "得进士须城梁颢等百七十九人，庚申，得诸科三百一十八人，并唱名赐及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "296"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "《宋史》卷二百九十六本传作“暴病卒，年九十二”，与后世“八十二岁中状元”等传说以及“年四十二”的通行说法都不相合，待考证。",
+   "名录作“梁灏”，《宋史》《文献通考》《长编》卷26 都作“梁颢”（《长编》卷33 作“梁灏”）；本站以人物页用名录写法，另注史书写法。",
+   "中文维基名录曾另列开宝七年（974）“梁颢”（润州人）一条；经核974年无榜，已移出名录，见「已排除条目」。"
+  ],
+  "aliases": [
+   "梁颢"
+  ]
+ },
+ {
+  "id": "bsong-988-chengsu",
+  "name": "程宿",
+  "dynasty": "北宋",
+  "year": 988,
+  "era": "端拱元年",
+  "bang": null,
+  "native": "衢州人（今浙江衢州）",
+  "wiki_life": "971年~1000年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "xzztcb",
+    "juan": "卷029",
+    "quote": "翰林学士、礼部侍郎宋白知贡举，放进士程宿以下二十八人，诸科一百人。",
+    "qs": "ok"
+   },
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "端拱元年，进士二十八人……省元程宿（是年，不临轩）。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "礼部放榜首名、省元；是年不临轩，未行殿试"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "浙江衢州开化人",
+  "native_modern": "今浙江衢州",
+  "coord": [
+   28.97,
+   118.87
+  ],
+  "native_src": {
+   "src": "xzztcb",
+   "juan": "卷29",
+   "quote": "程宿，衢州人，此据登科记",
+   "tier": "编年史（《续资治通鉴长编》）",
+   "note": "李焘注，据《登科记》"
+  },
+  "life": {
+   "birth": "待考证",
+   "death": "早卒（年未详）",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "程宿早卒，有弟无所依，宗谔为表请于朝而官之。",
+     "src": "ss",
+     "juan": "卷二六五（杨亿传附见）",
+     "tier": "正史列传"
+    }
+   ],
+   "note": "仅见“早卒”，无确切年份；维基作1000，未采",
+   "done": true
+  }
+ },
+ {
+  "id": "bsong-989-chenyaosou",
+  "name": "陈尧叟",
+  "dynasty": "北宋",
+  "year": 989,
+  "era": "端拱二年",
+  "bang": null,
+  "native": "阆州阆中人",
+  "wiki_life": "961年~1017年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "284",
+    "quote": "尧叟，字唐夫……天禧初，病亟……卒，年五十七……谥曰文忠。",
+    "qs": "ok"
+   },
+   {
+    "src": "ss",
+    "juan": "155",
+    "quote": "每科进士第一人，天子宠之以诗，后尝作箴赐陈尧叟。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "284"
+   },
+   {
+    "src": "ss",
+    "juan": "155"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-992-sunhe",
+  "name": "孙何",
+  "dynasty": "北宋",
+  "year": 992,
+  "era": "淳化三年",
+  "bang": null,
+  "native": "？蔡州汝阳人？",
+  "wiki_life": "961年~1004年",
+  "wiki_note": "三元及第",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "440",
+    "quote": "王禹偁、孙何皆初游词场，德裕力为延誉。及领考试，何又其首选。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   },
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "三年，进士三百五十三人，诸科七百七十四人，省元孙何，状元同",
+    "qs": "ok"
+   },
+   {
+    "src": "ss",
+    "juan": "306",
+    "quote": "淳化三年举进士，开封府、礼部俱首荐，及第又得甲科。",
+    "grade": "A",
+    "note": "开封府试、礼部试皆第一；殿试第一另见卷440与文献通考32",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "306"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "《文献通考·选举考》卷32 明载其为该科榜首/状元，据此由 R 改 A；本传未言第一之处仍保留"
+  ],
+  "reviewed": true,
+  "notes_audit": [
+   "三元有据：宋史306记开封府、礼部“俱首荐”，殿试第一"
+  ]
+ },
+ {
+  "id": "bsong-998-sunjin",
+  "name": "孙仅",
+  "dynasty": "北宋",
+  "year": 998,
+  "era": "咸平元年",
+  "bang": null,
+  "native": "河南汝州人",
+  "wiki_life": "969年~1017年",
+  "wiki_note": "荆门孙家三凤⺀孙何、孙仅、孙侑",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "6",
+    "quote": "壬申，赐进士孙仅等宴琼林。",
+    "qs": "ok"
+   },
+   {
+    "src": "ss",
+    "juan": "306",
+    "quote": "咸平元年，进士甲科，兄弟连冠贡籍，时人荣之。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "卷三百零六"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-999-sunji",
+  "name": "孙暨",
+  "dynasty": "北宋",
+  "year": 999,
+  "era": "咸平二年",
+  "bang": null,
+  "native": "开封（今河南开封）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "二年，进士七十一人，诸科一百八十人，省元孙暨，状元同",
+    "qs": "ok"
+   },
+   {
+    "src": "xzztcb",
+    "juan": "卷043",
+    "quote": "乃以孙暨为第一，辅尧第二，易第三，余并如旧。暨，开封人",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [
+   "籍贯：维基名录作“河南汝州人”，《续资治通鉴长编》卷43作“暨，开封人”，本站从《长编》，汝州说待考证"
+  ],
+  "reviewed": true,
+  "native_wiki": "河南汝州人",
+  "native_modern": "今河南开封",
+  "coord": [
+   34.8,
+   114.31
+  ],
+  "native_src": {
+   "src": "xzztcb",
+   "juan": "卷043",
+   "quote": "乃以孙暨为第一，辅尧第二，易第三，余并如旧。暨，开封人",
+   "tier": "编年史（《续资治通鉴长编》）",
+   "note": "维基名录作“河南汝州人”，《长编》作“开封人”，从《长编》；两说不同，汝州说待考证"
+  }
+ },
+ {
+  "id": "bsong-1000-chenyaozi",
+  "name": "陈尧咨",
+  "dynasty": "北宋",
+  "year": 1000,
+  "era": "咸平三年",
+  "bang": null,
+  "native": "阆州阆中人",
+  "wiki_life": "970年~1034年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "284",
+    "quote": "尧咨，字嘉谟，举进士第一，授将作监丞、通判济州。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "284"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "wangzeng",
+  "name": "王曾",
+  "dynasty": "北宋",
+  "year": 1002,
+  "era": "咸平五年",
+  "bang": null,
+  "native": "福建晋江人",
+  "wiki_life": "977年一1038年",
+  "wiki_note": "三元及第",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "310",
+    "quote": "咸平中，由乡贡试礼部、廷对皆第一。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "310"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-1005-lidi",
+  "name": "李迪",
+  "dynasty": "北宋",
+  "year": 1005,
+  "era": "景德二年",
+  "bang": null,
+  "native": "濮州人",
+  "wiki_life": "971年~1047年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "310",
+    "quote": "举进士第一，授将作监丞。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "310"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-1008-yaoye",
+  "name": "姚晔",
+  "dynasty": "北宋",
+  "year": 1008,
+  "era": "大中祥符元年",
+  "bang": null,
+  "native": "河南商水县化河乡姚桥村人",
+  "wiki_life": "958年~？",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "大中祥符元年，进士二百七人，诸科三百二十人，省元郑向，状元姚晔。二年，亲",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-1009-lianggu",
+  "name": "梁固",
+  "dynasty": "北宋",
+  "year": 1009,
+  "era": "大中祥符二年",
+  "bang": null,
+  "native": "郓州须城人",
+  "wiki_life": "985年－1017年",
+  "wiki_note": "父梁灏亦曾中状元。",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "7",
+    "quote": "庚戌，御试东封路服勤词学、经明行修贡举梁固等九十二人。",
+    "qs": "ok"
+   },
+   {
+    "src": "ss",
+    "juan": "296",
+    "quote": "大中祥符元年，举服勤词学科，擢甲第。",
+    "qs": "ok"
+   },
+   {
+    "src": "ss",
+    "juan": "7",
+    "quote": "大中祥符二年……庚戌，御试东封路服勤词学、经明行修贡举梁固等九十二人。",
+    "qs": "ok"
+   },
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "二年，亲试东封路，进士三十一人，状元梁固。三年，停",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "卷二百九十六"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "年份已定：本纪系于名录所记之年（1009），从本纪；《宋史》卷296 本传作“大中祥符元年”，视为传文纪年之误（2026-10-13 核定）"
+  ],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-1011-zhangshide",
+  "name": "张师德",
+  "dynasty": "北宋",
+  "year": 1011,
+  "era": "大中祥符四年",
+  "bang": null,
+  "native": "开封襄邑人",
+  "wiki_life": "978年~1026年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "306",
+    "quote": "真宗祀汾阴……是岁，举进士亦为第一，时人荣之。",
+    "qs": "ok"
+   },
+   {
+    "src": "ss",
+    "juan": "282",
+    "quote": "状元及第，荣进素定，但当静以待之尔。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "306"
+   },
+   {
+    "src": "ss",
+    "juan": "282"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-1012-xushi",
+  "name": "徐奭",
+  "dynasty": "北宋",
+  "year": 1012,
+  "era": "大中祥符五年",
+  "bang": null,
+  "native": "建安（今福建建瓯）",
+  "wiki_life": "？~1030年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "五年，进士一百二十六人，诸科三百七十七人，省元、状元徐奭。六年，停",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "福建瓯宁人",
+  "native_modern": "今福建建瓯",
+  "coord": [
+   27.03,
+   118.32
+  ],
+  "native_src": {
+   "src": "xzztcb",
+   "juan": "卷077",
+   "quote": "得进士建安徐奭而下及第者百人",
+   "tier": "编年史（《续资治通鉴长编》）",
+   "note": "维基名录作“福建瓯宁人”；《长编》作“建安”，二者是否同地、瓯宁与建安的沿革，待考证"
+  },
+  "life": {
+   "birth": "待考证",
+   "death": "约1030（推）",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "礼部郎中知制诰徐奭为翰林学士权知开封府……不半载暴卒",
+     "src": "xzztcb",
+     "juan": "卷一百九 天圣八年",
+     "tier": "编年史",
+     "infer": "推：长编记天圣八年（1030）徐奭由知制诰入翰林、权知开封府，称“不半载暴卒”，则卒于1030年或次年初；维基作1030"
+    }
+   ],
+   "note": "长编未明书卒年月，故标“约”",
+   "done": true
+  }
+ },
+ {
+  "id": "bsong-1014-zhangguan",
+  "name": "张观",
+  "dynasty": "北宋",
+  "year": 1014,
+  "era": "大中祥符七年",
+  "bang": null,
+  "native": "山西绛县人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "292",
+    "quote": "张观，字思正，绛州绛县人。……中服勤辞学科，擢为第一，授将作监丞、通判解州。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "276"
+   },
+   {
+    "src": "ss",
+    "juan": "292"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "同名者：《宋史》卷二百七十六另有张观（字仲宾，常州毗陵人，在江南登进士第），与此人不同，名录自动检索曾误配。"
+  ]
+ },
+ {
+  "id": "bsong-1015-caiqi",
+  "name": "蔡齐",
+  "dynasty": "北宋",
+  "year": 1015,
+  "era": "大中样符八年",
+  "bang": null,
+  "native": "山东平度人",
+  "wiki_life": "988年~1039年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "286",
+    "quote": "蔡齐，字子思，其先洛阳人也。……举进士第一。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "286"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-1019-wangzheng",
+  "name": "王整",
+  "dynasty": "北宋",
+  "year": 1019,
+  "era": "天禧三年",
+  "bang": null,
+  "native": "河北大名县人",
+  "wiki_life": "970年~？",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "三年，进士一百四十人，诸科一百五十四人，省元程戡，状元王整。四年、五",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [
+   "《长编》卷93 李焘自注：“王整魏人，登科记云……恐此及第者非魏人，或是贽子”，李焘自己对此人籍贯有疑，待考证"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "songxiang",
+  "name": "宋庠",
+  "dynasty": "北宋",
+  "year": 1024,
+  "era": "天圣二年",
+  "bang": null,
+  "native": "开封雍丘→湖北安陆人",
+  "wiki_life": "996年~1066年",
+  "wiki_note": "连中三元。原取宋庠弟宋祁为第一，因「长幼有序」而改取宋庠。",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "284",
+    "quote": "庠天圣初举进士，开封试、礼部皆第一，擢大理评事、同判襄州。",
+    "qs": "ok"
+   },
+   {
+    "src": "ss",
+    "juan": "284",
+    "quote": "庠天圣初举进士，开封试、礼部皆第一。",
+    "grade": "A",
+    "note": "连同殿试擢第一（宋祁传），即三元",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "284"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "维基列表备注：连中三元。原取宋庠弟宋祁为第一，因「长幼有序」而改取宋庠。"
+  ],
+  "notes_audit": [
+   "三元有据：宋史284记开封试、礼部皆第一，殿试擢第一"
+  ]
+ },
+ {
+  "id": "bsong-1027-wangyaochen",
+  "name": "王尧臣",
+  "dynasty": "北宋",
+  "year": 1027,
+  "era": "天圣五年",
+  "bang": null,
+  "native": "应天府虞城人",
+  "wiki_life": "1003年－1058年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "319",
+    "quote": "临江新喻人。举庆历进士，廷试第一。编排官王尧臣，其内兄也，以亲嫌自列，乃以为第二。通判蔡州，直集贤院，判尚书考功。  夏竦薨，赐谥文正。敞言：「谥",
+    "qs": "ok"
+   },
+   {
+    "src": "ss",
+    "juan": "292",
+    "quote": "王尧臣，字伯庸，应天府虞城人。……举进士第一，授将作监丞、通判湖州。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "292"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "wanggongchen",
+  "name": "王拱辰",
+  "dynasty": "北宋",
+  "year": 1030,
+  "era": "天圣八年",
+  "bang": null,
+  "native": "开封咸平人",
+  "wiki_life": "1012年－1085年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "318",
+    "quote": "王拱辰，字君贶，开封咸平人。……元名拱寿，年十九，举进士第一，仁宗赐以今名。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "318"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-1034-zhangtangqing",
+  "name": "张唐卿",
+  "dynasty": "北宋",
+  "year": 1034,
+  "era": "景祐元年",
+  "bang": null,
+  "native": "山东青州人",
+  "wiki_life": "1010年－1037年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "景祐元年，进士四百九十九人，诸科四百八十一人，制科三人，拔萃四人，省元黄庠，状元张唐卿。二年、三",
+    "qs": "ok"
+   },
+   {
+    "src": "xzztcb",
+    "juan": "卷一百十四",
+    "quote": "戊寅，御崇政殿，试礼部奏名进士……已而得进士张唐卿、杨察、徐绶等五百一人……唐卿、察、绶并为将作监丞、通判诸州……唐卿，青州人",
+    "qs": "ok"
+   },
+   {
+    "src": "ayj",
+    "juan": "卷四十七",
+    "quote": "景祐元年春三月十八日，上御崇政殿，亲试天下所贡士，命近臣较其文，而以张君唐卿为之冠。越八日，上复临轩，赐君第一人及第",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   [
+    {
+     "src": "ss",
+     "juan": "443"
+    }
+   ]
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "《宋史》卷443有“孙唐卿”传（字希元，青州人，景祐以来以进士为举首，初中第通判陕州，丁父忧呕血卒），籍贯、科年、首名、初任、死因均与《长编》114、《文献通考》32 的“张唐卿”吻合，应为同一人，“孙”疑为《宋史》讹字；名录从通考、长编作张唐卿",
+   "姓氏：《宋史》443 作“孙唐卿”，《长编》114、《文献通考》32、韩琦墓志作“张唐卿”，从后者"
+  ],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-1038-lvqin",
+  "name": "吕溱",
+  "dynasty": "北宋",
+  "year": 1038,
+  "era": "宝元元年",
+  "bang": null,
+  "native": "扬州人",
+  "wiki_life": "1014年~1068年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "320",
+    "quote": "吕溱，字济叔，扬州人。……进士第一。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "320"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-1042-yangzhi",
+  "name": "杨寘",
+  "dynasty": "北宋",
+  "year": 1042,
+  "era": "庆历二年",
+  "bang": null,
+  "native": "安徽合肥人",
+  "wiki_life": "1014年~？",
+  "wiki_note": "三元及第。原为第四，但因第一的王安石文章犯颜，第二、第三的王珪、韩绛已有官职而改擢杨寘。",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "443",
+    "quote": "，年十七，以书谒韩琦，琦甚器之。与黄庠、杨寘自景祐以来俱以进士为举首，有名一时。唐卿初中第，通判陕州，于吏事若素习。民有母再适人而死，及葬其父，",
+    "qs": "ok"
+   },
+   {
+    "src": "ss",
+    "juan": "443",
+    "quote": "庆历二年举进士京师，试国子监、礼部皆第一。既试崇政殿……遂擢第一。",
+    "grade": "A",
+    "note": "国子监试、礼部试、殿试皆第一",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "443"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "notes_audit": [
+   "三元有据：宋史443记国子监、礼部皆第一，崇政殿擢第一"
+  ]
+ },
+ {
+  "id": "bsong-1046-jiaan",
+  "name": "贾黯",
+  "dynasty": "北宋",
+  "year": 1046,
+  "era": "庆历六年",
+  "bang": null,
+  "native": "河南邓州穰县人",
+  "wiki_life": "1022年－1065年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "302",
+    "quote": "贾黯，字直孺，邓州穰人。……擢进士第一，起家将作临丞、通判襄州。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "302"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "fengjing",
+  "name": "冯京",
+  "dynasty": "北宋",
+  "year": 1049,
+  "era": "皇祐元年",
+  "bang": null,
+  "native": "江夏郡咸宁人",
+  "wiki_life": "1021年－1095年",
+  "wiki_note": "连中三元。",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "443",
+    "quote": "初至京师，就举国子监、开封府、礼部，皆为第一。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "317"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-1053-zhengxie",
+  "name": "郑獬",
+  "dynasty": "北宋",
+  "year": 1053,
+  "era": "皇祐五年",
+  "bang": null,
+  "native": "江西宁都梅江镇西门人",
+  "wiki_life": "1022年－1072年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "321",
+    "quote": "郑獬，字毅夫，安州安陆人。……进士第一。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "321"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "《宋史》本传作安州安陆人，中文维基名录作江西宁都人。"
+  ]
+ },
+ {
+  "id": "bsong-1057-zhangheng",
+  "name": "章衡",
+  "dynasty": "北宋",
+  "year": 1057,
+  "era": "嘉祐二年",
+  "bang": null,
+  "native": "福建浦城人",
+  "wiki_life": "1025年－1099年",
+  "wiki_note": "宰相章惇之侄。",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "347",
+    "quote": "章衡，字子平，浦城人。……嘉祐二年，进士第一。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "347"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-1059-liu𪸩",
+  "name": "刘𪸩",
+  "dynasty": "北宋",
+  "year": 1059,
+  "era": "嘉祐四年",
+  "bang": null,
+  "native": "铅山（今江西铅山）",
+  "wiki_life": "1030年~1065年",
+  "wiki_note": "本名「刘几」，因得罪主考官欧阳修而改名「刘𪸩」应试。",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "四年，进士一百六十五人，诸科一百八十四人，省元刘挚，状元刘𪸩；制科三人",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江西铅山人",
+  "native_modern": "今江西铅山",
+  "coord": [
+   28.31,
+   117.71
+  ],
+  "native_src": {
+   "src": "mytz",
+   "juan": "卷51",
+   "quote": "刘𪸩铅山人嘉祐四年状元",
+   "tier": "方志（明《大明一统志》）",
+   "note": "宋铅山县治在今永平镇",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "bsong-1061-wangjunmin",
+  "name": "王俊民",
+  "dynasty": "北宋",
+  "year": 1061,
+  "era": "嘉祐六年",
+  "bang": null,
+  "native": "莱州（今山东莱州）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "六年，进士一百八十三人，诸科一百二人，省元江衍，状元王俊民。八年，进",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_src": {
+   "src": "xzztcb",
+   "juan": "卷一百九十三",
+   "quote": "赐进士王俊民等一百三十九人及第……俊民掖人也",
+   "tier": "编年史（《续资治通鉴长编》）",
+   "note": "《长编》只作“掖人”，与维基名录“莱州掖县”相合，未能进一步核对政区；又见《山东通志》卷36：“王俊民莱州人嘉祐六年状元”（名录作掖县（莱州附郭））；掖县为莱州附郭",
+   "prec": "县"
+  },
+  "native_wiki": "山东莱州掖县人",
+  "native_modern": "今山东莱州",
+  "coord": [
+   37.18,
+   119.94
+  ]
+ },
+ {
+  "id": "xujiang",
+  "name": "许将",
+  "dynasty": "北宋",
+  "year": 1063,
+  "era": "嘉祐八年",
+  "bang": null,
+  "native": "福建闽县人",
+  "wiki_life": "1037年一1111年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "343",
+    "quote": "许将，字冲元，福州闽人。……举进士第一。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "343"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-1065-pengruli",
+  "name": "彭汝砺",
+  "dynasty": "北宋",
+  "year": 1065,
+  "era": "治平二年",
+  "bang": null,
+  "native": "饶州鄱阳人",
+  "wiki_life": "1042年－1095年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "346",
+    "quote": "彭汝砺，字器资，饶州鄱阳人。……治平二年，举进士第一。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "346"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-1067-xuanshi",
+  "name": "许安世",
+  "dynasty": "北宋",
+  "year": 1067,
+  "era": "治平四年",
+  "bang": null,
+  "native": "开封襄邑人",
+  "wiki_life": "1040年－1084年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "四年，进士二百五十人，诸科三十六人，省元许安世，状元同",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-1070-yezuqia",
+  "name": "叶祖洽",
+  "dynasty": "北宋",
+  "year": 1070,
+  "era": "熙宁三年",
+  "bang": null,
+  "native": "福建邵武人",
+  "wiki_life": "1046年~1117年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "354",
+    "quote": "叶祖洽，字敦礼，邵武人。……熙宁初，策试进士，祖洽所对，专投合用事者，考官宋敏求、苏轼欲黜之，吕惠卿擢为第一。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "354"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-1073-yuzhong",
+  "name": "余中",
+  "dynasty": "北宋",
+  "year": 1073,
+  "era": "熙宁六年",
+  "bang": null,
+  "native": "毗陵人（今江苏常州）",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "六年，进士四百人，诸科四十人，省元邵刚，状元余中。九年，进",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏宜兴人",
+  "native_modern": "今江苏常州",
+  "coord": [
+   31.78,
+   119.95
+  ],
+  "native_src": {
+   "src": "qdyy",
+   "juan": "卷十六",
+   "quote": "熙宁癸丑，省元卲刚、状元余中，皆毗陵人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
+ },
+ {
+  "id": "bsong-1076-xuduo",
+  "name": "徐铎",
+  "dynasty": "北宋",
+  "year": 1076,
+  "era": "熙宁九年",
+  "bang": null,
+  "native": "福建莆田人",
+  "wiki_life": "1051年－1105年",
+  "wiki_note": "当年的武状元是同样来自莆田的薛奕，宋神宗因而题诗“一方文武魁天下”。",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "329",
+    "quote": "徐铎，字振文，兴化莆田人。……熙宁进士第一，签书镇东军判官，绍圣末，以给事中直学士院。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "329"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-1079-shiyan",
+  "name": "时彦",
+  "dynasty": "北宋",
+  "year": 1079,
+  "era": "元丰二年",
+  "bang": null,
+  "native": "开封府人",
+  "wiki_life": "？~1107年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "354",
+    "quote": "首选十八人，唯何㮚、马涓与此五人有传，然时彦、端友龊龊，祖洽、俞㮚、蔡薿𪫺邪小人。繇王氏之学不正，害人心术，横溃烂漫，并邦家而覆之；如是其惨焉，",
+    "qs": "ok"
+   },
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "元丰二年，进士三百四十八人，省元先浚明，状元时彦。五年，进",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "354"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "《宋史》本传只作“举进士第”，同卷论赞把他列入“首选十八人”，未明言是哪一科的首选。",
+   "《文献通考·选举考》卷32 明载其为该科榜首/状元，据此由 R 改 A；本传未言第一之处仍保留"
+  ],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-1082-huangshang",
+  "name": "黄裳",
+  "dynasty": "北宋",
+  "year": 1082,
+  "era": "元丰五年",
+  "bang": null,
+  "native": "南平（今福建南平延平）",
+  "wiki_life": "1044年－1130年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "五年，进士四百四十五人，明经三人，省元刘绛，状元黄裳。八年，进",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [
+   "状元身份（待考证）"
+  ],
+  "disputed": [
+   "人工复核：《宋史》卷三百九十三《黄裳传》的传主是隆庆府普成人，乾道五年（1169）进士，不是元丰五年（1082）的状元黄裳（名录作延平人）；后者未见正史本传。"
+  ],
+  "reviewed": true,
+  "native_wiki": "福建延平人",
+  "native_modern": "今福建南平延平",
+  "coord": [
+   26.61,
+   118.26
+  ],
+  "native_src": {
+   "src": "fjtz",
+   "juan": "卷46",
+   "quote": "黄裳字冕仲南平人为书生时常有魁天下志博学宏词尤邃礼经元丰五年对䇿第一",
+   "tier": "方志（清修《福建通志》人物）",
+   "note": "《万姓统谱》等作浦城人，待考",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "bsong-1085-jiaodao",
+  "name": "焦蹈",
+  "dynasty": "北宋",
+  "year": 1085,
+  "era": "元丰八年",
+  "bang": null,
+  "native": "无为（今安徽无为）",
+  "wiki_life": "",
+  "wiki_note": "状元及第后6日急病而死。",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "八年，进士四百八十五人，省元焦蹈，状元同",
+    "qs": "ok"
+   },
+   {
+    "src": "xzztcb",
+    "juan": "卷三百五十六",
+    "quote": "登科记焦蹈第一人，刘逵乃第二人",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "安徽芜湖市无为县人",
+  "native_modern": "今安徽无为",
+  "coord": [
+   31.26,
+   117.78
+  ],
+  "native_src": {
+   "src": "mytz",
+   "juan": "卷14",
+   "quote": "焦蹈无为人四首乡荐元丰中因礼部贡院火别试蹈为第一",
+   "tier": "方志（明《大明一统志》）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "bsong-1088-lichangning",
+  "name": "李常宁",
+  "dynasty": "北宋",
+  "year": 1088,
+  "era": "元祐三年",
+  "bang": null,
+  "native": "延津（今河南延津）",
+  "wiki_life": "1037年~1088年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "哲宗元祐三年，进士五百二十三人，制科一人，省元章援，状元李常宁。六年，进",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "开封延津人",
+  "native_modern": "今河南延津",
+  "coord": [
+   35.26,
+   114.22
+  ],
+  "native_src": {
+   "src": "hntz",
+   "juan": "卷45",
+   "quote": "李常宁延津人元祐中状元",
+   "tier": "方志（清修《河南通志》）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "bsong-1091-majuan",
+  "name": "马涓",
+  "dynasty": "北宋",
+  "year": 1091,
+  "era": "元祐六年",
+  "bang": null,
+  "native": "四川阆州南部人",
+  "wiki_life": "？~1126年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "340",
+    "quote": "，争运粟于仓，负钱而去，得百余万斛。  马涓以进士举首入幕府，自称状元。大忠谓曰：「状元云者，及第未除官之称也，既为判官则不可。今科举之习既无用",
+    "qs": "ok"
+   },
+   {
+    "src": "ss",
+    "juan": "354",
+    "quote": "熙宁而后，讫于宣和，首选十八人，唯何㮚、马涓与此五人有传，然时彦、端友龊龊，祖洽、俞㮚、蔡薿𪫺邪小人。繇王氏之学不正，害人心术，横溃烂漫，并邦家",
+    "qs": "ok"
+   },
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "六年，进士五百一十九人，省元邹起，状元马涓；制科三人",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [
+   "状元身份（正史检索命中，未人工通读）"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-1094-bijian",
+  "name": "毕渐",
+  "dynasty": "北宋",
+  "year": 1094,
+  "era": "绍圣元年",
+  "bang": null,
+  "native": "潜江（今湖北潜江）",
+  "wiki_life": "1029年~？",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "390",
+    "quote": "犹若是也。」杨畏覆考，专主熙宁、元丰，取毕渐为第一，愿遂居下第。辙寻出守汝，而国论大变矣。  元符三年，以日食求言，愿时为普州乐至令，应诏上言，",
+    "qs": "ok"
+   },
+   {
+    "src": "ss",
+    "juan": "355",
+    "quote": "，考官第主元祐者居上，畏复考，悉下之，拔毕渐以为第一。  惇入相，畏遣所亲阴结之，曰：「畏前日度势力之轻重，遂因吕大防、苏辙以逐刘挚、梁焘。方欲",
+    "qs": "ok"
+   },
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "绍圣元年，进士五百一十二人，省元刘范，状元毕渐；制科三人",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [
+   "状元身份（正史检索命中，未人工通读）"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "湖北潜江人",
+  "native_modern": "今湖北潜江",
+  "coord": [
+   30.4,
+   112.89
+  ],
+  "native_src": {
+   "src": "mytz",
+   "juan": "卷60",
+   "quote": "毕渐潜江人绍圣元年状元",
+   "tier": "方志（明《大明一统志》）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "bsong-1097-hechangyan",
+  "name": "何昌言",
+  "dynasty": "北宋",
+  "year": 1097,
+  "era": "绍圣四年",
+  "bang": null,
+  "native": "新淦（今江西新干）",
+  "wiki_life": "1067年~1126年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "435",
+    "quote": "初，廷试考官定其策第一，宰职以无诋元祐语，遂以何昌言冠。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江西临江人",
+  "native_modern": "今江西新干",
+  "coord": [
+   27.74,
+   115.5
+  ],
+  "native_src": {
+   "src": "jxtz",
+   "juan": "卷049",
+   "quote": "何昌言新淦人状元",
+   "tier": "方志（清修《江西通志》选举表）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "bsong-1100-liyin",
+  "name": "李崟",
+  "dynasty": "北宋",
+  "year": 1100,
+  "era": "元符三年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "元符三年，进士五百六十一人，省元李崟，状元同",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [
+   "籍贯"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-1103-huoduanyou",
+  "name": "霍端友",
+  "dynasty": "北宋",
+  "year": 1103,
+  "era": "崇宁二年",
+  "bang": null,
+  "native": "江苏武进人",
+  "wiki_life": "1066年~1116年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "354",
+    "quote": "霍端友，字仁仲，常州武进人。……徽宗即位，策进士第一，授宣义郎。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "354"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-1106-caini",
+  "name": "蔡薿",
+  "dynasty": "北宋",
+  "year": 1106,
+  "era": "崇宁五年",
+  "bang": null,
+  "native": "开封府人",
+  "wiki_life": "1067年~1124年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "354",
+    "quote": "蔡薿，字文饶，开封人。崇宁五年，以诸生试策……于是擢为第一。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "354"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-1109-jiaanzhai",
+  "name": "贾安宅",
+  "dynasty": "北宋",
+  "year": 1109,
+  "era": "大观三年",
+  "bang": null,
+  "native": "乌程（今浙江湖州）",
+  "wiki_life": "1088-?",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "大观三年，进士六百八十五人，宗室上舍四十二人，上舍魁李弥逊，状元贾安宅。政和二年",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "湖州乌程",
+  "native_modern": "今浙江湖州",
+  "coord": [
+   30.87,
+   120.09
+  ],
+  "native_src": {
+   "src": "mytz",
+   "juan": "卷40",
+   "quote": "贾安宅乌程人大观三年状元",
+   "tier": "方志（明《大明一统志》）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "bsong-1112-mochou",
+  "name": "莫俦",
+  "dynasty": "北宋",
+  "year": 1112,
+  "era": "政和二年",
+  "bang": null,
+  "native": "嘉兴（今浙江嘉兴）",
+  "wiki_life": "1089年~1164年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "政和二年，进士七百一十三人，上舍魁师骥，状元莫俦。五年，进",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "慈利县人",
+  "native_modern": "今浙江嘉兴",
+  "coord": [
+   30.75,
+   120.76
+  ],
+  "native_src": {
+   "src": "zjtz",
+   "juan": "卷124",
+   "quote": "莫俦嘉兴人状元",
+   "tier": "方志（清修《浙江通志》选举表）",
+   "note": "名录作慈利人，待考",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "heli",
+  "name": "何㮚",
+  "dynasty": "北宋",
+  "year": 1115,
+  "era": "政和五年",
+  "bang": null,
+  "native": "四川仙井人",
+  "wiki_life": "1089年~1127年",
+  "wiki_note": "北宋郡马",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "353",
+    "quote": "政和五年进士第一，擢秘书省校书郎。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-1118-wangang",
+  "name": "王昂",
+  "dynasty": "北宋",
+  "year": 1118,
+  "era": "重和元年",
+  "bang": null,
+  "native": "江都（今江苏扬州）",
+  "wiki_life": "1090年~1132年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "21",
+    "quote": "有司以嘉王楷第一，帝不欲楷先多士，遂以王昂为榜首。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "扬州人",
+  "native_modern": "今江苏扬州",
+  "coord": [
+   32.39,
+   119.41
+  ],
+  "native_src": {
+   "src": "wxtp",
+   "juan": "卷044",
+   "quote": "王昂江都人以文章称于时政和中进士是年嘉王居首选徽宗以亲王为嫌升昂为第一",
+   "tier": "类书（明《万姓统谱》）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "bsong-1121-hehuan",
+  "name": "何焕",
+  "dynasty": "北宋",
+  "year": 1121,
+  "era": "宣和三年",
+  "bang": null,
+  "native": "浙江金华永康人",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "wxtk",
+    "juan": "卷三十二",
+    "quote": "宣和三年，进士六百三十人，上舍魁宋齐愈，状元何涣。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [
+   "《文献通考》作“何涣”，与名录“何焕”用字不同"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "bsong-1124-shenhui",
+  "name": "沈晦",
+  "dynasty": "北宋",
+  "year": 1124,
+  "era": "宣和六年",
+  "bang": null,
+  "native": "杭州钱塘县人",
+  "wiki_life": "1084年~1149年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ss",
+    "juan": "378",
+    "quote": "沈晦，字元用，钱塘人，翰林学士沈遘孙。……宣和间进士廷对第一，除校书郎，迁著作佐郎。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ss",
+    "juan": "378"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "bsong-1124-fengshixing",
+  "name": "冯时行",
+  "dynasty": "北宋",
+  "year": 1124,
+  "era": "宣和六年",
+  "bang": null,
+  "native": "巴县（今重庆）",
+  "wiki_life": "1100年~1163年",
+  "wiki_note": "",
+  "evidence": [],
+  "bio": [],
+  "confidence": "C",
+  "full": false,
+  "pending": [
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "《宋史》卷473《秦桧传》有“奉礼郎冯时行召对，言和议不可信”，可证其人确为宣和以后的士人，但没有言及状元，不能升级；本地《长编》全书检索无此人",
+   "史料线B（2026-10-19）：《蜀中广记》卷九十九、《四川通志》称冯时行为“绍兴状元”或“开禧状元”，与名录宣和六年不合（宣和六年状元为沈晦），未升级"
+  ],
+  "disputed": [
+   "《文献通考》卷32：宣和六年“省元杨椿，状元沈晦”，与冯时行为状元说不合；本站另有沈晦条（A），冯时行待考证"
+  ],
+  "reviewed": true,
+  "native_wiki": "绍兴诸暨县人",
+  "native_modern": "今重庆",
+  "coord": [
+   29.57,
+   106.55
+  ],
+  "native_src": {
+   "src": "sctz",
+   "juan": "卷07上",
+   "quote": "冯时行字当可巴县人绍兴状元",
+   "tier": "方志（清修《四川通志》）",
+   "note": "一说璧山人，同属恭州（今重庆）；府州级精度",
+   "prec": "府州"
+  }
+ }
+]

@@ -1,0 +1,1021 @@
+[
+ {
+  "id": "yuan-1238-yanghuan",
+  "name": "杨奂",
+  "dynasty": "元",
+  "year": 1238,
+  "era": "元太宗十年",
+  "bang": null,
+  "native": "陕西干州人",
+  "wiki_life": "1186年-1255年",
+  "wiki_note": "戊戌科进士第一",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "153",
+    "quote": "戊戌，太宗诏宣德税课使刘用之试诸道进士。奂试东平，两中赋论第一。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ys",
+    "juan": "153"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "yuan-1315-hudoudaer",
+  "name": "护都答儿",
+  "dynasty": "元",
+  "year": 1315,
+  "era": "延祐二年",
+  "bang": "右榜",
+  "native": "蒙古族",
+  "wiki_life": "",
+  "wiki_note": "乙卯科右榜进士第一",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "81",
+    "quote": "延祐二年春三月，廷试进士，赐护都答儿、张起岩等五十有六人，及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
+   "右榜首名"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "zhangqiyan",
+  "name": "张起岩",
+  "dynasty": "元",
+  "year": 1315,
+  "era": "延祐二年",
+  "bang": "左榜",
+  "native": "山东评丘人",
+  "wiki_life": "1285年-1353年",
+  "wiki_note": "左榜第一名",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "182",
+    "quote": "其后皇孙践祚，是为仁宗，始诏设科取士，及廷试，起岩遂为第一人，论者以为非偶然也。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ys",
+    "juan": "182"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "yuan-1318-hudoudaer",
+  "name": "忽都达儿",
+  "dynasty": "元",
+  "year": 1318,
+  "era": "延祐五年",
+  "bang": "右榜",
+  "native": "蒙古族人",
+  "wiki_life": "1296年-1350年",
+  "wiki_note": "右榜进第一",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "26",
+    "quote": "御试进士，赐忽都达儿、霍希贤以下五十人及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志两榜首名并列（右榜），未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "yuan-1318-huoxixian",
+  "name": "霍希贤",
+  "dynasty": "元",
+  "year": 1318,
+  "era": "延祐五年",
+  "bang": "左榜",
+  "native": "须城（今山东东平）",
+  "wiki_life": "",
+  "wiki_note": "戊午科左榜状元",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "26",
+    "quote": "三月戊辰，御试进士，赐忽都达儿、霍希贤以下五十人及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志两榜首名并列（左榜），未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "湖南澧州",
+  "native_modern": "今山东东平",
+  "coord": [
+   35.91,
+   116.47
+  ],
+  "native_src": {
+   "src": "sdtz",
+   "juan": "卷15之1",
+   "quote": "霍希贤须城人状元",
+   "tier": "方志（清修《山东通志》选举表）",
+   "note": "名录作湖南澧州，待考",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "taibuhua",
+  "name": "泰不华",
+  "dynasty": "元",
+  "year": 1321,
+  "era": "至治元年",
+  "bang": "右榜",
+  "native": "蒙古佰牙吾台氏",
+  "wiki_life": "1304年-1352年",
+  "wiki_note": "右榜状元",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "190",
+    "quote": "。卒，年六十有一。其所教弟子多为名人，而泰不华实为进士第一。  其弟仔肩，字本道，以春秋登延祐五年进士第，终奉议大夫、惠州路总管府判官。与其兄俱以",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ys",
+    "juan": "143"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "songben",
+  "name": "宋本",
+  "dynasty": "元",
+  "year": 1321,
+  "era": "至治元年",
+  "bang": "左榜",
+  "native": "大都人",
+  "wiki_life": "1281年-1334年",
+  "wiki_note": "左榜第一名进士及第",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "182",
+    "quote": "至治元年，策天下士于廷，本为第一人，赐进士及第，授翰林修撰。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ys",
+    "juan": "182"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "yuan-1324-bala",
+  "name": "捌剌",
+  "dynasty": "元",
+  "year": 1324,
+  "era": "泰定元年",
+  "bang": "右榜",
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "甲子科右榜状元",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "29",
+    "quote": "廷试进士，赐八剌、张益等八十四人及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志两榜首名并列（右榜），未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "yuan-1324-zhangyi",
+  "name": "张益",
+  "dynasty": "元",
+  "year": 1324,
+  "era": "泰定元年",
+  "bang": "左榜",
+  "native": "西河（今山西汾阳）",
+  "wiki_life": "",
+  "wiki_note": "甲子科左榜状元",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "29",
+    "quote": "戊戌，廷试进士，赐八剌、张益等八十四人及第、出身有差；会试下第者，亦赐教官有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志两榜首名并列（左榜），未明言第一"
+  ],
+  "disputed": [
+   "人工复核：《明史》卷一百六十七的张益是江宁人，永乐十三年进士，正统十四年死于土木之变，不是元泰定元年（1324）的状元张益。"
+  ],
+  "reviewed": true,
+  "native_wiki": "西河人",
+  "native_modern": "今山西汾阳",
+  "coord": [
+   37.27,
+   111.79
+  ],
+  "native_src": {
+   "src": "mytz",
+   "juan": "卷21",
+   "quote": "张益西河人举进士第一",
+   "tier": "方志（明《大明一统志》）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "yuan-1327-achachi",
+  "name": "阿察赤",
+  "dynasty": "元",
+  "year": 1327,
+  "era": "泰定四年",
+  "bang": "右榜",
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "丁卯科右榜状元",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "30",
+    "quote": "廷试进士阿察赤、李黼等八十五人，赐进士及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
+   "右榜首名"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "lifu",
+  "name": "李黼",
+  "dynasty": "元",
+  "year": 1327,
+  "era": "泰定四年",
+  "bang": "左榜",
+  "native": "颖州人",
+  "wiki_life": "1298年-1352年",
+  "wiki_note": "丁卯科左榜进士第一",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "194",
+    "quote": "元统元年进士第一。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ys",
+    "juan": "194"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "yuan-1330-dulietu",
+  "name": "笃列图",
+  "dynasty": "元",
+  "year": 1330,
+  "era": "至顺元年",
+  "bang": "右榜",
+  "native": "蒙古捏古台氏，燕山人",
+  "wiki_life": "1312年-1348年",
+  "wiki_note": "庚午科右榜进士第一",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "34",
+    "quote": "廷试进士，赐笃列图、王文烨等九十七人及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志两榜首名并列（右榜），未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "yuan-1330-wangwenye",
+  "name": "王文烨",
+  "dynasty": "元",
+  "year": 1330,
+  "era": "至顺元年",
+  "bang": "左榜",
+  "native": "山东邹平人",
+  "wiki_life": "",
+  "wiki_note": "庚午科左榜进士第一",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "34",
+    "quote": "廷试进士，赐笃列图、王文烨等九十七人及第、出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志两榜首名并列（左榜），未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "yuan-1333-tongtong",
+  "name": "同同",
+  "dynasty": "元",
+  "year": 1333,
+  "era": "元统元年",
+  "bang": "右榜",
+  "native": "蒙古人",
+  "wiki_life": "",
+  "wiki_note": "右榜进士第一",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "81",
+    "quote": "元统癸酉科，廷试进士同同、李齐等……左右榜各三人，皆赐进士及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
+   "右榜首名"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "liqi",
+  "name": "李齐",
+  "dynasty": "元",
+  "year": 1333,
+  "era": "元统元年",
+  "bang": "左榜",
+  "native": "河北永年人",
+  "wiki_life": "1301年-1353年",
+  "wiki_note": "左榜进士第一",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "194",
+    "quote": "李齐字公平，广平人。……元统元年进士第一。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ys",
+    "juan": "194"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": []
+ },
+ {
+  "id": "yuan-1342-baizhu",
+  "name": "拜住",
+  "dynasty": "元",
+  "year": 1342,
+  "era": "至正二年",
+  "bang": "右榜",
+  "native": "蒙古逊都思氏",
+  "wiki_life": "",
+  "wiki_note": "壬午科右榜状元及第",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "40",
+    "quote": "亲试进士七十八人，赐拜住、陈祖仁及第，其余出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
+   "右榜首名；卷27等同名拜住为另一人"
+  ],
+  "disputed": [
+   "人工复核：《元史》卷一百七十九的拜住是哈剌帖木儿之子，曾任知州、郎中，与至正二年（1342）右榜状元拜住不是同一人。"
+  ],
+  "reviewed": true
+ },
+ {
+  "id": "chenzuren",
+  "name": "陈祖仁",
+  "dynasty": "元",
+  "year": 1342,
+  "era": "至正二年",
+  "bang": "左榜",
+  "native": "汴梁人",
+  "wiki_life": "1314年-1368年",
+  "wiki_note": "矮小、独目，左榜进士第一名",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "92",
+    "quote": "廷试举人，赐拜住、陈祖仁等进士及第、进士出身、同进士出身有差，凡七十有八人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ys",
+    "juan": "186"
+   }
+  ],
+  "confidence": "B",
+  "full": true,
+  "pending": [
+   "按现行标准降为 B：正史仅见本纪/选举志“赐某等”，未明言第一"
+  ],
+  "disputed": []
+ },
+ {
+  "id": "puyanbuhua",
+  "name": "普颜不花",
+  "dynasty": "元",
+  "year": 1345,
+  "era": "至正五年",
+  "bang": null,
+  "native": "棣州（今山东惠民）",
+  "wiki_life": "?-1368年",
+  "wiki_note": "由国子生登进氏第一",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "196",
+    "quote": "普颜不花字希古，蒙古氏。……至正五年，由国子生登右牓进士第一人，授翰林修撰，调河南行省员外郎。",
+    "audit": "quote rewritten 2026-10-13 from local text",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "ys",
+    "juan": "196"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "native_wiki": "蒙古人",
+  "native_modern": "今山东惠民",
+  "coord": [
+   37.49,
+   117.5
+  ],
+  "native_src": {
+   "src": "sdtz",
+   "juan": "卷15之1",
+   "quote": "普颜不花棣州人状元",
+   "tier": "方志（清修《山东通志》选举表）",
+   "note": "蒙古人，著籍棣州；府州级精度",
+   "prec": "府州"
+  }
+ },
+ {
+  "id": "yuan-1345-zhangshijian",
+  "name": "张士坚",
+  "dynasty": "元",
+  "year": 1345,
+  "era": "至正五年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "41",
+    "quote": "帝亲试进士七十有八人，赐普颜不花、张士坚进士及第，其余赐出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
+   "左榜首名"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "yuan-1348-aluhuitiemuer",
+  "name": "阿鲁辉帖木儿",
+  "dynasty": "元",
+  "year": 1348,
+  "era": "至正八年",
+  "bang": "右榜",
+  "native": "蒙古人",
+  "wiki_life": "",
+  "wiki_note": "戉子科右榜状元",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "41",
+    "quote": "帝亲试进士七十有八人，赐阿鲁辉帖木儿、王宗哲进士及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
+   "右榜首名；卷206 阳翟王同名为另一人"
+  ],
+  "disputed": [
+   "人工复核：《元史》卷二百零六的阿鲁辉帖木儿是阳翟王、太宗之后，曾拥兵叛乱，不是至正八年（1348）右榜状元。"
+  ],
+  "reviewed": true
+ },
+ {
+  "id": "yuan-1348-wangzongzhe",
+  "name": "王宗哲",
+  "dynasty": "元",
+  "year": 1348,
+  "era": "至正八年",
+  "bang": null,
+  "native": "遂州人",
+  "wiki_life": "",
+  "wiki_note": "维基列表称“三元及第”，史源待考证",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "41",
+    "quote": "帝亲试进士七十有八人，赐阿鲁辉帖木儿、王宗哲进士及第。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
+   "左榜首名",
+   "维基列表称“三元及第”，但元史只有本纪赐第记载，乡试、会试名次未见史源，待考证"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "yuan-1351-duolietu",
+  "name": "朶烈图",
+  "dynasty": "元",
+  "year": 1351,
+  "era": "至正十一年",
+  "bang": null,
+  "native": "蒙古人",
+  "wiki_life": "",
+  "wiki_note": "辛卯科加榜状元",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "92",
+    "quote": "廷试举人，赐朵列图、文允中等进士及第……凡八十有三人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志两榜首名并列（右榜），未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "yuan-1351-wenyunzhong",
+  "name": "文允中",
+  "dynasty": "元",
+  "year": 1351,
+  "era": "至正十一年",
+  "bang": "左榜",
+  "native": "成都县（今四川成都）",
+  "wiki_life": "",
+  "wiki_note": "辛卯科左榜进士第一",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "92",
+    "quote": "十一年三月丙辰，廷试举人，赐朵列图、文允中等进士及第、进士出身、同进士出身有差，凡八十有三人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志两榜首名并列（左榜），未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "成都人",
+  "native_modern": "今四川成都",
+  "coord": [
+   30.66,
+   104.06
+  ],
+  "native_src": {
+   "src": "sctz",
+   "juan": "卷33",
+   "quote": "文允中状元成都县人",
+   "tier": "方志（清修《四川通志》）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "yuan-1354-xuechaowu",
+  "name": "薛朝晤",
+  "dynasty": "元",
+  "year": 1354,
+  "era": "至正十四年",
+  "bang": "右榜",
+  "native": "辽东人",
+  "wiki_life": "",
+  "wiki_note": "甲午科右榜状元",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "92",
+    "quote": "廷试举人，赐薛朝晤、牛继志等进士及第……凡六十有二人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志两榜首名并列（右榜），未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "yuan-1354-niujizhi",
+  "name": "牛继志",
+  "dynasty": "元",
+  "year": 1354,
+  "era": "至正十四年",
+  "bang": "左榜",
+  "native": "武强（今河北武强）",
+  "wiki_life": "",
+  "wiki_note": "甲午科左榜状元",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "92",
+    "quote": "廷试举人，赐薛朝晤、牛继志等进士及第、进士出身、同进士出身有差，凡六十有二人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志两榜首名并列（左榜），未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "武强人",
+  "native_modern": "今河北武强",
+  "coord": [
+   38.04,
+   115.97
+  ],
+  "native_src": {
+   "src": "jftz",
+   "juan": "卷061",
+   "quote": "牛继志武强人至正状元",
+   "tier": "方志（清修《畿辅通志》选举表）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "yuan-1357-tuizheng",
+  "name": "侻征",
+  "dynasty": "元",
+  "year": 1357,
+  "era": "至正十七年",
+  "bang": "右榜",
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "右榜进士宜第一",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "92",
+    "quote": "廷试举人，赐侻征、王宗嗣等进士及第……凡五十有一人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志两榜首名并列（右榜），未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "yuan-1357-wangzongsi",
+  "name": "王宗嗣",
+  "dynasty": "元",
+  "year": 1357,
+  "era": "至正十七年",
+  "bang": "左榜",
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "左榜进士第一",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "92",
+    "quote": "十七年三月，廷试举人，赐侻征、王宗嗣等进士及第、进士出身、同进士出身有差，凡五十有一人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志两榜首名并列（左榜），未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "yuan-1360-maizhu",
+  "name": "买住",
+  "dynasty": "元",
+  "year": 1360,
+  "era": "至正二十年",
+  "bang": "右榜",
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "庚子科右榜进士第一",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "92",
+    "quote": "廷试举人，赐买住、魏元礼等进士及第……凡三十有五人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志两榜首名并列（右榜），未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "yuan-1360-weiyuanli",
+  "name": "魏元礼",
+  "dynasty": "元",
+  "year": 1360,
+  "era": "至正二十年",
+  "bang": "左榜",
+  "native": "肃宁（今河北肃宁）",
+  "wiki_life": "",
+  "wiki_note": "庚子科左榜状元",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "92",
+    "quote": "二十年三月，廷试举人，赐买住、魏元礼等进士及第、进士出身、同进士出身有差，凡三十有五人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志两榜首名并列（左榜），未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "肃宁人",
+  "native_modern": "今河北肃宁",
+  "coord": [
+   38.43,
+   115.83
+  ],
+  "native_src": {
+   "src": "jftz",
+   "juan": "卷061",
+   "quote": "魏元礼肃宁人至正状元",
+   "tier": "方志（清修《畿辅通志》选举表）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "yuan-1363-baobao",
+  "name": "宝宝",
+  "dynasty": "元",
+  "year": 1363,
+  "era": "至正二十三年",
+  "bang": "右榜",
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "右榜进士第一",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "92",
+    "quote": "廷试举人，赐宝宝、杨𫐐等进士及第……凡六十有二人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志两榜首名并列（右榜），未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "yuan-1363-yangni",
+  "name": "杨𫐐",
+  "dynasty": "元",
+  "year": 1363,
+  "era": "至正二十三年",
+  "bang": "左榜",
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "左榜状元",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "92",
+    "quote": "二十三年三月丁未，廷试举人，赐宝宝、杨𫐐等进士及第、进士出身、同进士出身有差，凡六十有二人。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志两榜首名并列（左榜），未明言第一"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "yuan-1366-hedepuhua",
+  "name": "赫德溥化",
+  "dynasty": "元",
+  "year": 1366,
+  "era": "至正二十六年",
+  "bang": "右榜",
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "丙午科右榜状元",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "47",
+    "quote": "廷试进士七十二人，赐赫德溥化、张栋进士及第，余出身有差。",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
+   "右榜首名"
+  ],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "yuan-1366-zhangdong",
+  "name": "张栋",
+  "dynasty": "元",
+  "year": 1366,
+  "era": "至正二十六年",
+  "bang": "左榜",
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "丙午科左榜进士第一",
+  "evidence": [
+   {
+    "src": "ys",
+    "juan": "47 顺帝纪十 至正二十六年三月",
+    "quote": "乙未，廷试进士七十二人，赐赫德溥化、张栋进士及第，余出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "ys",
+    "juan": "201 列女传二",
+    "quote": "时张栋妻王氏语家人曰：「吾为状元妻，义不可辱。」赴井死。",
+    "role": "旁证",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "本纪/选举志仅记两榜首名并列，未明言第一（列女传“状元妻”为旁证，同一人系推定）"
+  ],
+  "disputed": [
+   "旁证：列女传“张栋妻”自称“状元妻”，与左榜张栋同一人系推定，按陈祖仁、彭启丰口径不升A"
+  ]
+ }
+]

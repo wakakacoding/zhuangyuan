@@ -105,7 +105,7 @@
  },
  {
   "id": "pyj",
-  "title": "破窑记（吕蒙正风雪破窑记）",
+  "title": "吕蒙正风雪破窑记（破窑记）",
   "author": "王实甫（一说）",
   "era": "元",
   "type": "杂剧",
@@ -598,5 +598,310 @@
   "era": "清",
   "type": "笔记",
   "reliability_default": "anecdotal"
+ },
+ {
+  "id": "lcsy",
+  "title": "御选历代诗余（四库全书本）",
+  "author": "沈辰垣等奉敕编",
+  "era": "清",
+  "type": "词话总集（转引宋人笔记）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "yzsbg",
+  "title": "弇州四部稿（四库全书本）",
+  "author": "王世贞",
+  "era": "明",
+  "type": "别集",
+  "reliability_default": "primary"
+ },
+ {
+  "id": "hbj",
+  "title": "洪北江诗文集（四部丛刊本）",
+  "author": "洪亮吉",
+  "era": "清",
+  "type": "别集",
+  "reliability_default": "primary"
+ },
+ {
+  "id": "dzsl",
+  "title": "德宗景皇帝实录",
+  "author": "清国史馆等",
+  "era": "清",
+  "type": "实录",
+  "reliability_default": "official"
+ },
+ {
+  "id": "qdskl",
+  "title": "清代殿试考略",
+  "author": "傅增湘",
+  "era": "民国",
+  "type": "掌故考订（1933）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "hcwxtk",
+  "title": "皇朝文献通考（四库全书本）",
+  "author": "乾隆敕撰（张廷玉等）",
+  "era": "清",
+  "type": "政书（官修，经籍考）",
+  "reliability_default": "official",
+  "url": "https://zh.wikisource.org/wiki/皇朝文獻通考_(四庫全書本)"
+ },
+ {
+  "id": "ywmj",
+  "title": "杨文敏集",
+  "author": "杨荣",
+  "era": "明",
+  "type": "别集（收《进士题名记》）",
+  "url": "https://zh.wikisource.org/wiki/楊文敏集"
+ },
+ {
+  "id": "wdwcxj",
+  "title": "吴都文粹续集（四库全书本）",
+  "author": "钱谷 编",
+  "era": "明",
+  "type": "总集（收钱溥《施君宗铭改葬铭》）",
+  "url": "https://zh.wikisource.org/wiki/吳都文粹續集_(四庫全書本)"
+ },
+ {
+  "id": "yztth",
+  "title": "玉芝堂谈荟",
+  "author": "徐应秋",
+  "era": "明",
+  "type": "笔记（杂纂，四库本）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "sdtz",
+  "title": "山东通志",
+  "author": "岳濬等监修",
+  "era": "清",
+  "type": "方志（雍正，四库本）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "sxtz",
+  "title": "山西通志",
+  "author": "觉罗石麟等监修",
+  "era": "清",
+  "type": "方志（雍正，四库本）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "hntz",
+  "title": "河南通志",
+  "author": "田文镜等监修",
+  "era": "清",
+  "type": "方志（雍正，四库本）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "jntz",
+  "title": "江南通志",
+  "author": "赵弘恩等监修",
+  "era": "清",
+  "type": "方志（乾隆，四库本）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "jxtz",
+  "title": "江西通志",
+  "author": "谢旻等监修",
+  "era": "清",
+  "type": "方志（雍正，四库本）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "gdtz",
+  "title": "广东通志",
+  "author": "郝玉麟等监修",
+  "era": "清",
+  "type": "方志（雍正，四库本）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "sctz",
+  "title": "四川通志",
+  "author": "黄廷桂等监修",
+  "era": "清",
+  "type": "方志（雍正，四库本）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "mytz",
+  "title": "明一统志",
+  "author": "李贤等",
+  "era": "明",
+  "type": "地理总志（四库本）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "fysl",
+  "title": "方舆胜览",
+  "author": "祝穆",
+  "era": "南宋",
+  "type": "地理总志（四库本）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "jdjkz",
+  "title": "景定建康志",
+  "author": "周应合",
+  "era": "南宋",
+  "type": "方志（四库本）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "xyjz",
+  "title": "续夷坚志",
+  "author": "元好问",
+  "era": "金",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "tpgj",
+  "title": "太平广记",
+  "author": "李昉等",
+  "era": "北宋",
+  "type": "类书（四库本）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "yldd",
+  "title": "永乐大典",
+  "author": "解缙等",
+  "era": "明",
+  "type": "类书",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "mlnts",
+  "title": "马氏南唐书",
+  "author": "马令",
+  "era": "北宋",
+  "type": "杂史",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "jnyz",
+  "title": "江南余载",
+  "author": "佚名",
+  "era": "北宋",
+  "type": "杂史（四库本）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "pwzshp",
+  "title": "御定佩文斋书画谱",
+  "author": "孙岳颁等",
+  "era": "清",
+  "type": "类书（书画，四库本）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "smbmhb",
+  "title": "三朝北盟会编",
+  "author": "徐梦莘",
+  "era": "南宋",
+  "type": "杂史（编年体）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "jylczyzj",
+  "title": "建炎以来朝野杂记",
+  "author": "李心传",
+  "era": "南宋",
+  "type": "杂史（典制）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "lhdjz",
+  "title": "柳河东集注",
+  "author": "柳宗元撰，宋人注",
+  "era": "唐",
+  "type": "文集（宋人注本，四库本）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "hysj",
+  "title": "黄御史集",
+  "author": "黄滔",
+  "era": "唐",
+  "type": "文集（别集，四库本）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "zjtz",
+  "title": "浙江通志",
+  "author": "嵇曾筠等监修",
+  "era": "清",
+  "type": "方志（雍正，四库本）",
+  "reliability_default": "anecdotal",
+  "url": "https://zh.wikisource.org/wiki/浙江通志_(四庫全書本)"
+ },
+ {
+  "id": "fjtz",
+  "title": "福建通志",
+  "author": "郝玉麟等监修",
+  "era": "清",
+  "type": "方志（乾隆，四库本）",
+  "reliability_default": "anecdotal",
+  "url": "https://zh.wikisource.org/wiki/福建通志_(四庫全書本)"
+ },
+ {
+  "id": "jftz",
+  "title": "畿辅通志",
+  "author": "李卫等监修",
+  "era": "清",
+  "type": "方志（雍正，四库本）",
+  "reliability_default": "anecdotal",
+  "url": "https://zh.wikisource.org/wiki/畿輔通志_(四庫全書本)"
+ },
+ {
+  "id": "wxtp",
+  "title": "万姓统谱",
+  "author": "凌迪知",
+  "era": "明",
+  "type": "类书（四库本）",
+  "reliability_default": "anecdotal",
+  "url": "https://zh.wikisource.org/wiki/萬姓統譜_(四庫全書本)"
+ },
+ {
+  "id": "sgcq",
+  "title": "十国春秋",
+  "author": "吴任臣",
+  "era": "清",
+  "type": "史书（四库本）",
+  "reliability_default": "anecdotal",
+  "url": "https://zh.wikisource.org/wiki/十國春秋_(四庫全書本)"
+ },
+ {
+  "id": "hlnj",
+  "title": "翰林记",
+  "author": "黄佐",
+  "era": "明",
+  "type": "职官掌故（四库本）",
+  "reliability_default": "anecdotal",
+  "url": "https://zh.wikisource.org/wiki/翰林記_(四庫全書本)"
+ },
+ {
+  "id": "gjtsjc",
+  "title": "钦定古今图书集成",
+  "author": "陈梦雷、蒋廷锡等",
+  "era": "清",
+  "type": "类书（选举典、庶徵典引《明状元事略》等）",
+  "reliability_default": "anecdotal",
+  "url": "https://zh.wikisource.org/wiki/欽定古今圖書集成"
+ },
+ {
+  "id": "jdbz",
+  "title": "旧典备征",
+  "author": "朱彭寿",
+  "era": "民国",
+  "type": "掌故笔记（卷四清代状元分省名录）",
+  "reliability_default": "anecdotal",
+  "url": "https://zh.wikisource.org/wiki/舊典備征"
  }
 ]
