@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f6f1e4"/><rect x="0" y="0" width="1200" height="14" fill="#b23a2a"/>
+<rect x="40" y="40" width="1120" height="550" fill="none" stroke="#ddd2bb" stroke-width="2"/>
+<rect x="96" y="150" width="150" height="150" rx="10" fill="#b23a2a"/>
+<text x="171" y="262" font-size="110" fill="#fff" text-anchor="middle" font-family="Noto Serif CJK SC" font-weight="700">状</text>
+<text x="290" y="262" font-size="120" fill="#2b2622" font-family="Noto Serif CJK SC" font-weight="700" letter-spacing="24">状元录</text>
+<text x="100" y="390" font-size="44" fill="#2b2622" font-family="Noto Serif CJK SC">金榜之后，他们走向了哪里？</text>
+<text x="100" y="470" font-size="30" fill="#6b5f52" font-family="Noto Serif CJK SC">唐至清 666 位文状元 · 完整传记 209 位 · 每条史实标注出处</text>
+<text x="100" y="540" font-size="24" fill="#b23a2a" font-family="Noto Serif CJK SC">wakakacoding.github.io/zhuangyuan</text>
+</svg>

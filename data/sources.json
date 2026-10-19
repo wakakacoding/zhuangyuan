@@ -550,5 +550,53 @@
   "year": "明",
   "type": "别集",
   "url": "https://zh.wikisource.org/wiki/東里續集_(四庫全書本)"
+ },
+ {
+  "id": "ystbj",
+  "title": "弇山堂别集",
+  "author": "王世贞",
+  "era": "明",
+  "type": "杂史（史部；含科试考、职官表）",
+  "url": "https://zh.wikisource.org/wiki/弇山堂別集_(四庫全書本)"
+ },
+ {
+  "id": "skzm",
+  "title": "四库全书总目提要",
+  "author": "纪昀等",
+  "era": "清",
+  "type": "官修目录（史部目录类）",
+  "url": "https://zh.wikisource.org/wiki/四庫全書總目提要"
+ },
+ {
+  "id": "zlzz",
+  "title": "枣林杂俎",
+  "author": "谈迁",
+  "era": "明末清初",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "tsbc",
+  "title": "谈氏笔乘",
+  "author": "谈迁",
+  "era": "明末清初",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "jyjsj",
+  "title": "寄园寄所寄",
+  "author": "赵吉士",
+  "era": "清",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "llzs",
+  "title": "冷庐杂识",
+  "author": "陆以湉",
+  "era": "清",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
  }
 ]
