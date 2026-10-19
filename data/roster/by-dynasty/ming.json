@@ -51,7 +51,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
@@ -186,7 +186,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
@@ -229,7 +229,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "洪武丁丑南北榜争议（不武断升A）",
    "无专传，事迹仅见选举志"
@@ -274,7 +274,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "洪武丁丑南北榜争议（不武断升A）",
    "无专传，事迹仅见选举志"
@@ -606,7 +606,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -718,14 +718,22 @@
     "juan": "7",
     "quote": "己卯，赐邢宽等进士及第、出身有差。",
     "qs": "ok"
+   },
+   {
+    "src": "xzl",
+    "juan": "卷之二十三 南京翰林院侍讲学士邢公宽传",
+    "quote": "永樂甲辰廷試初以孫曰恭……第一太宗皇帝以曰恭一暴字耳及見邢寬二字甚喜遂擢……第一授翰林院修撰",
+    "tier": "碑传",
+    "grade": "A",
+    "note": "原书标题作“刑公宽传”，刑为邢之讹；底本“以孙曰恭”“遂擢”下各缺一字（作?），故以省略号分段引",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
    }
   ],
   "bio": [],
-  "confidence": "B",
-  "full": false,
-  "pending": [
-   "本纪仅记“赐某等进士及第”，无专传"
-  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
   "disputed": [],
   "reviewed": true,
   "life": {
@@ -822,7 +830,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -1250,14 +1258,21 @@
     "juan": "12",
     "quote": "　　三月庚辰，赐王一夔等进士及第、出身有差。",
     "qs": "ok"
+   },
+   {
+    "src": "gurj",
+    "juan": "卷五 进士题名记（李贤）",
+    "quote": "天順四年三月朔禮部以㑹試取中天下之士百五十人……乃擢王一夔為第一",
+    "tier": "题名记",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
    }
   ],
   "bio": [],
-  "confidence": "B",
+  "confidence": "A",
   "full": false,
-  "pending": [
-   "本纪仅记“赐某等进士及第”，无专传"
-  ],
+  "pending": [],
   "disputed": [],
   "reviewed": true
  },
@@ -1405,7 +1420,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪作“张昇”"
   ],
@@ -1529,7 +1544,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
@@ -1701,14 +1716,21 @@
     "juan": "15",
     "quote": "庚午，赐钱福等进士及第、出身有差。",
     "qs": "ok"
+   },
+   {
+    "src": "skzm",
+    "juan": "卷一百七十六",
+    "quote": "福字與謙，松江華亭人，弘治庚戌進士第一，官翰林院修撰",
+    "tier": "官修目录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
    }
   ],
   "bio": [],
-  "confidence": "B",
-  "full": false,
-  "pending": [
-   "本纪仅记“赐某等进士及第”，无专传"
-  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
   "disputed": [],
   "reviewed": true,
   "native_wiki": "南直隶松江府华亭县人",
@@ -1805,6 +1827,15 @@
     "quote": "三月丁丑，赐伦文叙等进士及第、出身有差。",
     "audit": "2026-10-13 引文按本地原文逐字重录",
     "qs": "ok"
+   },
+   {
+    "src": "xzl",
+    "juan": "卷之十九 右春坊右谕德伦公文叙传（黄佐）",
+    "quote": "倫文敘字伯疇南海人……己未會試殿試皆第一授翰林院修撰",
+    "tier": "碑传",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
    }
   ],
   "bio": [
@@ -1813,10 +1844,9 @@
     "juan": "卷之十九 右春坊右谕德伦公文叙传（黄佐）"
    }
   ],
-  "confidence": "B",
+  "confidence": "A",
   "full": true,
   "pending": [
-   "本纪仅记“赐某等”，未明言第一",
    "本纪作“伦文叙”（四库本作“敘”）"
   ],
   "disputed": [
@@ -2073,7 +2103,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -2276,7 +2306,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
@@ -2329,7 +2359,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -2421,7 +2451,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传",
    "籍贯待考证：《万历野获编》卷16作“直隶太和卫人”，名录作“大河卫”，二者不合，未落坐标（2026-10-13）"
@@ -2459,6 +2489,15 @@
     "juan": "18",
     "quote": "丁巳，赐秦鸣雷等进士及第、出身有差。",
     "qs": "ok"
+   },
+   {
+    "src": "skzm",
+    "juan": "卷一百三十一",
+    "quote": "鳴雷字子豫，臨海人。嘉靖甲辰進士第一，官至南京吏部尚書",
+    "tier": "官修目录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
    }
   ],
   "bio": [
@@ -2467,11 +2506,9 @@
     "juan": "卷之三十六 资善大夫南京礼部尚书秦公鸣雷行状（张凤翼）"
    }
   ],
-  "confidence": "B",
+  "confidence": "A",
   "full": true,
-  "pending": [
-   "本纪仅记“赐某等进士及第”，无专传"
-  ],
+  "pending": [],
   "disputed": [
    "维基列表备注：原取吴情，但其名不为明世宗朱厚熜所喜，且因明世宗梦见雷声，遂改取秦鸣雷"
   ],
@@ -2566,7 +2603,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -2741,7 +2778,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
@@ -2824,7 +2861,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等”，未明言第一"
   ],
@@ -2864,7 +2901,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
@@ -2949,7 +2986,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪作“孙继皐”"
   ],
@@ -3026,7 +3063,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
@@ -3188,14 +3225,21 @@
     "quote": "之蕃，字元价。金陵人。万历乙未状元，官终吏部右侍郎。元价为史官出使朝鲜，却其赠贿。",
     "tier": "总集小传",
     "qs": "ok_book"
+   },
+   {
+    "src": "skzm",
+    "juan": "卷一百七十九",
+    "quote": "之蕃字元介，茌平人。南京錦衣衛籍，萬曆乙未進士第一",
+    "tier": "官修目录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
    }
   ],
   "bio": [],
-  "confidence": "B",
-  "full": false,
-  "pending": [
-   "本纪仅记“赐某等进士及第”，无专传"
-  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
   "disputed": [],
   "reviewed": true,
   "native_modern": "今江苏南京（祖籍山东茌平）",
@@ -3232,7 +3276,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
@@ -3269,14 +3313,21 @@
     "juan": "21",
     "quote": "　　三月乙卯，赐张以诚等进士及第、出身有差。",
     "qs": "ok"
+   },
+   {
+    "src": "skzm",
+    "juan": "卷十七",
+    "quote": "以誠字君一，華亭人。萬曆辛丑進士第一，官翰林院修撰",
+    "tier": "官修目录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
    }
   ],
   "bio": [],
-  "confidence": "B",
-  "full": false,
-  "pending": [
-   "本纪仅记“赐某等进士及第”，无专传"
-  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
   "disputed": [],
   "reviewed": true,
   "native_wiki": "南直隶松江府青浦县人",
@@ -3576,7 +3627,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
@@ -3617,7 +3668,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [
    "维基列表备注：原取吴伟业，但陈于泰因为是主考官周延儒之姻亲且行贿通关而抡元"
@@ -3688,7 +3739,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
@@ -3758,7 +3809,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],

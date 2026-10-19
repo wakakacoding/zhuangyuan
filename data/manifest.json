@@ -6,9 +6,9 @@
  "attribution": "状元录（https://wakakacoding.github.io/zhuangyuan/）",
  "counts": {
   "roster": 666,
-  "persons": 209,
-  "relations": 368,
-  "sources": 112
+  "persons": 276,
+  "relations": 401,
+  "sources": 131
  },
  "dictionary": "https://wakakacoding.github.io/zhuangyuan/about/#dictionary",
  "files": [
@@ -28,35 +28,35 @@
   },
   {
    "path": "data/persons.json",
-   "n": 209,
+   "n": 276,
    "format": "json",
    "what": "完整传记",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons.json"
   },
   {
    "path": "data/persons.csv",
-   "n": 209,
+   "n": 276,
    "format": "csv",
    "what": "完整传记摘要",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons.csv"
   },
   {
    "path": "data/relations.json",
-   "n": 368,
+   "n": 401,
    "format": "json",
    "what": "人物关系",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/relations.json"
   },
   {
    "path": "data/exams.json",
-   "n": 206,
+   "n": 270,
    "format": "json",
    "what": "科次",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/exams.json"
   },
   {
    "path": "data/sources.json",
-   "n": 112,
+   "n": 131,
    "format": "json",
    "what": "史源书目",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/sources.json"
@@ -196,28 +196,28 @@
   },
   {
    "path": "data/roster/by-confidence/A.json",
-   "n": 256,
+   "n": 334,
    "format": "json",
    "what": "名录（按可信度：A 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster/by-confidence/A.json"
   },
   {
    "path": "data/roster/by-confidence/A.csv",
-   "n": 256,
+   "n": 334,
    "format": "csv",
    "what": "名录（按可信度：A 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster/by-confidence/A.csv"
   },
   {
    "path": "data/roster/by-confidence/B.json",
-   "n": 322,
+   "n": 276,
    "format": "json",
    "what": "名录（按可信度：B 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster/by-confidence/B.json"
   },
   {
    "path": "data/roster/by-confidence/B.csv",
-   "n": 322,
+   "n": 276,
    "format": "csv",
    "what": "名录（按可信度：B 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster/by-confidence/B.csv"
@@ -238,14 +238,14 @@
   },
   {
    "path": "data/roster/by-confidence/C.json",
-   "n": 66,
+   "n": 34,
    "format": "json",
    "what": "名录（按可信度：C 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster/by-confidence/C.json"
   },
   {
    "path": "data/roster/by-confidence/C.csv",
-   "n": 66,
+   "n": 34,
    "format": "csv",
    "what": "名录（按可信度：C 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster/by-confidence/C.csv"
@@ -350,56 +350,56 @@
   },
   {
    "path": "data/persons/by-dynasty/ming.json",
-   "n": 57,
+   "n": 84,
    "format": "json",
    "what": "完整传记（按朝代：明）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-dynasty/ming.json"
   },
   {
    "path": "data/persons/by-dynasty/ming.csv",
-   "n": 57,
+   "n": 84,
    "format": "csv",
    "what": "完整传记（按朝代：明）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-dynasty/ming.csv"
   },
   {
    "path": "data/persons/by-dynasty/qing.json",
-   "n": 31,
+   "n": 71,
    "format": "json",
    "what": "完整传记（按朝代：清）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-dynasty/qing.json"
   },
   {
    "path": "data/persons/by-dynasty/qing.csv",
-   "n": 31,
+   "n": 71,
    "format": "csv",
    "what": "完整传记（按朝代：清）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-dynasty/qing.csv"
   },
   {
    "path": "data/persons/by-confidence/A.json",
-   "n": 169,
+   "n": 222,
    "format": "json",
    "what": "完整传记（按可信度：A 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-confidence/A.json"
   },
   {
    "path": "data/persons/by-confidence/A.csv",
-   "n": 169,
+   "n": 222,
    "format": "csv",
    "what": "完整传记（按可信度：A 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-confidence/A.csv"
   },
   {
    "path": "data/persons/by-confidence/B.json",
-   "n": 19,
+   "n": 33,
    "format": "json",
    "what": "完整传记（按可信度：B 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-confidence/B.json"
   },
   {
    "path": "data/persons/by-confidence/B.csv",
-   "n": 19,
+   "n": 33,
    "format": "csv",
    "what": "完整传记（按可信度：B 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-confidence/B.csv"

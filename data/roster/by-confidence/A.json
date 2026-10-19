@@ -4801,7 +4801,7 @@
   "year": 1149,
   "era": "皇统九年己巳科",
   "bang": null,
-  "native": "河间（今河北河间县）",
+  "native": "河间（今河北河间）",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [
@@ -4823,7 +4823,21 @@
   "full": false,
   "pending": [],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "河间（今河北河间县）",
+  "native_modern": "今河北河间",
+  "coord": [
+   38.44,
+   116.09
+  ],
+  "native_src": {
+   "src": "smbmhb",
+   "juan": "卷二百四十五",
+   "quote": "王彦潜，河间人",
+   "tier": "非正史（杂史（编年体））",
+   "note": "线2（2026-10-19）",
+   "prec": "府州"
+  }
  },
  {
   "id": "jin-1151-changdarong",
@@ -4863,7 +4877,7 @@
   "year": 1154,
   "era": "贞元二年甲戌科",
   "bang": null,
-  "native": "燕（北京市）",
+  "native": "燕（今北京）",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [
@@ -4885,7 +4899,21 @@
   "full": false,
   "pending": [],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_wiki": "燕（北京市）",
+  "native_modern": "今北京",
+  "coord": [
+   39.91,
+   116.39
+  ],
+  "native_src": {
+   "src": "smbmhb",
+   "juan": "卷二百四十五",
+   "quote": "吕宗翰，字周芗，燕人，亮时状元及第",
+   "tier": "非正史（杂史（编年体））",
+   "note": "线2（2026-10-19）；《三朝北盟会编》作“吕宗翰”，即吕忠翰（异写，同为海陵朝状元）；“燕”只到府州",
+   "prec": "府州"
+  }
  },
  {
   "id": "jin-1157-zhengzidan",
@@ -5876,7 +5904,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -5973,6 +6001,71 @@
   }
  },
  {
+  "id": "ming-1424-xingkuan",
+  "name": "邢宽",
+  "dynasty": "明",
+  "year": 1424,
+  "era": "永乐二十二年",
+  "bang": null,
+  "native": "直隶无为州（今安徽无为）",
+  "wiki_life": "－1454年",
+  "wiki_note": "原以孙曰恭为第一，但因其名不为帝喜，遂改取邢宽。邢宽有足疾。",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "7",
+    "quote": "己卯，赐邢宽等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzl",
+    "juan": "卷之二十三 南京翰林院侍讲学士邢公宽传",
+    "quote": "永樂甲辰廷試初以孫曰恭……第一太宗皇帝以曰恭一暴字耳及見邢寬二字甚喜遂擢……第一授翰林院修撰",
+    "tier": "碑传",
+    "grade": "A",
+    "note": "原书标题作“刑公宽传”，刑为邢之讹；底本“以孙曰恭”“遂擢”下各缺一字（作?），故以省略号分段引",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "1454",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "景泰五年六月卒遣官谕祭",
+     "src": "xzl",
+     "juan": "卷之二十三 南京翰林院侍讲学士刑公宽传",
+     "tier": "传记汇编（献征录所收传，未署撰者）"
+    }
+   ],
+   "note": "传题误作“刑”",
+   "done": true
+  },
+  "native_wiki": "南直隶庐州府无为州人",
+  "native_modern": "今安徽无为",
+  "coord": [
+   31.26,
+   117.78
+  ],
+  "native_src": {
+   "src": "gjtsjc",
+   "juan": "选举典第096卷",
+   "quote": "邢宽字用大，直隶无为州人",
+   "tier": "类书（清《古今图书集成》选举典引《明状元事略》）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
   "id": "ming-1427-mayu",
   "name": "马愉",
   "dynasty": "明",
@@ -6035,7 +6128,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -6448,6 +6541,40 @@
   "disputed": []
  },
  {
+  "id": "ming-1460-wangyikui",
+  "name": "王一夔",
+  "dynasty": "明",
+  "year": 1460,
+  "era": "天顺四年",
+  "bang": null,
+  "native": "江西南昌府新建县人",
+  "wiki_life": "1425年－1487年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "12",
+    "quote": "　　三月庚辰，赐王一夔等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "gurj",
+    "juan": "卷五 进士题名记（李贤）",
+    "quote": "天順四年三月朔禮部以㑹試取中天下之士百五十人……乃擢王一夔為第一",
+    "tier": "题名记",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
   "id": "ming-1464-pengjiao",
   "name": "彭教",
   "dynasty": "明",
@@ -6591,7 +6718,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪作“张昇”"
   ],
@@ -6831,6 +6958,54 @@
   "disputed": []
  },
  {
+  "id": "ming-1490-qianfu",
+  "name": "钱福",
+  "dynasty": "明",
+  "year": 1490,
+  "era": "弘治三年",
+  "bang": null,
+  "native": "华亭（今上海松江）",
+  "wiki_life": "1461年－1504年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "15",
+    "quote": "庚午，赐钱福等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "skzm",
+    "juan": "卷一百七十六",
+    "quote": "福字與謙，松江華亭人，弘治庚戌進士第一，官翰林院修撰",
+    "tier": "官修目录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "南直隶松江府华亭县人",
+  "native_modern": "今上海松江",
+  "coord": [
+   31.03,
+   121.23
+  ],
+  "native_src": {
+   "src": "jntz",
+   "juan": "卷166",
+   "quote": "钱福字与谦华亭人…试礼部廷对皆第一",
+   "tier": "方志（清修《江南通志》人物）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
   "id": "ming-1493-maocheng",
   "name": "毛澄",
   "dynasty": "明",
@@ -6891,6 +7066,79 @@
   "disputed": [
    "维基列表备注：疑因泄题作弊且名字得上所喜而抡元"
   ]
+ },
+ {
+  "id": "ming-1499-lunwenxu",
+  "name": "伦文叙",
+  "dynasty": "明",
+  "year": 1499,
+  "era": "弘治十二年",
+  "bang": null,
+  "native": "广东广州府南海县人",
+  "wiki_life": "1467年－1513年",
+  "wiki_note": "原取丰熙，因丰脚跛而改取伦文叙",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "15",
+    "quote": "三月丁丑，赐伦文叙等进士及第、出身有差。",
+    "audit": "2026-10-13 引文按本地原文逐字重录",
+    "qs": "ok"
+   },
+   {
+    "src": "xzl",
+    "juan": "卷之十九 右春坊右谕德伦公文叙传（黄佐）",
+    "quote": "倫文敘字伯疇南海人……己未會試殿試皆第一授翰林院修撰",
+    "tier": "碑传",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之十九 右春坊右谕德伦公文叙传（黄佐）"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [
+   "本纪作“伦文叙”（四库本作“敘”）"
+  ],
+  "disputed": [
+   "维基列表备注：原取丰熙，因丰脚跛而改取伦文叙"
+  ],
+  "reviewed": true,
+  "life": {
+   "birth": "1467（推）",
+   "death": "1513",
+   "age": "47",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "癸酉春进修王牒……是秋被命主考应天府比还得病卒于京师年四十有七",
+     "src": "xzl",
+     "juan": "卷十九 右春坊右谕德伦公文叙传（黄佐）",
+     "tier": "碑传（献征录所收）",
+     "infer": "生年推（虚岁）"
+    }
+   ],
+   "note": "",
+   "done": true
+  },
+  "coord": [
+   23.03,
+   113.15
+  ],
+  "native_modern": "今广东佛山南海",
+  "native_src": {
+   "src": "xzl",
+   "juan": "卷之十九 右春坊右谕德伦公文叙传（黄佐）",
+   "quote": "伦文叙字伯畴南海人",
+   "tier": "碑传（献征录所收）",
+   "note": "坐标取今佛山南海区，示意明南海县境"
+  }
  },
  {
   "id": "kanghai",
@@ -7070,7 +7318,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -7285,7 +7533,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -7358,6 +7606,76 @@
   }
  },
  {
+  "id": "ming-1544-qinminglei",
+  "name": "秦鸣雷",
+  "dynasty": "明",
+  "year": 1544,
+  "era": "嘉靖二十三年",
+  "bang": null,
+  "native": "浙江台州府临海县人",
+  "wiki_life": "1518年－1593年",
+  "wiki_note": "原取吴情，但其名不为明世宗朱厚熜所喜，且因明世宗梦见雷声，遂改取秦鸣雷",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "18",
+    "quote": "丁巳，赐秦鸣雷等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "skzm",
+    "juan": "卷一百三十一",
+    "quote": "鳴雷字子豫，臨海人。嘉靖甲辰進士第一，官至南京吏部尚書",
+    "tier": "官修目录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "xzl",
+    "juan": "卷之三十六 资善大夫南京礼部尚书秦公鸣雷行状（张凤翼）"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [
+   "维基列表备注：原取吴情，但其名不为明世宗朱厚熜所喜，且因明世宗梦见雷声，遂改取秦鸣雷"
+  ],
+  "reviewed": true,
+  "life": {
+   "birth": "1518",
+   "death": "1593",
+   "age": "76（推）",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "卒于万历癸巳之七月七日距其生戊寅二月二日享年七十有",
+     "src": "xzl",
+     "juan": "卷三十六 资善大夫南京礼部尚书秦公鸣雷行状（张凤翼）",
+     "tier": "碑传（献征录所收）",
+     "infer": "享年数字本地文本残缺，按生卒推为七十六"
+    }
+   ],
+   "note": "",
+   "done": true
+  },
+  "coord": [
+   28.85,
+   121.14
+  ],
+  "native_modern": "今浙江临海",
+  "native_src": {
+   "src": "xzl",
+   "juan": "卷之三十六 资善大夫南京礼部尚书秦公鸣雷行状（张凤翼）",
+   "quote": "唐大顺间徙台之黄岩东冈再徙临海遂占籍",
+   "tier": "碑传（献征录所收）",
+   "note": ""
+  }
+ },
+ {
   "id": "ming-1547-lichunfang",
   "name": "李春芳",
   "dynasty": "明",
@@ -7417,7 +7735,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -7617,7 +7935,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪作“孙继皐”"
   ],
@@ -7791,6 +8109,108 @@
   "full": true,
   "pending": [],
   "disputed": []
+ },
+ {
+  "id": "ming-1595-zhuzhifan",
+  "name": "朱之蕃",
+  "dynasty": "明",
+  "year": 1595,
+  "era": "万历二十三年",
+  "bang": null,
+  "native": "南直隶应天府江宁县人，世居山东东昌府茌平县，后附南直锦衣卫籍",
+  "wiki_life": "1561年－1626年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "20",
+    "quote": "　　三月乙未，赐朱之蕃等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "lcsj",
+    "juan": "丁集第七",
+    "quote": "之蕃，字元价。金陵人。万历乙未状元，官终吏部右侍郎。元价为史官出使朝鲜，却其赠贿。",
+    "tier": "总集小传",
+    "qs": "ok_book"
+   },
+   {
+    "src": "skzm",
+    "juan": "卷一百七十九",
+    "quote": "之蕃字元介，茌平人。南京錦衣衛籍，萬曆乙未進士第一",
+    "tier": "官修目录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_modern": "今江苏南京（祖籍山东茌平）",
+  "coord": [
+   32.06,
+   118.8
+  ],
+  "native_src": {
+   "src": "lcsj",
+   "juan": "丁集第七",
+   "quote": "之蕃，字元价。金陵人。万历乙未状元，官终吏部右侍郎。元价为史官出使朝鲜，却其赠贿。",
+   "tier": "总集小传",
+   "note": "《列朝诗集》作“金陵人”，与应天府江宁县相合，留作佐证；坐标取今南京市治",
+   "role": "佐证"
+  }
+ },
+ {
+  "id": "ming-1601-zhangyicheng",
+  "name": "张以诚",
+  "dynasty": "明",
+  "year": 1601,
+  "era": "万历二十九年",
+  "bang": null,
+  "native": "松江（今上海松江）",
+  "wiki_life": "1568年－1615年",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "ms",
+    "juan": "21",
+    "quote": "　　三月乙卯，赐张以诚等进士及第、出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "skzm",
+    "juan": "卷十七",
+    "quote": "以誠字君一，華亭人。萬曆辛丑進士第一，官翰林院修撰",
+    "tier": "官修目录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "南直隶松江府青浦县人",
+  "native_modern": "今上海松江",
+  "coord": [
+   31.03,
+   121.23
+  ],
+  "native_src": {
+   "src": "jntz",
+   "juan": "卷123",
+   "quote": "张以诚松江人状元",
+   "tier": "方志（清修《江南通志》选举表）",
+   "note": "仅言松江（府），名录作青浦县；府州级精度",
+   "prec": "府州"
+  }
  },
  {
   "id": "ming-1607-huangshijun",
@@ -7992,7 +8412,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [
    "维基列表备注：原取吴伟业，但陈于泰因为是主考官周延儒之姻亲且行贿通关而抡元"
@@ -8161,7 +8581,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -8176,7 +8596,7 @@
    "juan": "卷四",
    "quote": "黄冈刘子壮（顺治己丑）",
    "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
-   "note": "",
+   "note": "线1佐证：清法式善《清秘述闻》卷一「狀元劉子壯字克猷，湖廣黃岡人」；清纪昀等《四库全书总目提要》卷一百八十一「子壯字克猷，黃岡人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
    "prec": "县"
   }
  },
@@ -8210,6 +8630,191 @@
   "disputed": []
  },
  {
+  "id": "qing-1652-zouzhongyi",
+  "name": "邹忠倚",
+  "dynasty": "清",
+  "year": 1652,
+  "era": "顺治九年",
+  "bang": null,
+  "native": "无锡（今江苏无锡）",
+  "wiki_life": "1623年－1654年",
+  "wiki_note": "内翰林秘书院修撰",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "5",
+    "quote": "己亥，赐满洲、蒙古贡士麻勒吉，汉军及汉贡士邹忠倚等进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "stzsl",
+    "juan": "卷六十五",
+    "quote": "漢人一甲一名進士鄒忠倚為內翰林祕書院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江南省常州府无锡县人",
+  "native_modern": "今江苏无锡",
+  "coord": [
+   31.49,
+   120.31
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "无锡邹忠倚（顺治壬辰）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清法式善《清秘述闻》卷一「狀元鄒忠倚字于度，江南無錫人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1655-tuerchen",
+  "name": "图尔宸",
+  "dynasty": "清",
+  "year": 1655,
+  "era": "顺治十二年",
+  "bang": null,
+  "native": "正白旗满洲人",
+  "wiki_life": "－",
+  "wiki_note": "工部右侍郎",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "5",
+    "quote": "赐图尔宸、史大成等进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "stzsl",
+    "juan": "卷九十",
+    "quote": "戊申，賜一甲一名進士圖爾宸、史大成袍帽鞾襪及諸進士折鈔銀兩有差",
+    "tier": "实录",
+    "grade": "A",
+    "note": "顺治十二年满、汉分榜，实录以图尔宸、史大成并称“一甲一名进士”",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true
+ },
+ {
+  "id": "qing-1655-shidacheng",
+  "name": "史大成",
+  "dynasty": "清",
+  "year": 1655,
+  "era": "顺治十二年",
+  "bang": null,
+  "native": "鄞人（今浙江宁波）",
+  "wiki_life": "1621年－1682年",
+  "wiki_note": "礼部左侍郎",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "5",
+    "quote": "赐图尔宸、史大成等进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "wqysh",
+    "juan": "卷二十七",
+    "quote": "史大成，字及超，号立盦，鄞县人。顺治乙未一甲一名进士，授修撰，官至礼部左侍郎兼翰林学士。",
+    "tier": "总集小传",
+    "qs": "ok"
+   },
+   {
+    "src": "stzsl",
+    "juan": "卷九十",
+    "quote": "戊申，賜一甲一名進士圖爾宸、史大成袍帽鞾襪及諸進士折鈔銀兩有差",
+    "tier": "实录",
+    "grade": "A",
+    "note": "顺治十二年满、汉分榜，实录以图尔宸、史大成并称“一甲一名进士”",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "浙江省宁波府鄞县人",
+  "native_modern": "今浙江宁波",
+  "coord": [
+   29.87,
+   121.55
+  ],
+  "native_src": {
+   "src": "cbot",
+   "juan": "卷一",
+   "quote": "乙未史大成，鄞人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
+ },
+ {
+  "id": "qing-1658-sunchengen",
+  "name": "孙承恩",
+  "dynasty": "清",
+  "year": 1658,
+  "era": "顺治十五年",
+  "bang": null,
+  "native": "常熟人（今江苏常熟）",
+  "wiki_life": "1619年－1659年",
+  "wiki_note": "内翰林国史院修撰",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "5",
+    "quote": "赐孙承恩等进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "stzsl",
+    "juan": "卷一百一十八",
+    "quote": "授一甲第一名進士孫承恩為內翰林國史院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江南省苏州府常熟县人",
+  "native_modern": "今江苏常熟",
+  "coord": [
+   31.65,
+   120.75
+  ],
+  "native_src": {
+   "src": "lqjw",
+   "juan": "初笔卷十二",
+   "quote": "顺治戊戌状元孙承恩，常熟人也",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
+ },
+ {
   "id": "qing-1659-xuyuanwen",
   "name": "徐元文",
   "dynasty": "清",
@@ -8237,6 +8842,67 @@
   "full": true,
   "pending": [],
   "disputed": []
+ },
+ {
+  "id": "qing-1661-mashijun",
+  "name": "马世俊",
+  "dynasty": "清",
+  "year": 1661,
+  "era": "顺治十八年",
+  "bang": null,
+  "native": "溧阳（今江苏溧阳）",
+  "wiki_life": "1609年－1666年",
+  "wiki_note": "翰林院侍读",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "6",
+    "quote": "赐马世俊等三百八十三人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "szrsl",
+    "juan": "卷二",
+    "quote": "授一甲進士馬世俊、為翰林院修撰。李仙根、吳光、為編修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江南省镇江府溧阳县人",
+  "native_modern": "今江苏溧阳",
+  "coord": [
+   31.42,
+   119.48
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "溧阳马世俊（顺治辛丑）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清法式善《清秘述闻》卷一「狀元馬世俊字章民，江南潥陽人」；清法式善《清秘述闻》卷十三「馬世俊字章民，江南溧陽人」（卷一“潥”为“溧”之讹）。与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
  },
  {
   "id": "qing-1664-yanwosi",
@@ -8267,7 +8933,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -8281,6 +8947,66 @@
    "src": "cbot",
    "juan": "卷一",
    "quote": "甲辰严我斯，归安人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
+ },
+ {
+  "id": "qing-1667-moutong",
+  "name": "缪彤",
+  "dynasty": "清",
+  "year": 1667,
+  "era": "康熙六年",
+  "bang": null,
+  "native": "吴县人（今江苏苏州）",
+  "wiki_life": "1627年－1697年",
+  "wiki_note": "翰林院侍讲",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "6",
+    "quote": "赐缪彤等一百五十人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "szrsl",
+    "juan": "卷二十一",
+    "quote": "丙寅，授一甲進士繆彤為內秘書院修撰，張玉裁為內國史院編修，董訥為內弘文院編修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江南省苏州府吴县人",
+  "native_modern": "今江苏苏州",
+  "coord": [
+   31.3,
+   120.62
+  ],
+  "native_src": {
+   "src": "cbot",
+   "juan": "卷一",
+   "quote": "丁未缪彤，吴县人",
    "tier": "笔记",
    "note": "笔记，非正史"
   }
@@ -8312,7 +9038,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -8399,6 +9125,370 @@
   ]
  },
  {
+  "id": "qing-1679-guiyunsu",
+  "name": "归允肃",
+  "dynasty": "清",
+  "year": 1679,
+  "era": "康熙十八年",
+  "bang": null,
+  "native": "常熟人（今江苏常熟）",
+  "wiki_life": "1642年－1689年",
+  "wiki_note": "詹事府少詹事",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "6",
+    "quote": "赐归允肃等百五十一人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "szrsl",
+    "juan": "卷八十",
+    "quote": "授一甲進士歸允肅為翰林院修撰，孫卓、茆薦馨為編修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府常熟县人",
+  "native_modern": "今江苏常熟",
+  "coord": [
+   31.65,
+   120.75
+  ],
+  "native_src": {
+   "src": "lqjw",
+   "juan": "二笔卷十一",
+   "quote": "常熟一县，已得六人，盖顺治戊戌孙承恩，康熙己未归允肃，庚辰汪绎，戊戌汪应铨，咸丰丙辰翁同龢，同治癸亥翁曾源也",
+   "tier": "笔记",
+   "note": "笔记；常熟六状元名单"
+  }
+ },
+ {
+  "id": "qing-1682-caishengyuan",
+  "name": "蔡升元",
+  "dynasty": "清",
+  "year": 1682,
+  "era": "康熙二十一年",
+  "bang": null,
+  "native": "德清人（今浙江德清）",
+  "wiki_life": "1652年－1722年",
+  "wiki_note": "礼部尚书",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "7",
+    "quote": "赐蔡升元等一百七十六人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "wqysh",
+    "juan": "卷四十七",
+    "quote": "蔡升元，字征元，号方麓，德清人。康熙壬戌一甲一名进士，授修撰，官至礼部尚书。",
+    "tier": "总集小传",
+    "qs": "ok"
+   },
+   {
+    "src": "szrsl",
+    "juan": "卷一百零四",
+    "quote": "授一甲進士蔡升元為翰林院修撰，吳涵、彭寧求俱為編修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "浙江省湖州府德清县人",
+  "native_modern": "今浙江德清",
+  "coord": [
+   30.54,
+   119.98
+  ],
+  "native_src": {
+   "src": "cbot",
+   "juan": "卷一",
+   "quote": "康熙庚戌状元蔡启僔，壬戌状元蔡升元，俱德清人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
+ },
+ {
+  "id": "qing-1685-lukentang",
+  "name": "陆肯堂",
+  "dynasty": "清",
+  "year": 1685,
+  "era": "康熙二十四年",
+  "bang": null,
+  "native": "长洲人（今江苏苏州）",
+  "wiki_life": "1650年－1696年",
+  "wiki_note": "翰林院侍读学士",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "7",
+    "quote": "赐陆肯堂等一百二十一人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "szrsl",
+    "juan": "卷一百二十",
+    "quote": "壬寅，授一甲進士陸肯堂為翰林院修撰，陳元龍、黃夢麟為翰林院編修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府长洲县人",
+  "native_modern": "今江苏苏州",
+  "coord": [
+   31.3,
+   120.62
+  ],
+  "native_src": {
+   "src": "cbot",
+   "juan": "卷一",
+   "quote": "乙丑陆肯堂，丁丑汪士𬭎，俱长洲人",
+   "tier": "笔记",
+   "note": "笔记，非正史"
+  }
+ },
+ {
+  "id": "qing-1688-shentingwen",
+  "name": "沈廷文",
+  "dynasty": "清",
+  "year": 1688,
+  "era": "康熙二十七年",
+  "bang": null,
+  "native": "秀水（今浙江嘉兴）",
+  "wiki_life": "－",
+  "wiki_note": "翰林院修撰",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "7",
+    "quote": "赐沈廷文等一百四十六人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "wqysh",
+    "juan": "卷四十九",
+    "quote": "沈廷文，字原衡，号元洲，秀水人。康熙戊辰一甲一名进士，授修撰。",
+    "tier": "总集小传",
+    "qs": "ok"
+   },
+   {
+    "src": "szrsl",
+    "juan": "卷一百三十三",
+    "quote": "上御乾清宮。讀卷官大學士伊桑阿等、選擇殿試貢士策十卷、依例進呈。上以次披閱。改擬第二名沈廷文、為第一名",
+    "tier": "实录",
+    "grade": "A",
+    "note": "康熙二十七年殿试，圣祖改拟第二名沈廷文为第一名",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "浙江省嘉兴府秀水县人",
+  "native_modern": "今浙江嘉兴",
+  "coord": [
+   30.75,
+   120.76
+  ],
+  "native_src": {
+   "src": "wqysh",
+   "juan": "卷四十九",
+   "quote": "沈廷文，字原衡，号元洲，秀水人。康熙戊辰一甲一名进士，授修撰。",
+   "tier": "总集小传",
+   "note": "坐标取今县治"
+  }
+ },
+ {
+  "id": "qing-1691-daiyouqi",
+  "name": "戴有祺",
+  "dynasty": "清",
+  "year": 1691,
+  "era": "康熙三十年",
+  "bang": null,
+  "native": "金山（今上海金山）",
+  "wiki_life": "－1711年",
+  "wiki_note": "翰林院修撰",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "7",
+    "quote": "赐戴有祺等一百四十八人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "szrsl",
+    "juan": "卷一百五十一",
+    "quote": "授殿試第一甲進士戴有祺為翰林院修撰，吳昺、黃叔琳為翰林院編修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省松江府金山卫人",
+  "native_modern": "今上海金山",
+  "coord": [
+   30.74,
+   121.34
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "金山戴有祺（康熙辛未）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "金山卫；线1佐证：清法式善《清秘述闻》卷三「狀元戴有祺字丙章，江南金山衞人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1694-hurenyu",
+  "name": "胡任舆",
+  "dynasty": "清",
+  "year": 1694,
+  "era": "康熙三十三年",
+  "bang": null,
+  "native": "上元（今江苏南京）",
+  "wiki_life": "－1704年",
+  "wiki_note": "翰林院修撰",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "7",
+    "quote": "赐胡任舆等一百六十八人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "szrsl",
+    "juan": "卷一百六十三",
+    "quote": "授一甲進士胡任輿為翰林院修撰，顧圖河、顧悅履為編修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省江宁府上元县人",
+  "native_modern": "今江苏南京",
+  "coord": [
+   32.06,
+   118.79
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "上元胡任舆（康熙辛酉解元、甲戌状元）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "上元县为江宁府附郭；线1佐证：清法式善《清秘述闻》卷三「狀元胡任輿字孟行，江南上元人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
   "id": "qing-1697-lipan",
   "name": "李蟠",
   "dynasty": "清",
@@ -8424,7 +9514,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -8456,8 +9546,68 @@
    "juan": "卷四",
    "quote": "徐州李蟠（康熙丁丑）",
    "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
-   "note": "府州级精度",
+   "note": "府州级精度；线1佐证：清法式善《清秘述闻》卷三「狀元李蟠字仙李，江南徐州人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
    "prec": "府州"
+  }
+ },
+ {
+  "id": "qing-1700-wangyi",
+  "name": "汪绎",
+  "dynasty": "清",
+  "year": 1700,
+  "era": "康熙三十九年",
+  "bang": null,
+  "native": "常熟人（今江苏常熟）",
+  "wiki_life": "1671年－1706年",
+  "wiki_note": "翰林院修撰",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "7",
+    "quote": "赐汪绎等三百一人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "szrsl",
+    "juan": "卷一百九十八",
+    "quote": "庚午，授一甲進士汪繹為翰林院修撰，季愈、王露俱為翰林院編修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府常熟县人",
+  "native_modern": "今江苏常熟",
+  "coord": [
+   31.65,
+   120.75
+  ],
+  "native_src": {
+   "src": "lqjw",
+   "juan": "二笔卷十一",
+   "quote": "常熟一县，已得六人，盖顺治戊戌孙承恩，康熙己未归允肃，庚辰汪绎，戊戌汪应铨，咸丰丙辰翁同龢，同治癸亥翁曾源也",
+   "tier": "笔记",
+   "note": "笔记；常熟六状元名单"
   }
  },
  {
@@ -8496,7 +9646,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -8530,6 +9680,600 @@
    "tier": "总集小传",
    "note": "坐标取今县治"
   }
+ },
+ {
+  "id": "qing-1706-shiyunjin",
+  "name": "施云锦",
+  "dynasty": "清",
+  "year": 1706,
+  "era": "康熙四十五年",
+  "bang": null,
+  "native": "无锡（今江苏无锡）",
+  "wiki_life": "1657年－1727年",
+  "wiki_note": "翰林院修撰、陕西学政",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "8",
+    "quote": "赐施云锦等二百八十九人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "szrsl",
+    "juan": "卷二百二十五",
+    "quote": "授一甲進士施雲錦為翰林院修撰，呂葆中、賈國維俱為編修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [
+   "名录原作“王云锦”。《清史稿》本纪卷8 康熙四十五年首名作“施云锦”，据本纪改名（原 id qing-1706-wangyunjin）；卷126 所见御史王云锦为道光时人，与本条无关"
+  ],
+  "reviewed": true,
+  "native_wiki": "江苏省常州府无锡县人",
+  "native_modern": "今江苏无锡",
+  "coord": [
+   31.49,
+   120.31
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "无锡王云锦（康熙丙戌）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "旧典备征作“王云锦”，即施云锦（《江南通志》：施云锦本姓王）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1709-zhaoxiongzhao",
+  "name": "赵熊诏",
+  "dynasty": "清",
+  "year": 1709,
+  "era": "康熙四十八年",
+  "bang": null,
+  "native": "武进（今江苏常州）",
+  "wiki_life": "1663年－1721年",
+  "wiki_note": "翰林院侍读",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "8",
+    "quote": "赐赵熊诏等二百九十二人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "szrsl",
+    "juan": "卷二百三十七",
+    "quote": "丁未，授一甲進士趙熊詔為翰林院修撰，戴名世、繆沅為編修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省常州府武进县人",
+  "native_modern": "今江苏常州",
+  "coord": [
+   31.78,
+   119.95
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "武进赵熊诏（康熙己丑）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清法式善《清秘述闻》卷四「狀元趙熊詔字侯赤，江南武進人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1712-wangshichen",
+  "name": "王世琛",
+  "dynasty": "清",
+  "year": 1712,
+  "era": "康熙五十一年",
+  "bang": null,
+  "native": "长洲（今江苏苏州）",
+  "wiki_life": "1680年－1729年",
+  "wiki_note": "翰林院侍讲、山东学政",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "8",
+    "quote": "赐王世琛等百七十七人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "wqysh",
+    "juan": "卷五十八",
+    "quote": "王世琛，字宝传，号艮甫，长洲人。康熙壬辰一甲一名进士，授修撰，历官少詹事。",
+    "tier": "总集小传",
+    "qs": "ok"
+   },
+   {
+    "src": "szrsl",
+    "juan": "卷二百五十",
+    "quote": "授一甲進士王世琛為翰林院修撰，沈樹本、徐葆光為翰林院編修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府长洲县人",
+  "native_modern": "今江苏苏州",
+  "coord": [
+   31.3,
+   120.62
+  ],
+  "native_src": {
+   "src": "wqysh",
+   "juan": "卷五十八",
+   "quote": "王世琛，字宝传，号艮甫，长洲人。康熙壬辰一甲一名进士，授修撰，历官少詹事。",
+   "tier": "总集小传",
+   "note": "坐标取今县治"
+  }
+ },
+ {
+  "id": "qing-1713-wangjingming",
+  "name": "王敬铭",
+  "dynasty": "清",
+  "year": 1713,
+  "era": "康熙五十二年",
+  "bang": null,
+  "native": "嘉定（今上海嘉定）",
+  "wiki_life": "1668年－1721年",
+  "wiki_note": "翰林院修撰",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "8",
+    "quote": "赐王敬铭等一百四十三人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "szrsl",
+    "juan": "卷二百五十六",
+    "quote": "授一甲進士王敬銘為翰林院修撰，任蘭枝、魏廷珍為翰林院編修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府嘉定县人",
+  "native_modern": "今上海嘉定",
+  "coord": [
+   31.38,
+   121.25
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "嘉定王敬铭（康熙癸巳）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清法式善《清秘述闻》卷四「狀元王敬銘字丹思，江南嘉定人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1715-xutaozhang",
+  "name": "徐陶璋",
+  "dynasty": "清",
+  "year": 1715,
+  "era": "康熙五十四年",
+  "bang": null,
+  "native": "昆山（今江苏昆山）",
+  "wiki_life": "1674年－1738年",
+  "wiki_note": "翰林院修撰",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "8",
+    "quote": "赐徐陶璋等一百九十人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "szrsl",
+    "juan": "卷二百六十三",
+    "quote": "授一甲進士徐陶璋為翰林院修撰，繆曰藻、傅王露為翰林院編修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府昆山县人",
+  "native_modern": "今江苏昆山",
+  "coord": [
+   31.38,
+   120.98
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "昆山徐陶璋（康熙乙未）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清法式善《清秘述闻》卷四「狀元。徐陶璋字端揆，江南崑山入」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1718-wangyingquan",
+  "name": "汪应铨",
+  "dynasty": "清",
+  "year": 1718,
+  "era": "康熙五十七年",
+  "bang": null,
+  "native": "常熟人（今江苏常熟）",
+  "wiki_life": "1685年－1745年",
+  "wiki_note": "左春坊赞善",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "8",
+    "quote": "赐汪应铨等一百七十一人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "szrsl",
+    "juan": "卷二百七十八",
+    "quote": "授一甲進士汪應銓為翰林院修撰，張廷璐、沈錫輅為翰林院編修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府常熟县人",
+  "native_modern": "今江苏常熟",
+  "coord": [
+   31.65,
+   120.75
+  ],
+  "native_src": {
+   "src": "lqjw",
+   "juan": "二笔卷十一",
+   "quote": "常熟一县，已得六人，盖顺治戊戌孙承恩，康熙己未归允肃，庚辰汪绎，戊戌汪应铨，咸丰丙辰翁同龢，同治癸亥翁曾源也",
+   "tier": "笔记",
+   "note": "笔记；常熟六状元名单"
+  }
+ },
+ {
+  "id": "qing-1721-dengzhongyue",
+  "name": "邓中岳",
+  "dynasty": "清",
+  "year": 1721,
+  "era": "康熙六十年",
+  "bang": null,
+  "native": "东昌（今山东聊城）",
+  "wiki_life": "－",
+  "wiki_note": "礼部左侍郎",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "8",
+    "quote": "赐邓钟岳等一百六十三人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "gzsl",
+    "juan": "卷十六",
+    "quote": "順治丙戌科狀元傅以漸｡康熙辛丑科狀元鄧鍾岳｡俱山東人",
+    "tier": "实录",
+    "grade": "A",
+    "note": "乾隆元年四月李绂奏对，辛丑即康熙六十年；实录作“鄧鍾岳”",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [
+   "本纪作“邓钟岳”，与名录用字不同"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "山东省东昌府东昌卫人",
+  "native_modern": "今山东聊城",
+  "coord": [
+   36.46,
+   115.98
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "东昌邓钟岳（康熙辛丑）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "名录作邓中岳、东昌卫人；府州级精度；线1佐证：清法式善《清秘述闻》卷四「狀元。鄧鍾岳，字東長，山東東昌衞人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "府州"
+  }
+ },
+ {
+  "id": "qing-1723-yuzhen",
+  "name": "于振",
+  "dynasty": "清",
+  "year": 1723,
+  "era": "雍正元年",
+  "bang": null,
+  "native": "金坛（今江苏常州金坛区）",
+  "wiki_life": "－",
+  "wiki_note": "翰林院侍读学士、日讲起居注官",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "9",
+    "quote": "赐于振等二百四十六人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "wqysh",
+    "juan": "卷七十一",
+    "quote": "于振，字鹤泉，金坛人。雍正癸卯一甲一名进士，授修撰，改行人。",
+    "tier": "总集小传",
+    "qs": "ok"
+   },
+   {
+    "src": "sxsl",
+    "juan": "卷十三",
+    "quote": "其第一甲第一名于振，著即授翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省镇江府金坛县人",
+  "native_modern": "今江苏常州金坛区",
+  "coord": [
+   31.72,
+   119.57
+  ],
+  "native_src": {
+   "src": "wqysh",
+   "juan": "卷七十一",
+   "quote": "于振，字鹤泉，金坛人。雍正癸卯一甲一名进士，授修撰，改行人。",
+   "tier": "总集小传",
+   "note": "坐标取今县治"
+  }
+ },
+ {
+  "id": "qing-1724-chendehua",
+  "name": "陈德华",
+  "dynasty": "清",
+  "year": 1724,
+  "era": "雍正二年",
+  "bang": null,
+  "native": "安州（今河北安新）",
+  "wiki_life": "1696年－1779年",
+  "wiki_note": "礼部尚书、入直上书房",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "9",
+    "quote": "赐陈惪华等二百九十九人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "sxsl",
+    "juan": "卷二十六",
+    "quote": "授一甲進士陳悳華為翰林院修撰，王安國、汪德容俱為翰林院編修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [
+   "本纪作“陈惪华”（惪为德的异体字）"
+  ],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "直隶省保定府安州人",
+  "native_modern": "今河北安新",
+  "coord": [
+   38.88,
+   115.87
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "安州陈德华（雍正甲辰）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "清安州治在今安新县安州镇",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1727-pengqifeng",
+  "name": "彭启丰",
+  "dynasty": "清",
+  "year": 1727,
+  "era": "雍正五年",
+  "bang": null,
+  "native": "江苏省苏州府长洲县人",
+  "wiki_life": "1701年－1784年",
+  "wiki_note": "兵部尚书、经筵讲官",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "9",
+    "quote": "辛卯，赐彭启丰等二百二十六人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "sxsl",
+    "juan": "卷五十六",
+    "quote": "授一甲進士彭啟豐為翰林院修撰，鄧啟元、馬宏琦為翰林院編修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [
+   {
+    "src": "qsg",
+    "juan": "304"
+   }
+  ],
+  "confidence": "A",
+  "full": true,
+  "pending": [
+   "按现行标准降为 B：正史仅见本纪/选举志“赐某等”，未明言第一"
+  ],
+  "disputed": []
  },
  {
   "id": "qing-1736-jindeying",
@@ -8724,6 +10468,103 @@
   "disputed": []
  },
  {
+  "id": "qing-1751-wuhong",
+  "name": "吴鸿",
+  "dynasty": "清",
+  "year": 1751,
+  "era": "乾隆十六年",
+  "bang": null,
+  "native": "仁和（今浙江杭州）",
+  "wiki_life": "1725年－1763年",
+  "wiki_note": "翰林院侍读，湖南学政",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "11",
+    "quote": "赐吴鸿等二百四十三人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "gzsl",
+    "juan": "卷三百九十",
+    "quote": "授一甲一名進士吳鴻為翰林院修撰，一甲二名進士饒學曙，一甲三名進士周灃為翰林院編修",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "浙江省杭州府仁和县人",
+  "native_modern": "今浙江杭州",
+  "coord": [
+   30.27,
+   120.16
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "仁和吴鸿（乾隆丁卯解元、辛未状元）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清法式善《清秘述闻》卷六「狀元吳鴻字頡雲浙江仁和人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1752-qindashi",
+  "name": "秦大士",
+  "dynasty": "清",
+  "year": 1752,
+  "era": "乾隆十七年",
+  "bang": null,
+  "native": "江宁（今江苏南京）",
+  "wiki_life": "1715年－1777年",
+  "wiki_note": "翰林院侍讲学士、尚书房行走",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "11",
+    "quote": "赐秦大士等一百四十一人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "gzsl",
+    "juan": "卷四百二十四",
+    "quote": "授一甲一名進士秦大士為翰林院修撰，一甲二名進士范棫士，一甲三名進士盧文弨為翰林院編修",
+    "tier": "实录",
+    "grade": "A",
+    "note": "乾隆十七年壬申恩科",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省江宁府江宁县人",
+  "native_modern": "今江苏南京",
+  "coord": [
+   32.06,
+   118.79
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "江宁秦大士（乾隆壬申）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清法式善《清秘述闻》卷六「狀元秦大士字魯一江南江甯人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
   "id": "qing-1754-zhuangpeiyin",
   "name": "庄培因",
   "dynasty": "清",
@@ -8750,7 +10591,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [
    "年份已定：本纪系于名录所记之年（1754），从本纪；《清史稿》庄存与传附作“乾隆十五年”，视为传文纪年之误（2026-10-13 核定）"
@@ -8760,6 +10601,54 @@
    31.78,
    119.95
   ]
+ },
+ {
+  "id": "qing-1757-caiyitai",
+  "name": "蔡以台",
+  "dynasty": "清",
+  "year": 1757,
+  "era": "乾隆二十二年",
+  "bang": null,
+  "native": "嘉善（今浙江嘉善）",
+  "wiki_life": "－",
+  "wiki_note": "翰林院修撰",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "12",
+    "quote": "赐蔡以台等二百四十二人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "gzsl",
+    "juan": "卷五百三十九",
+    "quote": "授一甲一名進士蔡以臺為翰林院修撰，一甲二名梅立本，一甲三名鄒奕孝為翰林院編修",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "浙江省嘉兴府嘉善县人",
+  "native_modern": "今浙江嘉善",
+  "coord": [
+   30.83,
+   120.92
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "嘉善蔡以台（乾隆丁丑）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "《郎潜纪闻》有“闽中”之说，不取；线1佐证：清法式善《清秘述闻》卷六「狀元蔡以臺字季實浙江嘉善人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
  },
  {
   "id": "biyuan",
@@ -8820,6 +10709,195 @@
   "disputed": []
  },
  {
+  "id": "qing-1763-qindacheng",
+  "name": "秦大成",
+  "dynasty": "清",
+  "year": 1763,
+  "era": "乾隆二十八年",
+  "bang": null,
+  "native": "嘉定（今上海嘉定）",
+  "wiki_life": "1720年－1779年",
+  "wiki_note": "翰林院修撰",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "12",
+    "quote": "赐秦大成等一百八十八人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "gzsl",
+    "juan": "卷六百八十六",
+    "quote": "授一甲一名進士秦大成為翰林院修撰，一甲二名沈初、一甲三名韋謙恒為翰林院編修",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省太仓直隶州嘉定县人",
+  "native_modern": "今上海嘉定",
+  "coord": [
+   31.38,
+   121.25
+  ],
+  "native_src": {
+   "src": "lqjw",
+   "juan": "初笔卷六",
+   "quote": "同考嘉定秦大成，癸未状元；元和陈初哲，己丑状元；休宁黄轩，辛卯状元；歙县金榜",
+   "tier": "笔记",
+   "note": "笔记；以县名冠姓名"
+  }
+ },
+ {
+  "id": "qing-1766-zhangshuxun",
+  "name": "张书勋",
+  "dynasty": "清",
+  "year": 1766,
+  "era": "乾隆三十一年",
+  "bang": null,
+  "native": "吴县（今江苏苏州）",
+  "wiki_life": "－",
+  "wiki_note": "右中允",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "13",
+    "quote": "赐张书勋等二百一十三人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "gzsl",
+    "juan": "卷七百六十",
+    "quote": "授一甲一名進士張書勳為翰林院修撰，一甲二名姚頤、一甲三名劉躍雲為翰林院編修",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府吴县人",
+  "native_modern": "今江苏苏州",
+  "coord": [
+   31.3,
+   120.62
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "吴县张书勋（乾隆丙戌）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清法式善《清秘述闻》卷七「張書勳字在常，江南吳縣人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1769-chenchuzhe",
+  "name": "陈初哲",
+  "dynasty": "清",
+  "year": 1769,
+  "era": "乾隆三十四年",
+  "bang": null,
+  "native": "元和（今江苏苏州）",
+  "wiki_life": "1736年－1787年",
+  "wiki_note": "湖北荆宜施道道员、兼管荆关税务监督",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "13",
+    "quote": "赐陈初哲等一百五十一人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "gzsl",
+    "juan": "卷八百三十四",
+    "quote": "授一甲一名進士陳初哲為翰林院修撰，一甲二名徐天柱、一甲三名陳嗣龍為翰林院編修",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府元和县人",
+  "native_modern": "今江苏苏州",
+  "coord": [
+   31.3,
+   120.62
+  ],
+  "native_src": {
+   "src": "lqjw",
+   "juan": "初笔卷六",
+   "quote": "同考嘉定秦大成，癸未状元；元和陈初哲，己丑状元；休宁黄轩，辛卯状元；歙县金榜",
+   "tier": "笔记",
+   "note": "笔记；以县名冠姓名"
+  }
+ },
+ {
+  "id": "qing-1771-huangxuan",
+  "name": "黄轩",
+  "dynasty": "清",
+  "year": 1771,
+  "era": "乾隆三十六年",
+  "bang": null,
+  "native": "休宁（今安徽休宁）",
+  "wiki_life": "－",
+  "wiki_note": "四川川东道道员、加按察使衔",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "13",
+    "quote": "赐黄轩等一百六十一人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "gzsl",
+    "juan": "卷八百八十四",
+    "quote": "授一甲一名進士黃軒為翰林院修撰，一甲二名王增、一甲三名范衷為翰林院編修",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "安徽省徽州府休宁县人",
+  "native_modern": "今安徽休宁",
+  "coord": [
+   29.79,
+   118.19
+  ],
+  "native_src": {
+   "src": "lqjw",
+   "juan": "初笔卷六",
+   "quote": "同考嘉定秦大成，癸未状元；元和陈初哲，己丑状元；休宁黄轩，辛卯状元；歙县金榜",
+   "tier": "笔记",
+   "note": "笔记；以县名冠姓名"
+  }
+ },
+ {
   "id": "qing-1772-jinbang",
   "name": "金榜",
   "dynasty": "清",
@@ -8847,6 +10925,54 @@
   "full": true,
   "pending": [],
   "disputed": []
+ },
+ {
+  "id": "qing-1775-wuxiling",
+  "name": "吴锡龄",
+  "dynasty": "清",
+  "year": 1775,
+  "era": "乾隆四十年",
+  "bang": null,
+  "native": "休宁（今安徽休宁）",
+  "wiki_life": "－1776年",
+  "wiki_note": "翰林院修撰",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "13",
+    "quote": "赐吴锡龄等一百五十八人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "gzsl",
+    "juan": "卷九百八十二",
+    "quote": "授一甲一名進士吳錫齡。為翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "安徽省徽州府休宁县人",
+  "native_modern": "今安徽休宁",
+  "coord": [
+   29.79,
+   118.19
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "休宁吴锡龄（乾隆乙未）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清法式善《清秘述闻》卷七「狀元。吳錫齡字純甫，江南休甯人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
  },
  {
   "id": "qing-1778-daiquheng",
@@ -8878,6 +11004,60 @@
   "disputed": []
  },
  {
+  "id": "qing-1780-wangruyang",
+  "name": "汪如洋",
+  "dynasty": "清",
+  "year": 1780,
+  "era": "乾隆四十五年",
+  "bang": null,
+  "native": "秀水（今浙江嘉兴）",
+  "wiki_life": "1755年－1794年",
+  "wiki_note": "翰林院修撰、云南学政",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "14",
+    "quote": "赐汪如洋等一百五十五人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "wqysh",
+    "juan": "卷一百二",
+    "quote": "汪如洋，字润民，号云壑，秀水人。乾隆庚子一甲一名进士，授修撰。",
+    "tier": "总集小传",
+    "qs": "ok"
+   },
+   {
+    "src": "gzsl",
+    "juan": "卷一千一百零七",
+    "quote": "乾隆四十五年庚子五月甲午，授一甲一名進士汪如洋為翰林院修撰，一甲二名江德量、一甲三名程昌期為翰林院編修",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "浙江省嘉兴府秀水县人",
+  "native_modern": "今浙江嘉兴",
+  "coord": [
+   30.75,
+   120.76
+  ],
+  "native_src": {
+   "src": "wqysh",
+   "juan": "卷一百二",
+   "quote": "汪如洋，字润民，号云壑，秀水人。乾隆庚子一甲一名进士，授修撰。",
+   "tier": "总集小传",
+   "note": "坐标取今县治"
+  }
+ },
+ {
   "id": "qing-1781-qianqi",
   "name": "钱棨",
   "dynasty": "清",
@@ -8903,7 +11083,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -8918,7 +11098,244 @@
    "juan": "卷四",
    "quote": "长洲钱棨（乾隆辛丑）",
    "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清法式善《清秘述闻》卷八「狀元。錢棨字湘舲，江南長洲人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1784-rufen",
+  "name": "茹棻",
+  "dynasty": "清",
+  "year": 1784,
+  "era": "乾隆四十九年",
+  "bang": null,
+  "native": "会稽（今浙江绍兴）",
+  "wiki_life": "1755年－1821年",
+  "wiki_note": "兵部尚书",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "14",
+    "quote": "赐茹棻等一百十二人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "wqysh",
+    "juan": "卷一百五",
+    "quote": "茹棻，字稚葵，号古香，会稽人。乾隆甲辰一甲一名进士，授修撰，官至兵部尚书。",
+    "tier": "总集小传",
+    "qs": "ok"
+   },
+   {
+    "src": "gzsl",
+    "juan": "卷一千二百零六",
+    "quote": "授一甲一名進士茹棻為翰林院修撰，一甲二名邵瑛、一甲三名邵玉清為翰林院編修",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "1821",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "癸巳，兵部尚书茹棻卒，以初彭龄代之。",
+     "src": "qsg",
+     "juan": "卷十七 宣宗纪一 道光元年八月",
+     "tier": "正史本纪"
+    },
+    {
+     "field": "death",
+     "quote": "茹棻八月癸巳卒。",
+     "src": "qsg",
+     "juan": "卷一百八十八 部院大臣年表",
+     "tier": "正史本纪"
+    }
+   ],
    "note": "",
+   "done": true
+  },
+  "native_wiki": "浙江省绍兴府会稽县人",
+  "native_modern": "今浙江绍兴",
+  "coord": [
+   30,
+   120.58
+  ],
+  "native_src": {
+   "src": "wqysh",
+   "juan": "卷一百五",
+   "quote": "茹棻，字稚葵，号古香，会稽人。乾隆甲辰一甲一名进士，授修撰，官至兵部尚书。",
+   "tier": "总集小传",
+   "note": "坐标取今县治"
+  }
+ },
+ {
+  "id": "qing-1787-shizhiguang",
+  "name": "史致光",
+  "dynasty": "清",
+  "year": 1787,
+  "era": "乾隆五十二年",
+  "bang": null,
+  "native": "山阴（今浙江绍兴）",
+  "wiki_life": "－1828年",
+  "wiki_note": "都察院左都御史，云贵总督",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "15",
+    "quote": "赐史致光等一百三十七人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "gzsl",
+    "juan": "卷一千二百八十",
+    "quote": "授一甲一名進士史致光為翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "life": {
+   "birth": "待考证",
+   "death": "1828",
+   "age": "待考证",
+   "cites": [
+    {
+     "field": "death",
+     "quote": "都察院左都御史史致光卒。",
+     "src": "qsg",
+     "juan": "卷十七 宣宗纪一 道光八年二月",
+     "tier": "正史本纪"
+    }
+   ],
+   "note": "",
+   "done": true
+  },
+  "native_wiki": "浙江省绍兴府山阴县人",
+  "native_modern": "今浙江绍兴",
+  "coord": [
+   30,
+   120.58
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "山阴史致光（乾隆丁未）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清法式善《清秘述闻》卷八「狀元。史致光字葆甫，浙江山陰人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1789-huzhangling",
+  "name": "胡长龄",
+  "dynasty": "清",
+  "year": 1789,
+  "era": "乾隆五十四年",
+  "bang": null,
+  "native": "通州（今江苏南通）",
+  "wiki_life": "1758年－1814年",
+  "wiki_note": "礼部尚书",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "15",
+    "quote": "赐胡长龄等九十八人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "gzsl",
+    "juan": "卷一千三百二十八",
+    "quote": "乾隆五十四年己酉五月丁巳朔，授一甲一名進士胡長齡為翰林院修撰，一甲二名汪廷珍、一甲三名劉鳳誥為翰林院編修",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省通州直隶州人",
+  "native_modern": "今江苏南通",
+  "coord": [
+   31.98,
+   120.89
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "通州胡长龄（乾隆己酉）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清法式善《清秘述闻》卷八「狀元。胡長齡字西庚，江南通州人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1790-shiyunyu",
+  "name": "石韫玉",
+  "dynasty": "清",
+  "year": 1790,
+  "era": "乾隆五十五年",
+  "bang": null,
+  "native": "吴县（今江苏苏州）",
+  "wiki_life": "1755年－1837年",
+  "wiki_note": "山东按察使",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "15",
+    "quote": "赐石韫玉等九十七人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "gzsl",
+    "juan": "卷一千三百五十四",
+    "quote": "授一甲一名進士石韞玉為翰林院修撰，一甲二名洪亮吉，一甲三名王宗誠為翰林院編修",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府吴县人",
+  "native_modern": "今江苏苏州",
+  "coord": [
+   31.3,
+   120.62
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "吴县石韫玉（乾隆庚戌）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清法式善《清秘述闻》卷八「狀元石韞玉字執如，江南吳縣人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
    "prec": "县"
   }
  },
@@ -8991,6 +11408,54 @@
   "disputed": []
  },
  {
+  "id": "qing-1796-zhaowenkai",
+  "name": "赵文楷",
+  "dynasty": "清",
+  "year": 1796,
+  "era": "嘉庆元年",
+  "bang": null,
+  "native": "太湖（今安徽太湖）",
+  "wiki_life": "1761年－1801年",
+  "wiki_note": "山西雁平兵备道道员",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "16",
+    "quote": "赐赵文楷等一百一人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "rzsl",
+    "juan": "卷五",
+    "quote": "授一甲一名进士赵文楷、为翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "安徽省安庆府太湖县人",
+  "native_modern": "今安徽太湖",
+  "coord": [
+   30.47,
+   116.22
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "太湖赵文楷（嘉庆丙辰）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清法式善《清秘述闻》卷八「狀元。趙文楷字介山，江南太湖人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
   "id": "qing-1799-yaowentian",
   "name": "姚文田",
   "dynasty": "清",
@@ -9018,6 +11483,205 @@
   "full": true,
   "pending": [],
   "disputed": []
+ },
+ {
+  "id": "qing-1801-gugao",
+  "name": "顾臯",
+  "dynasty": "清",
+  "year": 1801,
+  "era": "嘉庆六年",
+  "bang": null,
+  "native": "金匮（今江苏无锡）",
+  "wiki_life": "1763年－1832年",
+  "wiki_note": "户部左侍郎",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "16",
+    "quote": "赐顾皋等二百七十五人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "rzsl",
+    "juan": "卷八十三",
+    "quote": "嘉慶六年辛酉五月丙子朔，授一甲一名進士顧臯為翰林院修撰，二名進士劉彬士、三名進士鄒家燮為翰林院編修",
+    "tier": "实录",
+    "grade": "A",
+    "note": "嘉庆六年五月丙子朔条",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省常州府金匮县人",
+  "native_modern": "今江苏无锡",
+  "coord": [
+   31.49,
+   120.31
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "金匮顾皋（嘉庆辛酉）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷一「狀元。顧皋字晴芬，江蘇金匱人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1802-wutingchen",
+  "name": "吴廷琛",
+  "dynasty": "清",
+  "year": 1802,
+  "era": "嘉庆七年",
+  "bang": null,
+  "native": "元和（今江苏苏州）",
+  "wiki_life": "1773年－1844年",
+  "wiki_note": "云南按察使",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "16",
+    "quote": "赐吴廷琛等二百四十八人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "rzsl",
+    "juan": "卷九十七",
+    "quote": "授一甲一名进士吴廷琛、为翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府元和县人",
+  "native_modern": "今江苏苏州",
+  "coord": [
+   31.3,
+   120.62
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "元和吴廷琛（嘉庆壬戌……）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷一「狀元吳廷琛字震南，江蘇元和人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1805-pengjun",
+  "name": "彭浚",
+  "dynasty": "清",
+  "year": 1805,
+  "era": "嘉庆十年",
+  "bang": null,
+  "native": "衡山（今湖南衡山）",
+  "wiki_life": "1769年－1833年",
+  "wiki_note": "顺天府府丞",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "16",
+    "quote": "赐彭浚等二百四十三人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "wqysh",
+    "juan": "卷一百十八",
+    "quote": "彭浚，字宝臣，衡山人。嘉庆乙丑一甲一名进士，授修撰，历官顺天府府丞。",
+    "tier": "总集小传",
+    "qs": "ok"
+   },
+   {
+    "src": "rzsl",
+    "juan": "卷一百四十三",
+    "quote": "授一甲一名进士彭浚、为翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "湖南省衡州府衡山县人",
+  "native_modern": "今湖南衡山",
+  "coord": [
+   27.23,
+   112.87
+  ],
+  "native_src": {
+   "src": "wqysh",
+   "juan": "卷一百十八",
+   "quote": "彭浚，字宝臣，衡山人。嘉庆乙丑一甲一名进士，授修撰，历官顺天府府丞。",
+   "tier": "总集小传",
+   "note": "坐标取今县治"
+  }
+ },
+ {
+  "id": "qing-1808-wuxinzhong",
+  "name": "吴信中",
+  "dynasty": "清",
+  "year": 1808,
+  "era": "嘉庆十三年",
+  "bang": null,
+  "native": "吴县（今江苏苏州）",
+  "wiki_life": "－",
+  "wiki_note": "翰林院侍读学士",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "16",
+    "quote": "赐吴信中等二百六十一人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "rzsl",
+    "juan": "卷一百九十五",
+    "quote": "授一甲一名进士吴信中、为翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府吴县人",
+  "native_modern": "今江苏苏州",
+  "coord": [
+   31.3,
+   120.62
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "吴县吴信中（嘉庆戊辰）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷二「吳信中字閱甫，江蘇吳縣人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
  },
  {
   "id": "qing-1809-hongying",
@@ -9051,7 +11715,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [
    "曾被指与戴衢亨交通得一甲，覆写试策无误，诏湔雪"
@@ -9068,7 +11732,103 @@
    "juan": "卷四",
    "quote": "歙县洪莹（嘉庆己巳）",
    "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
-   "note": "",
+   "note": "线1佐证：清王家相《清秘述闻续》卷一「狀元洪瑩字賓華，安徽歙縣人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1811-jiangliyong",
+  "name": "蒋立镛",
+  "dynasty": "清",
+  "year": 1811,
+  "era": "嘉庆十六年",
+  "bang": null,
+  "native": "天门（今湖北天门）",
+  "wiki_life": "1782年－1842年",
+  "wiki_note": "内阁学士兼礼部侍郎",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "16",
+    "quote": "赐蒋立镛等二百三十七人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "rzsl",
+    "juan": "卷二百四十二",
+    "quote": "授一甲一名进士蒋立镛、为翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "湖北省安陆府天门县人",
+  "native_modern": "今湖北天门",
+  "coord": [
+   30.67,
+   113.16
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "天门蒋立镛（嘉庆辛未）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷二「狀元。蔣立鏞字笙陔，湖北天門人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1814-longruyan",
+  "name": "龙汝言",
+  "dynasty": "清",
+  "year": 1814,
+  "era": "嘉庆十九年",
+  "bang": null,
+  "native": "桐城（今安徽桐城）",
+  "wiki_life": "－1838年",
+  "wiki_note": "兵部员外郎",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "16",
+    "quote": "赐龙汝言等二百二十六人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "rzsl",
+    "juan": "卷二百九十",
+    "quote": "授一甲一名进士龙汝言、为翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "安徽省安庆府桐城县人",
+  "native_modern": "今安徽桐城",
+  "coord": [
+   31.04,
+   116.97
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "桐城龙汝言（嘉庆甲戌）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷二「狀元龍汝言字子嘉，安徽桐城人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
    "prec": "县"
   }
  },
@@ -9102,6 +11862,54 @@
   "disputed": []
  },
  {
+  "id": "qing-1819-chenhang",
+  "name": "陈沆",
+  "dynasty": "清",
+  "year": 1819,
+  "era": "嘉庆二十四年",
+  "bang": null,
+  "native": "蕲水（今湖北浠水）",
+  "wiki_life": "1785年－1826年",
+  "wiki_note": "四川道监察御史",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "16",
+    "quote": "赐陈沆等二百二十四人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "rzsl",
+    "juan": "卷三百五十六",
+    "quote": "授一甲一名进士陈沆、为翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "湖北省黄州府蕲水县人",
+  "native_modern": "今湖北浠水",
+  "coord": [
+   30.6,
+   115.3
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "蕲水陈沆（嘉庆己卯）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷二「狀元。陳沆，字秋舫，湖北蘄水人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
   "id": "qing-1820-chenjichang",
   "name": "陈继昌",
   "dynasty": "清",
@@ -9127,7 +11935,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -9143,6 +11951,438 @@
    "quote": "嘉庆庚辰中三元陈继昌，广西临桂人",
    "tier": "笔记",
    "note": "笔记，非正史"
+  }
+ },
+ {
+  "id": "qing-1822-dailanfen",
+  "name": "戴兰芬",
+  "dynasty": "清",
+  "year": 1822,
+  "era": "道光二年",
+  "bang": null,
+  "native": "天长（今安徽天长）",
+  "wiki_life": "1781年－1833年",
+  "wiki_note": "翰林院侍讲学士、陕甘学政",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "17",
+    "quote": "赐戴兰芬等二百二十二人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzsl",
+    "juan": "卷三十三",
+    "quote": "授一甲一名进士戴兰芬、为翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "安徽省泗州直隶州天长县人",
+  "native_modern": "今安徽天长",
+  "coord": [
+   32.67,
+   119
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "天长戴兰芬（道光壬午）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷三「狀元。戴蘭芬字湘浦，安徽天長人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1823-linzhaotang",
+  "name": "林召棠",
+  "dynasty": "清",
+  "year": 1823,
+  "era": "道光三年",
+  "bang": null,
+  "native": "吴川（今广东吴川）",
+  "wiki_life": "1786年－1873年",
+  "wiki_note": "翰林院修撰",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "17",
+    "quote": "赐林召棠等二百四十六人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzsl",
+    "juan": "卷五十二",
+    "quote": "授一甲一名进士林召棠、为翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "广东省高州府吴川县人",
+  "native_modern": "今广东吴川",
+  "coord": [
+   21.44,
+   110.69
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "吴川林召棠（道光癸未）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "清吴川县治在今吴阳镇，坐标取今吴川市；线1佐证：清王家相《清秘述闻续》卷三「狀元。林召棠字芾南，廣東吳川人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1826-zhuchangyi",
+  "name": "朱昌颐",
+  "dynasty": "清",
+  "year": 1826,
+  "era": "道光六年",
+  "bang": null,
+  "native": "海盐（今浙江海盐）",
+  "wiki_life": "1784年－1855年",
+  "wiki_note": "吏科给事中",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "17",
+    "quote": "赐朱昌颐等二百六十五人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzsl",
+    "juan": "卷九十七",
+    "quote": "授一甲一名进士朱昌颐、为翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "浙江省嘉兴府海盐县人",
+  "native_modern": "今浙江海盐",
+  "coord": [
+   30.53,
+   120.94
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "海盐朱昌颐（道光丙戌）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷三「狀元。朱昌頤字朵山，浙江海鹽人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1829-lizhenjun",
+  "name": "李振钧",
+  "dynasty": "清",
+  "year": 1829,
+  "era": "道光九年",
+  "bang": null,
+  "native": "太湖（今安徽太湖）",
+  "wiki_life": "1794年－1839年",
+  "wiki_note": "翰林院修撰",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "17",
+    "quote": "赐李振钧等二百二十一人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzsl",
+    "juan": "卷一百五十六",
+    "quote": "授一甲一名进士李振钧、为翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "安徽省安庆府太湖县人",
+  "native_modern": "今安徽太湖",
+  "coord": [
+   30.47,
+   116.22
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "太湖李振钧（道光己丑）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷十四「李振鈞字海初，安徽太湖人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1832-wuzhongjun",
+  "name": "吴钟骏",
+  "dynasty": "清",
+  "year": 1832,
+  "era": "道光十二年",
+  "bang": null,
+  "native": "吴县（今江苏苏州）",
+  "wiki_life": "1798年－1853年",
+  "wiki_note": "礼部左侍郎、福建学政",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "18",
+    "quote": "赐吴钟骏等二百六人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzsl",
+    "juan": "卷二百一十",
+    "quote": "授一甲一名进士吴钟骏、为翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府吴县人",
+  "native_modern": "今江苏苏州",
+  "coord": [
+   31.3,
+   120.62
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "吴县吴钟骏（道光壬辰）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷三「狀元。吳鍾駿字崧甫，江蘇吳縣人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1833-wangmingxiang",
+  "name": "汪鸣相",
+  "dynasty": "清",
+  "year": 1833,
+  "era": "道光十三年",
+  "bang": null,
+  "native": "彭泽（今江西彭泽）",
+  "wiki_life": "1794年－1840年",
+  "wiki_note": "翰林院修撰",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "18",
+    "quote": "赐汪鸣相等二百二十人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzsl",
+    "juan": "卷二百三十八",
+    "quote": "授一甲一名进士汪鸣相、为翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江西省九江府彭泽县人",
+  "native_modern": "今江西彭泽",
+  "coord": [
+   29.83,
+   116.61
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "彭泽汪鸣相（道光癸巳）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷四「狀元。汪鳴相字朗渠，江西彭澤人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1836-linhongnian",
+  "name": "林鸿年",
+  "dynasty": "清",
+  "year": 1836,
+  "era": "道光十六年",
+  "bang": null,
+  "native": "侯官（今福建福州）",
+  "wiki_life": "1805年－1885年",
+  "wiki_note": "云南巡抚",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "18",
+    "quote": "赐林鸿年等一百七十二人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzsl",
+    "juan": "卷二百八十三",
+    "quote": "授一甲一名进士林鸿年、为翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "福建省福州府侯官县人",
+  "native_modern": "今福建福州",
+  "coord": [
+   26.08,
+   119.3
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "侯官林鸿年（道光丙申）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷四「狀元。林鴻年字勿村，福建侯官人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1838-niufubao",
+  "name": "钮福保",
+  "dynasty": "清",
+  "year": 1838,
+  "era": "道光十八年",
+  "bang": null,
+  "native": "乌程（今浙江湖州）",
+  "wiki_life": "1805年－1854年",
+  "wiki_note": "詹事府少詹事",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "18",
+    "quote": "赐钮福保等一百九十四人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzsl",
+    "juan": "卷三百零九",
+    "quote": "授一甲一名进士钮福保、为翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "浙江省湖州府乌程县人",
+  "native_modern": "今浙江湖州",
+  "coord": [
+   30.87,
+   120.09
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "乌程钮福保（道光戊戌）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷四「狀元。鈕福保字松泉，浙江烏程人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1840-lichenglin",
+  "name": "李承霖",
+  "dynasty": "清",
+  "year": 1840,
+  "era": "道光二十年",
+  "bang": null,
+  "native": "丹徒（今江苏镇江）",
+  "wiki_life": "1808年－1891年",
+  "wiki_note": "翰林院侍讲学士",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "18",
+    "quote": "赐李承霖等一百八十人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzsl",
+    "juan": "卷三百三十四",
+    "quote": "授一甲一名进士李承霖、为翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省镇江府丹徒县人",
+  "native_modern": "今江苏镇江",
+  "coord": [
+   32.19,
+   119.42
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "丹徒李承霖（道光庚子）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷四「李承霖字雨人，江蘇丹徒人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
   }
  },
  {
@@ -9207,7 +12447,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -9222,7 +12462,55 @@
    "juan": "卷四",
    "quote": "济宁孙毓溎（道光甲辰）",
    "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
-   "note": "",
+   "note": "线1佐证：清王家相《清秘述闻续》卷十二「孫毓溎字梧江，山東濟甯人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1845-xiaojinzhong",
+  "name": "萧锦忠",
+  "dynasty": "清",
+  "year": 1845,
+  "era": "道光二十五年",
+  "bang": null,
+  "native": "茶陵（今湖南茶陵）",
+  "wiki_life": "－",
+  "wiki_note": "翰林院修撰",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "19",
+    "quote": "赐萧锦忠等二百十七人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "xzsl",
+    "juan": "卷四百一十七",
+    "quote": "授一甲一名进士萧锦忠、为翰林院修撰",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "湖南省长沙府茶陵州人",
+  "native_modern": "今湖南茶陵",
+  "coord": [
+   26.78,
+   113.69
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "茶陵萧锦忠（道光乙巳）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷五「狀元蕭錦忠字史樓，湖南茶陵人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
    "prec": "县"
   }
  },
@@ -9286,6 +12574,108 @@
   "disputed": []
  },
  {
+  "id": "qing-1852-zhangyun",
+  "name": "章鋆",
+  "dynasty": "清",
+  "year": 1852,
+  "era": "咸丰二年",
+  "bang": null,
+  "native": "鄞县（今浙江宁波）",
+  "wiki_life": "1820年－1875年",
+  "wiki_note": "国子监祭酒、广东学政",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "20",
+    "quote": "赐章鋆等二百三十九人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "wqysh",
+    "juan": "卷一百五十三",
+    "quote": "章鋆，字酡芝，号采南，鄞县人。咸丰壬子一甲一名进士，授修撰，历官祭酒。",
+    "tier": "总集小传",
+    "qs": "ok"
+   },
+   {
+    "src": "wzsl",
+    "juan": "卷六十一",
+    "quote": "授一甲一名進士章鋆翰林院修撰，二名進士楊泗孫、三名進士潘祖蔭編修",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "浙江省宁波府鄞县人",
+  "native_modern": "今浙江宁波",
+  "coord": [
+   29.87,
+   121.55
+  ],
+  "native_src": {
+   "src": "wqysh",
+   "juan": "卷一百五十三",
+   "quote": "章鋆，字酡芝，号采南，鄞县人。咸丰壬子一甲一名进士，授修撰，历官祭酒。",
+   "tier": "总集小传",
+   "note": "坐标取今县治"
+  }
+ },
+ {
+  "id": "qing-1853-sunrujin",
+  "name": "孙如仅",
+  "dynasty": "清",
+  "year": 1853,
+  "era": "咸丰三年",
+  "bang": null,
+  "native": "济宁（今山东济宁）",
+  "wiki_life": "1820年－1880年",
+  "wiki_note": "内阁学士兼礼部侍郎",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "20",
+    "quote": "赐孙如仅等二百二十二人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "wzsl",
+    "juan": "卷九十三",
+    "quote": "授一甲一名進士孫如僅翰林院修撰，二名進士吳鳳藻、三名進士呂朝瑞編修",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "山东省济宁直隶州人",
+  "native_modern": "今山东济宁",
+  "coord": [
+   35.41,
+   116.59
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "济宁孙如仅（咸丰癸丑）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷六「狀元。孫如僅字松坪，山東濟甯人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
   "id": "wengtonghe",
   "name": "翁同龢",
   "dynasty": "清",
@@ -9344,6 +12734,150 @@
   "full": true,
   "pending": [],
   "disputed": []
+ },
+ {
+  "id": "qing-1860-zhongjunsheng",
+  "name": "钟骏声",
+  "dynasty": "清",
+  "year": 1860,
+  "era": "咸丰十年",
+  "bang": null,
+  "native": "仁和（今浙江杭州）",
+  "wiki_life": "",
+  "wiki_note": "翰林院侍讲学士、日讲起居注官、实录修纂官",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "20",
+    "quote": "赐钟骏声等一百八十三人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "wzsl",
+    "juan": "卷三百一十八",
+    "quote": "授一甲進士一名鍾駿聲為翰林院修撰，二名林彭年，三名歐陽保極為編修",
+    "tier": "实录",
+    "grade": "A",
+    "note": "实录作“一甲進士一名”",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "浙江省杭州府仁和县人",
+  "native_modern": "今浙江杭州",
+  "coord": [
+   30.27,
+   120.16
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "仁和钟骏声（咸丰庚申……）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷六「狀元。鍾駿聲字雨辰，浙江仁和人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1862-xufu",
+  "name": "徐郙",
+  "dynasty": "清",
+  "year": 1862,
+  "era": "同治元年",
+  "bang": null,
+  "native": "嘉定（今上海嘉定）",
+  "wiki_life": "1836年－1908年",
+  "wiki_note": "太子少保、协办大学士、礼部尚书、管理八旗官学大臣、管理国子监事务",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "21",
+    "quote": "赐徐郙等一百九十三人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "mzsl",
+    "juan": "卷二十八",
+    "quote": "授一甲一名進士徐郙翰林院修撰，二名進士何金壽，三名進士溫忠翰編修",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省太仓直隶州嘉定县人",
+  "native_modern": "今上海嘉定",
+  "coord": [
+   31.38,
+   121.25
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "嘉定徐郙（同治壬戌）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷六「狀元。徐郙字頌閣，江蘇嘉定人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1863-wengcengyuan",
+  "name": "翁曾源",
+  "dynasty": "清",
+  "year": 1863,
+  "era": "同治二年",
+  "bang": null,
+  "native": "常熟人（今江苏常熟）",
+  "wiki_life": "1834年－1887年",
+  "wiki_note": "翰林院修撰",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "21",
+    "quote": "赐翁曾源等二百人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "mzsl",
+    "juan": "卷六十六",
+    "quote": "授一甲一名進士翁曾源翰林院修撰，二名進士龔承鈞、三名進士張之洞編修",
+    "tier": "实录",
+    "grade": "A",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省苏州府常熟县人",
+  "native_modern": "今江苏常熟",
+  "coord": [
+   31.65,
+   120.75
+  ],
+  "native_src": {
+   "src": "lqjw",
+   "juan": "二笔卷十一",
+   "quote": "常熟一县，已得六人，盖顺治戊戌孙承恩，康熙己未归允肃，庚辰汪绎，戊戌汪应铨，咸丰丙辰翁同龢，同治癸亥翁曾源也",
+   "tier": "笔记",
+   "note": "笔记；常熟六状元名单"
+  }
  },
  {
   "id": "qing-1865-chongqi",
@@ -9410,6 +12944,55 @@
   "disputed": []
  },
  {
+  "id": "qing-1871-liangyaoshu",
+  "name": "梁耀枢",
+  "dynasty": "清",
+  "year": 1871,
+  "era": "同治十年",
+  "bang": null,
+  "native": "顺德（今广东佛山顺德）",
+  "wiki_life": "1832年－1888年",
+  "wiki_note": "詹事府少詹事、山东学政",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "22",
+    "quote": "赐梁耀枢等三百二十三人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "mzsl",
+    "juan": "卷三百一十",
+    "quote": "授一甲一名進士梁燿樞翰林院修撰，二名進士高岳崧，三名進士郁崑編修",
+    "tier": "实录",
+    "grade": "A",
+    "note": "实录作“梁燿樞”",
+    "audit": "2026-10-19 线1 B→A：原文明言第一，科年与名录一致",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "广东省广州府顺德县人",
+  "native_modern": "今广东佛山顺德",
+  "coord": [
+   22.81,
+   113.29
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "顺德梁耀枢（同治辛未）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷七「狀元。梁耀樞字斗南，廣東順德人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
   "id": "qing-1874-lurunxiang",
   "name": "陆润庠",
   "dynasty": "清",
@@ -9437,6 +13020,67 @@
   "full": true,
   "pending": [],
   "disputed": []
+ },
+ {
+  "id": "qing-1876-caohongxun",
+  "name": "曹鸿勋",
+  "dynasty": "清",
+  "year": 1876,
+  "era": "光绪二年",
+  "bang": null,
+  "native": "潍县（今山东潍坊）",
+  "wiki_life": "1848年－1910年",
+  "wiki_note": "陕西巡抚",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "23",
+    "quote": "赐曹鸿勋等三百二十四人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "dzsl",
+    "juan": "卷三十",
+    "quote": "授一甲三人曹鸿勋为翰林院修撰王赓荣、冯文蔚为编修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "山东省莱州府潍县人",
+  "native_modern": "今山东潍坊",
+  "coord": [
+   36.71,
+   119.16
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "潍县曹鸿勋（光绪丙子）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷八「狀元。曹鴻勛，字竹銘，山東濰縣人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
  },
  {
   "id": "qing-1877-wangrenkan",
@@ -9468,6 +13112,372 @@
   "disputed": []
  },
  {
+  "id": "qing-1880-huangsiyong",
+  "name": "黄思永",
+  "dynasty": "清",
+  "year": 1880,
+  "era": "光绪六年",
+  "bang": null,
+  "native": "江宁（今江苏南京）",
+  "wiki_life": "1842年－1914年",
+  "wiki_note": "翰林院侍读学士",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "23",
+    "quote": "赐黄思永等三百三十三人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "dzsl",
+    "juan": "卷一百一十二",
+    "quote": "赐一甲三人黄思永为翰林院修撰。曹诒孙、谭鑫振、为编修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江苏省江宁府江宁县人",
+  "native_modern": "今江苏南京",
+  "coord": [
+   32.06,
+   118.79
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "江宁黄思永（光绪庚辰）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "线1佐证：清王家相《清秘述闻续》卷八「狀元。黃思永字愼之，江蘇江甯人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1883-chenmian",
+  "name": "陈冕",
+  "dynasty": "清",
+  "year": 1883,
+  "era": "光绪九年",
+  "bang": null,
+  "native": "宛平（今北京）",
+  "wiki_life": "1859年－1893年",
+  "wiki_note": "翰林院修撰",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "23",
+    "quote": "赐陈冕等三百八人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "dzsl",
+    "juan": "卷一百六十二",
+    "quote": "授一甲三人陈冕为翰林院修撰。寿耆管廷献、为编修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "京师顺天府宛平县人",
+  "native_modern": "今北京",
+  "coord": [
+   39.9,
+   116.4
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "宛平陈冕（光绪癸未）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "宛平县治在北京城内，坐标取北京市区；府州级精度；线1佐证：清王家相《清秘述闻续》卷八「狀元。陳冕字冠生，順天宛平人」，与本条籍贯相合（清人汇编，非一手官书，仅作佐证；坐标未改）",
+   "prec": "府州"
+  }
+ },
+ {
+  "id": "qing-1886-zhaoyijiong",
+  "name": "赵以烱",
+  "dynasty": "清",
+  "year": 1886,
+  "era": "光绪十二年",
+  "bang": null,
+  "native": "贵阳（今贵州贵阳）",
+  "wiki_life": "1857年－1907年",
+  "wiki_note": "翰林院修撰、广西学政",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "23",
+    "quote": "赐赵以炯等三百三十九人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "dzsl",
+    "juan": "卷二百二十七",
+    "quote": "授一甲三人赵以炯为修撰。邹福保、冯煦为编修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "贵州省贵阳府贵筑县人",
+  "native_modern": "今贵州贵阳",
+  "coord": [
+   26.59,
+   106.71
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "贵阳赵以炯（光绪丙戌）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "名录作赵以烱、贵筑县（贵阳府附郭）",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1889-zhangjianxun",
+  "name": "张建勋",
+  "dynasty": "清",
+  "year": 1889,
+  "era": "光绪十五年",
+  "bang": null,
+  "native": "临桂（今广西桂林）",
+  "wiki_life": "1848年－1913年",
+  "wiki_note": "黑龙江提学使",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "23",
+    "quote": "赐张建勋等三百三十一人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "dzsl",
+    "juan": "卷二百六十九",
+    "quote": "授一甲三人张建勋为翰林院修撰李盛铎、刘世安、为编修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "广西省桂林府临桂县人",
+  "native_modern": "今广西桂林",
+  "coord": [
+   25.27,
+   110.29
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "临桂张建勋（光绪己丑）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1890-wulu",
+  "name": "吴鲁",
+  "dynasty": "清",
+  "year": 1890,
+  "era": "光绪十六年",
+  "bang": null,
+  "native": "晋江（今福建泉州）",
+  "wiki_life": "1845年－1912年",
+  "wiki_note": "署理吉林提学使（四品衔翰林院修撰）",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "23",
+    "quote": "赐吴鲁等三百三十六人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "dzsl",
+    "juan": "卷二百八十四",
+    "quote": "授一甲三人。吴鲁为翰林院修撰。文廷式、吴荫培、为编修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": true,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "福建省泉州府晋江县人",
+  "native_modern": "今福建泉州",
+  "coord": [
+   24.91,
+   118.59
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "晋江吴鲁（光绪庚寅）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "晋江县为泉州府附郭",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1892-liufuyao",
+  "name": "刘福姚",
+  "dynasty": "清",
+  "year": 1892,
+  "era": "光绪十八年",
+  "bang": null,
+  "native": "临桂（今广西桂林）",
+  "wiki_life": "－",
+  "wiki_note": "翰林院秘书郎、兼学部图书局总务总校",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "23",
+    "quote": "赐刘福姚等三百一十七人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "dzsl",
+    "juan": "卷三百一十一",
+    "quote": "授一甲三人刘福姚为翰林院修撰。吴士鉴、陈伯陶、为编修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "江西省吉安府庐陵县人，寄籍广西省桂林府临桂县",
+  "native_modern": "今广西桂林",
+  "coord": [
+   25.27,
+   110.29
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "临桂刘福姚（光绪壬辰）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "寄籍临桂，原籍江西庐陵",
+   "prec": "县"
+  }
+ },
+ {
   "id": "zhangjian",
   "name": "张謇",
   "dynasty": "清",
@@ -9496,5 +13506,249 @@
   "full": true,
   "pending": [],
   "disputed": []
+ },
+ {
+  "id": "qing-1895-luochengxiang",
+  "name": "骆成骧",
+  "dynasty": "清",
+  "year": 1895,
+  "era": "光绪二十一年",
+  "bang": null,
+  "native": "资州（今四川资中）",
+  "wiki_life": "1865年－1926年",
+  "wiki_note": "山西提学使",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "24",
+    "quote": "赐骆成骧等二百八十二人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "dzsl",
+    "juan": "卷三百六十六",
+    "quote": "授一甲三人骆成骧为翰林院修撰喻长霖。王龙文为编修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "四川省资州直隶州人",
+  "native_modern": "今四川资中",
+  "coord": [
+   29.76,
+   104.85
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "资州骆成骧（光绪乙未）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1898-xiatonghe",
+  "name": "夏同龢",
+  "dynasty": "清",
+  "year": 1898,
+  "era": "光绪二十四年",
+  "bang": null,
+  "native": "麻哈（今贵州麻江）",
+  "wiki_life": "1868年－1925年",
+  "wiki_note": "翰林院修撰",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "24",
+    "quote": "赐夏同龢等三百四十二人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "dzsl",
+    "juan": "卷四百一十八",
+    "quote": "丁未，上御太和殿傳臚，授一甲三人夏同龢為翰林院修撰，夏壽田、俞陛雲為編修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "贵州省都匀府麻哈州人",
+  "native_modern": "今贵州麻江",
+  "coord": [
+   26.46,
+   107.64
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "麻哈夏同龢（光绪戊戌）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "清麻哈州即今麻江县",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1903-wangshoupeng",
+  "name": "王寿彭",
+  "dynasty": "清",
+  "year": 1903,
+  "era": "光绪二十九年",
+  "bang": null,
+  "native": "潍县（今山东潍坊）",
+  "wiki_life": "1875年－1929年",
+  "wiki_note": "湖北提学使",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "24",
+    "quote": "赐王寿彭等三百一十五人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "dzsl",
+    "juan": "卷五百一十六",
+    "quote": "授一甲三人王寿彭为翰林院修撰。左霈、杨兆麟、为编修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "山东省莱州府潍县人",
+  "native_modern": "今山东潍坊",
+  "coord": [
+   36.71,
+   119.16
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "潍县王寿彭（光绪癸卯）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "",
+   "prec": "县"
+  }
+ },
+ {
+  "id": "qing-1904-liuchunlin",
+  "name": "刘春霖",
+  "dynasty": "清",
+  "year": 1904,
+  "era": "光绪三十年",
+  "bang": null,
+  "native": "肃宁（今河北肃宁）",
+  "wiki_life": "1872年－1942年",
+  "wiki_note": "福建提学使",
+  "evidence": [
+   {
+    "src": "qsg",
+    "juan": "24",
+    "quote": "赐刘春霖等二百七十三人进士及第出身有差。",
+    "qs": "ok"
+   },
+   {
+    "src": "dzsl",
+    "juan": "卷五百三十一",
+    "quote": "授一甲三人刘春霖为翰林院修撰。朱汝珍、商衍鎏为编修",
+    "tier": "实录",
+    "note": "据实录授修撰，按清制一甲一名授修撰推定；同条其余一甲进士授编修",
+    "audit": "2026-10-19 线1 B→A（推定）：实录书授修撰、同条二三名授编修，按清制一甲一名授修撰推定第一，科年与名录一致",
+    "grade": "A",
+    "derived": true,
+    "derive_method": "据实录授修撰，按清制一甲一名授修撰推定：《清史稿》卷一百八《选举志三》「一甲狀元授修撰，榜眼、探花授編修」",
+    "qs": "derived"
+   },
+   {
+    "src": "qsg",
+    "juan": "卷一百八 志八十三 选举三",
+    "quote": "一甲狀元授修撰，榜眼、探花授編修",
+    "tier": "正史",
+    "role": "制度依据",
+    "note": "上条“推定第一”所据清制",
+    "audit": "2026-10-19 线1 制度原文，逐字核对",
+    "qs": "ok"
+   }
+  ],
+  "bio": [],
+  "confidence": "A",
+  "full": false,
+  "pending": [],
+  "disputed": [],
+  "reviewed": true,
+  "native_wiki": "直隶省河间府肃宁县人",
+  "native_modern": "今河北肃宁",
+  "coord": [
+   38.43,
+   115.83
+  ],
+  "native_src": {
+   "src": "jdbz",
+   "juan": "卷四",
+   "quote": "肃宁刘春霖（光绪甲辰）",
+   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
+   "note": "",
+   "prec": "县"
+  }
  }
 ]

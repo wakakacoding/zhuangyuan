@@ -903,5 +903,168 @@
   "type": "掌故笔记（卷四清代状元分省名录）",
   "reliability_default": "anecdotal",
   "url": "https://zh.wikisource.org/wiki/舊典備征"
+ },
+ {
+  "id": "lynts",
+  "title": "陆氏南唐书",
+  "author": "陆游",
+  "era": "南宋",
+  "type": "杂史（纪传体，私修）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "stzsl",
+  "title": "世祖章皇帝实录",
+  "author": "清国史馆等（康熙间纂修）",
+  "era": "清",
+  "type": "实录（官修编年；据识典古籍《清实录》录文）",
+  "reliability_default": "official",
+  "url": "https://www.shidianguji.com/book/LS0027"
+ },
+ {
+  "id": "szrsl",
+  "title": "圣祖仁皇帝实录",
+  "author": "清国史馆等（雍正间纂修）",
+  "era": "清",
+  "type": "实录（官修编年；据识典古籍、维基文库《清实录》录文）",
+  "reliability_default": "official",
+  "url": "https://www.shidianguji.com/book/LS0027"
+ },
+ {
+  "id": "sxsl",
+  "title": "世宗宪皇帝实录",
+  "author": "清国史馆等（乾隆间纂修）",
+  "era": "清",
+  "type": "实录（官修编年；据识典古籍《清实录》录文）",
+  "reliability_default": "official",
+  "url": "https://www.shidianguji.com/book/LS0027"
+ },
+ {
+  "id": "gzsl",
+  "title": "高宗纯皇帝实录",
+  "author": "清国史馆等（嘉庆间纂修）",
+  "era": "清",
+  "type": "实录（官修编年；据识典古籍、维基文库《清实录》录文）",
+  "reliability_default": "official",
+  "url": "https://www.shidianguji.com/book/LS0027"
+ },
+ {
+  "id": "rzsl",
+  "title": "仁宗睿皇帝实录",
+  "author": "清国史馆等（道光间纂修）",
+  "era": "清",
+  "type": "实录（官修编年；据维基文库、识典古籍《清实录》录文）",
+  "reliability_default": "official",
+  "url": "https://zh.wikisource.org/wiki/清實錄"
+ },
+ {
+  "id": "xzsl",
+  "title": "宣宗成皇帝实录",
+  "author": "清国史馆等（咸丰间纂修）",
+  "era": "清",
+  "type": "实录（官修编年；据维基文库《清实录》录文）",
+  "reliability_default": "official",
+  "url": "https://zh.wikisource.org/wiki/清實錄"
+ },
+ {
+  "id": "wzsl",
+  "title": "文宗显皇帝实录",
+  "author": "清国史馆等（同治间纂修）",
+  "era": "清",
+  "type": "实录（官修编年；据识典古籍《清实录》录文）",
+  "reliability_default": "official",
+  "url": "https://www.shidianguji.com/book/LS0027"
+ },
+ {
+  "id": "mzsl",
+  "title": "穆宗毅皇帝实录",
+  "author": "清国史馆等（光绪间纂修）",
+  "era": "清",
+  "type": "实录（官修编年；据识典古籍《清实录》录文）",
+  "reliability_default": "official",
+  "url": "https://www.shidianguji.com/book/LS0027"
+ },
+ {
+  "id": "gurj",
+  "title": "古穰集（四库全书本）",
+  "author": "李贤",
+  "era": "明",
+  "type": "别集（收天顺四年《进士题名记》，同时代题名记）",
+  "reliability_default": "primary",
+  "url": "https://zh.wikisource.org/wiki/古穰集_(四庫全書本)"
+ },
+ {
+  "id": "qmsw",
+  "title": "清秘述闻",
+  "author": "法式善原编，钱维福重校",
+  "era": "清",
+  "type": "科举掌故汇编（清人据题名录等编）",
+  "reliability_default": "anecdotal",
+  "url": "https://www.shidianguji.com/book/CADAL02097002"
+ },
+ {
+  "id": "qmswx",
+  "title": "清秘述闻续",
+  "author": "王家相",
+  "era": "清",
+  "type": "科举掌故汇编（续《清秘述闻》）",
+  "reliability_default": "anecdotal",
+  "url": "https://www.shidianguji.com/book/CADAL11202250"
+ },
+ {
+  "id": "dgclj",
+  "title": "殿阁词林记",
+  "author": "廖道南",
+  "era": "明",
+  "type": "杂传（明代翰林、内阁人物传记，四库本）",
+  "reliability_default": "primary"
+ },
+ {
+  "id": "lbzg",
+  "title": "礼部志稿",
+  "author": "林尧俞等",
+  "era": "明",
+  "type": "官修政书（礼部历官表、传，四库本）",
+  "reliability_default": "primary"
+ },
+ {
+  "id": "hgtz",
+  "title": "湖广通志",
+  "author": "迈柱等监修",
+  "era": "清",
+  "type": "方志（雍正，四库本）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "qblc",
+  "title": "清稗类钞",
+  "author": "徐珂",
+  "era": "民国",
+  "type": "笔记（掌故类编）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "hxscj",
+  "title": "汉学师承记",
+  "author": "江藩",
+  "era": "清",
+  "type": "杂传（清代经学家传记）",
+  "reliability_default": "primary"
+ },
+ {
+  "id": "gxtz",
+  "title": "广西通志",
+  "author": "金鉷等监修",
+  "era": "清",
+  "type": "方志（雍正，四库本）",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "cxssz",
+  "title": "淳熙三山志",
+  "author": "梁克家",
+  "era": "南宋",
+  "type": "方志（宋代）",
+  "reliability_default": "anecdotal"
  }
 ]
