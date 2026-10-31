@@ -1146,5 +1146,53 @@
   "era": "清",
   "type": "笔记",
   "reliability_default": "anecdotal"
+ },
+ {
+  "id": "sxytz",
+  "title": "陕西通志",
+  "author": "刘于义等",
+  "era": "清",
+  "type": "方志",
+  "reliability_default": "local"
+ },
+ {
+  "id": "tcb",
+  "title": "通俗编",
+  "author": "翟灏",
+  "era": "清",
+  "type": "笔记/训诂",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "jsjw",
+  "title": "家世旧闻",
+  "author": "陆游",
+  "era": "南宋",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
+ },
+ {
+  "id": "yhwj",
+  "title": "元好问集",
+  "author": "元好问",
+  "era": "金末元初",
+  "type": "别集",
+  "reliability_default": "primary"
+ },
+ {
+  "id": "lssy",
+  "title": "辽史拾遗",
+  "author": "厉鹗",
+  "era": "清",
+  "type": "史部补遗",
+  "reliability_default": "secondary"
+ },
+ {
+  "id": "sycb",
+  "title": "随园随笔",
+  "author": "袁枚",
+  "era": "清",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
  }
 ]
