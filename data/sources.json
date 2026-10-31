@@ -1194,5 +1194,21 @@
   "era": "清",
   "type": "笔记",
   "reliability_default": "anecdotal"
+ },
+ {
+  "id": "qsyywz",
+  "title": "全蜀艺文志",
+  "author": "周复俊",
+  "era": "明",
+  "type": "总集（四库本）",
+  "reliability_default": "local"
+ },
+ {
+  "id": "mgslxz",
+  "title": "民国双流县志",
+  "author": "刘佶、刘咸荣",
+  "era": "民国",
+  "type": "方志",
+  "reliability_default": "local"
  }
 ]

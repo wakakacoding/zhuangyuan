@@ -8,7 +8,7 @@
   "roster": 666,
   "persons": 649,
   "relations": 403,
-  "sources": 147
+  "sources": 149
  },
  "dictionary": "https://wakakacoding.github.io/zhuangyuan/about/#dictionary",
  "files": [
@@ -56,7 +56,7 @@
   },
   {
    "path": "data/sources.json",
-   "n": 147,
+   "n": 149,
    "format": "json",
    "what": "史源书目",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/sources.json"
@@ -210,14 +210,14 @@
   },
   {
    "path": "data/roster/by-confidence/B.json",
-   "n": 295,
+   "n": 296,
    "format": "json",
    "what": "名录（按可信度：B 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster/by-confidence/B.json"
   },
   {
    "path": "data/roster/by-confidence/B.csv",
-   "n": 295,
+   "n": 296,
    "format": "csv",
    "what": "名录（按可信度：B 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster/by-confidence/B.csv"
@@ -238,14 +238,14 @@
   },
   {
    "path": "data/roster/by-confidence/C.json",
-   "n": 15,
+   "n": 14,
    "format": "json",
    "what": "名录（按可信度：C 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster/by-confidence/C.json"
   },
   {
    "path": "data/roster/by-confidence/C.csv",
-   "n": 15,
+   "n": 14,
    "format": "csv",
    "what": "名录（按可信度：C 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster/by-confidence/C.csv"
