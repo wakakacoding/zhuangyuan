@@ -244,7 +244,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "仅见《全唐诗》诗人小传，正史未载“第一”；按规则最高 B"
   ],
@@ -1842,7 +1842,7 @@
    }
   ],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "状元身份（无正史本传，笔记亦未言）",
    "状元身份：仅元人《唐才子传》“某榜”之说（传记总集，非正史），未明言第一"
@@ -4403,7 +4403,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯",
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
@@ -4431,7 +4431,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
    "年份：玉芝堂谈荟仅作“贞明中”，名录贞明四年在其范围内"
@@ -4466,7 +4466,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证",
    "状元身份：北宋行状明言“天下第一”，但系后人追述、年份为推定，暂定B",
@@ -4504,7 +4504,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
    "年份：玉芝堂谈荟列于“后唐同光中”，未记确年"
@@ -4534,7 +4534,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "史料线B（2026-10-19）：玉芝堂谈荟卷二列“状元黄仁颕”于后唐同光中（923—926），与名录天成二年（927）不合，未升级",
    "状元身份：仅见清人考订《登科记考》及明清方志、类书、笔记等非正史文献，按规则最高定为B",
@@ -4565,7 +4565,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯",
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
@@ -4593,7 +4593,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯",
    "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证",
@@ -4663,7 +4663,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
    "年份：玉芝堂谈荟仅作“后晋”，名录开运二年在其范围内"
@@ -4738,7 +4738,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
   ],
@@ -4781,7 +4781,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "仅见《全唐文》作者小传，正史未载“第一”；按规则最高 B"
   ],
@@ -4821,7 +4821,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
    "未约纪年：所据文献明言状元/第一，但未记年份，年份仍据名录"
@@ -4868,7 +4868,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
    "未约纪年：所据文献明言状元/第一，但未记年份，年份仍据名录"
@@ -4915,7 +4915,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
    "未约纪年：所据文献明言状元/第一，但未记年份，年份仍据名录"
@@ -4956,7 +4956,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯",
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
@@ -4985,7 +4985,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯",
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
@@ -5020,7 +5020,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
    "未约纪年：所据文献明言状元/第一，但未记年份，年份仍据名录"
@@ -5039,6 +5039,46 @@
   "coord": [
    28.7,
    115.81
+  ]
+ },
+ {
+  "id": "wudai-973-zhaoqi",
+  "name": "赵绮",
+  "dynasty": "五代",
+  "year": 973,
+  "era": "南唐后主癸酉年",
+  "bang": null,
+  "native": "",
+  "wiki_life": "",
+  "wiki_note": "",
+  "evidence": [
+   {
+    "src": "jnyz",
+    "juan": "卷上",
+    "quote": "明年綺狀元及第",
+    "note": "四库本《江南余载》卷上；南唐后主时赵绮自狱中获释，「明年绮状元及第」。笔记/杂史，定B（非正史明写第一，不开A）。",
+    "qs": "ok_book"
+   },
+   {
+    "src": "jnyz",
+    "juan": "卷上",
+    "quote": "趙綺困于場屋",
+    "note": "同卷记其困场屋、北渡被执、后主批释事。",
+    "qs": "ok_book"
+   }
+  ],
+  "bio": [],
+  "confidence": "B",
+  "full": false,
+  "pending": [
+   "籍贯",
+   "状元身份（仅见于维基列表，未见正史佐证）",
+   "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证",
+   "线2（2026-10-19）：《登科记考》止于五代中原王朝，未收南唐/辽/金/北宋；此外已复查《辽史》《金史》本纪，未见此人，仍待考证",
+   "线P1（2026-11-01）：据《江南余载》卷上「明年绮状元及第」升B；年份仍依名录973（开宝六年），原文仅言「明年」未钉死干支，未改年。"
+  ],
+  "disputed": [
+   "lineN1：本地未见状元记载，仍C"
   ]
  },
  {
@@ -5061,7 +5101,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "状元身份（待考证）",
    "状元身份：长编记南唐“放进士张确等”，未明言第一"
@@ -5153,7 +5193,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
    "本科仅放一人，非“第一”明文"
@@ -5181,7 +5221,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5208,7 +5248,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
    "本科仅放一人，非“第一”明文"
@@ -5252,7 +5292,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5279,7 +5319,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5322,7 +5362,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5349,7 +5389,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5376,7 +5416,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5403,7 +5443,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5430,7 +5470,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5457,7 +5497,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5484,7 +5524,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5511,7 +5551,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5538,7 +5578,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯",
    "本纪「引试某等」首名；籍贯未详"
@@ -5566,7 +5606,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5593,7 +5633,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5620,7 +5660,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5647,7 +5687,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5674,7 +5714,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯",
    "本纪「放进士某等」首名；籍贯未详"
@@ -5702,7 +5742,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5729,7 +5769,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5756,7 +5796,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5783,7 +5823,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志/列传仅记“某等/某榜”，未明言第一"
   ],
@@ -5810,7 +5850,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5838,7 +5878,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "《辽史》卷16太平九年上下文放进士首名为「张仲举」，与名录「张仁纪」不合，未改名、未升级",
    "《辽史》本纪太平九年未见放进士记载（卷17 太平八年“放进士张宥等五十七人”），待考证",
@@ -5870,7 +5910,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5897,7 +5937,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5924,7 +5964,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
    "冯立独授右补阙，辽御试自此始"
@@ -5952,7 +5992,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -5979,7 +6019,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -6012,7 +6052,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "《辽史》本纪重熙十九年未见放进士记载（卷20“御金銮殿试进士”在重熙二十四年），待考证",
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
@@ -6054,7 +6094,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -6116,7 +6156,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -6143,7 +6183,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -6170,7 +6210,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -6197,7 +6237,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -6224,7 +6264,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -6251,7 +6291,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -6278,7 +6318,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -6305,7 +6345,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -6332,7 +6372,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -6359,7 +6399,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -6386,7 +6426,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -6413,7 +6453,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯",
    "本纪作「刘桢」，名录作「刘祯」；籍贯未详"
@@ -6442,7 +6482,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯",
    "状元身份（仅见于维基列表，未见正史佐证）",
@@ -6474,7 +6514,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -6501,7 +6541,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -6528,7 +6568,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "名录作「刘㧑」，中州集/归潜志作「刘撝」",
    "中榜年份正史未载，名录作天会二年"
@@ -6570,7 +6610,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
   ],
@@ -6610,7 +6650,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "仅见《中州集》小传“某榜”称谓；为南选榜首"
   ],
@@ -6643,7 +6683,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "《金史》多见「刘仲渊」任廉察/同修国史/贺宋正旦使，未见状元或第一记载",
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
@@ -6691,7 +6731,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
    "年份：《三朝北盟会编》仅作“亶朝”（熙宗朝），名录皇统九年在其范围内"
@@ -6732,7 +6772,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
    "仅见“某榜”称谓（列传旁见）"
@@ -6766,7 +6806,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
   ],
@@ -6852,7 +6892,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
    "仅见“某榜”称谓（列传旁见）"
@@ -6894,7 +6934,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "名录作「史诏鱼」，中州集作「史绍鱼」"
   ],
@@ -6951,7 +6991,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B",
    "未约纪年：所据文献明言状元/第一，但未记年份，年份仍据名录"
@@ -6982,7 +7022,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "状元身份据中州集「三见门生是状元」及三人并列推定，正史未见「第一」"
   ],
@@ -7052,7 +7092,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
    "仅见“某榜”称谓（列传旁见）；另见卷9“并附王泽榜”"
@@ -7086,7 +7126,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
   ],
@@ -7126,7 +7166,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
    "仅见“某榜”称谓（列传旁见）"
@@ -7174,7 +7214,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "仅见《中州集》小传“某榜”称谓"
   ],
@@ -7201,7 +7241,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "仅见《中州集》小传“某榜”称谓"
   ],
@@ -7322,7 +7362,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "「黄裳榜」系笔记以榜首名榜；金史未见本人「第一」明文"
   ],
@@ -7380,7 +7420,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "归潜志作「贞祐六年」；是年实为兴定二年（1218），刘祁或沿用贞祐纪年",
    "籍贯「燕山」较笼统，不落图",
@@ -7465,7 +7505,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -7492,7 +7532,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯",
    "本纪「赐某以下」首名，未直言「第一」"
@@ -7520,7 +7560,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志仅记“某等/某以下”首名，未明言第一"
   ],
@@ -7548,7 +7588,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯",
    "史料线B（2026-10-19）已查《玉芝堂谈荟》卷二历代状元表、清修各省通志（四库本）、十国春秋、马氏/陆氏南唐书、续夷坚志、三朝北盟会编等，未见此人状元记载；《登科记考》（ctext 有人机验证，未抓取）未核，待考证",
@@ -7586,7 +7626,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "中榜年份",
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
@@ -7634,7 +7674,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "中榜年份",
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
@@ -7676,7 +7716,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "中榜年份",
    "状元身份：仅见明清方志、类书、笔记等非正史文献，按规则最高定为B"
@@ -7717,7 +7757,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
    "右榜首名"
@@ -7745,7 +7785,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志两榜首名并列（右榜），未明言第一"
   ],
@@ -7772,7 +7812,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志两榜首名并列（左榜），未明言第一"
   ],
@@ -7813,7 +7853,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志两榜首名并列（右榜），未明言第一"
   ],
@@ -7840,7 +7880,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志两榜首名并列（左榜），未明言第一"
   ],
@@ -7883,7 +7923,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
    "右榜首名"
@@ -7911,7 +7951,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志两榜首名并列（右榜），未明言第一"
   ],
@@ -7938,7 +7978,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志两榜首名并列（左榜），未明言第一"
   ],
@@ -7965,7 +8005,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
    "右榜首名"
@@ -7993,7 +8033,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
    "右榜首名；卷27等同名拜住为另一人"
@@ -8054,7 +8094,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
    "左榜首名"
@@ -8082,7 +8122,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
    "右榜首名；卷206 阳翟王同名为另一人"
@@ -8112,7 +8152,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
    "左榜首名",
@@ -8155,7 +8195,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志两榜首名并列（右榜），未明言第一"
   ],
@@ -8182,7 +8222,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志两榜首名并列（左榜），未明言第一"
   ],
@@ -8223,7 +8263,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志两榜首名并列（右榜），未明言第一"
   ],
@@ -8250,7 +8290,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志两榜首名并列（左榜），未明言第一"
   ],
@@ -8291,7 +8331,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志两榜首名并列（右榜），未明言第一"
   ],
@@ -8318,7 +8358,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志两榜首名并列（左榜），未明言第一"
   ],
@@ -8345,7 +8385,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志两榜首名并列（右榜），未明言第一"
   ],
@@ -8372,7 +8412,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志两榜首名并列（左榜），未明言第一"
   ],
@@ -8413,7 +8453,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志两榜首名并列（右榜），未明言第一"
   ],
@@ -8440,7 +8480,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志两榜首名并列（左榜），未明言第一"
   ],
@@ -8467,7 +8507,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪/选举志/列传仅记“某等/某榜”，未明言第一",
    "右榜首名"
@@ -8502,7 +8542,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯",
    "本纪/选举志仅记两榜首名并列，未明言第一（列女传“状元妻”为旁证，同一人系推定）"
@@ -9359,7 +9399,8 @@
   "full": false,
   "pending": [
    "本纪仅记“赐某等进士及第出身有差”，未明言第一",
-   "线1：雍正八年实录卷九十三作“授一甲進士周為翰林院修撰”（底本脱“澍”字），未明写第一，按现行口径留B；明写名次的《明清进士题名碑录》《国朝鼎甲征信录》本地无原文，待考证"
+   "线1：雍正八年实录卷九十三作“授一甲進士周為翰林院修撰”（底本脱“澍”字），未明写第一，按现行口径留B；明写名次的《明清进士题名碑录》《国朝鼎甲征信录》本地无原文，待考证",
+   "线P1（2026-11-01）：本地世宗实录无卷九十三授修撰原文；仅清史稿赐第句与藤阴杂记籍贯，事迹过薄，仍维持档案卡。"
   ],
   "disputed": [],
   "reviewed": true,
@@ -9370,12 +9411,13 @@
    120.16
   ],
   "native_src": {
-   "src": "jdbz",
-   "juan": "卷四",
-   "quote": "钱塘周澍（雍正庚戌）",
-   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
-   "note": "线N3：未检得实录/本传/题名碑录籍贯原文，仍依《旧典备征》。坐标未改。",
-   "prec": "县"
+   "src": "tyzj",
+   "juan": "卷一",
+   "quote": "雍正庚戌狀元周澍、探花梁詩正，俱錢塘人",
+   "qs": "ok",
+   "tier": "笔记（清戴璐《藤阴杂记》卷一科第盛事）",
+   "prec": "县",
+   "note": "线P1（2026-11-01）：原依民国《旧典备征》；改依清《藤阴杂记》卷一籍贯原文。清人笔记非实录/题名碑录，但优于民国笔记。坐标未改。"
   }
  },
  {

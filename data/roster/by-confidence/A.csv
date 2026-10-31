@@ -5,7 +5,7 @@ liguyan,李固言,唐,812,元和七年壬辰科,,赵郡,A,1,,,籍贯,,https://wa
 sunwo,孙偓,唐,878,干符五年戊戌科,,武邑（今河北武邑）,A,1,,,籍贯,,https://wakakacoding.github.io/zhuangyuan/person/sunwo/
 cuizhaowei,崔昭纬,唐,882,中和二年壬寅科,,清河,A,1,,,籍贯,,https://wakakacoding.github.io/zhuangyuan/person/cuizhaowei/
 luyi,陆扆,唐,886,光启二年丙午科,,陕州（本吴郡人）,A,1,,,籍贯,,https://wakakacoding.github.io/zhuangyuan/person/luyi/
-wudai-925-wangche,王彻,五代,925,后唐同光三年,,琅邪临沂人,A,0,,,同光三年覆试后升为第一（原榜名次有调整）,,https://wakakacoding.github.io/zhuangyuan/r/wudai-925-wangche/
+wudai-925-wangche,王彻,五代,925,后唐同光三年,,琅邪临沂人,A,1,,,同光三年覆试后升为第一（原榜名次有调整）,,https://wakakacoding.github.io/zhuangyuan/person/wudai-925-wangche/
 bsong-960-yangli,杨砺,北宋,960,建隆元年,,京兆鄠人,A,1,,,,《宋史》本传只作“建隆中举进士甲科”，没有言及第一。；《文献通考·选举考》卷32 明载其为该科榜首/状元，据此由 R 改 A；本传未言第一之处仍保留,https://wakakacoding.github.io/zhuangyuan/person/bsong-960-yangli/
 bsong-961-zhangquhua,张去华,北宋,961,建隆二年,,开封襄邑人,A,1,,,,《宋史》本传只作“举进士甲科”，没有言及第一。；《文献通考·选举考》卷32 明载其为该科榜首/状元，据此由 R 改 A；本传未言第一之处仍保留,https://wakakacoding.github.io/zhuangyuan/person/bsong-961-zhangquhua/
 bsong-962-mashi,马适,北宋,962,建隆三年,,湖口（今江西湖口）,A,1,待考证,973（推）,,,https://wakakacoding.github.io/zhuangyuan/person/bsong-962-mashi/
@@ -131,12 +131,12 @@ liao-1112-hanfang,韩昉,辽,1112,天庆壬辰科,,燕京（今北京市）,A,1,
 jin-1127-xubi,许必,金,1127,天会五年,,真定（今河北正定县）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/jin-1127-xubi/
 jin-1132-huli,胡砺,金,1132,天会十年,,磁州(今河北武安市),A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/jin-1132-huli/
 jin-1139-shiju,石琚,金,1139,天眷二年己未科,,定州（今河北定县）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/jin-1139-shiju/
-jin-1149-wangyanqian,王彦潜,金,1149,皇统九年己巳科,,河间（今河北河间）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/jin-1149-wangyanqian/
-jin-1151-changdarong,常大荣,金,1151,天德三年辛未科词赋状元,词赋科,,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/jin-1151-changdarong/
+jin-1149-wangyanqian,王彦潜,金,1149,皇统九年己巳科,,河间（今河北河间）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/jin-1149-wangyanqian/
+jin-1151-changdarong,常大荣,金,1151,天德三年辛未科词赋状元,词赋科,,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/jin-1151-changdarong/
 jin-1154-lvzhonghan,吕忠翰,金,1154,贞元二年甲戌科,,燕（今北京）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/jin-1154-lvzhonghan/
 jin-1157-zhengzidan,郑子聃,金,1157,正隆二年,,大定（今内蒙大名城）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/jin-1157-zhengzidan/
 jin-1163-mengzongxian,孟宗献,金,1163,大定三年,,开封（今河南开封）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/jin-1163-mengzongxian/
-jin-1173-zhaochengyuan,赵承元,金,1173,大定十三年,,,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/jin-1173-zhaochengyuan/
+jin-1173-zhaochengyuan,赵承元,金,1173,大定十三年,,,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/jin-1173-zhaochengyuan/
 jin-1179-zhangxingjian,张行简,金,1179,大定十九年,,莒州日照县（父张暐本传）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/jin-1179-zhangxingjian/
 jin-1194-yangyunyi,杨云翼,金,1194,明昌五年甲寅科经义状元,经义科,山西昔阳,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/jin-1194-yangyunyi/
 jin-1197-nalanhulula,纳兰胡鲁剌,金,1197,承安二年,,大名路怕鲁欢猛安人,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/jin-1197-nalanhulula/
@@ -296,7 +296,7 @@ qing-1817-wuqijun,吴其濬,清,1817,嘉庆二十二年,,河南省光州直隶�
 qing-1819-chenhang,陈沆,清,1819,嘉庆二十四年,,蕲水（今湖北浠水）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1819-chenhang/
 qing-1820-chenjichang,陈继昌,清,1820,嘉庆二十五年,,广西临桂人（今广西桂林）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1820-chenjichang/
 qing-1822-dailanfen,戴兰芬,清,1822,道光二年,,天长（今安徽天长）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1822-dailanfen/
-qing-1823-linzhaotang,林召棠,清,1823,道光三年,,吴川（今广东吴川）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/qing-1823-linzhaotang/
+qing-1823-linzhaotang,林召棠,清,1823,道光三年,,吴川（今广东吴川）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1823-linzhaotang/
 qing-1826-zhuchangyi,朱昌颐,清,1826,道光六年,,海盐（今浙江海盐）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1826-zhuchangyi/
 qing-1829-lizhenjun,李振钧,清,1829,道光九年,,太湖（今安徽太湖）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1829-lizhenjun/
 qing-1832-wuzhongjun,吴钟骏,清,1832,道光十二年,,吴县（今江苏苏州）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1832-wuzhongjun/
@@ -306,7 +306,7 @@ qing-1838-niufubao,钮福保,清,1838,道光十八年,,乌程（今浙江湖州�
 qing-1840-lichenglin,李承霖,清,1840,道光二十年,,丹徒（今江苏镇江）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1840-lichenglin/
 qing-1841-longqirui,龙启瑞,清,1841,道光二十一年,,广西省桂林府临桂县人,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1841-longqirui/
 qing-1844-sunyuyan,孙毓溎,清,1844,道光二十四年,,济宁（今山东济宁）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1844-sunyuyan/
-qing-1845-xiaojinzhong,萧锦忠,清,1845,道光二十五年,,茶陵（今湖南茶陵）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/qing-1845-xiaojinzhong/
+qing-1845-xiaojinzhong,萧锦忠,清,1845,道光二十五年,,茶陵（今湖南茶陵）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1845-xiaojinzhong/
 qing-1847-zhangzhiwan,张之万,清,1847,道光二十七年,,直隶省天津府南皮县人,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1847-zhangzhiwan/
 qing-1850-luzengxiang,陆增祥,清,1850,道光三十年,,江苏省太仓直隶州人,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1850-luzengxiang/
 qing-1852-zhangyun,章鋆,清,1852,咸丰二年,,鄞县（今浙江宁波）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1852-zhangyun/
@@ -323,13 +323,13 @@ qing-1874-lurunxiang,陆润庠,清,1874,同治十三年,,江苏省苏州府元�
 qing-1876-caohongxun,曹鸿勋,清,1876,光绪二年,,潍县（今山东潍坊）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1876-caohongxun/
 qing-1877-wangrenkan,王仁堪,清,1877,光绪三年,,福建省福州府闽县人,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1877-wangrenkan/
 qing-1880-huangsiyong,黄思永,清,1880,光绪六年,,江宁（今江苏南京）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1880-huangsiyong/
-qing-1883-chenmian,陈冕,清,1883,光绪九年,,宛平（今北京）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/qing-1883-chenmian/
-qing-1886-zhaoyijiong,赵以烱,清,1886,光绪十二年,,贵阳（今贵州贵阳）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/qing-1886-zhaoyijiong/
-qing-1889-zhangjianxun,张建勋,清,1889,光绪十五年,,临桂（今广西桂林）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/qing-1889-zhangjianxun/
+qing-1883-chenmian,陈冕,清,1883,光绪九年,,宛平（今北京）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1883-chenmian/
+qing-1886-zhaoyijiong,赵以烱,清,1886,光绪十二年,,贵阳（今贵州贵阳）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1886-zhaoyijiong/
+qing-1889-zhangjianxun,张建勋,清,1889,光绪十五年,,临桂（今广西桂林）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1889-zhangjianxun/
 qing-1890-wulu,吴鲁,清,1890,光绪十六年,,晋江（今福建泉州）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1890-wulu/
 qing-1892-liufuyao,刘福姚,清,1892,光绪十八年,,临桂（今广西桂林）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1892-liufuyao/
 zhangjian,张謇,清,1894,光绪二十年,,江苏省通州直隶州人,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/zhangjian/
-qing-1895-luochengxiang,骆成骧,清,1895,光绪二十一年,,资州（今四川资中）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/qing-1895-luochengxiang/
-qing-1898-xiatonghe,夏同龢,清,1898,光绪二十四年,,麻哈（今贵州麻江）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/qing-1898-xiatonghe/
-qing-1903-wangshoupeng,王寿彭,清,1903,光绪二十九年,,潍县（今山东潍坊）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/qing-1903-wangshoupeng/
-qing-1904-liuchunlin,刘春霖,清,1904,光绪三十年,,肃宁（今河北肃宁）,A,0,,,,,https://wakakacoding.github.io/zhuangyuan/r/qing-1904-liuchunlin/
+qing-1895-luochengxiang,骆成骧,清,1895,光绪二十一年,,资州（今四川资中）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1895-luochengxiang/
+qing-1898-xiatonghe,夏同龢,清,1898,光绪二十四年,,麻哈（今贵州麻江）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1898-xiatonghe/
+qing-1903-wangshoupeng,王寿彭,清,1903,光绪二十九年,,潍县（今山东潍坊）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1903-wangshoupeng/
+qing-1904-liuchunlin,刘春霖,清,1904,光绪三十年,,肃宁（今河北肃宁）,A,1,,,,,https://wakakacoding.github.io/zhuangyuan/person/qing-1904-liuchunlin/
