@@ -926,9 +926,12 @@
   "courtesy": "",
   "dynasty": "五代",
   "exam": "wudai-918",
-  "native": "福建泉州",
-  "native_modern": "",
-  "coord": null,
+  "native": "晋江",
+  "native_modern": "今福建泉州/晋江",
+  "coord": [
+   24.91,
+   118.59
+  ],
   "birth": "待考证",
   "death": "待考证",
   "ending": "待考证",
@@ -970,9 +973,12 @@
   "courtesy": "",
   "dynasty": "五代",
   "exam": "wudai-926",
-  "native": "四川简阳",
-  "native_modern": "",
-  "coord": null,
+  "native": "简州",
+  "native_modern": "今四川简阳",
+  "coord": [
+   30.41,
+   104.55
+  ],
   "birth": "待考证",
   "death": "待考证",
   "ending": "待考证",
@@ -1147,8 +1153,11 @@
   "dynasty": "五代",
   "exam": "wudai-945",
   "native": "华州下邽",
-  "native_modern": "",
-  "coord": null,
+  "native_modern": "今陕西渭南",
+  "coord": [
+   34.6,
+   109.64
+  ],
   "birth": "待考证",
   "death": "待考证",
   "ending": "待考证",
@@ -1307,6 +1316,181 @@
   ],
   "pending": [
    "字号、生卒年、完整仕历；材料上限：仅见放榜一句，不作四段空话"
+  ],
+  "zaixiang": false,
+  "conflicts": [],
+  "bio_tier": "简传"
+ },
+ {
+  "id": "wudai-952-wangkezhen",
+  "name": "王克贞",
+  "courtesy": "",
+  "dynasty": "五代",
+  "exam": "wudai-952",
+  "native": "庐陵",
+  "native_modern": "今江西吉安",
+  "coord": [
+   27.09,
+   114.96
+  ],
+  "birth": "待考证",
+  "death": "待考证",
+  "ending": "待考证",
+  "tagline": "南唐保大十年放榜状元（材料仅见赐第）",
+  "bio": {
+   "寒窗": "名录记王克贞，庐陵（今江西吉安）。本地未见独立本传或足写四段之墓志；材料上限为放榜记载。",
+   "金榜": "据《陆氏南唐书》/杂史：放進士王克貞等三人及第",
+   "宦海": "材料仅见放榜，仕途待考。正史列传与方志人物未见可核官历。",
+   "晚景": "材料仅见放榜，结局待考。"
+  },
+  "events": [
+   {
+    "year": "952",
+    "type": "中举",
+    "desc": "南唐保大十年放进士（状元）",
+    "src": "lynts",
+    "juan": "卷二",
+    "quote": "放進士王克貞等三人及第",
+    "qs": "ok"
+   }
+  ],
+  "anecdotes": [],
+  "citations": [
+   {
+    "src": "lynts",
+    "juan": "卷二"
+   }
+  ],
+  "pending": [
+   "字号、生卒年、完整仕历；材料上限：仅见放榜一句，不作四段空话"
+  ],
+  "zaixiang": false,
+  "conflicts": [],
+  "bio_tier": "简传"
+ },
+ {
+  "id": "wudai-964-wangchonggu",
+  "name": "王崇古",
+  "courtesy": "",
+  "dynasty": "五代",
+  "exam": "wudai-964",
+  "native": "江西庐陵",
+  "native_modern": "",
+  "coord": null,
+  "birth": "待考证",
+  "death": "待考证",
+  "ending": "待考证",
+  "tagline": "南唐干德二年放榜状元（材料仅见赐第）",
+  "bio": {
+   "寒窗": "名录记王崇古，江西庐陵人。本地未见独立本传或足写四段之墓志；材料上限为放榜记载。",
+   "金榜": "据《陆氏南唐书》/杂史：放進士王崇古等九人",
+   "宦海": "材料仅见放榜，仕途待考。正史列传与方志人物未见可核官历。",
+   "晚景": "材料仅见放榜，结局待考。"
+  },
+  "events": [
+   {
+    "year": "964",
+    "type": "中举",
+    "desc": "南唐干德二年放进士（状元）",
+    "src": "lynts",
+    "juan": "卷三",
+    "quote": "放進士王崇古等九人",
+    "qs": "ok"
+   }
+  ],
+  "anecdotes": [],
+  "citations": [
+   {
+    "src": "lynts",
+    "juan": "卷三"
+   }
+  ],
+  "pending": [
+   "字号、生卒年、完整仕历；材料上限：仅见放榜一句，不作四段空话"
+  ],
+  "zaixiang": false,
+  "conflicts": [],
+  "bio_tier": "简传"
+ },
+ {
+  "id": "wudai-972-yangsui",
+  "name": "杨遂",
+  "courtesy": "",
+  "dynasty": "五代",
+  "exam": "wudai-972",
+  "native": "",
+  "native_modern": "",
+  "coord": null,
+  "birth": "待考证",
+  "death": "待考证",
+  "ending": "待考证",
+  "tagline": "南唐后主壬申年放榜状元（材料仅见赐第）",
+  "bio": {
+   "寒窗": "名录记杨遂。本地未见独立本传或足写四段之墓志；材料上限为放榜记载。",
+   "金榜": "据《陆氏南唐书》/杂史：放進士楊遂等三人",
+   "宦海": "材料仅见放榜，仕途待考。正史列传与方志人物未见可核官历。",
+   "晚景": "材料仅见放榜，结局待考。"
+  },
+  "events": [
+   {
+    "year": "972",
+    "type": "中举",
+    "desc": "南唐后主壬申年放进士（状元）",
+    "src": "lynts",
+    "juan": "卷三",
+    "quote": "放進士楊遂等三人",
+    "qs": "ok"
+   }
+  ],
+  "anecdotes": [],
+  "citations": [
+   {
+    "src": "lynts",
+    "juan": "卷三"
+   }
+  ],
+  "pending": [
+   "字号、生卒年、完整仕历；材料上限：仅见放榜一句，不作四段空话"
+  ],
+  "zaixiang": false,
+  "conflicts": [],
+  "bio_tier": "简传"
+ },
+ {
+  "id": "wudai-973-zhaoqi",
+  "name": "赵绮",
+  "courtesy": "",
+  "dynasty": "五代",
+  "exam": "wudai-973",
+  "native": "",
+  "native_modern": "",
+  "coord": null,
+  "birth": "待考证",
+  "death": "待考证",
+  "ending": "待考证",
+  "tagline": "南唐后主癸酉年放榜状元（材料仅见赐第）",
+  "bio": {
+   "寒窗": "名录记赵绮。本地未见独立本传或足写四段之墓志；材料上限为放榜记载。",
+   "金榜": "据《陆氏南唐书》/杂史：明年綺狀元及第",
+   "宦海": "材料仅见放榜，仕途待考。正史列传与方志人物未见可核官历。",
+   "晚景": "材料仅见放榜，结局待考。"
+  },
+  "events": [
+   {
+    "year": "973",
+    "type": "中举",
+    "desc": "南唐后主癸酉年放进士（状元）",
+    "src": "jnyz",
+    "juan": "卷上",
+    "quote": "明年綺狀元及第",
+    "qs": "ok_book"
+   }
+  ],
+  "anecdotes": [],
+  "citations": [],
+  "pending": [
+   "字号、生卒年、完整仕历；材料上限：仅见放榜一句，不作四段空话",
+   "出处 jnyz 卷上（卷标无法做人名核对，引文已核）"
   ],
   "zaixiang": false,
   "conflicts": [],

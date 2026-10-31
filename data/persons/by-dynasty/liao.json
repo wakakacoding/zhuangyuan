@@ -2549,5 +2549,49 @@
   "zaixiang": false,
   "conflicts": [],
   "bio_tier": "简传"
+ },
+ {
+  "id": "liao-1024-lijiong",
+  "name": "李𧫎",
+  "courtesy": "",
+  "dynasty": "辽",
+  "exam": "liao-1024",
+  "native": "",
+  "native_modern": "",
+  "coord": null,
+  "birth": "待考证",
+  "death": "待考证",
+  "ending": "待考证",
+  "tagline": "太平四年甲子科放榜状元（材料仅见赐第）",
+  "bio": {
+   "寒窗": "名录记李𧫎。本地未见独立本传或足写四段之墓志；材料上限为放榜记载。",
+   "金榜": "据《辽史》：放進士李𧫎等四十七人",
+   "宦海": "材料仅见放榜，仕途待考。正史列传与方志人物未见可核官历。",
+   "晚景": "材料仅见放榜，结局待考。"
+  },
+  "events": [
+   {
+    "year": "1024",
+    "type": "中举",
+    "desc": "太平四年甲子科放进士（状元）",
+    "src": "lsh",
+    "juan": "卷十六",
+    "quote": "放進士李𧫎等四十七人",
+    "qs": "ok"
+   }
+  ],
+  "anecdotes": [],
+  "citations": [
+   {
+    "src": "lsh",
+    "juan": "卷十六"
+   }
+  ],
+  "pending": [
+   "字号、生卒年、完整仕历；材料上限：仅见放榜一句，不作四段空话"
+  ],
+  "zaixiang": false,
+  "conflicts": [],
+  "bio_tier": "简传"
  }
 ]

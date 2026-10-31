@@ -549,7 +549,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -594,7 +594,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [
    "籍贯两说：《万姓统谱》作遂安，《福建通志》作崇安；本站取遂安上图"
@@ -641,7 +641,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -786,7 +786,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -973,7 +973,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -1091,7 +1091,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯"
   ],
@@ -1197,7 +1197,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true
@@ -1258,7 +1258,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -1296,7 +1296,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [
    "籍贯两说：《福建通志》作侯官，《浙江通志》作归安；本站取侯官上图"
@@ -1426,7 +1426,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -1718,7 +1718,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯",
    "状元身份（正史检索命中，未人工通读）"
@@ -1930,7 +1930,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,

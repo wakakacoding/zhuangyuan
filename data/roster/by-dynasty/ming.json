@@ -476,7 +476,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -1249,7 +1249,7 @@
   "year": 1460,
   "era": "天顺四年",
   "bang": null,
-  "native": "江西南昌府新建县人",
+  "native": "新建（今江西南昌新建区）",
   "wiki_life": "1425年－1487年",
   "wiki_note": "",
   "evidence": [
@@ -1271,10 +1271,24 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_modern": "今江西南昌新建区",
+  "native_src": {
+   "src": "mytz",
+   "juan": "卷49",
+   "quote": "王一䕫復姓謝新建人",
+   "tier": "方志（明《大明一统志》）",
+   "prec": "县",
+   "note": "䕫/夔异体；江西通志卷53亦作「新建人复姓谢」；天顺庚辰廷对第一",
+   "qs": "ok"
+  },
+  "coord": [
+   28.7,
+   115.81
+  ]
  },
  {
   "id": "ming-1464-pengjiao",
@@ -2031,7 +2045,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等”，未明言第一",
    "本纪作“唐皐”"
@@ -3365,7 +3379,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],
@@ -3527,7 +3541,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "本纪仅记“赐某等进士及第”，无专传"
   ],

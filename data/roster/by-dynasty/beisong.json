@@ -187,7 +187,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯"
   ],
@@ -214,7 +214,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯"
   ],
@@ -241,7 +241,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true
@@ -318,7 +318,7 @@
   "year": 969,
   "era": "开宝二年",
   "bang": null,
-  "native": "河南人",
+  "native": "河南（今河南洛阳一带）",
   "wiki_life": "940年－1002年",
   "wiki_note": "子安守亮后亦中状元。",
   "evidence": [
@@ -342,7 +342,21 @@
    "《宋史》本传只作“擢进士甲科”，没有言及第一。",
    "《文献通考·选举考》卷32 明载其为该科榜首/状元，据此由 R 改 A；本传未言第一之处仍保留"
   ],
-  "reviewed": true
+  "reviewed": true,
+  "native_modern": "今河南洛阳一带",
+  "native_src": {
+   "src": "ss",
+   "juan": "440",
+   "quote": "安德裕，字益之，一字師臯，河南人。",
+   "tier": "正史本传",
+   "prec": "府州",
+   "note": "本传「生於真定」为出生地；籍贯取「河南人」府州级",
+   "qs": "ok"
+  },
+  "coord": [
+   34.62,
+   112.45
+  ]
  },
  {
   "id": "bsong-970-zhanggong",
@@ -364,7 +378,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯"
   ],
@@ -391,7 +405,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯"
   ],
@@ -405,7 +419,7 @@
   "year": 972,
   "era": "开宝五年",
   "bang": null,
-  "native": "河南人",
+  "native": "河南（今河南洛阳一带）",
   "wiki_life": "",
   "wiki_note": "父安德裕亦曾中状元。",
   "evidence": [
@@ -424,12 +438,26 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "所载为礼部试，非殿试"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_modern": "今河南洛阳一带",
+  "native_src": {
+   "src": "ss",
+   "juan": "440",
+   "quote": "安德裕，字益之，一字師臯，河南人。",
+   "tier": "正史本传（父安德裕）",
+   "prec": "府州",
+   "note": "据父安德裕《宋史》本传「河南人」；玉芝堂记父子状元；府州级，不落县",
+   "qs": "ok"
+  },
+  "coord": [
+   34.62,
+   112.45
+  ]
  },
  {
   "id": "bsong-973-songzhun",
@@ -679,7 +707,7 @@
   ],
   "bio": [],
   "confidence": "B",
-  "full": false,
+  "full": true,
   "pending": [
    "礼部放榜首名、省元；是年不临轩，未行殿试"
   ],
@@ -866,7 +894,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [
    "籍贯：维基名录作“河南汝州人”，《续资治通鉴长编》卷43作“暨，开封人”，本站从《长编》，汝州说待考证"
@@ -993,7 +1021,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true
@@ -1228,7 +1256,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "《长编》卷93 李焘自注：“王整魏人，登科记云……恐此及第者非魏人，或是贽子”，李焘自己对此人籍贯有疑，待考证"
   ],
@@ -1640,7 +1668,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -1739,7 +1767,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true
@@ -1794,7 +1822,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -1901,7 +1929,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "状元身份（待考证）"
   ],
@@ -1989,7 +2017,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -2015,7 +2043,7 @@
   "year": 1091,
   "era": "元祐六年",
   "bang": null,
-  "native": "四川阆州南部人",
+  "native": "南部（今四川南部）",
   "wiki_life": "？~1126年",
   "wiki_note": "",
   "evidence": [
@@ -2045,7 +2073,21 @@
    "状元身份（正史检索命中，未人工通读）"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_modern": "今四川南部",
+  "native_src": {
+   "src": "sctz",
+   "juan": "卷29上",
+   "quote": "馬涓墓在南部縣北二十里馬村",
+   "tier": "方志（清修《四川通志》）",
+   "prec": "县",
+   "note": "同书卷23南部县「状元溪…以宋马涓登第而名」互证",
+   "qs": "ok"
+  },
+  "coord": [
+   31.35,
+   106.06
+  ]
  },
  {
   "id": "bsong-1094-bijian",
@@ -2120,7 +2162,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -2159,7 +2201,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯"
   ],
@@ -2245,7 +2287,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -2284,7 +2326,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -2347,7 +2389,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -2386,7 +2428,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "《文献通考》作“何涣”，与名录“何焕”用字不同"
   ],
@@ -2433,20 +2475,37 @@
   "native": "巴县（今重庆）",
   "wiki_life": "1100年~1163年",
   "wiki_note": "",
-  "evidence": [],
+  "evidence": [
+   {
+    "src": "sctz",
+    "juan": "卷七上",
+    "quote": "字當可巴縣人紹興狀元",
+    "note": "线Q1（2026-11-01）：四川通志称绍兴状元。方志，最高B。宣和六年状元为沈晦（已A），年与科目写入 disputed；同书他卷又有开禧状元碑说，方志自歧。",
+    "qs": "ok"
+   },
+   {
+    "src": "wxtp",
+    "juan": "卷一",
+    "quote": "字當可巴縣人紹興狀元",
+    "note": "线Q1（2026-11-01）：万姓统谱同作绍兴状元，与通志一致。",
+    "qs": "ok"
+   }
+  ],
   "bio": [],
-  "confidence": "C",
+  "confidence": "B",
   "full": false,
   "pending": [
    "状元身份（仅见于维基列表，未见正史佐证）",
    "《宋史》卷473《秦桧传》有“奉礼郎冯时行召对，言和议不可信”，可证其人确为宣和以后的士人，但没有言及状元，不能升级；本地《长编》全书检索无此人",
    "史料线B（2026-10-19）：《蜀中广记》卷九十九、《四川通志》称冯时行为“绍兴状元”或“开禧状元”，与名录宣和六年不合（宣和六年状元为沈晦），未升级",
    "线2（2026-10-19）：《登科记考》止于五代中原王朝，未收南唐/辽/金/北宋；此外已复查《辽史》《金史》本纪，未见此人，仍待考证",
-   "线P1（2026-11-01）：宣和六年状元为沈晦；方志「绍兴/开禧状元」说与名录不合，仍C"
+   "线P1（2026-11-01）：宣和六年状元为沈晦；方志「绍兴/开禧状元」说与名录不合，仍C",
+   "线Q1（2026-11-01）：据四川通志/万姓统谱“绍兴状元”升B；名录年宣和六年与沈晦同科冲突，且通志另有开禧状元碑说，未改年。"
   ],
   "disputed": [
    "《文献通考》卷32：宣和六年“省元杨椿，状元沈晦”，与冯时行为状元说不合；本站另有沈晦条（A），冯时行待考证",
-   "lineN1：宣和六年状元为沈晦（本站A）；冯时行方志「绍兴/开禧状元」说与名录不合，仍C"
+   "lineN1：宣和六年状元为沈晦（本站A）；冯时行方志「绍兴/开禧状元」说与名录不合，仍C",
+   "线Q1（2026-11-01）：方志作绍兴（一说开禧）状元；名录系于宣和六年，而是年状元沈晦已A。未改年、未并废沈晦。"
   ],
   "reviewed": true,
   "native_wiki": "绍兴诸暨县人",

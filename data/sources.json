@@ -1138,5 +1138,13 @@
   "era": "民国",
   "type": "笔记",
   "reliability_default": "anecdotal"
+ },
+ {
+  "id": "hhjw",
+  "title": "皇华纪闻",
+  "author": "王士禛",
+  "era": "清",
+  "type": "笔记",
+  "reliability_default": "anecdotal"
  }
 ]

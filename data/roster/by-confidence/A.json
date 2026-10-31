@@ -71,7 +71,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯"
   ],
@@ -491,7 +491,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯"
   ],
@@ -518,7 +518,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯"
   ],
@@ -545,7 +545,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true
@@ -622,7 +622,7 @@
   "year": 969,
   "era": "开宝二年",
   "bang": null,
-  "native": "河南人",
+  "native": "河南（今河南洛阳一带）",
   "wiki_life": "940年－1002年",
   "wiki_note": "子安守亮后亦中状元。",
   "evidence": [
@@ -646,7 +646,21 @@
    "《宋史》本传只作“擢进士甲科”，没有言及第一。",
    "《文献通考·选举考》卷32 明载其为该科榜首/状元，据此由 R 改 A；本传未言第一之处仍保留"
   ],
-  "reviewed": true
+  "reviewed": true,
+  "native_modern": "今河南洛阳一带",
+  "native_src": {
+   "src": "ss",
+   "juan": "440",
+   "quote": "安德裕，字益之，一字師臯，河南人。",
+   "tier": "正史本传",
+   "prec": "府州",
+   "note": "本传「生於真定」为出生地；籍贯取「河南人」府州级",
+   "qs": "ok"
+  },
+  "coord": [
+   34.62,
+   112.45
+  ]
  },
  {
   "id": "bsong-970-zhanggong",
@@ -668,7 +682,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯"
   ],
@@ -695,7 +709,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯"
   ],
@@ -709,7 +723,7 @@
   "year": 972,
   "era": "开宝五年",
   "bang": null,
-  "native": "河南人",
+  "native": "河南（今河南洛阳一带）",
   "wiki_life": "",
   "wiki_note": "父安德裕亦曾中状元。",
   "evidence": [
@@ -728,12 +742,26 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "所载为礼部试，非殿试"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_modern": "今河南洛阳一带",
+  "native_src": {
+   "src": "ss",
+   "juan": "440",
+   "quote": "安德裕，字益之，一字師臯，河南人。",
+   "tier": "正史本传（父安德裕）",
+   "prec": "府州",
+   "note": "据父安德裕《宋史》本传「河南人」；玉芝堂记父子状元；府州级，不落县",
+   "qs": "ok"
+  },
+  "coord": [
+   34.62,
+   112.45
+  ]
  },
  {
   "id": "bsong-973-songzhun",
@@ -1108,7 +1136,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [
    "籍贯：维基名录作“河南汝州人”，《续资治通鉴长编》卷43作“暨，开封人”，本站从《长编》，汝州说待考证"
@@ -1235,7 +1263,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true
@@ -1470,7 +1498,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "《长编》卷93 李焘自注：“王整魏人，登科记云……恐此及第者非魏人，或是贽子”，李焘自己对此人籍贯有疑，待考证"
   ],
@@ -1882,7 +1910,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -1981,7 +2009,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true
@@ -2036,7 +2064,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -2143,7 +2171,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "状元身份（待考证）"
   ],
@@ -2231,7 +2259,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -2257,7 +2285,7 @@
   "year": 1091,
   "era": "元祐六年",
   "bang": null,
-  "native": "四川阆州南部人",
+  "native": "南部（今四川南部）",
   "wiki_life": "？~1126年",
   "wiki_note": "",
   "evidence": [
@@ -2287,7 +2315,21 @@
    "状元身份（正史检索命中，未人工通读）"
   ],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_modern": "今四川南部",
+  "native_src": {
+   "src": "sctz",
+   "juan": "卷29上",
+   "quote": "馬涓墓在南部縣北二十里馬村",
+   "tier": "方志（清修《四川通志》）",
+   "prec": "县",
+   "note": "同书卷23南部县「状元溪…以宋马涓登第而名」互证",
+   "qs": "ok"
+  },
+  "coord": [
+   31.35,
+   106.06
+  ]
  },
  {
   "id": "bsong-1094-bijian",
@@ -2362,7 +2404,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -2401,7 +2443,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯"
   ],
@@ -2487,7 +2529,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -2526,7 +2568,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -2589,7 +2631,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -2628,7 +2670,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "《文献通考》作“何涣”，与名录“何焕”用字不同"
   ],
@@ -3215,7 +3257,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -3260,7 +3302,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [
    "籍贯两说：《万姓统谱》作遂安，《福建通志》作崇安；本站取遂安上图"
@@ -3307,7 +3349,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -3452,7 +3494,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -3639,7 +3681,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -3757,7 +3799,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯"
   ],
@@ -3863,7 +3905,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true
@@ -3924,7 +3966,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -3962,7 +4004,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [
    "籍贯两说：《福建通志》作侯官，《浙江通志》作归安；本站取侯官上图"
@@ -4092,7 +4134,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -4384,7 +4426,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [
    "籍贯",
    "状元身份（正史检索命中，未人工通读）"
@@ -4596,7 +4638,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -5830,7 +5872,7 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
   "reviewed": true,
@@ -6603,7 +6645,7 @@
   "year": 1460,
   "era": "天顺四年",
   "bang": null,
-  "native": "江西南昌府新建县人",
+  "native": "新建（今江西南昌新建区）",
   "wiki_life": "1425年－1487年",
   "wiki_note": "",
   "evidence": [
@@ -6625,10 +6667,24 @@
   ],
   "bio": [],
   "confidence": "A",
-  "full": false,
+  "full": true,
   "pending": [],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_modern": "今江西南昌新建区",
+  "native_src": {
+   "src": "mytz",
+   "juan": "卷49",
+   "quote": "王一䕫復姓謝新建人",
+   "tier": "方志（明《大明一统志》）",
+   "prec": "县",
+   "note": "䕫/夔异体；江西通志卷53亦作「新建人复姓谢」；天顺庚辰廷对第一",
+   "qs": "ok"
+  },
+  "coord": [
+   28.7,
+   115.81
+  ]
  },
  {
   "id": "ming-1464-pengjiao",
@@ -13456,7 +13512,7 @@
    "juan": "卷四",
    "quote": "临桂张建勋（光绪己丑）",
    "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
-   "note": "线N3：未检得实录/本传/题名碑录籍贯原文，仍依《旧典备征》。坐标未改。；线P1（2026-11-01）：未检得实录/本传/题名碑录籍贯原文（清秘述闻续止于光绪丙戌，己丑以后无状元籍贯条；实录传胪无籍贯），仍依《旧典备征》。坐标未改。",
+   "note": "线N3：未检得实录/本传/题名碑录籍贯原文，仍依《旧典备征》。坐标未改。；线P1（2026-11-01）：未检得实录/本传/题名碑录籍贯原文（清秘述闻续止于光绪丙戌，己丑以后无状元籍贯条；实录传胪无籍贯），仍依《旧典备征》。坐标未改。；线Q3（2026-11-01）：复检实录/本传/题名碑录及本地笔记，仍无更优籍贯原文（清秘述闻续止于光绪丙戌；实录传胪无籍贯），仍依《旧典备征》备征。坐标未删。",
    "prec": "县"
   }
  },
@@ -13517,7 +13573,7 @@
    "juan": "卷四",
    "quote": "晋江吴鲁（光绪庚寅）",
    "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
-   "note": "晋江县为泉州府附郭；线N3：未检得实录/本传/题名碑录籍贯原文，仍依《旧典备征》。坐标未改。；线P1（2026-11-01）：未检得实录/本传/题名碑录籍贯原文（清秘述闻续无吴鲁籍贯条；实录传胪无籍贯；通志检索无晋江吴鲁状元原文），仍依《旧典备征》。坐标未改。",
+   "note": "晋江县为泉州府附郭；线N3：未检得实录/本传/题名碑录籍贯原文，仍依《旧典备征》。坐标未改。；线P1（2026-11-01）：未检得实录/本传/题名碑录籍贯原文（清秘述闻续无吴鲁籍贯条；实录传胪无籍贯；通志检索无晋江吴鲁状元原文），仍依《旧典备征》。坐标未改。；线Q3（2026-11-01）：复检实录/本传/题名碑录及本地笔记，仍无更优籍贯原文（清秘/实录无籍贯；通志未见晋江吴鲁状元原文），仍依《旧典备征》备征。坐标未删。",
    "prec": "县"
   }
  },
@@ -13670,7 +13726,7 @@
    "juan": "卷四",
    "quote": "资州骆成骧（光绪乙未）",
    "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
-   "note": "线N3：未检得实录/本传/题名碑录籍贯原文，仍依《旧典备征》。坐标未改。；线P1（2026-11-01）：未检得实录/本传/题名碑录籍贯原文（旧京琐记/清稗仅作「四川骆成骧」，精度低于旧典备征「资州」；实录无籍贯），仍依《旧典备征》。坐标未改。",
+   "note": "线N3：未检得实录/本传/题名碑录籍贯原文，仍依《旧典备征》。坐标未改。；线P1（2026-11-01）：未检得实录/本传/题名碑录籍贯原文（旧京琐记/清稗仅作「四川骆成骧」，精度低于旧典备征「资州」；实录无籍贯），仍依《旧典备征》。坐标未改。；线Q3（2026-11-01）：复检实录/本传/题名碑录及本地笔记，仍无更优籍贯原文（旧京琐记仅「四川骆成骧」，精度低于「资州」），仍依《旧典备征》备征。坐标未删。",
    "prec": "县"
   }
  },
@@ -13731,7 +13787,7 @@
    "juan": "卷四",
    "quote": "麻哈夏同龢（光绪戊戌）",
    "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
-   "note": "清麻哈州即今麻江县；线N3：未检得实录/本传/题名碑录籍贯原文，仍依《旧典备征》。坐标未改。；线P1（2026-11-01）：未检得实录/本传/题名碑录籍贯原文（清稗仅作「贵州夏同龢」，精度低于「麻哈」；实录无籍贯），仍依《旧典备征》。坐标未改。",
+   "note": "清麻哈州即今麻江县；线N3：未检得实录/本传/题名碑录籍贯原文，仍依《旧典备征》。坐标未改。；线P1（2026-11-01）：未检得实录/本传/题名碑录籍贯原文（清稗仅作「贵州夏同龢」，精度低于「麻哈」；实录无籍贯），仍依《旧典备征》。坐标未改。；线Q3（2026-11-01）：复检实录/本传/题名碑录及本地笔记，仍无更优籍贯原文（清稗仅「贵州夏同龢」，精度低于「麻哈」），仍依《旧典备征》备征。坐标未删。",
    "prec": "县"
   }
  },
@@ -13788,12 +13844,13 @@
    119.16
   ],
   "native_src": {
-   "src": "jdbz",
-   "juan": "卷四",
-   "quote": "潍县王寿彭（光绪癸卯）",
-   "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
-   "note": "线N3：未检得实录/本传/题名碑录籍贯原文，仍依《旧典备征》。坐标未改。；线P1（2026-11-01）：未检得实录/本传/题名碑录籍贯原文（谏书稀庵笔记（民国）作「潍县王寿彭」，与旧典备征同级民国笔记，未改换；实录无籍贯），仍依《旧典备征》。坐标未改。",
-   "prec": "县"
+   "src": "jsshan",
+   "juan": "（不分卷）",
+   "quote": "癸卯科，濰縣王壽彭繼得狀元。",
+   "tier": "笔记（民国陈恒庆《谏书稀庵笔记》）",
+   "prec": "县",
+   "note": "线Q3（2026-11-01）：原依民国《旧典备征》；改依《谏书稀庵笔记》「潍县王寿彭」原文（同为民国笔记，但非旧典备征）。实录/题名碑录仍未见籍贯。坐标未改。",
+   "qs": "ok_book"
   }
  },
  {
@@ -13853,7 +13910,7 @@
    "juan": "卷四",
    "quote": "肃宁刘春霖（光绪甲辰）",
    "tier": "笔记（民国朱彭寿《旧典备征》卷四“状元”分省名录）",
-   "note": "线N3：未检得实录/本传/题名碑录籍贯原文，仍依《旧典备征》。坐标未改。；线P1（2026-11-01）：未检得实录/本传/题名碑录籍贯原文（本地未见肃宁籍贯一手原文；实录传胪无籍贯），仍依《旧典备征》。坐标未改。",
+   "note": "线N3：未检得实录/本传/题名碑录籍贯原文，仍依《旧典备征》。坐标未改。；线P1（2026-11-01）：未检得实录/本传/题名碑录籍贯原文（本地未见肃宁籍贯一手原文；实录传胪无籍贯），仍依《旧典备征》。坐标未改。；线Q3（2026-11-01）：复检实录/本传/题名碑录及本地笔记，仍无更优籍贯原文（本地未见肃宁一手原文；实录传胪无籍贯），仍依《旧典备征》备征。坐标未删。",
    "prec": "县"
   }
  }
