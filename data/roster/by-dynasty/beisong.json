@@ -2163,7 +2163,9 @@
   "bio": [],
   "confidence": "A",
   "full": true,
-  "pending": [],
+  "pending": [
+   "线W2（2026-11-01）：宋/明简传→完整传。已升为「正史散见」（完整传）；史源：宋史435冠第+372/375改名；通考状元。置信度未改（A）。"
+  ],
   "disputed": [],
   "reviewed": true,
   "native_wiki": "江西临江人",
@@ -2327,7 +2329,9 @@
   "bio": [],
   "confidence": "A",
   "full": true,
-  "pending": [],
+  "pending": [
+   "线W2（2026-11-01）：宋/明简传→完整传。已升为「正史散见」（完整传）；史源：宋史24安置+475/352伪命；通考状元；浙江通志嘉兴。置信度未改（A）。"
+  ],
   "disputed": [],
   "reviewed": true,
   "native_wiki": "慈利县人",

@@ -1218,5 +1218,13 @@
   "era": "北宋（族谱传本）",
   "type": "族谱题名记（OCR）",
   "reliability_default": "local"
+ },
+ {
+  "id": "mxdyzs",
+  "title": "明清滇人著述书目",
+  "author": "方树梅",
+  "era": "民国",
+  "type": "地方文献书目",
+  "reliability_default": "anecdotal"
  }
 ]

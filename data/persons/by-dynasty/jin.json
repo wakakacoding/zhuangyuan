@@ -1195,7 +1195,10 @@
   "exam": "jin-1197",
   "native": "真定",
   "native_modern": "今河北正定",
-  "coord": null,
+  "coord": [
+   38.15,
+   114.57
+  ],
   "birth": "待考证",
   "death": "待考证",
   "ending": "城陷死节",
@@ -1257,7 +1260,16 @@
   ],
   "zaixiang": false,
   "conflicts": [],
-  "bio_tier": "总集小传"
+  "bio_tier": "总集小传",
+  "native_src": {
+   "src": "zzj",
+   "juan": "卷09",
+   "quote": "著字彦明真定人",
+   "tier": "总集小传（《中州集》）",
+   "prec": "州",
+   "note": "中州集卷9李治中著小传「著字彦明真定人…承安二年经义第一人」；线W3（2026-11-01）",
+   "qs": "ok"
+  }
  },
  {
   "id": "jin-1127-xubi",
@@ -2085,9 +2097,12 @@
   "courtesy": "",
   "dynasty": "金",
   "exam": "jin-1185",
-  "native": "河北沧州",
-  "native_modern": "",
-  "coord": null,
+  "native": "沧州",
+  "native_modern": "今河北沧州",
+  "coord": [
+   38.3,
+   116.84
+  ],
   "birth": "待考证",
   "death": "待考证",
   "ending": "待考证",
@@ -2141,7 +2156,16 @@
   ],
   "zaixiang": false,
   "conflicts": [],
-  "bio_tier": "总集小传"
+  "bio_tier": "总集小传",
+  "native_src": {
+   "src": "zzj",
+   "juan": "卷08",
+   "quote": "沧州徐韪太原王泽大兴吕造",
+   "tier": "总集小传（《中州集》）",
+   "prec": "州",
+   "note": "中州集卷8「沧州徐韪」；山西通志亦记徐韪魁天下与并沧兴学相应；线W3（2026-11-01）",
+   "qs": "ok"
+  }
  },
  {
   "id": "jin-1191-chenzai",
@@ -2205,9 +2229,12 @@
   "courtesy": "字晋臣",
   "dynasty": "金",
   "exam": "jin-1218",
-  "native": "北京",
-  "native_modern": "",
-  "coord": null,
+  "native": "燕山",
+  "native_modern": "今北京",
+  "coord": [
+   39.91,
+   116.39
+  ],
   "birth": "待考证",
   "death": "待考证",
   "ending": "卒于任",
@@ -2261,7 +2288,16 @@
   "conflicts": [
    "《归潜志》作贞祐六年词赋魁；名录系兴定二年"
   ],
-  "bio_tier": "笔记"
+  "bio_tier": "笔记",
+  "native_src": {
+   "src": "gqz",
+   "juan": "卷五",
+   "quote": "张翰林仲安，字晋臣，燕山人，贞祐六年词赋魁也",
+   "tier": "笔记（《归潜志》）",
+   "prec": "路/府",
+   "note": "归潜志卷五「燕山人…贞祐六年词赋魁」；燕山即金中都燕京一带，上图北京；线W3（2026-11-01）",
+   "qs": "ok"
+  }
  },
  {
   "id": "jin-1161-renzhongjie",
@@ -2501,9 +2537,12 @@
   "courtesy": "",
   "dynasty": "金",
   "exam": "jin-1191",
-  "native": "山西阳曲",
-  "native_modern": "",
-  "coord": null,
+  "native": "阳曲",
+  "native_modern": "今山西阳曲",
+  "coord": [
+   38.06,
+   112.67
+  ],
   "birth": "待考证",
   "death": "待考证",
   "ending": "待考证",
@@ -2546,7 +2585,16 @@
   ],
   "zaixiang": false,
   "conflicts": [],
-  "bio_tier": "正史散见"
+  "bio_tier": "正史散见",
+  "native_src": {
+   "src": "sxtz",
+   "juan": "卷065",
+   "quote": "王泽阳曲人翰林应奉是年登龙飞榜者学籍凡七人王泽首冠多士",
+   "tier": "地方志（《山西通志》选举）",
+   "prec": "县",
+   "note": "山西通志卷65明昌二年进士「王泽阳曲人…首冠多士」；中州集卷8称「太原王泽」为府级称谓，与阳曲属并州合；线W3（2026-11-01）",
+   "qs": "ok"
+  }
  },
  {
   "id": "jin-1128-zhaodong",
@@ -2821,9 +2869,12 @@
   "courtesy": "",
   "dynasty": "金",
   "exam": "jin-1197",
-  "native": "",
-  "native_modern": "",
-  "coord": null,
+  "native": "大兴",
+  "native_modern": "今北京大兴",
+  "coord": [
+   39.73,
+   116.34
+  ],
   "birth": "待考证",
   "death": "待考证",
   "ending": "待考证",
@@ -2857,7 +2908,16 @@
   ],
   "zaixiang": false,
   "conflicts": [],
-  "bio_tier": "简传"
+  "bio_tier": "简传",
+  "native_src": {
+   "src": "zzj",
+   "juan": "卷08",
+   "quote": "沧州徐韪太原王泽大兴吕造",
+   "tier": "总集小传（《中州集》）",
+   "prec": "县",
+   "note": "中州集卷8「大兴吕造」与徐韪、王泽并列称其经指授成大名；线W3（2026-11-01）",
+   "qs": "ok"
+  }
  },
  {
   "id": "jin-1213-huangshang",
