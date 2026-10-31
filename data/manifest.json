@@ -5,7 +5,7 @@
  "license_url": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "状元录（https://wakakacoding.github.io/zhuangyuan/）",
  "counts": {
-  "roster": 666,
+  "roster": 663,
   "persons": 649,
   "relations": 403,
   "sources": 149
@@ -14,14 +14,14 @@
  "files": [
   {
    "path": "data/roster.json",
-   "n": 666,
+   "n": 663,
    "format": "json",
    "what": "名录",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster.json"
   },
   {
    "path": "data/roster.csv",
-   "n": 666,
+   "n": 663,
    "format": "csv",
    "what": "名录",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster.csv"
@@ -63,7 +63,7 @@
   },
   {
    "path": "data/excluded.json",
-   "n": 1,
+   "n": 4,
    "format": "json",
    "what": "已排除条目",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/excluded.json"
@@ -84,14 +84,14 @@
   },
   {
    "path": "data/roster/by-dynasty/wudai.json",
-   "n": 30,
+   "n": 29,
    "format": "json",
    "what": "名录（按朝代：五代）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster/by-dynasty/wudai.json"
   },
   {
    "path": "data/roster/by-dynasty/wudai.csv",
-   "n": 30,
+   "n": 29,
    "format": "csv",
    "what": "名录（按朝代：五代）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster/by-dynasty/wudai.csv"
@@ -140,14 +140,14 @@
   },
   {
    "path": "data/roster/by-dynasty/jin.json",
-   "n": 60,
+   "n": 58,
    "format": "json",
    "what": "名录（按朝代：金）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster/by-dynasty/jin.json"
   },
   {
    "path": "data/roster/by-dynasty/jin.csv",
-   "n": 60,
+   "n": 58,
    "format": "csv",
    "what": "名录（按朝代：金）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster/by-dynasty/jin.csv"
@@ -224,28 +224,28 @@
   },
   {
    "path": "data/roster/by-confidence/R.json",
-   "n": 22,
+   "n": 24,
    "format": "json",
    "what": "名录（按可信度：R 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster/by-confidence/R.json"
   },
   {
    "path": "data/roster/by-confidence/R.csv",
-   "n": 22,
+   "n": 24,
    "format": "csv",
    "what": "名录（按可信度：R 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster/by-confidence/R.csv"
   },
   {
    "path": "data/roster/by-confidence/C.json",
-   "n": 14,
+   "n": 9,
    "format": "json",
    "what": "名录（按可信度：C 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster/by-confidence/C.json"
   },
   {
    "path": "data/roster/by-confidence/C.csv",
-   "n": 14,
+   "n": 9,
    "format": "csv",
    "what": "名录（按可信度：C 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/roster/by-confidence/C.csv"
@@ -406,28 +406,28 @@
   },
   {
    "path": "data/persons/by-confidence/R.json",
-   "n": 22,
+   "n": 24,
    "format": "json",
    "what": "完整传记（按可信度：R 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-confidence/R.json"
   },
   {
    "path": "data/persons/by-confidence/R.csv",
-   "n": 22,
+   "n": 24,
    "format": "csv",
    "what": "完整传记（按可信度：R 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-confidence/R.csv"
   },
   {
    "path": "data/persons/by-confidence/C.json",
-   "n": 4,
+   "n": 2,
    "format": "json",
    "what": "完整传记（按可信度：C 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-confidence/C.json"
   },
   {
    "path": "data/persons/by-confidence/C.csv",
-   "n": 4,
+   "n": 2,
    "format": "csv",
    "what": "完整传记（按可信度：C 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-confidence/C.csv"
