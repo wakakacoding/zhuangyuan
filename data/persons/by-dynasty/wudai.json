@@ -471,9 +471,12 @@
   "courtesy": "",
   "dynasty": "五代",
   "exam": "wudai-925",
-  "native": "山东临沂",
-  "native_modern": "",
-  "coord": null,
+  "native": "莘县",
+  "native_modern": "今山东莘县",
+  "coord": [
+   36.24,
+   115.67
+  ],
   "birth": "待考证",
   "death": "待考证",
   "ending": "待考证",
@@ -518,7 +521,16 @@
   ],
   "zaixiang": false,
   "conflicts": [],
-  "bio_tier": "政书"
+  "bio_tier": "政书",
+  "native_src": {
+   "src": "ss",
+   "juan": "282",
+   "quote": "王旦字子明大名莘人",
+   "tier": "正史本传（孙王旦）",
+   "prec": "县",
+   "note": "玉芝堂谈荟「同光中状元王彻」注「旦之曾祖」定本人；宋史旦传「祖彻，左拾遗」「大名莘人」（祖/曾祖异文不碍身份）；山东通志「莘县人唐进士右拾遗」职官合。名录旧「琅邪临沂」属郡望，改落莘县；线X3（2026-11-01）",
+   "qs": "ok"
+  }
  },
  {
   "id": "wudai-920-jianwenhui",

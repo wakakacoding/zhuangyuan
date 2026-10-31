@@ -1182,7 +1182,7 @@
   "year": 1220,
   "era": "嘉定十三年",
   "bang": null,
-  "native": "",
+  "native": "金华（今浙江金华）",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [
@@ -1204,7 +1204,21 @@
   "full": true,
   "pending": [],
   "disputed": [],
-  "reviewed": true
+  "reviewed": true,
+  "native_modern": "今浙江金华",
+  "native_src": {
+   "src": "zjtz",
+   "juan": "卷279",
+   "quote": "嘉定庚辰状元金華劉渭",
+   "tier": "地方志（《浙江通志》引金华府志）",
+   "prec": "县",
+   "note": "浙江通志卷279引金华府志「宁宗嘉定庚辰状元金华刘渭」明示状元籍；选举卷象山刘渭无状元/庚辰标识，属同名另人，不构成互歧；线X3（2026-11-01）",
+   "qs": "ok"
+  },
+  "coord": [
+   29.11,
+   119.65
+  ]
  },
  {
   "id": "nsong-1223-jiangzhongzhen",

@@ -1226,5 +1226,13 @@
   "era": "民国",
   "type": "地方文献书目",
   "reliability_default": "anecdotal"
+ },
+ {
+  "id": "sgxfyyj",
+  "title": "十六国宪法议院法渊鉴",
+  "author": "骆成骧等",
+  "era": "清光绪",
+  "type": "编译书序",
+  "reliability_default": "anecdotal"
  }
 ]
