@@ -6,7 +6,7 @@
  "attribution": "状元录（https://wakakacoding.github.io/zhuangyuan/）",
  "counts": {
   "roster": 663,
-  "persons": 649,
+  "persons": 657,
   "relations": 403,
   "sources": 149
  },
@@ -28,14 +28,14 @@
   },
   {
    "path": "data/persons.json",
-   "n": 649,
+   "n": 657,
    "format": "json",
    "what": "完整传记",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons.json"
   },
   {
    "path": "data/persons.csv",
-   "n": 649,
+   "n": 657,
    "format": "csv",
    "what": "完整传记摘要",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons.csv"
@@ -49,7 +49,7 @@
   },
   {
    "path": "data/exams.json",
-   "n": 615,
+   "n": 623,
    "format": "json",
    "what": "科次",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/exams.json"
@@ -252,28 +252,28 @@
   },
   {
    "path": "data/persons/by-dynasty/tang.json",
-   "n": 161,
+   "n": 163,
    "format": "json",
    "what": "完整传记（按朝代：唐）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-dynasty/tang.json"
   },
   {
    "path": "data/persons/by-dynasty/tang.csv",
-   "n": 161,
+   "n": 163,
    "format": "csv",
    "what": "完整传记（按朝代：唐）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-dynasty/tang.csv"
   },
   {
    "path": "data/persons/by-dynasty/wudai.json",
-   "n": 27,
+   "n": 28,
    "format": "json",
    "what": "完整传记（按朝代：五代）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-dynasty/wudai.json"
   },
   {
    "path": "data/persons/by-dynasty/wudai.csv",
-   "n": 27,
+   "n": 28,
    "format": "csv",
    "what": "完整传记（按朝代：五代）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-dynasty/wudai.csv"
@@ -308,28 +308,28 @@
   },
   {
    "path": "data/persons/by-dynasty/liao.json",
-   "n": 55,
+   "n": 56,
    "format": "json",
    "what": "完整传记（按朝代：辽）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-dynasty/liao.json"
   },
   {
    "path": "data/persons/by-dynasty/liao.csv",
-   "n": 55,
+   "n": 56,
    "format": "csv",
    "what": "完整传记（按朝代：辽）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-dynasty/liao.csv"
   },
   {
    "path": "data/persons/by-dynasty/jin.json",
-   "n": 51,
+   "n": 55,
    "format": "json",
    "what": "完整传记（按朝代：金）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-dynasty/jin.json"
   },
   {
    "path": "data/persons/by-dynasty/jin.csv",
-   "n": 51,
+   "n": 55,
    "format": "csv",
    "what": "完整传记（按朝代：金）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-dynasty/jin.csv"
@@ -392,14 +392,14 @@
   },
   {
    "path": "data/persons/by-confidence/B.json",
-   "n": 289,
+   "n": 296,
    "format": "json",
    "what": "完整传记（按可信度：B 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-confidence/B.json"
   },
   {
    "path": "data/persons/by-confidence/B.csv",
-   "n": 289,
+   "n": 296,
    "format": "csv",
    "what": "完整传记（按可信度：B 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-confidence/B.csv"
@@ -420,14 +420,14 @@
   },
   {
    "path": "data/persons/by-confidence/C.json",
-   "n": 2,
+   "n": 3,
    "format": "json",
    "what": "完整传记（按可信度：C 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-confidence/C.json"
   },
   {
    "path": "data/persons/by-confidence/C.csv",
-   "n": 2,
+   "n": 3,
    "format": "csv",
    "what": "完整传记（按可信度：C 档）",
    "url": "https://wakakacoding.github.io/zhuangyuan/data/persons/by-confidence/C.csv"
