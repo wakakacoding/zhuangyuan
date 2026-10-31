@@ -1,1070 +1,1110 @@
 [
- {
-  "id": "jts",
-  "title": "旧唐书",
-  "author": "刘昫等",
-  "era": "后晋",
-  "type": "正史",
-  "reliability_default": "official"
- },
- {
-  "id": "xts",
-  "title": "新唐书",
-  "author": "欧阳修、宋祁",
-  "era": "北宋",
-  "type": "正史",
-  "reliability_default": "official"
- },
- {
-  "id": "dkjk",
-  "title": "登科记考",
-  "author": "徐松",
-  "era": "清",
-  "type": "登科录考订",
-  "reliability_default": "official"
- },
- {
-  "id": "ss",
-  "title": "宋史",
-  "author": "脱脱等",
-  "era": "元",
-  "type": "正史",
-  "reliability_default": "official"
- },
- {
-  "id": "wsxqj",
-  "title": "文山先生全集（含《指南录》《指南后录》）",
-  "author": "文天祥",
-  "era": "南宋",
-  "type": "别集",
-  "reliability_default": "official"
- },
- {
-  "id": "mxj",
-  "title": "梅溪集",
-  "author": "王十朋",
-  "era": "南宋",
-  "type": "别集",
-  "reliability_default": "official"
- },
- {
-  "id": "yhj",
-  "title": "于湖居士文集",
-  "author": "张孝祥",
-  "era": "南宋",
-  "type": "别集",
-  "reliability_default": "official"
- },
- {
-  "id": "ms",
-  "title": "明史",
-  "author": "张廷玉等",
-  "era": "清",
-  "type": "正史",
-  "reliability_default": "official"
- },
- {
-  "id": "qsg",
-  "title": "清史稿",
-  "author": "赵尔巽等",
-  "era": "民国",
-  "type": "正史（未定稿）",
-  "reliability_default": "official"
- },
- {
-  "id": "wthrj",
-  "title": "翁同龢日记",
-  "author": "翁同龢",
-  "era": "清",
-  "type": "日记",
-  "reliability_default": "official"
- },
- {
-  "id": "zjqj",
-  "title": "张謇全集",
-  "author": "张謇著，张謇研究中心等编",
-  "era": "现代整理本",
-  "type": "全集",
-  "reliability_default": "official"
- },
- {
-  "id": "zxrz",
-  "title": "南通张季直先生传记",
-  "author": "张孝若",
-  "era": "民国",
-  "type": "传记",
-  "reliability_default": "official"
- },
- {
-  "id": "jcj",
-  "title": "荆钗记",
-  "author": "旧题柯丹邱",
-  "era": "元明",
-  "type": "戏曲",
-  "reliability_default": "legend"
- },
- {
-  "id": "pyj",
-  "title": "吕蒙正风雪破窑记（破窑记）",
-  "author": "王实甫（一说）",
-  "era": "元",
-  "type": "杂剧",
-  "reliability_default": "legend"
- },
- {
-  "id": "ys",
-  "title": "元史",
-  "author": "宋濂等",
-  "era": "明",
-  "type": "正史",
-  "reliability_default": "official"
- },
- {
-  "id": "nhh",
-  "title": "孽海花",
-  "author": "曾朴",
-  "era": "清末",
-  "type": "小说",
-  "reliability_default": "legend"
- },
- {
-  "id": "tzy",
-  "title": "唐摭言",
-  "author": "王定保",
-  "era": "五代",
-  "type": "笔记（唐代科举掌故）",
-  "reliability_default": "biji"
- },
- {
-  "id": "jwds",
-  "title": "旧五代史",
-  "author": "薛居正等",
-  "era": "北宋",
-  "type": "正史",
-  "reliability_default": "official"
- },
- {
-  "id": "xwds",
-  "title": "新五代史",
-  "author": "欧阳修",
-  "era": "北宋",
-  "type": "正史",
-  "reliability_default": "official"
- },
- {
-  "id": "lsh",
-  "title": "辽史",
-  "author": "脱脱等",
-  "era": "元",
-  "type": "正史",
-  "reliability_default": "official"
- },
- {
-  "id": "jsh",
-  "title": "金史",
-  "author": "脱脱等",
-  "era": "元",
-  "type": "正史",
-  "reliability_default": "official"
- },
- {
-  "id": "zhwiki",
-  "title": "中国状元列表（中文维基百科）",
-  "author": "维基百科编者",
-  "era": "当代",
-  "type": "线索名录（非原始史料）",
-  "reliability_default": "legend"
- },
- {
-  "id": "qts",
-  "title": "全唐诗",
-  "author": "彭定求等",
-  "era": "清",
-  "type": "总集（诗人小传）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "qtw",
-  "title": "全唐文",
-  "author": "董诰等",
-  "era": "清",
-  "type": "总集（作者小传）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "tsjs",
-  "title": "唐诗纪事",
-  "author": "计有功",
-  "era": "南宋",
-  "type": "笔记/诗话",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "tczz",
-  "title": "唐才子传",
-  "author": "辛文房",
-  "era": "元",
-  "type": "传记（笔记性质）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "wxtk",
-  "title": "文献通考（选举考）",
-  "author": "马端临",
-  "era": "元",
-  "type": "政书",
-  "reliability_default": "official"
- },
- {
-  "id": "xzztcb",
-  "title": "续资治通鉴长编",
-  "author": "李焘",
-  "era": "南宋",
-  "type": "编年史",
-  "reliability_default": "official"
- },
- {
-  "id": "dJgz",
-  "title": "大金国志",
-  "author": "宇文懋昭（旧题）",
-  "era": "南宋",
-  "type": "杂史",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "qdgz",
-  "title": "契丹国志",
-  "author": "叶隆礼（旧题）",
-  "era": "南宋",
-  "type": "杂史",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "cfyg",
-  "title": "册府元龟（贡举部）",
-  "author": "王钦若等",
-  "era": "北宋",
-  "type": "类书",
-  "reliability_default": "official"
- },
- {
-  "id": "wdhy",
-  "title": "五代会要",
-  "author": "王溥",
-  "era": "北宋",
-  "type": "政书",
-  "reliability_default": "official"
- },
- {
-  "id": "thy",
-  "title": "唐会要",
-  "author": "王溥",
-  "era": "北宋",
-  "type": "政书",
-  "reliability_default": "official"
- },
- {
-  "id": "gqz",
-  "title": "归潜志",
-  "author": "刘祁",
-  "era": "元初",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "zzj",
-  "title": "中州集",
-  "author": "元好问",
-  "era": "金末元初",
-  "type": "总集（作者小传）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "ayj",
-  "title": "安阳集",
-  "author": "韩琦",
-  "era": "北宋",
-  "type": "别集（墓志）",
-  "reliability_default": "official"
- },
- {
-  "id": "hlj",
-  "title": "海陵集",
-  "author": "周麟之",
-  "era": "南宋",
-  "type": "别集（墓志）",
-  "reliability_default": "official"
- },
- {
-  "id": "cyyj",
-  "title": "朝野遗记",
-  "author": "佚名",
-  "era": "南宋",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "jxc",
-  "title": "稼轩词",
-  "author": "辛弃疾",
-  "era": "南宋",
-  "type": "文集",
-  "reliability_default": "primary"
- },
- {
-  "id": "xzzt",
-  "title": "续资治通鉴（冯集梧序）",
-  "author": "毕沅撰、冯集梧序",
-  "era": "清",
-  "type": "史书序跋",
-  "reliability_default": "primary"
- },
- {
-  "id": "jsdy",
-  "title": "焦氏澹园集",
-  "author": "焦竑",
-  "era": "明",
-  "type": "文集",
-  "reliability_default": "primary"
- },
- {
-  "id": "mbsg",
-  "title": "毛宗岗评本三国演义",
-  "author": "罗贯中著、毛纶毛宗岗评",
-  "era": "清",
-  "type": "小说",
-  "reliability_default": "legend"
- },
- {
-  "id": "tyl",
-  "title": "唐语林",
-  "author": "王谠",
-  "era": "北宋",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "bmsy",
-  "title": "北梦琐言",
-  "author": "孙光宪",
-  "era": "五代宋初",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "msyt",
-  "title": "渑水燕谈录",
-  "author": "王辟之",
-  "era": "北宋",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "ssjw",
-  "title": "涑水记闻",
-  "author": "司马光",
-  "era": "北宋",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "hlyl",
-  "title": "鹤林玉露",
-  "author": "罗大经",
-  "era": "南宋",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "yhqh",
-  "title": "玉壶清话",
-  "author": "释文莹",
-  "era": "北宋",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "wlyhb",
-  "title": "万历野获编",
-  "author": "沈德符",
-  "era": "明",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "xtzl",
-  "title": "啸亭杂录",
-  "author": "昭梿",
-  "era": "清",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "xtxl",
-  "title": "啸亭续录",
-  "author": "昭梿",
-  "era": "清",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "slyy",
-  "title": "石林燕语",
-  "author": "叶梦得",
-  "era": "南宋",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "qbzz",
-  "title": "清波杂志",
-  "author": "周煇",
-  "era": "南宋",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "lxabj",
-  "title": "老学庵笔记",
-  "author": "陆游",
-  "era": "南宋",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "rzsb",
-  "title": "容斋随笔",
-  "author": "洪迈",
-  "era": "南宋",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "mxbt",
-  "title": "梦溪笔谈",
-  "author": "沈括",
-  "era": "北宋",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "gxzs",
-  "title": "癸辛杂识",
-  "author": "周密",
-  "era": "宋末元初",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "qdyy",
-  "title": "齐东野语",
-  "author": "周密",
-  "era": "宋末元初",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "ncgl",
-  "title": "南村辍耕录",
-  "author": "陶宗仪",
-  "era": "元末明初",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "syzj",
-  "title": "菽园杂记",
-  "author": "陆容",
-  "era": "明",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "cbot",
-  "title": "池北偶谈",
-  "author": "王士禛",
-  "era": "清",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "lqjw",
-  "title": "郎潜纪闻",
-  "author": "陈康祺",
-  "era": "清",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "xzl",
-  "title": "国朝献征录",
-  "author": "焦竑",
-  "era": "明",
-  "type": "传记汇编（收明人所撰传、墓志、行状）",
-  "reliability_default": "primary"
- },
- {
-  "id": "nbxs",
-  "title": "南部新书",
-  "author": "钱易",
-  "era": "北宋",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "lpjw",
-  "title": "郎潜纪闻",
-  "author": "陈康祺",
-  "era": "清",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "wqysh",
-  "title": "晚晴簃诗汇",
-  "author": "徐世昌编",
-  "year": "1929",
-  "type": "总集",
-  "url": "https://zh.wikisource.org/wiki/晚晴簃詩匯"
- },
- {
-  "id": "lcsj",
-  "title": "列朝诗集",
-  "author": "钱谦益编",
-  "year": "1652",
-  "type": "总集",
-  "url": "https://zh.wikisource.org/wiki/列朝詩集"
- },
- {
-  "id": "dlwj",
-  "title": "东里文集",
-  "author": "杨士奇",
-  "year": "明",
-  "type": "别集",
-  "url": "https://zh.wikisource.org/wiki/東里文集_(四庫全書本)"
- },
- {
-  "id": "dlxj",
-  "title": "东里续集",
-  "author": "杨士奇",
-  "year": "明",
-  "type": "别集",
-  "url": "https://zh.wikisource.org/wiki/東里續集_(四庫全書本)"
- },
- {
-  "id": "ystbj",
-  "title": "弇山堂别集",
-  "author": "王世贞",
-  "era": "明",
-  "type": "杂史（史部；含科试考、职官表）",
-  "url": "https://zh.wikisource.org/wiki/弇山堂別集_(四庫全書本)"
- },
- {
-  "id": "skzm",
-  "title": "四库全书总目提要",
-  "author": "纪昀等",
-  "era": "清",
-  "type": "官修目录（史部目录类）",
-  "url": "https://zh.wikisource.org/wiki/四庫全書總目提要"
- },
- {
-  "id": "zlzz",
-  "title": "枣林杂俎",
-  "author": "谈迁",
-  "era": "明末清初",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "tsbc",
-  "title": "谈氏笔乘",
-  "author": "谈迁",
-  "era": "明末清初",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "jyjsj",
-  "title": "寄园寄所寄",
-  "author": "赵吉士",
-  "era": "清",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "llzs",
-  "title": "冷庐杂识",
-  "author": "陆以湉",
-  "era": "清",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "lcsy",
-  "title": "御选历代诗余（四库全书本）",
-  "author": "沈辰垣等奉敕编",
-  "era": "清",
-  "type": "词话总集（转引宋人笔记）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "yzsbg",
-  "title": "弇州四部稿（四库全书本）",
-  "author": "王世贞",
-  "era": "明",
-  "type": "别集",
-  "reliability_default": "primary"
- },
- {
-  "id": "hbj",
-  "title": "洪北江诗文集（四部丛刊本）",
-  "author": "洪亮吉",
-  "era": "清",
-  "type": "别集",
-  "reliability_default": "primary"
- },
- {
-  "id": "dzsl",
-  "title": "德宗景皇帝实录",
-  "author": "清国史馆等",
-  "era": "清",
-  "type": "实录",
-  "reliability_default": "official"
- },
- {
-  "id": "qdskl",
-  "title": "清代殿试考略",
-  "author": "傅增湘",
-  "era": "民国",
-  "type": "掌故考订（1933）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "hcwxtk",
-  "title": "皇朝文献通考（四库全书本）",
-  "author": "乾隆敕撰（张廷玉等）",
-  "era": "清",
-  "type": "政书（官修，经籍考）",
-  "reliability_default": "official",
-  "url": "https://zh.wikisource.org/wiki/皇朝文獻通考_(四庫全書本)"
- },
- {
-  "id": "ywmj",
-  "title": "杨文敏集",
-  "author": "杨荣",
-  "era": "明",
-  "type": "别集（收《进士题名记》）",
-  "url": "https://zh.wikisource.org/wiki/楊文敏集"
- },
- {
-  "id": "wdwcxj",
-  "title": "吴都文粹续集（四库全书本）",
-  "author": "钱谷 编",
-  "era": "明",
-  "type": "总集（收钱溥《施君宗铭改葬铭》）",
-  "url": "https://zh.wikisource.org/wiki/吳都文粹續集_(四庫全書本)"
- },
- {
-  "id": "yztth",
-  "title": "玉芝堂谈荟",
-  "author": "徐应秋",
-  "era": "明",
-  "type": "笔记（杂纂，四库本）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "sdtz",
-  "title": "山东通志",
-  "author": "岳濬等监修",
-  "era": "清",
-  "type": "方志（雍正，四库本）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "sxtz",
-  "title": "山西通志",
-  "author": "觉罗石麟等监修",
-  "era": "清",
-  "type": "方志（雍正，四库本）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "hntz",
-  "title": "河南通志",
-  "author": "田文镜等监修",
-  "era": "清",
-  "type": "方志（雍正，四库本）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "jntz",
-  "title": "江南通志",
-  "author": "赵弘恩等监修",
-  "era": "清",
-  "type": "方志（乾隆，四库本）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "jxtz",
-  "title": "江西通志",
-  "author": "谢旻等监修",
-  "era": "清",
-  "type": "方志（雍正，四库本）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "gdtz",
-  "title": "广东通志",
-  "author": "郝玉麟等监修",
-  "era": "清",
-  "type": "方志（雍正，四库本）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "sctz",
-  "title": "四川通志",
-  "author": "黄廷桂等监修",
-  "era": "清",
-  "type": "方志（雍正，四库本）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "mytz",
-  "title": "明一统志",
-  "author": "李贤等",
-  "era": "明",
-  "type": "地理总志（四库本）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "fysl",
-  "title": "方舆胜览",
-  "author": "祝穆",
-  "era": "南宋",
-  "type": "地理总志（四库本）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "jdjkz",
-  "title": "景定建康志",
-  "author": "周应合",
-  "era": "南宋",
-  "type": "方志（四库本）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "xyjz",
-  "title": "续夷坚志",
-  "author": "元好问",
-  "era": "金",
-  "type": "笔记",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "tpgj",
-  "title": "太平广记",
-  "author": "李昉等",
-  "era": "北宋",
-  "type": "类书（四库本）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "yldd",
-  "title": "永乐大典",
-  "author": "解缙等",
-  "era": "明",
-  "type": "类书",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "mlnts",
-  "title": "马氏南唐书",
-  "author": "马令",
-  "era": "北宋",
-  "type": "杂史",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "jnyz",
-  "title": "江南余载",
-  "author": "佚名",
-  "era": "北宋",
-  "type": "杂史（四库本）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "pwzshp",
-  "title": "御定佩文斋书画谱",
-  "author": "孙岳颁等",
-  "era": "清",
-  "type": "类书（书画，四库本）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "smbmhb",
-  "title": "三朝北盟会编",
-  "author": "徐梦莘",
-  "era": "南宋",
-  "type": "杂史（编年体）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "jylczyzj",
-  "title": "建炎以来朝野杂记",
-  "author": "李心传",
-  "era": "南宋",
-  "type": "杂史（典制）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "lhdjz",
-  "title": "柳河东集注",
-  "author": "柳宗元撰，宋人注",
-  "era": "唐",
-  "type": "文集（宋人注本，四库本）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "hysj",
-  "title": "黄御史集",
-  "author": "黄滔",
-  "era": "唐",
-  "type": "文集（别集，四库本）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "zjtz",
-  "title": "浙江通志",
-  "author": "嵇曾筠等监修",
-  "era": "清",
-  "type": "方志（雍正，四库本）",
-  "reliability_default": "anecdotal",
-  "url": "https://zh.wikisource.org/wiki/浙江通志_(四庫全書本)"
- },
- {
-  "id": "fjtz",
-  "title": "福建通志",
-  "author": "郝玉麟等监修",
-  "era": "清",
-  "type": "方志（乾隆，四库本）",
-  "reliability_default": "anecdotal",
-  "url": "https://zh.wikisource.org/wiki/福建通志_(四庫全書本)"
- },
- {
-  "id": "jftz",
-  "title": "畿辅通志",
-  "author": "李卫等监修",
-  "era": "清",
-  "type": "方志（雍正，四库本）",
-  "reliability_default": "anecdotal",
-  "url": "https://zh.wikisource.org/wiki/畿輔通志_(四庫全書本)"
- },
- {
-  "id": "wxtp",
-  "title": "万姓统谱",
-  "author": "凌迪知",
-  "era": "明",
-  "type": "类书（四库本）",
-  "reliability_default": "anecdotal",
-  "url": "https://zh.wikisource.org/wiki/萬姓統譜_(四庫全書本)"
- },
- {
-  "id": "sgcq",
-  "title": "十国春秋",
-  "author": "吴任臣",
-  "era": "清",
-  "type": "史书（四库本）",
-  "reliability_default": "anecdotal",
-  "url": "https://zh.wikisource.org/wiki/十國春秋_(四庫全書本)"
- },
- {
-  "id": "hlnj",
-  "title": "翰林记",
-  "author": "黄佐",
-  "era": "明",
-  "type": "职官掌故（四库本）",
-  "reliability_default": "anecdotal",
-  "url": "https://zh.wikisource.org/wiki/翰林記_(四庫全書本)"
- },
- {
-  "id": "gjtsjc",
-  "title": "钦定古今图书集成",
-  "author": "陈梦雷、蒋廷锡等",
-  "era": "清",
-  "type": "类书（选举典、庶徵典引《明状元事略》等）",
-  "reliability_default": "anecdotal",
-  "url": "https://zh.wikisource.org/wiki/欽定古今圖書集成"
- },
- {
-  "id": "jdbz",
-  "title": "旧典备征",
-  "author": "朱彭寿",
-  "era": "民国",
-  "type": "掌故笔记（卷四清代状元分省名录）",
-  "reliability_default": "anecdotal",
-  "url": "https://zh.wikisource.org/wiki/舊典備征"
- },
- {
-  "id": "lynts",
-  "title": "陆氏南唐书",
-  "author": "陆游",
-  "era": "南宋",
-  "type": "杂史（纪传体，私修）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "stzsl",
-  "title": "世祖章皇帝实录",
-  "author": "清国史馆等（康熙间纂修）",
-  "era": "清",
-  "type": "实录（官修编年；据识典古籍《清实录》录文）",
-  "reliability_default": "official",
-  "url": "https://www.shidianguji.com/book/LS0027"
- },
- {
-  "id": "szrsl",
-  "title": "圣祖仁皇帝实录",
-  "author": "清国史馆等（雍正间纂修）",
-  "era": "清",
-  "type": "实录（官修编年；据识典古籍、维基文库《清实录》录文）",
-  "reliability_default": "official",
-  "url": "https://www.shidianguji.com/book/LS0027"
- },
- {
-  "id": "sxsl",
-  "title": "世宗宪皇帝实录",
-  "author": "清国史馆等（乾隆间纂修）",
-  "era": "清",
-  "type": "实录（官修编年；据识典古籍《清实录》录文）",
-  "reliability_default": "official",
-  "url": "https://www.shidianguji.com/book/LS0027"
- },
- {
-  "id": "gzsl",
-  "title": "高宗纯皇帝实录",
-  "author": "清国史馆等（嘉庆间纂修）",
-  "era": "清",
-  "type": "实录（官修编年；据识典古籍、维基文库《清实录》录文）",
-  "reliability_default": "official",
-  "url": "https://www.shidianguji.com/book/LS0027"
- },
- {
-  "id": "rzsl",
-  "title": "仁宗睿皇帝实录",
-  "author": "清国史馆等（道光间纂修）",
-  "era": "清",
-  "type": "实录（官修编年；据维基文库、识典古籍《清实录》录文）",
-  "reliability_default": "official",
-  "url": "https://zh.wikisource.org/wiki/清實錄"
- },
- {
-  "id": "xzsl",
-  "title": "宣宗成皇帝实录",
-  "author": "清国史馆等（咸丰间纂修）",
-  "era": "清",
-  "type": "实录（官修编年；据维基文库《清实录》录文）",
-  "reliability_default": "official",
-  "url": "https://zh.wikisource.org/wiki/清實錄"
- },
- {
-  "id": "wzsl",
-  "title": "文宗显皇帝实录",
-  "author": "清国史馆等（同治间纂修）",
-  "era": "清",
-  "type": "实录（官修编年；据识典古籍《清实录》录文）",
-  "reliability_default": "official",
-  "url": "https://www.shidianguji.com/book/LS0027"
- },
- {
-  "id": "mzsl",
-  "title": "穆宗毅皇帝实录",
-  "author": "清国史馆等（光绪间纂修）",
-  "era": "清",
-  "type": "实录（官修编年；据识典古籍《清实录》录文）",
-  "reliability_default": "official",
-  "url": "https://www.shidianguji.com/book/LS0027"
- },
- {
-  "id": "gurj",
-  "title": "古穰集（四库全书本）",
-  "author": "李贤",
-  "era": "明",
-  "type": "别集（收天顺四年《进士题名记》，同时代题名记）",
-  "reliability_default": "primary",
-  "url": "https://zh.wikisource.org/wiki/古穰集_(四庫全書本)"
- },
- {
-  "id": "qmsw",
-  "title": "清秘述闻",
-  "author": "法式善原编，钱维福重校",
-  "era": "清",
-  "type": "科举掌故汇编（清人据题名录等编）",
-  "reliability_default": "anecdotal",
-  "url": "https://www.shidianguji.com/book/CADAL02097002"
- },
- {
-  "id": "qmswx",
-  "title": "清秘述闻续",
-  "author": "王家相",
-  "era": "清",
-  "type": "科举掌故汇编（续《清秘述闻》）",
-  "reliability_default": "anecdotal",
-  "url": "https://www.shidianguji.com/book/CADAL11202250"
- },
- {
-  "id": "dgclj",
-  "title": "殿阁词林记",
-  "author": "廖道南",
-  "era": "明",
-  "type": "杂传（明代翰林、内阁人物传记，四库本）",
-  "reliability_default": "primary"
- },
- {
-  "id": "lbzg",
-  "title": "礼部志稿",
-  "author": "林尧俞等",
-  "era": "明",
-  "type": "官修政书（礼部历官表、传，四库本）",
-  "reliability_default": "primary"
- },
- {
-  "id": "hgtz",
-  "title": "湖广通志",
-  "author": "迈柱等监修",
-  "era": "清",
-  "type": "方志（雍正，四库本）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "qblc",
-  "title": "清稗类钞",
-  "author": "徐珂",
-  "era": "民国",
-  "type": "笔记（掌故类编）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "hxscj",
-  "title": "汉学师承记",
-  "author": "江藩",
-  "era": "清",
-  "type": "杂传（清代经学家传记）",
-  "reliability_default": "primary"
- },
- {
-  "id": "gxtz",
-  "title": "广西通志",
-  "author": "金鉷等监修",
-  "era": "清",
-  "type": "方志（雍正，四库本）",
-  "reliability_default": "anecdotal"
- },
- {
-  "id": "cxssz",
-  "title": "淳熙三山志",
-  "author": "梁克家",
-  "era": "南宋",
-  "type": "方志（宋代）",
-  "reliability_default": "anecdotal"
- }
+  {
+    "id": "jts",
+    "title": "旧唐书",
+    "author": "刘昫等",
+    "era": "后晋",
+    "type": "正史",
+    "reliability_default": "official"
+  },
+  {
+    "id": "xts",
+    "title": "新唐书",
+    "author": "欧阳修、宋祁",
+    "era": "北宋",
+    "type": "正史",
+    "reliability_default": "official"
+  },
+  {
+    "id": "dkjk",
+    "title": "登科记考",
+    "author": "徐松",
+    "era": "清",
+    "type": "登科录考订",
+    "reliability_default": "official"
+  },
+  {
+    "id": "ss",
+    "title": "宋史",
+    "author": "脱脱等",
+    "era": "元",
+    "type": "正史",
+    "reliability_default": "official"
+  },
+  {
+    "id": "wsxqj",
+    "title": "文山先生全集（含《指南录》《指南后录》）",
+    "author": "文天祥",
+    "era": "南宋",
+    "type": "别集",
+    "reliability_default": "official"
+  },
+  {
+    "id": "mxj",
+    "title": "梅溪集",
+    "author": "王十朋",
+    "era": "南宋",
+    "type": "别集",
+    "reliability_default": "official"
+  },
+  {
+    "id": "yhj",
+    "title": "于湖居士文集",
+    "author": "张孝祥",
+    "era": "南宋",
+    "type": "别集",
+    "reliability_default": "official"
+  },
+  {
+    "id": "ms",
+    "title": "明史",
+    "author": "张廷玉等",
+    "era": "清",
+    "type": "正史",
+    "reliability_default": "official"
+  },
+  {
+    "id": "qsg",
+    "title": "清史稿",
+    "author": "赵尔巽等",
+    "era": "民国",
+    "type": "正史（未定稿）",
+    "reliability_default": "official"
+  },
+  {
+    "id": "wthrj",
+    "title": "翁同龢日记",
+    "author": "翁同龢",
+    "era": "清",
+    "type": "日记",
+    "reliability_default": "official"
+  },
+  {
+    "id": "zjqj",
+    "title": "张謇全集",
+    "author": "张謇著，张謇研究中心等编",
+    "era": "现代整理本",
+    "type": "全集",
+    "reliability_default": "official"
+  },
+  {
+    "id": "zxrz",
+    "title": "南通张季直先生传记",
+    "author": "张孝若",
+    "era": "民国",
+    "type": "传记",
+    "reliability_default": "official"
+  },
+  {
+    "id": "jcj",
+    "title": "荆钗记",
+    "author": "旧题柯丹邱",
+    "era": "元明",
+    "type": "戏曲",
+    "reliability_default": "legend"
+  },
+  {
+    "id": "pyj",
+    "title": "吕蒙正风雪破窑记（破窑记）",
+    "author": "王实甫（一说）",
+    "era": "元",
+    "type": "杂剧",
+    "reliability_default": "legend"
+  },
+  {
+    "id": "ys",
+    "title": "元史",
+    "author": "宋濂等",
+    "era": "明",
+    "type": "正史",
+    "reliability_default": "official"
+  },
+  {
+    "id": "nhh",
+    "title": "孽海花",
+    "author": "曾朴",
+    "era": "清末",
+    "type": "小说",
+    "reliability_default": "legend"
+  },
+  {
+    "id": "tzy",
+    "title": "唐摭言",
+    "author": "王定保",
+    "era": "五代",
+    "type": "笔记（唐代科举掌故）",
+    "reliability_default": "biji"
+  },
+  {
+    "id": "jwds",
+    "title": "旧五代史",
+    "author": "薛居正等",
+    "era": "北宋",
+    "type": "正史",
+    "reliability_default": "official"
+  },
+  {
+    "id": "xwds",
+    "title": "新五代史",
+    "author": "欧阳修",
+    "era": "北宋",
+    "type": "正史",
+    "reliability_default": "official"
+  },
+  {
+    "id": "lsh",
+    "title": "辽史",
+    "author": "脱脱等",
+    "era": "元",
+    "type": "正史",
+    "reliability_default": "official"
+  },
+  {
+    "id": "jsh",
+    "title": "金史",
+    "author": "脱脱等",
+    "era": "元",
+    "type": "正史",
+    "reliability_default": "official"
+  },
+  {
+    "id": "zhwiki",
+    "title": "中国状元列表（中文维基百科）",
+    "author": "维基百科编者",
+    "era": "当代",
+    "type": "线索名录（非原始史料）",
+    "reliability_default": "legend"
+  },
+  {
+    "id": "qts",
+    "title": "全唐诗",
+    "author": "彭定求等",
+    "era": "清",
+    "type": "总集（诗人小传）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "qtw",
+    "title": "全唐文",
+    "author": "董诰等",
+    "era": "清",
+    "type": "总集（作者小传）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "tsjs",
+    "title": "唐诗纪事",
+    "author": "计有功",
+    "era": "南宋",
+    "type": "笔记/诗话",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "tczz",
+    "title": "唐才子传",
+    "author": "辛文房",
+    "era": "元",
+    "type": "传记（笔记性质）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "wxtk",
+    "title": "文献通考（选举考）",
+    "author": "马端临",
+    "era": "元",
+    "type": "政书",
+    "reliability_default": "official"
+  },
+  {
+    "id": "xzztcb",
+    "title": "续资治通鉴长编",
+    "author": "李焘",
+    "era": "南宋",
+    "type": "编年史",
+    "reliability_default": "official"
+  },
+  {
+    "id": "dJgz",
+    "title": "大金国志",
+    "author": "宇文懋昭（旧题）",
+    "era": "南宋",
+    "type": "杂史",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "qdgz",
+    "title": "契丹国志",
+    "author": "叶隆礼（旧题）",
+    "era": "南宋",
+    "type": "杂史",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "cfyg",
+    "title": "册府元龟（贡举部）",
+    "author": "王钦若等",
+    "era": "北宋",
+    "type": "类书",
+    "reliability_default": "official"
+  },
+  {
+    "id": "wdhy",
+    "title": "五代会要",
+    "author": "王溥",
+    "era": "北宋",
+    "type": "政书",
+    "reliability_default": "official"
+  },
+  {
+    "id": "thy",
+    "title": "唐会要",
+    "author": "王溥",
+    "era": "北宋",
+    "type": "政书",
+    "reliability_default": "official"
+  },
+  {
+    "id": "gqz",
+    "title": "归潜志",
+    "author": "刘祁",
+    "era": "元初",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "zzj",
+    "title": "中州集",
+    "author": "元好问",
+    "era": "金末元初",
+    "type": "总集（作者小传）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "ayj",
+    "title": "安阳集",
+    "author": "韩琦",
+    "era": "北宋",
+    "type": "别集（墓志）",
+    "reliability_default": "official"
+  },
+  {
+    "id": "hlj",
+    "title": "海陵集",
+    "author": "周麟之",
+    "era": "南宋",
+    "type": "别集（墓志）",
+    "reliability_default": "official"
+  },
+  {
+    "id": "cyyj",
+    "title": "朝野遗记",
+    "author": "佚名",
+    "era": "南宋",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "jxc",
+    "title": "稼轩词",
+    "author": "辛弃疾",
+    "era": "南宋",
+    "type": "文集",
+    "reliability_default": "primary"
+  },
+  {
+    "id": "xzzt",
+    "title": "续资治通鉴（冯集梧序）",
+    "author": "毕沅撰、冯集梧序",
+    "era": "清",
+    "type": "史书序跋",
+    "reliability_default": "primary"
+  },
+  {
+    "id": "jsdy",
+    "title": "焦氏澹园集",
+    "author": "焦竑",
+    "era": "明",
+    "type": "文集",
+    "reliability_default": "primary"
+  },
+  {
+    "id": "mbsg",
+    "title": "毛宗岗评本三国演义",
+    "author": "罗贯中著、毛纶毛宗岗评",
+    "era": "清",
+    "type": "小说",
+    "reliability_default": "legend"
+  },
+  {
+    "id": "tyl",
+    "title": "唐语林",
+    "author": "王谠",
+    "era": "北宋",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "bmsy",
+    "title": "北梦琐言",
+    "author": "孙光宪",
+    "era": "五代宋初",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "msyt",
+    "title": "渑水燕谈录",
+    "author": "王辟之",
+    "era": "北宋",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "ssjw",
+    "title": "涑水记闻",
+    "author": "司马光",
+    "era": "北宋",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "hlyl",
+    "title": "鹤林玉露",
+    "author": "罗大经",
+    "era": "南宋",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "yhqh",
+    "title": "玉壶清话",
+    "author": "释文莹",
+    "era": "北宋",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "wlyhb",
+    "title": "万历野获编",
+    "author": "沈德符",
+    "era": "明",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "xtzl",
+    "title": "啸亭杂录",
+    "author": "昭梿",
+    "era": "清",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "xtxl",
+    "title": "啸亭续录",
+    "author": "昭梿",
+    "era": "清",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "slyy",
+    "title": "石林燕语",
+    "author": "叶梦得",
+    "era": "南宋",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "qbzz",
+    "title": "清波杂志",
+    "author": "周煇",
+    "era": "南宋",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "lxabj",
+    "title": "老学庵笔记",
+    "author": "陆游",
+    "era": "南宋",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "rzsb",
+    "title": "容斋随笔",
+    "author": "洪迈",
+    "era": "南宋",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "mxbt",
+    "title": "梦溪笔谈",
+    "author": "沈括",
+    "era": "北宋",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "gxzs",
+    "title": "癸辛杂识",
+    "author": "周密",
+    "era": "宋末元初",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "qdyy",
+    "title": "齐东野语",
+    "author": "周密",
+    "era": "宋末元初",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "ncgl",
+    "title": "南村辍耕录",
+    "author": "陶宗仪",
+    "era": "元末明初",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "syzj",
+    "title": "菽园杂记",
+    "author": "陆容",
+    "era": "明",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "cbot",
+    "title": "池北偶谈",
+    "author": "王士禛",
+    "era": "清",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "lqjw",
+    "title": "郎潜纪闻",
+    "author": "陈康祺",
+    "era": "清",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "xzl",
+    "title": "国朝献征录",
+    "author": "焦竑",
+    "era": "明",
+    "type": "传记汇编（收明人所撰传、墓志、行状）",
+    "reliability_default": "primary"
+  },
+  {
+    "id": "nbxs",
+    "title": "南部新书",
+    "author": "钱易",
+    "era": "北宋",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "lpjw",
+    "title": "郎潜纪闻",
+    "author": "陈康祺",
+    "era": "清",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "wqysh",
+    "title": "晚晴簃诗汇",
+    "author": "徐世昌编",
+    "year": "1929",
+    "type": "总集",
+    "url": "https://zh.wikisource.org/wiki/晚晴簃詩匯"
+  },
+  {
+    "id": "lcsj",
+    "title": "列朝诗集",
+    "author": "钱谦益编",
+    "year": "1652",
+    "type": "总集",
+    "url": "https://zh.wikisource.org/wiki/列朝詩集"
+  },
+  {
+    "id": "dlwj",
+    "title": "东里文集",
+    "author": "杨士奇",
+    "year": "明",
+    "type": "别集",
+    "url": "https://zh.wikisource.org/wiki/東里文集_(四庫全書本)"
+  },
+  {
+    "id": "dlxj",
+    "title": "东里续集",
+    "author": "杨士奇",
+    "year": "明",
+    "type": "别集",
+    "url": "https://zh.wikisource.org/wiki/東里續集_(四庫全書本)"
+  },
+  {
+    "id": "ystbj",
+    "title": "弇山堂别集",
+    "author": "王世贞",
+    "era": "明",
+    "type": "杂史（史部；含科试考、职官表）",
+    "url": "https://zh.wikisource.org/wiki/弇山堂別集_(四庫全書本)"
+  },
+  {
+    "id": "skzm",
+    "title": "四库全书总目提要",
+    "author": "纪昀等",
+    "era": "清",
+    "type": "官修目录（史部目录类）",
+    "url": "https://zh.wikisource.org/wiki/四庫全書總目提要"
+  },
+  {
+    "id": "zlzz",
+    "title": "枣林杂俎",
+    "author": "谈迁",
+    "era": "明末清初",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "tsbc",
+    "title": "谈氏笔乘",
+    "author": "谈迁",
+    "era": "明末清初",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "jyjsj",
+    "title": "寄园寄所寄",
+    "author": "赵吉士",
+    "era": "清",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "llzs",
+    "title": "冷庐杂识",
+    "author": "陆以湉",
+    "era": "清",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "lcsy",
+    "title": "御选历代诗余（四库全书本）",
+    "author": "沈辰垣等奉敕编",
+    "era": "清",
+    "type": "词话总集（转引宋人笔记）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "yzsbg",
+    "title": "弇州四部稿（四库全书本）",
+    "author": "王世贞",
+    "era": "明",
+    "type": "别集",
+    "reliability_default": "primary"
+  },
+  {
+    "id": "hbj",
+    "title": "洪北江诗文集（四部丛刊本）",
+    "author": "洪亮吉",
+    "era": "清",
+    "type": "别集",
+    "reliability_default": "primary"
+  },
+  {
+    "id": "dzsl",
+    "title": "德宗景皇帝实录",
+    "author": "清国史馆等",
+    "era": "清",
+    "type": "实录",
+    "reliability_default": "official"
+  },
+  {
+    "id": "qdskl",
+    "title": "清代殿试考略",
+    "author": "傅增湘",
+    "era": "民国",
+    "type": "掌故考订（1933）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "hcwxtk",
+    "title": "皇朝文献通考（四库全书本）",
+    "author": "乾隆敕撰（张廷玉等）",
+    "era": "清",
+    "type": "政书（官修，经籍考）",
+    "reliability_default": "official",
+    "url": "https://zh.wikisource.org/wiki/皇朝文獻通考_(四庫全書本)"
+  },
+  {
+    "id": "ywmj",
+    "title": "杨文敏集",
+    "author": "杨荣",
+    "era": "明",
+    "type": "别集（收《进士题名记》）",
+    "url": "https://zh.wikisource.org/wiki/楊文敏集"
+  },
+  {
+    "id": "wdwcxj",
+    "title": "吴都文粹续集（四库全书本）",
+    "author": "钱谷 编",
+    "era": "明",
+    "type": "总集（收钱溥《施君宗铭改葬铭》）",
+    "url": "https://zh.wikisource.org/wiki/吳都文粹續集_(四庫全書本)"
+  },
+  {
+    "id": "yztth",
+    "title": "玉芝堂谈荟",
+    "author": "徐应秋",
+    "era": "明",
+    "type": "笔记（杂纂，四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "sdtz",
+    "title": "山东通志",
+    "author": "岳濬等监修",
+    "era": "清",
+    "type": "方志（雍正，四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "sxtz",
+    "title": "山西通志",
+    "author": "觉罗石麟等监修",
+    "era": "清",
+    "type": "方志（雍正，四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "hntz",
+    "title": "河南通志",
+    "author": "田文镜等监修",
+    "era": "清",
+    "type": "方志（雍正，四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "jntz",
+    "title": "江南通志",
+    "author": "赵弘恩等监修",
+    "era": "清",
+    "type": "方志（乾隆，四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "jxtz",
+    "title": "江西通志",
+    "author": "谢旻等监修",
+    "era": "清",
+    "type": "方志（雍正，四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "gdtz",
+    "title": "广东通志",
+    "author": "郝玉麟等监修",
+    "era": "清",
+    "type": "方志（雍正，四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "sctz",
+    "title": "四川通志",
+    "author": "黄廷桂等监修",
+    "era": "清",
+    "type": "方志（雍正，四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "mytz",
+    "title": "明一统志",
+    "author": "李贤等",
+    "era": "明",
+    "type": "地理总志（四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "fysl",
+    "title": "方舆胜览",
+    "author": "祝穆",
+    "era": "南宋",
+    "type": "地理总志（四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "jdjkz",
+    "title": "景定建康志",
+    "author": "周应合",
+    "era": "南宋",
+    "type": "方志（四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "xyjz",
+    "title": "续夷坚志",
+    "author": "元好问",
+    "era": "金",
+    "type": "笔记",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "tpgj",
+    "title": "太平广记",
+    "author": "李昉等",
+    "era": "北宋",
+    "type": "类书（四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "yldd",
+    "title": "永乐大典",
+    "author": "解缙等",
+    "era": "明",
+    "type": "类书",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "mlnts",
+    "title": "马氏南唐书",
+    "author": "马令",
+    "era": "北宋",
+    "type": "杂史",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "jnyz",
+    "title": "江南余载",
+    "author": "佚名",
+    "era": "北宋",
+    "type": "杂史（四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "pwzshp",
+    "title": "御定佩文斋书画谱",
+    "author": "孙岳颁等",
+    "era": "清",
+    "type": "类书（书画，四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "smbmhb",
+    "title": "三朝北盟会编",
+    "author": "徐梦莘",
+    "era": "南宋",
+    "type": "杂史（编年体）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "jylczyzj",
+    "title": "建炎以来朝野杂记",
+    "author": "李心传",
+    "era": "南宋",
+    "type": "杂史（典制）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "lhdjz",
+    "title": "柳河东集注",
+    "author": "柳宗元撰，宋人注",
+    "era": "唐",
+    "type": "文集（宋人注本，四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "hysj",
+    "title": "黄御史集",
+    "author": "黄滔",
+    "era": "唐",
+    "type": "文集（别集，四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "zjtz",
+    "title": "浙江通志",
+    "author": "嵇曾筠等监修",
+    "era": "清",
+    "type": "方志（雍正，四库本）",
+    "reliability_default": "anecdotal",
+    "url": "https://zh.wikisource.org/wiki/浙江通志_(四庫全書本)"
+  },
+  {
+    "id": "fjtz",
+    "title": "福建通志",
+    "author": "郝玉麟等监修",
+    "era": "清",
+    "type": "方志（乾隆，四库本）",
+    "reliability_default": "anecdotal",
+    "url": "https://zh.wikisource.org/wiki/福建通志_(四庫全書本)"
+  },
+  {
+    "id": "jftz",
+    "title": "畿辅通志",
+    "author": "李卫等监修",
+    "era": "清",
+    "type": "方志（雍正，四库本）",
+    "reliability_default": "anecdotal",
+    "url": "https://zh.wikisource.org/wiki/畿輔通志_(四庫全書本)"
+  },
+  {
+    "id": "wxtp",
+    "title": "万姓统谱",
+    "author": "凌迪知",
+    "era": "明",
+    "type": "类书（四库本）",
+    "reliability_default": "anecdotal",
+    "url": "https://zh.wikisource.org/wiki/萬姓統譜_(四庫全書本)"
+  },
+  {
+    "id": "sgcq",
+    "title": "十国春秋",
+    "author": "吴任臣",
+    "era": "清",
+    "type": "史书（四库本）",
+    "reliability_default": "anecdotal",
+    "url": "https://zh.wikisource.org/wiki/十國春秋_(四庫全書本)"
+  },
+  {
+    "id": "hlnj",
+    "title": "翰林记",
+    "author": "黄佐",
+    "era": "明",
+    "type": "职官掌故（四库本）",
+    "reliability_default": "anecdotal",
+    "url": "https://zh.wikisource.org/wiki/翰林記_(四庫全書本)"
+  },
+  {
+    "id": "gjtsjc",
+    "title": "钦定古今图书集成",
+    "author": "陈梦雷、蒋廷锡等",
+    "era": "清",
+    "type": "类书（选举典、庶徵典引《明状元事略》等）",
+    "reliability_default": "anecdotal",
+    "url": "https://zh.wikisource.org/wiki/欽定古今圖書集成"
+  },
+  {
+    "id": "jdbz",
+    "title": "旧典备征",
+    "author": "朱彭寿",
+    "era": "民国",
+    "type": "掌故笔记（卷四清代状元分省名录）",
+    "reliability_default": "anecdotal",
+    "url": "https://zh.wikisource.org/wiki/舊典備征"
+  },
+  {
+    "id": "lynts",
+    "title": "陆氏南唐书",
+    "author": "陆游",
+    "era": "南宋",
+    "type": "杂史（纪传体，私修）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "stzsl",
+    "title": "世祖章皇帝实录",
+    "author": "清国史馆等（康熙间纂修）",
+    "era": "清",
+    "type": "实录（官修编年；据识典古籍《清实录》录文）",
+    "reliability_default": "official",
+    "url": "https://www.shidianguji.com/book/LS0027"
+  },
+  {
+    "id": "szrsl",
+    "title": "圣祖仁皇帝实录",
+    "author": "清国史馆等（雍正间纂修）",
+    "era": "清",
+    "type": "实录（官修编年；据识典古籍、维基文库《清实录》录文）",
+    "reliability_default": "official",
+    "url": "https://www.shidianguji.com/book/LS0027"
+  },
+  {
+    "id": "sxsl",
+    "title": "世宗宪皇帝实录",
+    "author": "清国史馆等（乾隆间纂修）",
+    "era": "清",
+    "type": "实录（官修编年；据识典古籍《清实录》录文）",
+    "reliability_default": "official",
+    "url": "https://www.shidianguji.com/book/LS0027"
+  },
+  {
+    "id": "gzsl",
+    "title": "高宗纯皇帝实录",
+    "author": "清国史馆等（嘉庆间纂修）",
+    "era": "清",
+    "type": "实录（官修编年；据识典古籍、维基文库《清实录》录文）",
+    "reliability_default": "official",
+    "url": "https://www.shidianguji.com/book/LS0027"
+  },
+  {
+    "id": "rzsl",
+    "title": "仁宗睿皇帝实录",
+    "author": "清国史馆等（道光间纂修）",
+    "era": "清",
+    "type": "实录（官修编年；据维基文库、识典古籍《清实录》录文）",
+    "reliability_default": "official",
+    "url": "https://zh.wikisource.org/wiki/清實錄"
+  },
+  {
+    "id": "xzsl",
+    "title": "宣宗成皇帝实录",
+    "author": "清国史馆等（咸丰间纂修）",
+    "era": "清",
+    "type": "实录（官修编年；据维基文库《清实录》录文）",
+    "reliability_default": "official",
+    "url": "https://zh.wikisource.org/wiki/清實錄"
+  },
+  {
+    "id": "wzsl",
+    "title": "文宗显皇帝实录",
+    "author": "清国史馆等（同治间纂修）",
+    "era": "清",
+    "type": "实录（官修编年；据识典古籍《清实录》录文）",
+    "reliability_default": "official",
+    "url": "https://www.shidianguji.com/book/LS0027"
+  },
+  {
+    "id": "mzsl",
+    "title": "穆宗毅皇帝实录",
+    "author": "清国史馆等（光绪间纂修）",
+    "era": "清",
+    "type": "实录（官修编年；据识典古籍《清实录》录文）",
+    "reliability_default": "official",
+    "url": "https://www.shidianguji.com/book/LS0027"
+  },
+  {
+    "id": "gurj",
+    "title": "古穰集（四库全书本）",
+    "author": "李贤",
+    "era": "明",
+    "type": "别集（收天顺四年《进士题名记》，同时代题名记）",
+    "reliability_default": "primary",
+    "url": "https://zh.wikisource.org/wiki/古穰集_(四庫全書本)"
+  },
+  {
+    "id": "qmsw",
+    "title": "清秘述闻",
+    "author": "法式善原编，钱维福重校",
+    "era": "清",
+    "type": "科举掌故汇编（清人据题名录等编）",
+    "reliability_default": "anecdotal",
+    "url": "https://www.shidianguji.com/book/CADAL02097002"
+  },
+  {
+    "id": "qmswx",
+    "title": "清秘述闻续",
+    "author": "王家相",
+    "era": "清",
+    "type": "科举掌故汇编（续《清秘述闻》）",
+    "reliability_default": "anecdotal",
+    "url": "https://www.shidianguji.com/book/CADAL11202250"
+  },
+  {
+    "id": "dgclj",
+    "title": "殿阁词林记",
+    "author": "廖道南",
+    "era": "明",
+    "type": "杂传（明代翰林、内阁人物传记，四库本）",
+    "reliability_default": "primary"
+  },
+  {
+    "id": "lbzg",
+    "title": "礼部志稿",
+    "author": "林尧俞等",
+    "era": "明",
+    "type": "官修政书（礼部历官表、传，四库本）",
+    "reliability_default": "primary"
+  },
+  {
+    "id": "hgtz",
+    "title": "湖广通志",
+    "author": "迈柱等监修",
+    "era": "清",
+    "type": "方志（雍正，四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "qblc",
+    "title": "清稗类钞",
+    "author": "徐珂",
+    "era": "民国",
+    "type": "笔记（掌故类编）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "hxscj",
+    "title": "汉学师承记",
+    "author": "江藩",
+    "era": "清",
+    "type": "杂传（清代经学家传记）",
+    "reliability_default": "primary"
+  },
+  {
+    "id": "gxtz",
+    "title": "广西通志",
+    "author": "金鉷等监修",
+    "era": "清",
+    "type": "方志（雍正，四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "cxssz",
+    "title": "淳熙三山志",
+    "author": "梁克家",
+    "era": "南宋",
+    "type": "方志（宋代）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "zsljt",
+    "title": "直斋书录解题",
+    "author": "陈振孙",
+    "era": "南宋",
+    "type": "目录（解题）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "spjcfk",
+    "title": "宋平江城坊考",
+    "author": "王謇",
+    "era": "民国",
+    "type": "方志考证（征引道光《苏州府志》等）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "gsz",
+    "title": "姑苏志",
+    "author": "王鏊等",
+    "era": "明",
+    "type": "方志（正德，四库本）",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "wjz",
+    "title": "吴郡志",
+    "author": "范成大",
+    "era": "南宋",
+    "type": "方志",
+    "reliability_default": "anecdotal"
+  },
+  {
+    "id": "sjjs",
+    "title": "宋诗纪事",
+    "author": "厉鹗",
+    "era": "清",
+    "type": "诗话（四库本）",
+    "reliability_default": "anecdotal"
+  }
 ]

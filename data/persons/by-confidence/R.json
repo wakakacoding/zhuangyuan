@@ -814,7 +814,10 @@
   "exam": "tang-786",
   "native": "南阳（郡望）",
   "native_modern": "待考证",
-  "coord": null,
+  "coord": [
+   33,
+   112.53
+  ],
   "birth": "752",
   "death": "834",
   "ending": "善终",
@@ -1045,7 +1048,10 @@
   "exam": "tang-808",
   "native": "荥阳（郡望）",
   "native_modern": "待考证",
-  "coord": null,
+  "coord": [
+   34.79,
+   113.45
+  ],
   "birth": "待考证",
   "death": "待考证",
   "ending": "善终",

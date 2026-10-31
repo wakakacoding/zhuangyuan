@@ -25,7 +25,20 @@
   "pending": [],
   "disputed": [
    "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
-  ]
+  ],
+  "coord": [
+   35.05,
+   113.95
+  ],
+  "native_modern": "今河南原阳",
+  "native_src": {
+   "src": "jts",
+   "juan": "93",
+   "quote": "娄师德，郑州原武人也。",
+   "tier": "正史本传",
+   "prec": "县",
+   "qs": "ok"
+  }
  },
  {
   "id": "tang-653-yuanbanqian",
@@ -49,7 +62,20 @@
   "pending": [],
   "disputed": [
    "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
-  ]
+  ],
+  "coord": [
+   36.71,
+   117.53
+  ],
+  "native_modern": "今山东济南章丘一带",
+  "native_src": {
+   "src": "xts",
+   "juan": "112",
+   "quote": "员半千，字荣期，齐州全节人。",
+   "tier": "正史本传",
+   "prec": "县",
+   "qs": "ok"
+  }
  },
  {
   "id": "tang-687-guoyuanzhen",
@@ -73,7 +99,20 @@
   "pending": [],
   "disputed": [
    "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
-  ]
+  ],
+  "coord": [
+   36.28,
+   115.15
+  ],
+  "native_modern": "今河北大名一带",
+  "native_src": {
+   "src": "jts",
+   "juan": "97",
+   "quote": "郭元振，魏州贵乡人。",
+   "tier": "正史本传",
+   "prec": "县",
+   "qs": "ok"
+  }
  },
  {
   "id": "tang-695-hezhizhang",
@@ -97,7 +136,20 @@
   "pending": [],
   "disputed": [
    "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
-  ]
+  ],
+  "coord": [
+   30.16,
+   120.26
+  ],
+  "native_modern": "今浙江杭州萧山区",
+  "native_src": {
+   "src": "xts",
+   "juan": "196",
+   "quote": "贺知章，字季真，越州永兴人。",
+   "tier": "正史本传",
+   "prec": "县",
+   "qs": "ok"
+  }
  },
  {
   "id": "tang-702-zhangjiuling",
@@ -125,7 +177,20 @@
   "pending": [],
   "disputed": [
    "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
-  ]
+  ],
+  "coord": [
+   24.81,
+   113.6
+  ],
+  "native_modern": "今广东韶关",
+  "native_src": {
+   "src": "xts",
+   "juan": "126",
+   "quote": "张九龄，字子寿，韶州曲江人。",
+   "tier": "正史本传",
+   "prec": "县",
+   "qs": "ok"
+  }
  },
  {
   "id": "tang-721-wangwei",
@@ -153,7 +218,20 @@
   "pending": [],
   "disputed": [
    "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
-  ]
+  ],
+  "coord": [
+   37.36,
+   112.33
+  ],
+  "native_modern": "今山西祁县",
+  "native_src": {
+   "src": "jts",
+   "juan": "190下",
+   "quote": "王维，字摩诘，太原祁人。",
+   "tier": "正史本传",
+   "prec": "县",
+   "qs": "ok"
+  }
  },
  {
   "id": "tang-755-changgun",
@@ -162,7 +240,7 @@
   "year": 755,
   "era": "天宝十四载乙未科",
   "bang": null,
-  "native": "",
+  "native": "京兆",
   "wiki_life": "729年－783年",
   "wiki_note": "",
   "evidence": [],
@@ -181,7 +259,20 @@
   "pending": [],
   "disputed": [
    "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
-  ]
+  ],
+  "coord": [
+   34.27,
+   108.94
+  ],
+  "native_modern": "今陕西西安",
+  "native_src": {
+   "src": "xts",
+   "juan": "150",
+   "quote": "常衮，京兆人，天宝末，及进士第。",
+   "tier": "正史本传",
+   "prec": "县",
+   "qs": "ok"
+  }
  },
  {
   "id": "tang-765-xiaogou",
@@ -244,7 +335,7 @@
   "year": 769,
   "era": "大历四年己酉科",
   "bang": null,
-  "native": "",
+  "native": "瀛州高阳",
   "wiki_life": "747年－795年",
   "wiki_note": "",
   "evidence": [],
@@ -263,7 +354,20 @@
   "pending": [],
   "disputed": [
    "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
-  ]
+  ],
+  "coord": [
+   38.7,
+   115.78
+  ],
+  "native_modern": "今河北高阳",
+  "native_src": {
+   "src": "jts",
+   "juan": "136",
+   "quote": "齐映，瀛州高阳人。",
+   "tier": "正史本传",
+   "prec": "县",
+   "qs": "ok"
+  }
  },
  {
   "id": "tang-774-yangping",
@@ -272,7 +376,7 @@
   "year": 774,
   "era": "大历九年甲寅科",
   "bang": null,
-  "native": "",
+  "native": "虢州弘农",
   "wiki_life": "",
   "wiki_note": "",
   "evidence": [],
@@ -291,7 +395,20 @@
   "pending": [],
   "disputed": [
    "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
-  ]
+  ],
+  "coord": [
+   34.52,
+   110.89
+  ],
+  "native_modern": "今河南灵宝",
+  "native_src": {
+   "src": "xts",
+   "juan": "160",
+   "quote": "杨凭，字虚受，一字嗣仁，虢州弘农人。",
+   "tier": "正史本传",
+   "prec": "县",
+   "qs": "ok"
+  }
  },
  {
   "id": "tang-786-zhangzhengfu",
@@ -300,7 +417,7 @@
   "year": 786,
   "era": "贞元二年丙寅科",
   "bang": null,
-  "native": "",
+  "native": "南阳（郡望，今河南南阳）",
   "wiki_life": "751年－834年",
   "wiki_note": "",
   "evidence": [],
@@ -315,7 +432,21 @@
   "pending": [],
   "disputed": [
    "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
-  ]
+  ],
+  "native_modern": "今河南南阳",
+  "coord": [
+   33,
+   112.53
+  ],
+  "native_src": {
+   "src": "jts",
+   "juan": "162",
+   "quote": "张正甫，字践方，南阳人。",
+   "tier": "正史本传",
+   "prec": "郡望",
+   "note": "正史作南阳人，唐代多指郡望",
+   "qs": "ok"
+  }
  },
  {
   "id": "tang-796-licheng",
@@ -397,7 +528,7 @@
   "year": 808,
   "era": "元和三年戊子科",
   "bang": null,
-  "native": "",
+  "native": "荥阳（郡望，今河南荥阳）",
   "wiki_life": "778年－865年",
   "wiki_note": "",
   "evidence": [],
@@ -417,7 +548,21 @@
   "disputed": [
    "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。",
    "与柳公权同为元和三年状元之说并存：名录作郑肃，本站原收柳公权，两说均待考证。"
-  ]
+  ],
+  "native_modern": "今河南荥阳",
+  "coord": [
+   34.79,
+   113.45
+  ],
+  "native_src": {
+   "src": "xts",
+   "juan": "182",
+   "quote": "郑肃，字乂敬，其先荥阳人，以儒世家。",
+   "tier": "正史本传",
+   "prec": "郡望",
+   "note": "原文「其先」，郡望",
+   "qs": "ok"
+  }
  },
  {
   "id": "tang-814-zhangyouxin",
@@ -426,7 +571,7 @@
   "year": 814,
   "era": "元和九年甲午科",
   "bang": null,
-  "native": "",
+  "native": "深州陆泽（父张荐本传）",
   "wiki_life": "",
   "wiki_note": "时号“张三头”（解头、宏词第一、状元，见唐摭言卷二、唐才子传卷六）",
   "evidence": [
@@ -461,7 +606,21 @@
   ],
   "notes_audit": [
    "“三元”说法的史源是唐摭言卷二、唐才子传卷六的“张三头”（解头、宏词、状头），属唐代说法，见 evidence"
-  ]
+  ],
+  "coord": [
+   38.02,
+   115.56
+  ],
+  "native_modern": "今河北深州",
+  "native_src": {
+   "src": "xts",
+   "juan": "161",
+   "quote": "张荐，字孝举，深州陆泽人。",
+   "tier": "正史本传（父）",
+   "prec": "县",
+   "note": "籍贯据父张荐本传；又新为荐之子（《新唐书》175）",
+   "qs": "ok"
+  }
  },
  {
   "id": "tang-815-wangzhi",
@@ -486,7 +645,21 @@
   "disputed": [
    "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。",
    "《旧唐书》本传作太原祁人，名录作绛州龙门人。"
-  ]
+  ],
+  "coord": [
+   32.58,
+   116.78
+  ],
+  "native_modern": "今安徽寿县（寓居寿春）",
+  "native_src": {
+   "src": "jts",
+   "juan": "163",
+   "quote": "王质，字华卿，太原祁人。……寓居寿春",
+   "tier": "正史本传",
+   "prec": "县",
+   "note": "本贯太原祁，寓居寿春；坐标取寿春今地",
+   "qs": "ok"
+  }
  },
  {
   "id": "tang-859-kongwei",
@@ -495,7 +668,7 @@
   "year": 859,
   "era": "大中十三年己卯科",
   "bang": null,
-  "native": "",
+  "native": "鲁曲阜",
   "wiki_life": "?－895年",
   "wiki_note": "孔子四十代孙，孔缄之兄，孔𫄸堂兄弟",
   "evidence": [],
@@ -510,7 +683,20 @@
   "pending": [],
   "disputed": [
    "本传未明言为状元，只称“进士擢第”或“登进士第”；名录列为状元，待考证。"
-  ]
+  ],
+  "coord": [
+   35.58,
+   116.99
+  ],
+  "native_modern": "今山东曲阜",
+  "native_src": {
+   "src": "jts",
+   "juan": "179",
+   "quote": "孔纬，字化文，鲁曲阜人，宣尼之裔。",
+   "tier": "正史本传",
+   "prec": "县",
+   "qs": "ok"
+  }
  },
  {
   "id": "wudai-950-wangpu",
@@ -666,6 +852,20 @@
   ],
   "disputed": [
    "中文维基《中国状元列表》未收此人；该列表元和三年（808）状元作郑肃，与本站所据不同"
-  ]
+  ],
+  "coord": [
+   34.91,
+   108.98
+  ],
+  "native_modern": "今陕西铜川耀州区",
+  "native_src": {
+   "src": "zhwiki",
+   "juan": "",
+   "quote": "(persons 已有坐标，正史原文待补)",
+   "tier": "待考证",
+   "note": "待核正史原文，坐标自 persons 同步",
+   "prec": "州",
+   "qs": "pending"
+  }
  }
 ]
