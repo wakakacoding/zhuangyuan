@@ -1210,5 +1210,13 @@
   "era": "民国",
   "type": "方志",
   "reliability_default": "local"
+ },
+ {
+  "id": "zsdtmj",
+  "title": "章氏登科题名记",
+  "author": "章频（谱题）",
+  "era": "北宋（族谱传本）",
+  "type": "族谱题名记（OCR）",
+  "reliability_default": "local"
  }
 ]
